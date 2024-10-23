@@ -1797,11 +1797,11 @@
 {
     "question": "A 25-year-old male athlete presents with knee pain that has been persistent for the last 6 months after a sports-related injury. Imaging reveals a small area of damaged articular cartilage in the knee. The orthopedic surgeon decides to perform a procedure that involves debriding the damaged cartilage and drilling small holes into the underlying subchondral bone. The aim is to allow mesenchymal stem cells from the bone marrow to form a clot that will differentiate into fibrocartilage to repair the area. What is the name of this surgical technique?",
     "choices": [
-        A: "Osteochondral autograft transplantation",
-        B: "Autologous chondrocyte implantation",
-        C: "Arthroscopic lavage and debridement",
-        D: "{{c1::Microfracture surgery}}",
-        E: "Meniscus repair"
+        "A: Osteochondral autograft transplantation",
+        "B: Autologous chondrocyte implantation",
+        "C: Arthroscopic lavage and debridement",
+        "D: Microfracture surgery",
+        "E: Meniscus repair"
     ],
     "correctAnswer": "D",
     "explanation": "Microfracture surgery involves debriding damaged cartilage and drilling small holes into the underlying subchondral bone, allowing mesenchymal stem cells to form a clot that differentiates into fibrocartilage. This technique is used to treat small cartilage defects, especially in the knee."
@@ -1809,11 +1809,11 @@
 {
     "question": "A 68-year-old woman presents to her physician with a history of osteoporosis. Dual-energy X-ray absorptiometry (DEXA) reveals a significant reduction in bone density, particularly in the vertebrae and proximal femur. The physician explains that the changes in bone density mainly affect a specific type of bone structure that is more metabolically active. Which of the following bone structures is primarily affected in this patient’s condition?",
     "choices": [
-        A: "Cortical bone",
-        B: "Woven bone",
-        C: "{{c1::Trabecular bone (spongy bone)}}",
-        D: "Periosteum",
-        E: "Articular cartilage"
+        "A: Cortical bone",
+        "B: Woven bone",
+        "C: Trabecular bone (spongy bone)",
+        "D: Periosteum",
+        "E: Articular cartilage"
     ],
     "correctAnswer": "C",
     "explanation": "Trabecular bone, also known as spongy bone, is more metabolically active and has a higher surface area compared to cortical bone. It is found predominantly in areas like the vertebrae and the ends of long bones. Osteoporosis primarily affects trabecular bone, leading to an increased risk of fractures in these areas. Cortical bone, which is denser and makes up the outer layer of bones, is also affected by osteoporosis but to a lesser extent."
