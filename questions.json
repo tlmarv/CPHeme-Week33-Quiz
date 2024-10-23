@@ -1,1209 +1,1691 @@
 [
    {
-    "question": "Which landmark on the sternum articulates with the 2nd ribs and is at the level of the T4/T5 intervertebral disc?",
-    "choices": [
-        "Xiphoid process",
-        "Manubrium",
-        "Sternal angle (of Louis)",
-        "Clavicular notch"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The sternal angle (of Louis) is a key anatomical landmark that articulates with the 2nd ribs and is located at the level of the T4/T5 intervertebral disc."
-},
-{
-    "question": "What is the primary innervation of the pectoralis major muscle?",
-    "choices": [
-        "Long thoracic nerve",
-        "Lateral and medial pectoral nerves",
-        "Axillary nerve",
-        "Musculocutaneous nerve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The pectoralis major muscle is primarily innervated by the lateral and medial pectoral nerves, which control its movements of adduction, flexion, and medial rotation of the arm."
-},
-{
-    "question": "Which structure is responsible for draining the upper outer quadrant of the breast and may be involved in breast cancer metastasis?",
-    "choices": [
-        "Internal thoracic vein",
-        "Cephalic vein",
-        "Axillary lymph nodes",
-        "Thoracic duct"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The majority of the lymphatic drainage from the breast, particularly from the upper outer quadrant, flows into the axillary lymph nodes, making them critical in the assessment of breast cancer metastasis."
-},
-{
-    "question": "Which part of the brachial plexus gives rise to the long thoracic nerve?",
-    "choices": [
-        "Roots of C5, C6, and C7",
-        "Superior trunk",
-        "Posterior cord",
-        "Inferior trunk"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The long thoracic nerve originates from the roots of C5, C6, and C7 of the brachial plexus and innervates the serratus anterior muscle, which helps prevent winging of the scapula."
-},
-{
-    "question": "Damage to the long thoracic nerve results in which clinical condition?",
-    "choices": [
-        "Erb's palsy",
-        "Klumpke's palsy",
-        "Winged scapula",
-        "Carpal tunnel syndrome"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Injury to the long thoracic nerve causes paralysis of the serratus anterior muscle, leading to a condition called winged scapula, where the scapula protrudes off the thoracic wall."
-},
-{
-    "question": "A 25-year-old male sustains a traumatic injury to his shoulder and is diagnosed with a dislocation of the acromioclavicular joint. Which two bones are involved in this injury?",
-    "choices": [
-        "Clavicle and humerus",
-        "Clavicle and scapula",
-        "Scapula and humerus",
-        "Scapula and sternum"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The acromioclavicular joint is formed by the articulation between the clavicle and the scapula. Dislocation of this joint is a common shoulder injury."
-},
-{
-    "question": "A 55-year-old woman presents with breast cancer and palpable axillary lymph nodes. Which lymphatic drainage pattern is most likely affected?",
-    "choices": [
-        "Parasternal lymph nodes",
-        "Axillary lymph nodes",
-        "Thoracic duct",
-        "Subclavian lymph nodes"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The majority of the breast lymph drains into the axillary lymph nodes, especially from the lateral quadrants. Breast cancer often spreads to these nodes first."
-},
-{
-    "question": "A 30-year-old male has difficulty lifting his arm above his head after an axillary surgery. Physical exam reveals a 'winged scapula.' Which nerve was most likely damaged during the procedure?",
-    "choices": [
-        "Axillary nerve",
-        "Long thoracic nerve",
-        "Radial nerve",
-        "Musculocutaneous nerve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Damage to the long thoracic nerve, which innervates the serratus anterior muscle, can result in winged scapula, a condition in which the medial border of the scapula protrudes off the back."
-},
-{
-    "question": "A patient has difficulty flexing and medially rotating their arm. Examination reveals weakness in a muscle that inserts on the lateral lip of the intertubercular groove of the humerus. Which muscle is most likely involved?",
-    "choices": [
-        "Pectoralis major",
-        "Pectoralis minor",
-        "Deltoid",
-        "Teres major"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The pectoralis major muscle inserts on the lateral lip of the intertubercular groove of the humerus and is responsible for flexing and medially rotating the arm."
-},
-{
-    "question": "A 40-year-old woman has a palpable mass in the upper outer quadrant of her breast. The surgeon plans to excise the mass and is concerned about damaging the lymphatic drainage. What is the primary group of lymph nodes to which this region drains?",
-    "choices": [
-        "Axillary lymph nodes",
-        "Parasternal lymph nodes",
-        "Cervical lymph nodes",
-        "Supraclavicular lymph nodes"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The upper outer quadrant of the breast primarily drains to the axillary lymph nodes, which are key structures in breast cancer metastasis."
-},
-{
-    "question": "A patient presents with numbness over the medial aspect of their forearm after trauma to the axilla. Which component of the brachial plexus is most likely affected?",
-    "choices": [
-        "Medial cutaneous nerve of the arm",
-        "Medial cutaneous nerve of the forearm",
-        "Lateral cutaneous nerve of the forearm",
-        "Posterior cutaneous nerve of the arm"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The medial cutaneous nerve of the forearm arises from the medial cord of the brachial plexus and is responsible for sensation over the medial aspect of the forearm."
-},
-{
-    "question": "A patient presents with a fracture at the surgical neck of the humerus. Which nerve is most at risk of injury in this region?",
-    "choices": [
-        "Radial nerve",
-        "Ulnar nerve",
-        "Axillary nerve",
-        "Musculocutaneous nerve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The axillary nerve, which passes around the surgical neck of the humerus, is most at risk of injury in fractures involving this region. Damage can lead to deltoid muscle weakness."
-},
-{
-        "question": "Which nerve is responsible for innervating the biceps brachii muscle?",
+        "question": "Which nerve innervates the flexor carpi ulnaris muscle?",
         "choices": [
-            "Axillary nerve",
-            "Musculocutaneous nerve",
+            "Median nerve",
+            "Ulnar nerve",
             "Radial nerve",
-            "Ulnar nerve"
+            "Musculocutaneous nerve"
         ],
         "correctAnswer": 1,
-        "explanation": "The musculocutaneous nerve is responsible for innervating the biceps brachii muscle."
+        "explanation": "The ulnar nerve is responsible for innervating the flexor carpi ulnaris muscle."
     },
     {
-        "question": "What is the primary action of the brachialis muscle?",
+        "question": "What is the primary action of the pronator teres muscle?",
         "choices": [
             "Supination of the forearm",
-            "Flexion of the forearm in all positions",
+            "Flexion of the forearm",
             "Pronation of the forearm",
-            "Flexion and adduction of the arm"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The brachialis muscle flexes the forearm in all positions, making it the primary flexor."
-    },
-    {
-        "question": "Which artery is the continuation of the axillary artery and is the chief blood supply to the arm?",
-        "choices": [
-            "Radial artery",
-            "Brachial artery",
-            "Ulnar artery",
-            "Subclavian artery"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The brachial artery is the continuation of the axillary artery and is the main blood supply to the arm."
-    },
-    {
-        "question": "Where does the long head of the biceps brachii attach proximally?",
-        "choices": [
-            "Coracoid process",
-            "Glenoid fossa",
-            "Supraglenoid tubercle",
-            "Greater tubercle"
+            "Extension of the forearm"
         ],
         "correctAnswer": 2,
-        "explanation": "The long head of the biceps brachii attaches to the supraglenoid tubercle of the scapula."
+        "explanation": "The pronator teres is primarily responsible for pronating the forearm."
     },
     {
-        "question": "The median nerve passes through which part of the cubital fossa?",
-        "choices": [
-            "Lateral to the brachial artery",
-            "Medial to the biceps tendon",
-            "Lateral to the radial nerve",
-            "Lateral to the brachial artery"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The median nerve passes medial to the biceps tendon in the cubital fossa."
-    },
-    {
-        "question": "A 55-year-old man presents with difficulty flexing his elbow and a loss of sensation in the lateral aspect of his forearm. Which nerve is most likely injured?",
-        "choices": [
-            "Axillary nerve",
-            "Musculocutaneous nerve",
-            "Median nerve",
-            "Ulnar nerve"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The musculocutaneous nerve innervates the muscles responsible for flexing the elbow and provides sensation to the lateral forearm."
-    },
-    {
-        "question": "A patient presents with severe shoulder pain after repetitive overhead throwing motions. You suspect biceps tendinitis. Which part of the biceps is most likely affected?",
-        "choices": [
-            "Short head of the biceps",
-            "Long head of the biceps",
-            "Radial insertion",
-            "Medial head of the biceps"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Biceps tendinitis most commonly affects the long head of the biceps, which runs through the intertubercular groove."
-    },
-    {
-        "question": "A 45-year-old man presents after a fall on his outstretched hand. Imaging reveals a fracture at the surgical neck of the humerus. Which nerve is at risk for injury?",
+        "question": "The anterior interosseous nerve is a branch of which nerve?",
         "choices": [
             "Radial nerve",
+            "Ulnar nerve",
+            "Musculocutaneous nerve",
+            "Median nerve"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The anterior interosseous nerve is a branch of the median nerve."
+    },
+    {
+        "question": "Which structure forms the pivot joint between the radius and ulna at the proximal forearm?",
+        "choices": [
+            "Radial collateral ligament",
+            "Trochlea",
+            "Anular ligament",
+            "Ulnar collateral ligament"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The anular ligament encircles the head of the radius, forming a pivot joint with the ulna."
+    },
+    {
+        "question": "Which muscle is part of the intermediate group in the anterior forearm?",
+        "choices": [
+            "Flexor carpi ulnaris",
+            "Flexor digitorum superficialis",
+            "Pronator quadratus",
+            "Flexor pollicis longus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The flexor digitorum superficialis is the only muscle in the intermediate group of the anterior forearm."
+    },
+    {
+        "question": "A 10-year-old child is brought to the clinic after being pulled up by the arm while the forearm was pronated. The child now has pain and resists movement of the elbow. What is the most likely diagnosis?",
+        "choices": [
+            "Radial head fracture",
+            "Olecranon bursitis",
+            "Radial head subluxation (nursemaid's elbow)",
+            "Ulnar nerve entrapment"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Radial head subluxation (nursemaid's elbow) commonly occurs in young children due to a sudden pull on the extended and pronated forearm."
+    },
+    {
+        "question": "A 50-year-old carpenter presents with pain on the medial side of his elbow after repetitive wrist flexion. Palpation reveals tenderness at the medial epicondyle. Which condition is most likely?",
+        "choices": [
+            "Lateral epicondylitis",
+            "Medial epicondylitis",
+            "Olecranon bursitis",
+            "Cubital tunnel syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Medial epicondylitis, also known as golfer's elbow, is associated with pain from repetitive wrist flexion."
+    },
+    {
+        "question": "A 45-year-old man presents with difficulty flexing the distal phalanges of the index and middle fingers. Examination reveals weakness in the pronator quadratus and flexor pollicis longus muscles. Which nerve is likely affected?",
+        "choices": [
+            "Ulnar nerve",
+            "Anterior interosseous nerve",
+            "Radial nerve",
+            "Musculocutaneous nerve"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The anterior interosseous nerve innervates the flexor pollicis longus, pronator quadratus, and the lateral part of flexor digitorum profundus."
+    },
+    {
+        "question": "A patient presents with a fracture of the distal radius after a fall on an outstretched hand. Which complication is most likely if the fracture extends into the radioulnar joint?",
+        "choices": [
+            "Carpal tunnel syndrome",
+            "Radial head subluxation",
+            "Distal radioulnar joint instability",
+            "Pronator syndrome"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A fracture involving the distal radioulnar joint can cause instability and affect forearm rotation."
+    },
+    {
+        "question": "During a physical exam, a patient with a history of repetitive gripping presents with numbness in the medial forearm and weakness in flexor carpi ulnaris. Which nerve is most likely compressed?",
+        "choices": [
+            "Radial nerve at the elbow",
+            "Ulnar nerve at the cubital tunnel",
+            "Median nerve at the carpal tunnel",
+            "Anterior interosseous nerve"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Compression of the ulnar nerve in the cubital tunnel leads to weakness in muscles like the flexor carpi ulnaris and sensory changes in the medial forearm."
+    },
+    {
+        "question": "A 35-year-old patient sustains a fracture at the medial epicondyle of the humerus. Which movement is most likely to be affected?",
+        "choices": [
+            "Extension of the wrist",
+            "Flexion of the wrist",
+            "Supination of the forearm",
+            "Pronation of the forearm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The ulnar nerve, which innervates muscles that flex the wrist, can be damaged in fractures of the medial epicondyle."
+    },
+    {
+        "question": "A 60-year-old woman complains of difficulty turning a doorknob with her right hand. On exam, she has weakness in pronation of the forearm. Which muscle is likely involved?",
+        "choices": [
+            "Supinator",
+            "Pronator teres",
+            "Biceps brachii",
+            "Flexor carpi ulnaris"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The pronator teres is responsible for pronation of the forearm, which is crucial for turning movements."
+    },
+    {
+        "question": "A patient with a history of wrist fractures presents with decreased sensation over the lateral part of the palm and the first three fingers. Which nerve is likely compressed?",
+        "choices": [
+            "Radial nerve",
+            "Ulnar nerve",
             "Median nerve",
-            "Axillary nerve",
-            "Ulnar nerve"
+            "Anterior interosseous nerve"
         ],
         "correctAnswer": 2,
-        "explanation": "Fracture of the surgical neck of the humerus puts the axillary nerve at risk for injury."
+        "explanation": "Compression of the median nerve affects sensation in the lateral palm and the first three fingers, commonly seen in carpal tunnel syndrome."
     },
     {
-        "question": "During a physical examination, you tap the biceps tendon with a reflex hammer and observe a diminished response. This test evaluates which nerve and spinal segments?",
+        "question": "A young athlete presents with pain and swelling over the distal forearm following a direct blow during sports. X-ray reveals a transverse fracture of the distal radius. Which of the following structures is most likely at risk?",
         "choices": [
-            "Radial nerve, C7",
-            "Ulnar nerve, C8",
-            "Musculocutaneous nerve, C5-C6",
-            "Median nerve, C6-C7"
+            "Anterior interosseous nerve",
+            "Ulnar nerve",
+            "Radial artery",
+            "Pronator quadratus"
+        ],
+        "correctAnswer": 3,
+        "explanation": "A fracture of the distal radius can disrupt the pronator quadratus muscle, which is located near the distal forearm."
+    },
+    {
+        "question": "A patient complains of difficulty flexing the fingers of the hand and numbness in the lateral forearm. The most likely nerve involved passes through which structure at the elbow?",
+        "choices": [
+            "Cubital tunnel",
+            "Carpal tunnel",
+            "Pronator teres",
+            "Anular ligament"
         ],
         "correctAnswer": 2,
-        "explanation": "The biceps reflex test evaluates the musculocutaneous nerve and spinal segments C5-C6."
+        "explanation": "The median nerve passes through the pronator teres, and entrapment here can lead to symptoms in the forearm and hand."
     },
     {
-        "question": "A 50-year-old woman presents with a lump in the arm near the elbow. Venipuncture reveals the median cubital vein. What is the anatomical significance of this structure?",
+        "question": "Which nerve passes through the carpal tunnel along with the flexor tendons?",
         "choices": [
-            "It protects the underlying radial artery",
-            "It lies superficial to the bicipital aponeurosis, protecting the brachial artery and median nerve",
-            "It provides deep venous drainage from the arm",
-            "It drains directly into the cephalic vein"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The median cubital vein lies superficial to the bicipital aponeurosis, which protects the brachial artery and median nerve during venipuncture."
-    },
-    {
-        "question": "A 35-year-old male patient presents with a fracture of the distal humerus, which damages the median nerve. Which motor deficit would you expect?",
-        "choices": [
-            "Inability to flex the elbow",
-            "Loss of forearm pronation",
-            "Inability to extend the wrist",
-            "Weakness in supination of the forearm"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Damage to the median nerve can result in loss of forearm pronation, as it innervates muscles responsible for this action."
-    },
-    {
-        "question": "A 28-year-old weightlifter suffers a rupture of the long head of the biceps tendon during a competition. What classic deformity would you expect to observe?",
-        "choices": [
-            "Claw hand deformity",
-            "Popeye deformity",
-            "Drop wrist deformity",
-            "Mallet finger"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Rupture of the long head of the biceps tendon typically results in a 'Popeye deformity,' where the muscle belly forms a ball near the distal part of the arm."
-    },
-    {
-        "question": "Which of the following is a first-line treatment for comedonal acne?",
-        "choices": [
-            "Topical antibiotics",
-            "Benzoyl peroxide",
-            "Topical retinoids",
-            "Oral isotretinoin"
+            "Ulnar nerve",
+            "Radial nerve",
+            "Median nerve",
+            "Musculocutaneous nerve"
         ],
         "correctAnswer": 2,
-        "explanation": "Topical retinoids, such as tretinoin and adapalene, are the first-line treatment for comedonal acne."
+        "explanation": "The median nerve passes through the carpal tunnel along with tendons like flexor digitorum superficialis, profundus, and flexor pollicis longus."
     },
     {
-        "question": "What is the primary cause of acne vulgaris?",
+        "question": "What is the most commonly fractured carpal bone?",
         "choices": [
-            "Increased androgen levels",
-            "Occlusion of sebaceous glands",
-            "Immune response to Demodex mites",
-            "Excessive sweating"
+            "Lunate",
+            "Scaphoid",
+            "Triquetrum",
+            "Hamate"
         ],
         "correctAnswer": 1,
-        "explanation": "Acne vulgaris is primarily caused by occlusion of sebaceous glands and subsequent inflammation."
+        "explanation": "The scaphoid is most commonly fractured, typically due to a fall on an outstretched hand (FOOSH)."
     },
     {
-        "question": "Which condition is commonly treated with oral isotretinoin due to its potential for scarring if untreated?",
+        "question": "Which artery primarily contributes to the superficial palmar arch?",
         "choices": [
-            "Comedonal acne",
-            "Mild inflammatory acne",
-            "Nodulocystic acne",
-            "Rosacea"
+            "Radial artery",
+            "Ulnar artery",
+            "Deep palmar arch",
+            "Brachial artery"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The ulnar artery is the main contributor to the superficial palmar arch, with a minor contribution from the radial artery."
+    },
+    {
+        "question": "What condition is characterized by progressive thickening and shortening of the palmar aponeurosis leading to finger flexion?",
+        "choices": [
+            "Carpal tunnel syndrome",
+            "Dupuytren’s contracture",
+            "Ulnar canal syndrome",
+            "De Quervain’s tenosynovitis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dupuytren’s contracture involves thickening of the palmar aponeurosis, causing flexion deformities of the fingers."
+    },
+    {
+        "question": "Which nerve innervates the hypothenar muscles of the hand?",
+        "choices": [
+            "Median nerve",
+            "Radial nerve",
+            "Deep branch of the ulnar nerve",
+            "Musculocutaneous nerve"
         ],
         "correctAnswer": 2,
-        "explanation": "Nodulocystic acne is severe and can lead to scarring if untreated. Isotretinoin is often required for its management."
+        "explanation": "The deep branch of the ulnar nerve innervates the muscles of the hypothenar eminence."
     },
     {
-        "question": "Which pathogen is commonly associated with tinea capitis?",
+        "question": "A 45-year-old patient presents with numbness and tingling in the lateral three and a half fingers. Which structure is most likely compressed?",
         "choices": [
-            "Staphylococcus aureus",
-            "Malassezia yeast",
-            "Dermatophyte fungi",
-            "Propionibacterium acnes"
+            "Ulnar nerve in Guyon’s canal",
+            "Median nerve in the carpal tunnel",
+            "Radial nerve at the wrist",
+            "Brachial plexus at the level of C6"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Compression of the median nerve in the carpal tunnel causes numbness in the lateral three and a half fingers."
+    },
+    {
+        "question": "A patient presents with pain in the anatomical snuffbox after a fall on an outstretched hand. Radiographs are initially negative. What is the most likely diagnosis?",
+        "choices": [
+            "Lunate dislocation",
+            "Colles’ fracture",
+            "Scaphoid fracture",
+            "Ulnar styloid fracture"
         ],
         "correctAnswer": 2,
-        "explanation": "Tinea capitis is caused by dermatophyte fungi and is treated with oral antifungal medications."
+        "explanation": "A scaphoid fracture can be occult on initial radiographs, but tenderness in the anatomical snuffbox is a key clinical indicator."
     },
     {
-        "question": "Which of the following is NOT typically a trigger for rosacea?",
+        "question": "A 30-year-old cyclist presents with numbness in the medial one and a half fingers after prolonged riding with pressure on the handlebars. Which condition is most likely?",
         "choices": [
-            "Alcohol consumption",
-            "Hot weather",
-            "Excessive sweating",
-            "Spicy foods"
+            "Carpal tunnel syndrome",
+            "Ulnar canal syndrome (Handlebar neuropathy)",
+            "Radial nerve palsy",
+            "Pronator teres syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ulnar canal syndrome can occur from prolonged pressure on the ulnar nerve at the wrist, as seen in cyclists."
+    },
+    {
+        "question": "A 50-year-old male presents with difficulty flexing the thumb. Physical examination shows weakness in opposition and atrophy of the thenar muscles. Which nerve is most likely affected?",
+        "choices": [
+            "Ulnar nerve",
+            "Radial nerve",
+            "Median nerve",
+            "Axillary nerve"
         ],
         "correctAnswer": 2,
-        "explanation": "Excessive sweating is more associated with hyperhidrosis, not rosacea. Common rosacea triggers include alcohol, spicy foods, and heat."
+        "explanation": "The recurrent branch of the median nerve innervates the thenar muscles, which are responsible for opposition of the thumb."
     },
     {
-        "question": "A 30-year-old woman presents with papules and pustules localized to her chin and jawline, which worsen during her menstrual cycle. What is the next best treatment option?",
+        "question": "A patient sustains a laceration to the wrist that severed the superficial palmar arch. Which artery is most likely involved?",
         "choices": [
-            "Topical retinoids",
-            "Oral contraceptives",
-            "Oral isotretinoin",
-            "Topical antibiotics"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Oral contraceptives are effective in managing hormonally driven acne, especially when it worsens during the menstrual cycle."
-    },
-    {
-        "question": "A 22-year-old male presents with deep-seated nodules and abscesses in the axillary region, as well as scarring and sinus tracts. What is the most likely diagnosis?",
-        "choices": [
-            "Acne vulgaris",
-            "Hidradenitis suppurativa",
-            "Folliculitis",
-            "Tinea versicolor"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The patient's presentation of nodules, abscesses, and sinus tracts in apocrine gland-rich areas is consistent with hidradenitis suppurativa."
-    },
-    {
-        "question": "A patient is diagnosed with ocular rosacea, experiencing blepharitis and conjunctival injection. What is the appropriate treatment?",
-        "choices": [
-            "Oral isotretinoin",
-            "Low-dose doxycycline",
-            "Topical retinoids",
-            "Topical metronidazole"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Ocular rosacea is treated with low-dose doxycycline, which helps reduce inflammation."
-    },
-    {
-        "question": "A 28-year-old woman is diagnosed with alopecia areata, presenting with circular areas of hair loss. Which autoimmune condition is most commonly associated with alopecia areata?",
-        "choices": [
-            "Vitiligo",
-            "Systemic lupus erythematosus",
-            "Graves' disease",
-            "Atopic dermatitis"
+            "Ulnar artery",
+            "Radial artery",
+            "Deep palmar arch",
+            "Common interosseous artery"
         ],
         "correctAnswer": 0,
-        "explanation": "Alopecia areata is frequently associated with other autoimmune conditions like vitiligo."
+        "explanation": "The ulnar artery is the main contributor to the superficial palmar arch."
     },
     {
-        "question": "A 40-year-old man presents with a scaly, erythematous patch on his scalp, diagnosed as tinea capitis. Which diagnostic method is commonly used to confirm the diagnosis?",
+        "question": "A patient with a history of rheumatoid arthritis presents with pain and swelling at the wrist, with decreased ability to extend the thumb and fingers. Which nerve is most likely affected?",
         "choices": [
-            "Skin biopsy",
-            "Dermatoscopy",
-            "KOH scraping",
-            "Wood's lamp examination"
+            "Ulnar nerve",
+            "Median nerve",
+            "Radial nerve",
+            "Axillary nerve"
         ],
         "correctAnswer": 2,
-        "explanation": "Tinea capitis is confirmed with KOH scraping, where dermatophyte fungi can be identified microscopically."
+        "explanation": "The radial nerve innervates the extensor muscles of the forearm, and its compression can result in difficulty extending the thumb and fingers."
     },
     {
-        "question": "A patient with rosacea experiences frequent flushing and facial erythema. Which medication is used to reduce flushing symptoms?",
+        "question": "During a physical exam, a patient is unable to hold a piece of paper between their thumb and index finger. Which muscle is likely affected, and what sign is this?",
         "choices": [
-            "Topical retinoids",
-            "Topical metronidazole",
-            "Topical alpha2 agonists (bromonidine)",
-            "Oral antibiotics"
+            "Adductor pollicis; Froment’s sign",
+            "Abductor pollicis brevis; Tinel's sign",
+            "Opponens pollicis; Phalen’s sign",
+            "Flexor pollicis brevis; Froment’s sign"
         ],
-        "correctAnswer": 2,
-        "explanation": "Topical alpha2 agonists (e.g., bromonidine) are used to reduce flushing in rosacea by vasoconstricting blood vessels."
+        "correctAnswer": 0,
+        "explanation": "Froment’s sign indicates weakness in the adductor pollicis, which is innervated by the ulnar nerve."
     },
     {
-        "question": "A patient presents with multiple inflammatory nodules, sterile abscesses, and sinus tracts in the groin and buttocks. Surgical excision and anti-TNF therapy are considered. Which stage of hidradenitis suppurativa does this represent?",
+        "question": "A construction worker presents with swelling and pain along the flexor aspect of the index finger after a puncture wound. The finger is held in a flexed position and is painful with passive extension. What is the most likely diagnosis?",
         "choices": [
-            "Hurley Stage I",
-            "Hurley Stage II",
-            "Hurley Stage III",
-            "Post-inflammatory stage"
+            "Carpal tunnel syndrome",
+            "Flexor tenosynovitis",
+            "Dupuytren’s contracture",
+            "Ulnar canal syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pain and swelling along the flexor tendon with a flexed posture of the finger suggest flexor tenosynovitis."
+    },
+    {
+        "question": "A patient has a laceration to the lateral side of the wrist, damaging the recurrent branch of the median nerve. Which function would most likely be affected?",
+        "choices": [
+            "Adduction of the thumb",
+            "Flexion of the 4th and 5th digits",
+            "Abduction and opposition of the thumb",
+            "Extension of the wrist"
         ],
         "correctAnswer": 2,
-        "explanation": "Hurley Stage III hidradenitis suppurativa is characterized by multiple sinus tracts and scarring, often requiring surgery and anti-TNF therapy."
+        "explanation": "The recurrent branch of the median nerve innervates the thenar muscles, which control thumb opposition and abduction."
+    },
+    {
+        "question": "A patient presents with a 'claw hand' deformity affecting the 4th and 5th digits. Which nerve injury is most likely responsible?",
+        "choices": [
+            "Radial nerve at the spiral groove",
+            "Median nerve at the carpal tunnel",
+            "Ulnar nerve at the wrist",
+            "Axillary nerve at the shoulder"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Clawing of the 4th and 5th digits is characteristic of ulnar nerve injury at the wrist, affecting the intrinsic muscles of the hand."
+    },
+    {
+        "question": "A patient undergoing wrist surgery requires an Allen test. Which of the following best describes the purpose of the Allen test?",
+        "choices": [
+            "Evaluates median nerve function",
+            "Assesses the integrity of the radial and ulnar arteries",
+            "Tests the strength of wrist flexion",
+            "Measures the range of motion in the wrist joint"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The Allen test is used to assess the collateral circulation between the radial and ulnar arteries before procedures involving the hand."
+    },
+    {
+        "question": "Which type of collagen is most abundant in the bone matrix?",
+        "choices": [
+            "Type I",
+            "Type II",
+            "Type III",
+            "Type IV"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Type I collagen makes up about 90% of the organic matrix in bones, providing tensile strength."
+    },
+    {
+        "question": "What is the primary function of osteoclasts?",
+        "choices": [
+            "Synthesize osteoid",
+            "Maintain bone mineral homeostasis",
+            "Resorb bone",
+            "Produce collagen"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteoclasts are responsible for bone resorption, breaking down the bone matrix to release calcium."
+    },
+    {
+        "question": "Which of the following is a characteristic feature of osteocytes?",
+        "choices": [
+            "Multinucleated cells",
+            "Located in Howship's lacunae",
+            "Have cellular processes extending through canaliculi",
+            "Derived from mesenchymal stem cells only"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteocytes reside in lacunae and communicate with other osteocytes through dendritic processes in canaliculi."
+    },
+    {
+        "question": "Which type of cartilage is most resistant to tensile forces and found in intervertebral discs?",
+        "choices": [
+            "Hyaline cartilage",
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Articular cartilage"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fibrocartilage contains type I collagen, making it highly resistant to compressive and tensile forces, suitable for intervertebral discs."
+    },
+    {
+        "question": "What percentage of bone's wet weight is composed of hydroxyapatite mineral?",
+        "choices": [
+            "10%",
+            "30%",
+            "60%",
+            "80%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hydroxyapatite, a form of calcium phosphate, constitutes about 60% of the bone's wet weight, providing compressive strength."
+    },
+    {
+        "question": "A 5-year-old child presents with frequent bone fractures and blue sclerae. Genetic testing reveals a defect in collagen synthesis. Which condition is most likely?",
+        "choices": [
+            "Osteopetrosis",
+            "Osteomalacia",
+            "Osteogenesis imperfecta",
+            "Paget’s disease"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteogenesis imperfecta, also known as 'brittle bone disease,' results from defective type I collagen, leading to fragile bones and other connective tissue abnormalities."
+    },
+    {
+        "question": "A patient with a history of vitamin D deficiency presents with bone pain and muscle weakness. X-rays reveal diffuse bone softening. Which histological feature is most likely present?",
+        "choices": [
+            "Increased unmineralized osteoid",
+            "Increased osteoclast activity",
+            "Mosaic pattern of lamellar bone",
+            "Increased bone density"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Osteomalacia is characterized by insufficient mineralization of bone, leading to an excess of unmineralized osteoid."
+    },
+    {
+        "question": "A bone biopsy shows large, multinucleated cells in Howship’s lacunae adjacent to trabecular bone. Which cell type is being described?",
+        "choices": [
+            "Osteoblasts",
+            "Osteocytes",
+            "Chondrocytes",
+            "Osteoclasts"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Osteoclasts are large, multinucleated cells that resorb bone and are often found in Howship’s lacunae on bone surfaces."
+    },
+    {
+        "question": "A 70-year-old woman presents with a vertebral compression fracture. Bone density studies show decreased bone mass. Histology would most likely reveal which of the following?",
+        "choices": [
+            "Increased osteoblast activity",
+            "Decreased bone resorption",
+            "Thinned trabeculae and cortical bone",
+            "Excess woven bone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteoporosis is characterized by a reduction in bone mass and thinning of trabeculae, leading to increased fracture risk."
+    },
+    {
+        "question": "A young athlete suffers a cartilage injury to the knee. Which characteristic of cartilage limits its ability to heal?",
+        "choices": [
+            "Abundance of type II collagen",
+            "Avascular nature",
+            "High cellular density",
+            "Presence of perichondrium"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Cartilage is avascular, which means it lacks direct blood supply, significantly impairing its ability to heal after injury."
+    },
+    {
+        "question": "Histological examination of a bone biopsy reveals disorganized woven and lamellar bone, with areas of excessive osteoclast activity followed by abnormal osteoblast function. What is the most likely diagnosis?",
+        "choices": [
+            "Osteomalacia",
+            "Paget’s disease",
+            "Osteopetrosis",
+            "Osteosarcoma"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Paget’s disease is characterized by a disorganized pattern of bone remodeling, with both excessive osteoclastic activity and uncoordinated osteoblastic activity."
+    },
+    {
+        "question": "A 65-year-old male presents with chronic low back pain. Imaging shows increased bone density in the vertebrae. Bone biopsy reveals dense, brittle bone with obliteration of the marrow space. What is the most likely diagnosis?",
+        "choices": [
+            "Osteoporosis",
+            "Osteogenesis imperfecta",
+            "Osteopetrosis",
+            "Osteomalacia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteopetrosis, or 'marble bone disease,' results from defective osteoclasts, leading to dense but brittle bones."
+    },
+    {
+        "question": "A biopsy of bone tissue reveals cuboidal cells with abundant alkaline phosphatase activity, lining a bony surface. Which type of cell is this?",
+        "choices": [
+            "Osteoclast",
+            "Osteoblast",
+            "Osteocyte",
+            "Chondrocyte"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Osteoblasts synthesize bone matrix and exhibit alkaline phosphatase activity."
+    },
+    {
+        "question": "A child with rickets presents with bowed legs and a widened growth plate on X-ray. Which histological finding is most consistent with this diagnosis?",
+        "choices": [
+            "Excess osteoclasts in Howship’s lacunae",
+            "Thinning of cortical bone",
+            "Excess unmineralized osteoid in growth plates",
+            "Increased osteocyte density"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rickets is characterized by defective mineralization of the growth plate, resulting in an excess of unmineralized osteoid."
+    },
+    {
+        "question": "A 55-year-old woman is started on a bisphosphonate for osteoporosis. What is the primary mechanism of action of this drug?",
+        "choices": [
+            "Inhibits osteoblast function",
+            "Promotes bone resorption",
+            "Stimulates osteoclast apoptosis",
+            "Enhances collagen synthesis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bisphosphonates work by inhibiting osteoclast activity, leading to decreased bone resorption and increased bone density."
+    },
+    {
+        "question": "What type of ossification is responsible for the formation of flat bones like the skull?",
+        "choices": [
+            "Endochondral ossification",
+            "Intramembranous ossification",
+            "Appositional growth",
+            "Osteoclastic resorption"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Intramembranous ossification involves the direct differentiation of mesenchymal cells into osteoblasts, which form flat bones like those in the skull."
+    },
+    {
+        "question": "Which zone of the growth plate is characterized by active mitosis of chondrocytes?",
+        "choices": [
+            "Resting zone",
+            "Hypertrophic zone",
+            "Proliferative zone",
+            "Vascular invasion zone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The proliferative zone of the growth plate is where chondrocytes undergo rapid cell division, contributing to the lengthening of bones."
+    },
+    {
+        "question": "What genetic mutation is associated with achondroplasia?",
+        "choices": [
+            "ACVR1 gene",
+            "FGFR3 gene",
+            "RUNX2 gene",
+            "PHEX gene"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Achondroplasia is caused by mutations in the FGFR3 gene, leading to abnormal endochondral ossification and shortened long bones."
+    },
+    {
+        "question": "Which type of fracture is most common in children due to their softer bones?",
+        "choices": [
+            "Transverse fracture",
+            "Greenstick fracture",
+            "Comminuted fracture",
+            "Spiral fracture"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Greenstick fractures are incomplete fractures where one side of the bone bends. These are common in children due to their more flexible bone structure."
+    },
+    {
+        "question": "What is the first step in the process of fracture healing?",
+        "choices": [
+            "Formation of a hard callus",
+            "Formation of a fibrocartilaginous callus",
+            "Hematoma formation",
+            "Remodeling into lamellar bone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fracture healing begins with the formation of a hematoma due to rupture of blood vessels at the site of injury."
+    },
+    {
+        "question": "A 10-year-old child presents with pain and deformity of the femur after a minor fall. X-ray reveals a bowing of the bone without complete breakage. What type of fracture is most likely?",
+        "choices": [
+            "Greenstick fracture",
+            "Spiral fracture",
+            "Transverse fracture",
+            "Comminuted fracture"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Greenstick fractures occur in children and are characterized by a partial break in the bone with bending on the other side."
+    },
+    {
+        "question": "A 35-year-old male undergoes mandibular lengthening surgery, and bone healing occurs without the formation of a cartilaginous callus. What type of ossification is most likely involved in this process?",
+        "choices": [
+            "Endochondral ossification",
+            "Intramembranous ossification",
+            "Secondary ossification",
+            "Appositional growth"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Intramembranous ossification is the process involved in rigidly stabilized fractures, such as those in limb lengthening surgeries."
+    },
+    {
+        "question": "A child with achondroplasia presents with short limbs and a normal-sized trunk. Which area of the growth plate is most affected by this condition?",
+        "choices": [
+            "Resting zone",
+            "Proliferative and hypertrophic zones",
+            "Vascular invasion zone",
+            "Epiphyseal bone deposition"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Achondroplasia is characterized by disorganized and narrowed proliferative and hypertrophic zones of the growth plate, leading to impaired bone elongation."
+    },
+    {
+        "question": "A patient presents with a spiral fracture of the tibia after a sports injury. What mechanism of injury is most consistent with this type of fracture?",
+        "choices": [
+            "Direct trauma perpendicular to the bone",
+            "Twisting force applied to the limb",
+            "Compression injury",
+            "Overuse stress"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Spiral fractures are caused by a rotational force applied to a long bone, such as twisting."
+    },
+    {
+        "question": "A 60-year-old woman presents with sudden onset of back pain and is diagnosed with a vertebral compression fracture. Which underlying condition is most likely to contribute to this fracture?",
+        "choices": [
+            "Osteoporosis",
+            "Osteopetrosis",
+            "Paget's disease",
+            "Osteogenesis imperfecta"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Osteoporosis leads to decreased bone density, making bones more susceptible to compression fractures, especially in the vertebrae."
+    },
+    {
+        "question": "A bone biopsy from a 30-year-old patient with a recent femoral fracture shows unmineralized osteoid. What condition is most likely?",
+        "choices": [
+            "Osteopetrosis",
+            "Rickets",
+            "Osteomalacia",
+            "Osteosarcoma"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteomalacia involves defective mineralization of bone, leading to an excess of unmineralized osteoid."
+    },
+    {
+        "question": "A 22-year-old athlete presents with a tibial stress fracture. Which of the following is the most appropriate initial management?",
+        "choices": [
+            "Immediate surgical fixation",
+            "Cast immobilization",
+            "Rest and gradual return to activity",
+            "Physical therapy focusing on weight-bearing exercises"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Stress fractures are best managed with rest and activity modification, allowing time for bone healing."
+    },
+    {
+        "question": "A patient presents with a closed transverse fracture of the radius after a fall. Which of the following best describes the nature of this fracture?",
+        "choices": [
+            "Fracture perpendicular to the bone's long axis with no communication with the outside environment",
+            "Fracture along the long axis of the bone with soft tissue damage",
+            "Spiral fracture with twisting mechanism",
+            "Comminuted fracture with multiple bone fragments"
+        ],
+        "correctAnswer": 0,
+        "explanation": "A closed transverse fracture is characterized by a break perpendicular to the bone's axis and does not involve an open wound."
+    },
+    {
+        "question": "A 45-year-old patient undergoes open reduction and internal fixation for a comminuted humeral fracture. Which part of the healing process is promoted by the surgical intervention?",
+        "choices": [
+            "Hematoma formation",
+            "Callus formation",
+            "Direct bone healing without callus formation",
+            "Remodeling into lamellar bone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Open reduction and internal fixation (ORIF) can facilitate primary bone healing without the formation of a cartilaginous callus."
+    },
+    {
+        "question": "A patient presents with a deformity following a fractured tibia that was improperly set. X-ray shows a significant angle between the distal and proximal bone fragments. What term best describes this deformity?",
+        "choices": [
+            "Displacement",
+            "Angulation",
+            "Shortening",
+            "Rotation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Angulation refers to the deviation of the bone fragments from their normal alignment, creating an angle."
+    },
+    {
+        "question": "A child presents with a fracture that has healed with a noticeable bump at the site of injury. Which part of the healing process most likely resulted in this finding?",
+        "choices": [
+            "Hematoma formation",
+            "Soft callus formation",
+            "Hard callus formation",
+            "Bone remodeling"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The formation of a hard callus during fracture healing results in a mass of new bone that may present as a bump before remodeling occurs."
+    },
+    {
+        "question": "A patient has a history of repeated soft-tissue trauma and presents with localized pain and stiffness in the quadriceps muscle. Imaging reveals calcification within the muscle. What is the most likely diagnosis?",
+        "choices": [
+            "Osteosarcoma",
+            "Osteochondritis dissecans",
+            "Myositis ossificans",
+            "Fibrodysplasia ossificans progressiva"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Myositis ossificans is characterized by abnormal ossification within the muscle, often following trauma."
+    },
+    {
+        "question": "Which genetic mutation is associated with achondroplasia?",
+        "choices": [
+            "COL1A1",
+            "FGFR3",
+            "CLCN7",
+            "PHEX"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Achondroplasia is caused by a gain-of-function mutation in the FGFR3 gene, leading to impaired endochondral ossification and shortened limbs."
+    },
+    {
+        "question": "What is the primary defect in osteogenesis imperfecta?",
+        "choices": [
+            "Deficient type II collagen",
+            "Deficient type I collagen",
+            "Abnormal osteoclast function",
+            "Deficient vitamin D"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Osteogenesis imperfecta results from mutations in COL1A1 or COL1A2 genes, affecting type I collagen and leading to brittle bones."
+    },
+    {
+        "question": "Which bone disorder is characterized by thick, dense bones due to defective osteoclast function?",
+        "choices": [
+            "Osteogenesis imperfecta",
+            "Osteomalacia",
+            "Osteopetrosis",
+            "Paget disease"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteopetrosis results from defective osteoclast function, leading to increased bone density but brittle bones."
+    },
+    {
+        "question": "What laboratory finding is typically elevated in patients with Paget's disease of bone?",
+        "choices": [
+            "Serum calcium",
+            "Serum phosphate",
+            "Serum alkaline phosphatase",
+            "Parathyroid hormone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paget's disease is often associated with elevated serum alkaline phosphatase due to increased bone turnover."
+    },
+    {
+        "question": "What is a common radiological finding in osteoporosis?",
+        "choices": [
+            "Vertebral compression fractures",
+            "Mixed lytic and sclerotic lesions",
+            "Erlenmeyer flask deformity",
+            "Pseudofractures"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Osteoporosis is associated with decreased bone density, leading to vertebral compression fractures."
+    },
+    {
+        "question": "A 5-year-old boy presents with short stature, bowed legs, and an enlarged head. Genetic testing reveals a mutation in the FGFR3 gene. Which complication is he most at risk for?",
+        "choices": [
+            "Vertebral compression fractures",
+            "Sudden death from brainstem compression",
+            "Osteosarcoma",
+            "Aortic dissection"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In severe cases of achondroplasia, narrowing of the foramen magnum can lead to brainstem compression."
+    },
+    {
+        "question": "A 35-year-old woman presents with bone pain and recurrent fractures. X-ray shows osteopenia, and labs reveal low serum calcium and phosphate with high alkaline phosphatase. What is the most likely diagnosis?",
+        "choices": [
+            "Osteogenesis imperfecta",
+            "Paget's disease",
+            "Osteomalacia",
+            "Osteopetrosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteomalacia is characterized by defective bone mineralization, resulting in bone pain, low calcium and phosphate levels, and elevated alkaline phosphatase."
+    },
+    {
+        "question": "A 65-year-old man presents with a history of increasing hat size and bone pain in the pelvis. Radiographs show mixed lytic and sclerotic lesions. Which complication is he most at risk for?",
+        "choices": [
+            "Avascular necrosis",
+            "Osteosarcoma",
+            "Osteomyelitis",
+            "Spinal stenosis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Paget's disease can lead to secondary osteosarcoma due to excessive and disorganized bone remodeling."
+    },
+    {
+        "question": "A patient with osteopetrosis presents with recurrent infections and easy bruising. What is the most likely explanation for these symptoms?",
+        "choices": [
+            "Hypercalcemia",
+            "Marrow failure",
+            "Compression fractures",
+            "Hyperphosphatemia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In osteopetrosis, the marrow space is filled with dense bone, leading to bone marrow failure and resulting in cytopenias, increased risk of infections, and bleeding."
+    },
+    {
+        "question": "A 7-year-old boy with osteogenesis imperfecta presents with multiple fractures and blue sclerae. Which of the following should be considered in the differential diagnosis to rule out another condition?",
+        "choices": [
+            "Osteopetrosis",
+            "Rickets",
+            "Child abuse",
+            "Paget's disease"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Multiple fractures in pediatric patients can be a sign of child abuse, but the presence of blue sclerae and a family history supports osteogenesis imperfecta."
+    },
+    {
+        "question": "A 70-year-old woman presents with a vertebral compression fracture after a minor fall. Her DEXA scan reveals a T-score of -3.0. What is the best initial treatment?",
+        "choices": [
+            "Vitamin D supplementation alone",
+            "High-dose calcium supplementation",
+            "Bisphosphonate therapy",
+            "Calcitonin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bisphosphonates are the first-line treatment for osteoporosis to reduce bone resorption and prevent further fractures."
+    },
+    {
+        "question": "A patient presents with a fracture and radiological findings of 'Erlenmeyer flask' deformity. Which condition is most likely?",
+        "choices": [
+            "Paget's disease",
+            "Achondroplasia",
+            "Osteopetrosis",
+            "Osteomalacia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteopetrosis can present with an 'Erlenmeyer flask' deformity, where the metaphysis of long bones is flared and widened."
+    },
+    {
+        "question": "A patient with Paget’s disease presents with a new onset of heart failure. Which of the following mechanisms is most likely responsible?",
+        "choices": [
+            "Decreased cardiac output due to immobility",
+            "High-output heart failure from increased vascularization of bone",
+            "Compression of the heart by thickened ribs",
+            "Hypercalcemia leading to cardiac dysfunction"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Paget's disease can create arterio-venous shunts in bone, leading to high-output heart failure."
+    },
+    {
+        "question": "A patient presents with bone pain and bowing of the legs. X-ray shows a widened growth plate with a 'rachitic rosary' appearance. What is the most likely diagnosis?",
+        "choices": [
+            "Osteopetrosis",
+            "Osteogenesis imperfecta",
+            "Rickets",
+            "Paget's disease"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rickets in children presents with bone pain, bowing of the legs, and the 'rachitic rosary' appearance due to poorly mineralized cartilage at costochondral junctions."
+    },
+    {
+        "question": "A 60-year-old patient with a long-standing history of osteoporosis presents with sudden back pain. Imaging reveals a T12 compression fracture. Which of the following is most likely responsible for this condition?",
+        "choices": [
+            "Excessive osteoblastic activity",
+            "Decreased bone resorption",
+            "Imbalance favoring osteoclastic over osteoblastic activity",
+            "Increased bone density"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteoporosis results from increased bone resorption relative to bone formation, leading to reduced bone density and increased fracture risk."
+    },
+    {
+        "question": "A child presents with diffuse bone pain and muscle weakness. Labs show low calcium, low phosphate, and high alkaline phosphatase. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Paget’s disease",
+            "Osteomalacia",
+            "Rickets",
+            "Osteopetrosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Rickets is associated with vitamin D deficiency, leading to poor bone mineralization and characteristic lab findings."
+    },
+    {
+        "question": "A 55-year-old man presents with bone pain and a history of multiple fractures. X-ray shows a mosaic pattern of woven and lamellar bone. What is the most likely diagnosis?",
+        "choices": [
+            "Osteopetrosis",
+            "Osteomalacia",
+            "Paget’s disease",
+            "Achondroplasia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paget's disease of bone is characterized by a mosaic pattern of bone, resulting from disorganized bone remodeling."
+    },
+    {
+        "question": "Which antibody has high specificity for rheumatoid arthritis?",
+        "choices": [
+            "ANA",
+            "Anti-dsDNA",
+            "Anti-CCP",
+            "Rheumatoid factor (RF)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anti-cyclic citrullinated peptide (Anti-CCP) antibodies have a high specificity for rheumatoid arthritis (93-99%)."
+    },
+    {
+        "question": "What is the hallmark radiographic feature of rheumatoid arthritis?",
+        "choices": [
+            "Osteophyte formation",
+            "Marginal erosions and periarticular osteopenia",
+            "Subchondral sclerosis",
+            "Joint space narrowing with osteophytes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Marginal erosions and periarticular osteopenia are characteristic findings in rheumatoid arthritis due to inflammation and bone loss."
+    },
+    {
+        "question": "Which joint is most often spared in rheumatoid arthritis?",
+        "choices": [
+            "Wrist",
+            "MCP",
+            "DIP",
+            "PIP"
+        ],
+        "correctAnswer": 2,
+        "explanation": "DIP joints are typically spared in rheumatoid arthritis, while the MCP and PIP joints are commonly involved."
+    },
+    {
+        "question": "What is the typical duration of morning stiffness in inflammatory arthritis such as rheumatoid arthritis?",
+        "choices": [
+            "Less than 15 minutes",
+            "15-30 minutes",
+            "Less than 1 hour",
+            "More than 1 hour"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Morning stiffness lasting more than 1 hour is a hallmark of inflammatory arthritis like rheumatoid arthritis."
+    },
+    {
+        "question": "Which of the following is a potential adverse effect of methotrexate therapy in rheumatoid arthritis?",
+        "choices": [
+            "Nephrotoxicity",
+            "Pneumonitis",
+            "Hypoglycemia",
+            "Cardiomyopathy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Methotrexate can cause rare but serious adverse effects like pneumonitis, especially in patients with underlying lung disease."
+    },
+    {
+        "question": "A 45-year-old woman presents with 3 months of morning stiffness in her wrists and MCP joints, lasting over 2 hours. She has tenderness along the joint lines, and her x-rays show marginal erosions. Which antibody is most likely to be positive?",
+        "choices": [
+            "ANA",
+            "Anti-CCP",
+            "Anti-dsDNA",
+            "Anti-histone"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anti-CCP is highly specific for rheumatoid arthritis, which is suggested by the clinical presentation and radiographic findings."
+    },
+    {
+        "question": "A patient with rheumatoid arthritis presents with difficulty breathing and is found to have ground-glass opacities on chest imaging. Which of the following is the most likely pulmonary complication?",
+        "choices": [
+            "Pulmonary embolism",
+            "Interstitial lung disease",
+            "Pleural effusion",
+            "Pulmonary hypertension"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Interstitial lung disease is a known extra-articular manifestation of rheumatoid arthritis, especially in patients with long-standing disease."
+    },
+    {
+        "question": "A 60-year-old male presents with long-standing rheumatoid arthritis and recurrent infections. Laboratory testing reveals neutropenia and splenomegaly. What is the most likely diagnosis?",
+        "choices": [
+            "Felty syndrome",
+            "Sjögren syndrome",
+            "Systemic lupus erythematosus",
+            "Ankylosing spondylitis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Felty syndrome is a triad of rheumatoid arthritis, neutropenia, and splenomegaly."
+    },
+    {
+        "question": "A 35-year-old woman with rheumatoid arthritis complains of neck pain and has a shock-like sensation down her spine when flexing her neck. Which complication should be ruled out?",
+        "choices": [
+            "Atlantoaxial subluxation",
+            "Cervical spondylosis",
+            "Thoracic outlet syndrome",
+            "Subclavian steal syndrome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Atlantoaxial subluxation is a serious complication in rheumatoid arthritis that can lead to spinal cord compression and requires imaging."
+    },
+    {
+        "question": "A patient with rheumatoid arthritis is started on methotrexate but develops mouth ulcers and GI upset. What should be co-administered to reduce these side effects?",
+        "choices": [
+            "Calcium carbonate",
+            "Vitamin D",
+            "Folic acid",
+            "Magnesium oxide"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Folic acid is used to mitigate the side effects of methotrexate, including mucositis and GI disturbances."
+    },
+    {
+        "question": "A patient with rheumatoid arthritis has been treated with methotrexate but has not achieved symptom control. Which biologic agent targeting TNF-alpha could be considered next?",
+        "choices": [
+            "Rituximab",
+            "Etanercept",
+            "Abatacept",
+            "Tocilizumab"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Etanercept is a TNF-alpha inhibitor often used when methotrexate alone does not provide adequate control of rheumatoid arthritis symptoms."
+    },
+    {
+        "question": "A 55-year-old woman with rheumatoid arthritis presents with progressive worsening of vision and severe eye pain. Examination reveals a red, tender globe. Which condition is most likely?",
+        "choices": [
+            "Conjunctivitis",
+            "Scleritis",
+            "Keratitis",
+            "Uveitis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Scleritis is associated with severe, deep eye pain and is a potential extra-articular manifestation of rheumatoid arthritis."
+    },
+    {
+        "question": "A 70-year-old male with rheumatoid arthritis presents with new-onset fatigue and unexplained weight loss. Which of the following should be considered given the chronic inflammatory state?",
+        "choices": [
+            "Renal cell carcinoma",
+            "Lung cancer",
+            "Hepatocellular carcinoma",
+            "Lymphoma"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Patients with long-standing rheumatoid arthritis are at increased risk for lymphomas due to chronic immune activation."
+    },
+    {
+        "question": "A 40-year-old woman presents with symmetric polyarthritis affecting her wrists, MCPs, and PIPs. She has been on glucocorticoids for 6 months. What is a potential long-term complication of this therapy?",
+        "choices": [
+            "Osteoporosis",
+            "Hypercalcemia",
+            "Hypothyroidism",
+            "Nephrotic syndrome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Long-term glucocorticoid use is associated with an increased risk of osteoporosis and bone fractures."
+    },
+    {
+        "question": "A 65-year-old male with rheumatoid arthritis presents with persistent cough and dyspnea. A CT scan reveals honeycombing. What is the likely diagnosis?",
+        "choices": [
+            "Pulmonary embolism",
+            "Bronchiectasis",
+            "Interstitial lung disease",
+            "Pleural effusion"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Interstitial lung disease can develop in rheumatoid arthritis, presenting with symptoms like cough and dyspnea and showing honeycombing on imaging."
+    },
+    {
+        "question": "A patient presents with joint pain and swelling that is worse with rest and improves with activity. Which feature best differentiates inflammatory from non-inflammatory joint disease?",
+        "choices": [
+            "Morning stiffness lasting more than 1 hour",
+            "Joint pain with movement",
+            "Presence of Heberden’s nodes",
+            "Worsening symptoms with use"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Morning stiffness lasting more than 1 hour is characteristic of inflammatory arthritis, such as rheumatoid arthritis."
+    },
+    {
+        "question": "A 45-year-old man with rheumatoid arthritis presents with sudden pain and swelling in the right calf. A Doppler ultrasound reveals a deep vein thrombosis (DVT). Which of the following is a potential risk factor in this patient?",
+        "choices": [
+            "Reduced mobility",
+            "Long-term use of NSAIDs",
+            "Methotrexate use",
+            "High levels of anti-CCP antibodies"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Reduced mobility, often seen in patients with active joint inflammation, is a significant risk factor for DVT in rheumatoid arthritis patients."
+    },
+    {
+        "question": "A patient with rheumatoid arthritis has persistent joint inflammation despite methotrexate therapy. Which laboratory test would indicate a need to check for treatment-related bone marrow suppression?",
+        "choices": [
+            "ESR",
+            "Complete blood count (CBC)",
+            "CRP",
+            "Anti-CCP"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Methotrexate can cause bone marrow suppression, and monitoring with a CBC is essential to detect cytopenias."
+    },
+    {
+        "question": "Which carpal bone is most commonly fractured in a fall on an outstretched hand (FOOSH) injury?",
+        "choices": [
+            "Lunate",
+            "Scaphoid",
+            "Trapezium",
+            "Hamate"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The scaphoid is the most commonly fractured carpal bone in a FOOSH injury, and fractures can lead to avascular necrosis due to its retrograde blood supply."
+    },
+    {
+        "question": "Which nerve is most likely to be affected in carpal tunnel syndrome?",
+        "choices": [
+            "Ulnar nerve",
+            "Radial nerve",
+            "Median nerve",
+            "Musculocutaneous nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Carpal tunnel syndrome results from compression of the median nerve as it passes through the carpal tunnel, leading to symptoms in the lateral 3½ fingers."
+    },
+    {
+        "question": "A 32-year-old cyclist presents with numbness and tingling in the medial 1½ digits of his right hand after a long ride. Which condition is most likely causing his symptoms?",
+        "choices": [
+            "Carpal tunnel syndrome",
+            "Ulnar canal syndrome (Guyon's canal syndrome)",
+            "Radial nerve palsy",
+            "Pronator syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ulnar canal syndrome (Guyon's canal syndrome), also known as 'handlebar palsy,' is common in cyclists and results from compression of the ulnar nerve as it passes through Guyon's canal."
+    },
+    {
+        "question": "A patient presents with weakness in thumb opposition and atrophy of the thenar eminence. Which nerve is likely affected, and what is the likely location of injury?",
+        "choices": [
+            "Ulnar nerve at the wrist",
+            "Median nerve at the wrist",
+            "Radial nerve at the elbow",
+            "Ulnar nerve at the elbow"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Injury to the median nerve at the wrist, such as in carpal tunnel syndrome, can lead to atrophy of the thenar muscles and difficulty opposing the thumb."
+    },
+    {
+        "question": "A 45-year-old man sustains a fall and lands on his outstretched hand. He presents with tenderness in the anatomical snuffbox region. Which imaging study is most appropriate to confirm the suspected diagnosis?",
+        "choices": [
+            "Ultrasound of the wrist",
+            "X-ray of the wrist",
+            "CT scan of the hand",
+            "MRI of the hand"
+        ],
+        "correctAnswer": 1,
+        "explanation": "X-ray of the wrist is the initial imaging study of choice to diagnose a suspected scaphoid fracture, which presents with tenderness in the anatomical snuffbox."
+    },
+    {
+        "question": "A patient presents with numbness and tingling in the lateral 3½ fingers. Which structure is most likely involved in this presentation?",
+        "choices": [
+            "Ulnar nerve",
+            "Radial nerve",
+            "Median nerve",
+            "Lateral cutaneous nerve of forearm"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Carpal tunnel syndrome results from compression of the median nerve as it passes through the carpal tunnel, leading to sensory symptoms in the lateral 3½ fingers."
+    },
+    {
+        "question": "Which artery forms the primary contribution to the superficial palmar arch?",
+        "choices": [
+            "Radial artery",
+            "Ulnar artery",
+            "Brachial artery",
+            "Common interosseous artery"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The ulnar artery is the primary contributor to the superficial palmar arch, although it is often completed by a superficial branch of the radial artery."
+    },
+    {
+        "question": "A patient presents with weakness in finger abduction and adduction and loss of sensation over the medial 1½ fingers. Compression of which structure is most likely responsible?",
+        "choices": [
+            "Median nerve in the carpal tunnel",
+            "Radial nerve in the anatomical snuffbox",
+            "Ulnar nerve in Guyon's canal",
+            "Anterior interosseous nerve"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Compression of the ulnar nerve in Guyon’s canal can lead to weakness of the intrinsic hand muscles and sensory loss in the medial 1½ digits."
+    },
+    {
+        "question": "A patient is undergoing an Allen test before a radial artery cannulation. What does a positive Allen test indicate?",
+        "choices": [
+            "Absence of ulnar artery perfusion",
+            "Presence of complete superficial palmar arch",
+            "Compression of the median nerve",
+            "Presence of flexor tenosynovitis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A positive Allen test indicates that there is sufficient collateral circulation through the ulnar artery to perfuse the hand if the radial artery is compromised."
+    },
+    {
+        "question": "A construction worker presents with pain and swelling in the fifth digit after a puncture wound. He has difficulty flexing and extending the finger. Which structure is most likely affected?",
+        "choices": [
+            "Flexor retinaculum",
+            "Extensor hood",
+            "Digital synovial sheath",
+            "Thenar muscles"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Infection of the digital synovial sheath can lead to flexor tenosynovitis, causing pain, swelling, and difficulty moving the affected finger."
+    },
+    {
+        "question": "A patient presents with a fracture of the scaphoid bone. What is the primary concern associated with this injury?",
+        "choices": [
+            "Damage to the median nerve",
+            "Avascular necrosis of the proximal segment",
+            "Compression of the ulnar artery",
+            "Dislocation of the lunate"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The scaphoid has a retrograde blood supply, making the proximal segment vulnerable to avascular necrosis if the bone is fractured."
+    },
+    {
+        "question": "Which ligament is most commonly injured in a wrist sprain following a fall on an outstretched hand (FOOSH)?",
+        "choices": [
+            "Ulnar collateral ligament",
+            "Palmar radiocarpal ligament",
+            "Scapholunate ligament",
+            "Radial collateral ligament"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The scapholunate ligament is often damaged in a wrist sprain due to a FOOSH injury, which can result in instability between the scaphoid and lunate bones."
+    },
+    {
+        "question": "A patient presents with sensory loss over the medial 1½ digits and weakness in the intrinsic muscles of the hand. Which structure is most likely involved?",
+        "choices": [
+            "Carpal tunnel",
+            "Guyon's canal",
+            "Flexor retinaculum",
+            "Extensor retinaculum"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Compression of the ulnar nerve in Guyon's canal results in sensory deficits over the medial 1½ digits and weakness of the intrinsic hand muscles."
+    },
+    {
+        "question": "Which bone is at the highest risk of avascular necrosis following a fracture in the anatomical snuffbox?",
+        "choices": [
+            "Lunate",
+            "Triquetrum",
+            "Scaphoid",
+            "Pisiform"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The scaphoid is prone to avascular necrosis due to its retrograde blood supply, especially when fractured in the anatomical snuffbox region."
+    },
+    {
+        "question": "A cyclist presents with weakness in grip strength and sensory loss on the palmar surface of the medial 1½ fingers. Which nerve is likely compressed?",
+        "choices": [
+            "Median nerve",
+            "Ulnar nerve",
+            "Radial nerve",
+            "Musculocutaneous nerve"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Handlebar neuropathy is caused by compression of the ulnar nerve, leading to sensory loss and weakness of muscles innervated by this nerve."
+    },
+    {
+        "question": "A 50-year-old man presents with a contracted fourth and fifth digit, making it difficult to extend his fingers. Which condition best describes his presentation?",
+        "choices": [
+            "Carpal tunnel syndrome",
+            "Dupuytren's contracture",
+            "Trigger finger",
+            "Ulnar canal syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dupuytren's contracture involves the progressive thickening of the palmar aponeurosis, leading to contracture and flexion deformity of the fingers."
+    },
+    {
+        "question": "A patient undergoes an Allen test prior to radial artery cannulation. The palm remains blanched when the ulnar artery is released. What does this indicate?",
+        "choices": [
+            "Adequate collateral circulation from the radial artery",
+            "Adequate collateral circulation from the ulnar artery",
+            "Incomplete superficial palmar arch",
+            "Normal deep palmar arch"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A positive Allen test, where the palm remains blanched, suggests insufficient collateral circulation through the superficial palmar arch, indicating an incomplete connection between the radial and ulnar arteries."
     },
 {
-    "question": "Which muscle is responsible for initiating abduction of the arm?",
+    "question": "Which of the following best describes how Medicare Part A is funded?",
     "choices": [
-        "Deltoid",
-        "Supraspinatus",
-        "Infraspinatus",
-        "Teres minor"
+        "Federal general revenue and state taxes",
+        "Payroll taxes (FICA) and federal general funds",
+        "Premiums paid by enrollees only",
+        "State and local government contributions"
     ],
     "correctAnswer": 1,
-    "explanation": "The supraspinatus muscle initiates the first 15 degrees of arm abduction before the deltoid takes over."
+    "explanation": "Medicare Part A is primarily funded through payroll taxes (FICA) and some contributions from federal general funds."
 },
 {
-    "question": "Which nerve innervates the deltoid muscle?",
+    "question": "What is the primary focus of Medicaid coverage?",
     "choices": [
-        "Radial nerve",
-        "Suprascapular nerve",
-        "Axillary nerve",
-        "Musculocutaneous nerve"
+        "Providing health insurance for individuals over 65",
+        "Assisting low-income individuals and families with medical expenses",
+        "Offering long-term care insurance for disabled veterans",
+        "Subsidizing private health insurance premiums for the uninsured"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Medicaid is designed to assist low-income individuals and families with medical expenses."
+},
+{
+    "question": "Which Medicare part covers prescription drugs?",
+    "choices": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Medicare Part D is the portion that covers prescription drug benefits."
+},
+{
+    "question": "Approximately what percentage of the U.S. population is covered by employer-sponsored health insurance?",
+    "choices": [
+        "30%",
+        "49%",
+        "60%",
+        "75%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Around 49% of the U.S. population has health insurance through their employer."
+},
+{
+    "question": "A 67-year-old patient is admitted to the hospital for a hip replacement. He is enrolled in Medicare and is concerned about what his insurance will cover. Which Medicare part is primarily responsible for covering his hospital stay?",
+    "choices": [
+        "Part A",
+        "Part B",
+        "Part C",
+        "Part D"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Medicare Part A covers inpatient hospital stays, making it the correct choice for hospital-related expenses."
+},
+{
+    "question": "A 45-year-old woman with low income is recently unemployed and applies for Medicaid. The state in which she resides did not expand Medicaid coverage under the ACA. Which of the following is likely true about her eligibility?",
+    "choices": [
+        "She is automatically eligible for Medicaid due to her unemployment status.",
+        "She may not qualify if her income is above the state-specific threshold.",
+        "She is eligible for Medicaid because it covers all uninsured adults.",
+        "She can enroll in Medicare instead."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eligibility for Medicaid depends on state-specific thresholds, and she may not qualify if her state has not expanded coverage."
+},
+{
+    "question": "A patient aged 70 has a Medicare Advantage Plan (Part C). He asks you how this differs from traditional Medicare Parts A and B. Which of the following is the most appropriate response?",
+    "choices": [
+        "Medicare Advantage Plans are state-funded while Parts A and B are federally funded.",
+        "Part C plans provide additional coverage and may include prescription drug benefits, but are managed by private insurers.",
+        "Part C only covers prescription drugs without any other medical services.",
+        "Medicare Advantage Plans are limited to low-income individuals."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Medicare Part C, or Medicare Advantage, offers the same benefits as Parts A and B, sometimes with additional coverage options and is managed by private insurance companies."
+},
+{
+    "question": "During a review of a patient's financial records, you note that a portion of her paycheck is deducted for Medicare taxes. This payroll tax primarily funds which Medicare part?",
+    "choices": [
+        "Part B",
+        "Part D",
+        "Part A",
+        "Part C"
     ],
     "correctAnswer": 2,
-    "explanation": "The deltoid is innervated by the axillary nerve (C5-C6)."
+    "explanation": "Payroll taxes (FICA) are primarily used to fund Medicare Part A."
 },
 {
-    "question": "Which ligament is involved in stabilizing the acromioclavicular joint?",
+    "question": "A 62-year-old patient presents to the clinic and mentions that her state recently expanded Medicaid under the Affordable Care Act (ACA). Which of the following populations is likely to benefit from this expansion?",
     "choices": [
-        "Costoclavicular ligament",
-        "Coracoclavicular ligament",
-        "Coracoacromial ligament",
-        "Transverse humeral ligament"
+        "Individuals with incomes up to 400% of the federal poverty level",
+        "Adults aged 19-64 with incomes up to 138% of the federal poverty level",
+        "Only children under 18 and pregnant women",
+        "Individuals over the age of 65 regardless of income"
     ],
     "correctAnswer": 1,
-    "explanation": "The coracoclavicular ligament stabilizes the acromioclavicular joint and consists of the conoid and trapezoid ligaments."
+    "explanation": "The ACA allowed states to expand Medicaid eligibility to adults with incomes up to 138% of the federal poverty level."
 },
 {
-    "question": "What is the main blood supply to the supraspinatus muscle?",
+    "question": "A 58-year-old man is newly diagnosed with diabetes and is concerned about his coverage for outpatient services like physician visits and lab work. He is enrolled in Medicare. Which Medicare part covers these services, and what percentage does it typically pay after the deductible is met?",
     "choices": [
-        "Circumflex scapular artery",
-        "Suprascapular artery",
-        "Dorsal scapular artery",
-        "Posterior circumflex humeral artery"
+        "Part A, 100%",
+        "Part B, 80%",
+        "Part D, 50%",
+        "Part C, 90%"
     ],
     "correctAnswer": 1,
-    "explanation": "The suprascapular artery supplies the supraspinatus and infraspinatus muscles."
+    "explanation": "Medicare Part B covers outpatient services and typically pays 80% of the approved amount after the deductible is met."
 },
 {
-    "question": "What structure passes through the radial groove of the humerus?",
+    "question": "Which of the following is the best treatment of Paget disease?",
     "choices": [
-        "Ulnar nerve",
+        "Bisphosphonates",
+        "Estrogen",
+        "NSAIDs",
+        "Vitamin D"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is bisphosphonates (A). Paget disease is treated with bisphosphonates as they work by inhibiting osteoclast activity. Estrogen (B) induces apoptosis in osteoclasts and is a potential treatment for osteoporosis in postmenopausal women. NSAIDs (C) allow for pain control but are not the first-line treatment in Paget disease. Vitamin D supplementation (D) is used to treat osteomalacia and rickets."
+},
+{
+    "question": "A 4-year-old girl is brought to the pediatrician’s office. Her mother says that she noticed that her legs seem unsteady and bowed when the girl stands. She noticed this for the first time 2 months ago. What is the most likely diagnosis?",
+    "choices": [
+        "Osteopenia",
+        "Osteoporosis",
+        "Paget disease",
+        "Rickets"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is rickets (D). Rickets often occurs in children aged 6-23 months or 12-15 years because of vitamin D deficiency and presents with genu varum, or bow legs. Osteoporosis (B) is a disorder of decreased bone mineral density that is common in postmenopausal women and caused by factors such as old age and decreased estrogen levels. Osteopenia (A) is a milder loss of bone mineral density that is a precursor to osteoporosis. Paget disease (C) is characterized by increased deposition of poor-quality bone that is typically seen in adults older than 55 years and not seen in children."
+},
+{
+    "question": "Which of the following is seen in both osteomalacia and osteoporosis?",
+    "choices": [
+        "Elevated bone alkaline phosphatase",
+        "Frequent bone fractures",
+        "Low vitamin D levels",
+        "Hypocalcemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is frequent bone fractures (B). Both disorders lead to weakened bone, making them prone to fractures. Elevated alkaline phosphatase (A) is indicative of high bone turnover, typically seen in hyperparathyroidism rather than in osteomalacia or osteoporosis. Low vitamin D levels (C) are associated with osteomalacia but not osteoporosis. Hypocalcemia (D) is common in osteomalacia due to vitamin D deficiency but not in osteoporosis."
+},
+{
+    "question": "Which of the following is a major component of bone matrix?",
+    "choices": [
+        "Chondroitin sulfate",
+        "Hydroxyapatite",
+        "Nitric oxide",
+        "Type II collagen",
+        "Type IV collagen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is hydroxyapatite (B). Hydroxyapatite and type I collagen are the major components of bone matrix. Chondroitin sulfate (A) and type II collagen (D) are both major components of cartilage. Nitric oxide (C) is a gaseous signaling molecule, and type IV collagen (E) is a major component of the basal lamina in epithelial tissue."
+},
+{
+    "question": "Where in a developing long bone does the secondary ossification center form?",
+    "choices": [
+        "Diaphysis",
+        "Epiphysis",
+        "Growth plate",
+        "Medullary cavity",
+        "Metaphysis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is epiphysis (B). During endochondral ossification, the secondary ossification center arises after birth and involves the same process of blood vessel and osteogenic cell invasion that occurs in the primary ossification center. In long bones, the primary ossification center is located in the diaphysis (A), but the secondary ossification center is located in the epiphysis. The growth plate (C) is a portion of the metaphysis (E) that maintains cartilage after secondary ossification occurs and continues to grow before becoming ossified in adolescence. The medullary cavity (D) of long bones is a space in the diaphysis that stores red and yellow bone marrow."
+},
+{
+    "question": "High serum levels of which of the following would lead to decreased bone resorption?",
+    "choices": [
+        "Calcium",
+        "Interleukin 6",
+        "Parathyroid hormone",
+        "RANK ligand"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is calcium (A). High serum calcium would suppress parathyroid hormone (PTH) secretion, which would lower bone resorption. Bone resorption is done by osteoclasts, and their activity is stimulated by parathyroid hormone (via osteoblast release of RANK ligand) and IL-6. IL-6 (B), PTH (C), and RANKL (D) all increase osteoclast activity and increase bone resorption."
+},
+{
+    "question": "A 6-year-old boy is brought to his pediatrician by his mother. She says she has noticed that he isn’t able to see or hear as well as he used to. She states that other members of her family have had a similar condition. On x-ray, sclerotic thickened dense bones are seen. Which of the following cell types is not appropriately secreting protons in this condition?",
+    "choices": [
+        "Monocytes",
+        "Osteoblast",
+        "Osteoclast",
+        "Platelets"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is osteoclast (C). Osteoclasts secrete protons for bone resorption. In osteopetrosis, some patients have a defect in carbonic anhydrase II in osteoclasts, leading to an inability to secrete protons and thus loss of normal bone resorption. Monocytes (A) can differentiate into osteoclasts; however, they do not directly secrete protons for bone resorption. Osteoblasts (B) build bone by secreting collagen. Platelets (D) do not cause osteopetrosis; however, in osteopetrosis, replacing bone marrow can lead to low levels of platelets."
+},
+{
+    "question": "What is the inheritance pattern of achondroplasia?",
+    "choices": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "Combination of genetic and environmental factors",
+        "X-linked recessive"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is autosomal dominant (A). Achondroplasia is inherited in an autosomal dominant fashion. It is caused by a mutation in FGFR3 that leads to short stature with a normal head size. Autosomal recessive (B), genetic and environmental factors (C), and X-linked recessive (D) are all incorrect."
+},
+{
+    "question": "A 4-year-old child is brought to the emergency department with multiple fractures on his left hand, right femur, and left tibia. The parents report he fell while playing with his siblings. They deny any family history of genetic conditions. On physical exam, you notice bruising on the body and white sclera. The child is crying but able to hear and respond to you. What is the most likely diagnosis?",
+    "choices": [
+        "Achondroplasia",
+        "Child abuse",
+        "Osteogenesis imperfecta",
+        "Syndactyly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is child abuse (B). Multiple fractures in a young child and the presence of bruising raise suspicion for child abuse. Furthermore, the presence of white sclera, ability to hear properly, and lack of family history of any genetic conditions make osteogenesis imperfecta less likely. In achondroplasia (A), bone growth is stunted, but multiple fractures are not typical. In osteogenesis imperfecta (C), you would often expect to see blue sclera, hearing loss, and indication of family history of the condition. In syndactyly (D), the digits are abnormally fused together; it is not related to frequency of bruising and fractures."
+},
+{
+    "question": "Which of the following is required for forearm pronation to occur?",
+    "choices": [
+        "Abduction of the carpal bones at the wrist",
+        "Abduction of the ulna at the elbow",
+        "Adduction of the ulna at the elbow",
+        "Independent, non-joined radius and ulna",
+        "Rotation of the radius against the humerus"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is rotation of the radius against the humerus (E). Pronation of the forearm occurs when the radius rotates against the humerus and twists over the ulna, flipping the hand position 180°. The rotation can occur because the concave head of the radius articulates with the rounded capitulum of the humerus. Pronation occurs in the forearm, not the wrist, and the carpal bones do not adduct (A). There is no abduction of the ulna (B) or radius (C) at the elbow, only flexion and extension. The radius and ulna are not independent and non-joined (D); they are joined at the proximal and distal radioulnar joints, which are part of the elbow and wrist, respectively."
+},
+{
+    "question": "A 78-year-old female comes to you 2 days after she fell forward and landed on her outstretched arm. She reports pain at her lateral wrist since then. You palpate her hand in the space between the extensor pollicis longus, the extensor pollicis brevis, and the abductor pollicis longus and can reproduce the pain. Which of the following is her most likely injury?",
+    "choices": [
+        "Adhesive capsulitis",
+        "Pisiform fracture",
+        "Radius fracture",
+        "Scaphoid fracture",
+        "Ulnar fracture"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is scaphoid fracture (D). The scaphoid sits at the base of the anatomic snuffbox on the lateral dorsum of the hand, formed from the tendons of the extensor pollicis longus, the extensor pollicis brevis, and the abductor pollicis longus. The carpal scaphoid bone is often fractured after a fall on an outstretched hand. Adhesive capsulitis (A) occurs with repetitive trauma to the glenohumeral joint, causing formation of adhesions. The pisiform (B) is another carpal bone but is not near the anatomic snuffbox. Distal fractures of the radius (C) or ulna (E) present with wrist swelling."
+},
+{
+    "question": "Which of the following joints is a hinge joint?",
+    "choices": [
+        "Acromioclavicular joint",
+        "Carpometacarpal joint of the thumb",
+        "Glenohumeral joint",
+        "Interphalangeal joint of the thumb",
+        "Sternoclavicular joint"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is interphalangeal (IP) joint of the thumb (D). All the interphalangeal joints of the digits are hinge joints, with full flexion and limited extension. The acromioclavicular joint (A) connects the scapula to the clavicle and is a simple plane (sliding) joint. The carpometacarpal joint of the thumb (B) is a saddle joint that allows motion in multiple planes, including opposition. The glenohumeral (shoulder) joint (C) is a ball-and-socket joint allowing motion in all directions. The sternoclavicular joint (E) is a flexible saddle joint that allows motion in multiple directions."
+},
+{
+    "question": "Which of the following is an intrinsic muscle of the hand that moves the thumb toward the palm?",
+    "choices": [
+        "Abductor pollicis brevis",
+        "Abductor pollicis longus",
+        "Adductor pollicis",
+        "Flexor digitorum profundus",
+        "Flexor digitorum superficialis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is adductor pollicis (C). The adductor pollicis is an intrinsic muscle of the hand that adducts the thumb, moving it toward the midline in the palmar plane. The abductor pollicis brevis (A) is an intrinsic hand muscle that abducts the thumb, moving it away from the midline. The abductor pollicis longus (B) also abducts the thumb and originates in the forearm, so it is not an intrinsic hand muscle. The flexor digitorum profundus (D) and superficialis (E) are forearm muscles that flex digits 2-5."
+},
+{
+    "question": "A 37-year-old woman comes to your office describing pain over her lateral elbow. You can reproduce the pain by having her extend her hand against resistance. What muscles are most likely involved?",
+    "choices": [
+        "The biceps brachii (short head)",
+        "The extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris",
+        "The opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis",
+        "The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is the extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris (B). These are the extensor muscles of the posterior forearm that originate from the lateral epicondyle or common extensor origin. Overuse of the extensors stresses extensor tendons, leading to pain over the lateral condyle, or tennis elbow."
+},
+{
+    "question": "Which of the following muscles originates in the forearm?",
+    "choices": [
+        "Flexor digitorum superficialis",
+        "Flexor pollicis brevis",
+        "Lumbricals",
+        "Opponens pollicis",
+        "Palmar interossei"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is flexor digitorum superficialis (A). This muscle originates in the forearm and crosses the wrist, flexing digits 2-5. The other listed options are all intrinsic to the hand, with origins and insertions in the wrist or more distal. The flexor pollicis brevis (B) flexes the thumb. The lumbricals (C) flex the first phalanx and extend the second and third phalanges. The opponens pollicis (D) opposes the thumb against the fifth finger. The palmar interossei (E) adduct the fingers to midline."
+},
+{
+    "question": "Which of these arteries is a branch of the radial artery?",
+    "choices": [
+        "Anterior interosseous artery",
+        "Axillary artery",
+        "Brachial artery",
+        "Deep palmar arch",
+        "Ulnar artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is deep palmar arch (D). The radial artery crosses the wrist and is largely responsible for creating the deep palmar arch, which supplies many of the intrinsic muscles of the fingers. The axillary (B) and brachial (C) arteries are proximal to the radial artery. The anterior interosseous artery (A) is a branch of the ulnar artery (E), which is not a branch of the radial artery but is a branch of the more proximal brachial artery."
+},
+{
+    "question": "Through which of these vessels will lymph from the right finger most likely flow?",
+    "choices": [
+        "Inferior vena cava",
+        "Left subclavian vein",
+        "Right cephalic vein",
+        "Right lymphatic duct",
+        "Thoracic duct"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is right lymphatic duct (D). The lymph from the extremities does not run through upper extremity veins (C) but instead runs through lymphatics, moving to the right or left lymphatic duct corresponding to the right or left extremity. From there, the lymphatic ducts empty into the corresponding subclavian vein or internal jugular vein. The lymph would not enter the inferior vena cava (A), which drains the lower extremities and abdomen. It would not enter the left subclavian vein (B), because that drains the left upper extremity, abdomen, and lower extremities via the thoracic duct. The thoracic duct (E) is another name for the left lymphatic duct, which drains the left upper extremity, not the right."
+},
+{
+    "question": "A 19-year-old man comes to your office concerned that he cannot lift his hand. On physical exam, his wrist extensor strength is 1/5, and there is impaired sensation over the back of the hand. He sheepishly admits that he may have fallen asleep with his arm over a chair while at a party last night. Which of the following nerves is most likely injured?",
+    "choices": [
+        "Axillary nerve",
+        "C5 spinal nerve",
         "Median nerve",
         "Radial nerve",
-        "Axillary nerve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The radial nerve runs in the radial (spiral) groove of the humerus along with the deep brachial artery."
-},
-{
-    "question": "A 34-year-old male presents after a fall on an outstretched hand, complaining of shoulder pain. Radiographs show a fractured clavicle. The patient’s shoulder appears drooped. What muscle is unable to hold up the upper limb in this injury?",
-    "choices": [
-        "Trapezius",
-        "Deltoid",
-        "Pectoralis major",
-        "Supraspinatus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The trapezius helps support the upper limb. After a clavicular fracture, the shoulder droops due to the loss of structural support."
-},
-{
-    "question": "A patient sustains an anterior shoulder dislocation. Which nerve is most at risk of injury in this type of dislocation?",
-    "choices": [
-        "Radial nerve",
-        "Ulnar nerve",
-        "Musculocutaneous nerve",
-        "Axillary nerve"
+        "Upper trunk of brachial plexus"
     ],
     "correctAnswer": 3,
-    "explanation": "The axillary nerve runs close to the inferior aspect of the glenohumeral joint, making it vulnerable in an anterior dislocation."
+    "explanation": "The correct answer is the radial nerve (D). Compression of the radial nerve at the radial groove often occurs in people who fall asleep with their arm over a chair. The injury to the radial nerve leads to loss of extensor function, wrist drop, and impaired sensation over the back of the hand. The axillary nerve (A) is injured by anterior dislocation of the humerus or fracture of the surgical neck, leading to impaired arm abduction and sensation over the shoulder. The C5 spinal nerve (B) is injured in a radiculopathy due to disc disease, leading to weak upper arm abduction and numbness over the shoulder and lateral upper arm. A median nerve injury (C) leads to loss of flexion of the first three digits (the hand of benediction) if proximal, usually due to a humerus fracture. Distal median nerve injury leads to impaired thenar sensation and muscle function, usually due to carpal tunnel compression of the nerve. Injury to the upper trunk of the brachial plexus (E) is Erb-Duchenne palsy and leads to the waiter tip deformity, due to a paralysis of the arm that occurs with extreme separation of the shoulder from the neck."
 },
 {
-    "question": "A 45-year-old man presents with shoulder pain and difficulty initiating abduction of the arm. Examination reveals weakness in the muscle responsible for the first 15 degrees of abduction. Which nerve is most likely affected?",
-    "choices": [
-        "Axillary nerve",
-        "Radial nerve",
-        "Suprascapular nerve",
-        "Musculocutaneous nerve"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The suprascapular nerve innervates the supraspinatus muscle, which initiates abduction."
-},
-{
-    "question": "A 50-year-old female presents with shoulder instability and frequent dislocations. Imaging shows an injury to the rotator cuff. Which muscle of the rotator cuff is primarily responsible for preventing superior displacement of the humeral head?",
-    "choices": [
-        "Infraspinatus",
-        "Subscapularis",
-        "Teres minor",
-        "Supraspinatus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The supraspinatus muscle plays a key role in stabilizing the humeral head by keeping it compressed in the glenoid fossa."
-},
-{
-    "question": "A 55-year-old woman presents with difficulty abducting her arm beyond 90 degrees. Imaging reveals a rotator cuff injury. Which muscle injury would most likely impair her ability to abduct her arm past 90 degrees?",
-    "choices": [
-        "Supraspinatus",
-        "Subscapularis",
-        "Serratus anterior",
-        "Deltoid"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The serratus anterior, innervated by the long thoracic nerve, allows upward rotation of the scapula, which is necessary for abduction beyond 90 degrees."
-},
-{
-    "question": "A 60-year-old man has difficulty extending his arm and forearm after suffering a mid-shaft humerus fracture. Which nerve is most likely affected?",
-    "choices": [
-        "Axillary nerve",
-        "Radial nerve",
-        "Musculocutaneous nerve",
-        "Ulnar nerve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The radial nerve runs in the radial groove of the humerus and innervates muscles responsible for arm and forearm extension."
-},
-{
-    "question": "A 35-year-old woman presents after a motor vehicle accident with weakness in adduction and medial rotation of her arm. Which muscle is most likely affected?",
-    "choices": [
-        "Deltoid",
-        "Latissimus dorsi",
-        "Supraspinatus",
-        "Infraspinatus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The latissimus dorsi is responsible for adduction, extension, and medial rotation of the arm, and is innervated by the thoracodorsal nerve."
-},
-{
-    "question": "What is the most common benign epithelial lesion in middle-aged and older adults?",
-    "choices": [
-        "Actinic keratosis",
-        "Seborrheic keratosis",
-        "Basal cell carcinoma",
-        "Squamous cell carcinoma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Seborrheic keratosis is a very common benign lesion found in middle-aged and older adults."
-},
-{
-    "question": "Which subtype of human papillomavirus (HPV) is most commonly associated with verruca vulgaris (common wart)?",
-    "choices": [
-        "HPV-1",
-        "HPV-2",
-        "HPV-6",
-        "HPV-11"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Verruca vulgaris (common wart) is most commonly associated with HPV-2."
-},
-{
-    "question": "What is the characteristic histological feature of basal cell carcinoma?",
-    "choices": [
-        "Keratin pearls",
-        "Koilocytosis",
-        "Peripheral palisading",
-        "Vascular invasion"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Basal cell carcinoma is characterized by peripheral palisading of the tumor cells and stromal retraction."
-},
-{
-    "question": "Which layer of the skin is typically involved in an epidermal inclusion cyst?",
-    "choices": [
-        "Dermis",
-        "Epidermis",
-        "Subcutis",
-        "Papillary dermis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "An epidermal inclusion cyst originates from the epidermis, specifically the follicular infundibulum."
-},
-{
-    "question": "Which lesion is most commonly associated with a high risk of progression to squamous cell carcinoma?",
-    "choices": [
-        "Seborrheic keratosis",
-        "Actinic keratosis",
-        "Basal cell carcinoma",
-        "Merkel cell carcinoma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Actinic keratosis is a premalignant lesion that can progress to squamous cell carcinoma."
-},
-{
-    "question": "A 58-year-old man presents with a pearly, pink, dome-shaped nodule with telangiectasias on his nose. Biopsy shows basaloid cells with peripheral palisading. What is the most likely diagnosis?",
-    "choices": [
-        "Basal cell carcinoma",
-        "Squamous cell carcinoma",
-        "Seborrheic keratosis",
-        "Melanoma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "This presentation is characteristic of basal cell carcinoma, the most common skin cancer."
-},
-{
-    "question": "A 45-year-old man has a hyperkeratotic lesion on his scalp that has been slowly enlarging. A biopsy reveals full-thickness epidermal atypia with no dermal invasion. What is the most likely diagnosis?",
-    "choices": [
-        "Squamous cell carcinoma in situ",
-        "Basal cell carcinoma",
-        "Actinic keratosis",
-        "Melanoma"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Squamous cell carcinoma in situ, also known as Bowen's disease, is characterized by full-thickness atypia confined to the epidermis."
-},
-{
-    "question": "A 60-year-old woman presents with a pigmented lesion on her upper back. It is asymmetric, has an irregular border, varies in color, and is larger than 6 mm. Which of the following features most suggests melanoma?",
-    "choices": [
-        "Symmetry",
-        "Irregular border",
-        "Uniform color",
-        "Diameter <6 mm"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Melanoma often presents with asymmetry, irregular borders, color variation, and a diameter greater than 6 mm."
-},
-{
-    "question": "A 65-year-old man presents with a non-healing ulcer on his lower lip. A biopsy reveals keratin pearls and invasion of the dermis. What is the most likely diagnosis?",
-    "choices": [
-        "Basal cell carcinoma",
-        "Squamous cell carcinoma",
-        "Melanoma",
-        "Actinic keratosis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Squamous cell carcinoma often presents as a non-healing ulcer, with keratin pearls and dermal invasion on histology."
-},
-{
-    "question": "A 52-year-old woman with a history of chronic sun exposure presents with a rough, scaly lesion on her face. Histological examination reveals hyperkeratosis and parakeratosis with basal layer dysplasia. What is the most appropriate management?",
-    "choices": [
-        "Cryotherapy",
-        "Mohs surgery",
-        "Wide excision",
-        "Topical corticosteroids"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Cryotherapy is often used to treat actinic keratosis, a premalignant lesion associated with chronic sun exposure."
-},
-{
-    "question": "A 70-year-old man with a long history of sun exposure presents with a firm, ulcerated nodule on his scalp. Biopsy reveals dermal invasion by atypical squamous cells. What is the most likely diagnosis?",
-    "choices": [
-        "Basal cell carcinoma",
-        "Squamous cell carcinoma",
-        "Seborrheic keratosis",
-        "Merkel cell carcinoma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The patient's presentation is consistent with squamous cell carcinoma, which commonly affects sun-exposed areas."
-},
-{
-    "question": "A 58-year-old man who underwent a kidney transplant 5 years ago presents with a non-healing ulcerated lesion on his lower lip. He has been on chronic immunosuppressive therapy since his transplant. Biopsy of the lesion reveals malignant keratinocytes invading the dermis. What is the most likely diagnosis?",
-    "choices": ["Basal cell carcinoma", "Malignant melanoma", "Squamous cell carcinoma", "Kaposi sarcoma"],
-    "correctAnswer": 2,
-    "explanation": "The most likely diagnosis is squamous cell carcinoma. Immunosuppressed individuals, such as organ transplant recipients, have an increased risk of developing SCC, which often presents as non-healing ulcerated lesions. Biopsy confirms the diagnosis by showing malignant keratinocytes invading the dermis."
-},
-{
-    "question": "A 32-year-old woman presents with a small, mobile, soft nodule on her upper arm that has been present for years. The lesion is excised and shows mature adipose tissue on histology. What is the most likely diagnosis?",
-    "choices": [
-        "Dermatofibroma",
-        "Lipoma",
-        "Neurofibroma",
-        "Basal cell carcinoma"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Lipomas are common benign tumors composed of mature adipose tissue and are often soft and mobile."
-},
-{
-    "question": "Which bacterial pathogen is most commonly associated with non-bullous impetigo?",
-    "choices": [
-        "Staphylococcus aureus",
-        "Streptococcus pneumoniae",
-        "Pseudomonas aeruginosa",
-        "Escherichia coli"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Staphylococcus aureus is the most common cause of non-bullous impetigo, though Streptococcus pyogenes can also be involved."
-},
-{
-    "question": "What is the first-line treatment for mild cases of non-bullous impetigo with a few lesions?",
-    "choices": [
-        "Oral clindamycin",
-        "Topical mupirocin",
-        "Oral amoxicillin/clavulanate",
-        "Topical fluconazole"
-    ],
-    "correctAnswer": 1,
-    "explanation": "For mild non-bullous impetigo with a few lesions, topical mupirocin is recommended."
-},
-{
-    "question": "Which bacteria is most commonly associated with erysipelas?",
-    "choices": [
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Haemophilus influenzae",
-        "Pseudomonas aeruginosa"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Erysipelas is most commonly caused by Streptococcus pyogenes."
-},
-{
-    "question": "What is the typical causative organism for necrotizing fasciitis type II?",
-    "choices": [
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Clostridium perfringens",
-        "Vibrio vulnificus"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Necrotizing fasciitis type II is typically caused by Streptococcus pyogenes."
-},
-{
-    "question": "A 48-year-old man developed severe pain, swelling, and tenderness of the right shoulder one week after a stab wound. He is febrile and toxic-appearing. On exam, there is marked swelling, deep tenderness, cutaneous anesthesia, and palpable crepitus. What is the most likely diagnosis?",
-    "choices": [
-        "Bullous impetigo",
-        "Cellulitis",
-        "Ecthyma gangrenosum",
-        "Gas gangrene",
-        "Necrotizing fasciitis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The clinical picture, including palpable crepitus, strongly suggests gas gangrene, typically caused by Clostridium perfringens."
-},
-{
-    "question": "A 75-year-old woman developed a bright-red, sharply demarcated lesion with peau d'orange appearance on her cheek. She also has fever and chills. What is the most likely causative organism?",
-    "choices": [
-        "Clostridium perfringens",
-        "Haemophilus influenzae",
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes"
-    ],
-    "correctAnswer": 3,
-    "explanation": "This presentation, including the sharply demarcated lesion and systemic symptoms, is typical of erysipelas caused by Streptococcus pyogenes."
-},
-{
-    "question": "A 52-year-old diabetic woman presents with fever, diffuse redness, and several purulent bullae on her left lower leg. What is the most likely causative organism?",
-    "choices": [
-        "Clostridium perfringens",
-        "Mixed flora",
-        "Staphylococcus aureus",
-        "Vibrio vulnificus"
-    ],
-    "correctAnswer": 2,
-    "explanation": "In a diabetic patient with soft tissue infection and bullae, Staphylococcus aureus, especially methicillin-resistant Staphylococcus aureus (MRSA), is a common cause."
-},
-{
-    "question": "A 30-year-old man in Florida presents with a tender, fluctuant lesion on his abdomen two days after a suspected brown recluse spider bite. What is the most likely cause of this lesion?",
-    "choices": [
-        "Bacillus anthracis",
-        "Brown recluse toxin",
-        "Staphylococcus aureus (MRSA)",
-        "Streptococcus pyogenes"
-    ],
-    "correctAnswer": 2,
-    "explanation": "In this case, the fluctuant lesion is more likely due to an MRSA abscess than the brown recluse venom."
-},
-{
-    "question": "A 49-year-old obese woman with chronic leg edema develops worsening erythema, swelling, and pain in her left leg. Her WBC count is 18,000 and she is febrile. What is the most likely diagnosis?",
-    "choices": [
-        "Bullous impetigo",
-        "Cellulitis",
-        "Erysipelas",
-        "Necrotizing fasciitis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The presentation is consistent with cellulitis, a bacterial infection involving the deep dermis and subcutaneous tissues."
-},
-{
-    "question": "A 30-year-old soccer player develops increasing pain, redness, and a red streak extending from an abrasion on his knee to his thigh. What is the most likely finding on Gram stain?",
-    "choices": [
-        "Gram-negative coccobacilli",
-        "Gram-positive cocci in chains",
-        "Gram-positive cocci in clusters",
-        "Mixed microbial flora"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The red streak suggests lymphangitis, most commonly caused by Streptococcus pyogenes, which appears as Gram-positive cocci in chains on Gram stain."
-},
-{
-    "question": "A 52-year-old IV drug user presents with fever, leg swelling, and erythema after stepping on a sharp object while wading in a lake. Blood cultures are most likely to grow which organism?",
-    "choices": [
-        "Aeromonas hydrophila",
-        "Pseudomonas aeruginosa",
-        "Staphylococcus aureus",
-        "Vibrio vulnificus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "In this case, Vibrio vulnificus is the likely cause of cellulitis following exposure to warm salt water, especially in an immunocompromised patient."
-},
-{
-    "question": "A 27-year-old nurse presents with recurrent redness, tenderness, and blistering of the distal part of her index finger. What is the most likely diagnosis?",
-    "choices": [
-        "Allergic reaction to latex gloves",
-        "Herpetic whitlow",
-        "Onychomycosis",
-        "Osteomyelitis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Herpetic whitlow is a recurrent viral infection of the fingers caused by HSV, characterized by tenderness and vesicles."
-},
-{
-    "question": "A 48-year-old man developed severe pain, swelling, and tenderness of the right shoulder 1 week following a stab wound. He is febrile and toxic-appearing. On exam, there is marked swelling, deep tenderness, and cutaneous anesthesia. The skin is not easily compressed when palpated, but there is palpable crepitus. The most likely diagnosis is which of the following?",
-    "choices": [
-        "Bullous impetigo",
-        "Cellulitis",
-        "Ecthyma gangrenosum",
-        "Gas gangrene",
-        "Necrotizing fasciitis"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The presentation of crepitus, pain, and toxic appearance is consistent with necrotizing fasciitis."
-},
-{
-    "question": "An 81-year-old woman developed the abrupt onset of markedly worsening pain in the area of the operative wound of a recent total hip replacement. On exam, she is apprehensive and in great pain. The wound is red with dark bullous lesions. She has a rapid tachycardia, a BP of 90/40, and marked confusion. The most likely diagnosis is which of the following?",
-    "choices": [
-        "Bullous impetigo",
-        "Cellulitis",
-        "Ecthyma gangrenosum",
-        "Gas gangrene",
-        "Necrotizing fasciitis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The clinical signs of hypotension, tachycardia, and dark bullous lesions suggest gas gangrene."
-},
-{
-    "question": "A 35-year-old man with Crohn’s disease comes to a physician because of a chronic ulcerative lesion on his right leg for 3 months unresponsive to multiple courses of antibiotics. The most likely diagnosis is which of the following?",
-    "choices": [
-        "Bullous impetigo",
-        "Cellulitis",
-        "Gas gangrene",
-        "Necrotizing fasciitis",
-        "Pyoderma gangrenosum"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Pyoderma gangrenosum is associated with chronic ulcerative lesions, particularly in patients with Crohn’s disease."
-},
-{
-    "question": "A two-year-old Mexican girl is brought to an emergency room for a spotty, itchy rash at the site of insect bites on her body, which has been present for 3 weeks. Exam shows a cranky child who is not ill-appearing and afebrile. There are several yellowish crusted lesions of varying sizes surrounded by an erythematous border. The most likely cause of this rash is which of the following?",
-    "choices": [
-        "Propionibacterium acnes",
-        "Pseudomonas aeruginosa",
-        "Staphylococcus aureus",
-        "Streptococcus agalactiae",
-        "Streptococcus pyogenes"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Impetigo is typically caused by Staphylococcus aureus and Streptococcus pyogenes."
-},
-{
-    "question": "A 75-year-old woman developed a bright-red circumscribed lesion near the fissure at the angle of her left external naris. Over the next several days, the area enlarged, became tense and sharply demarcated, and was very tender. There was edema in the epidermis giving the area a 'peau d'orange' appearance. Associated symptoms included fever and rigors. Her WBC count was 22,000 with a left shift. The most likely cause is which of the following?",
-    "choices": [
-        "Clostridium perfringens",
-        "Haemophilus influenzae",
-        "Staphylococcus aureus",
-        "Streptococcus agalactiae",
-        "Streptococcus pyogenes"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The 'peau d'orange' appearance and sharply demarcated lesion are classic for erysipelas, commonly caused by Streptococcus pyogenes."
-},
-{
-    "question": "A 28-year-old soccer player suffered an abrasion on his knee during a game. Within 48 hours, he developed increasing pain and redness at the site, and low-grade fever and malaise. On exam, he was febrile (39°C), and the area was red and tender with a thin watery exudate and a red streak extending to the mid-thigh. A tender inguinal node is present. A Gram’s stain of the lesion would most likely show which of the following?",
-    "choices": [
-        "Gram-negative coccobacilli",
-        "Gram-positive cocci in chains",
-        "Gram-positive cocci in clusters",
-        "Mixed microbial flora",
-        "Pleomorphic budding yeast"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The red streak and tender node suggest lymphangitis caused by Group A streptococcus, which appears as Gram-positive cocci in chains."
-},
-{
-    "question": "A 30-year-old Florida man comes to a physician for evaluation of a suspected brown recluse spider bite. He recalls no contact with spiders but was working under houses two days earlier. On exam, he is febrile (101°F) but not toxic-appearing. The lesion in question is on the abdomen, and it is rounded, 3 cm in diameter, red, tender, and fluctuant. The most likely cause is which of the following?",
-    "choices": [
-        "Bacillus anthracis",
-        "Brown recluse toxin",
-        "Staphylococcus aureus (MRSA)",
-        "Streptococcus agalactiae",
-        "Streptococcus pyogenes"
-    ],
-    "correctAnswer": 2,
-    "explanation": "A fluctuant lesion suggests an abscess caused by MRSA, not a brown recluse spider bite, which is rare in Florida."
-},
-{
-    "question": "A 20-year-old man has had recurrent 'boils' in both axillae and in his groin since age 13, requiring multiple courses of antibiotics and surgical drainage. He presents with another boil but no systemic complaints. A Gram’s stain of drainage from one of these lesions would likely show which of the following?",
-    "choices": [
-        "Gram-negative coccobacilli",
-        "Gram-negative rods",
-        "Gram-positive cocci in clusters",
-        "Gram-positive cocci in chains",
-        "Mixed flora"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Recurrent boils (furuncles) are consistent with hidradenitis suppurativa, which typically presents with mixed flora on Gram stain."
-},
-{
-    "question": "A 55-year-old man stepped on a shell while wading in a lake. Within 48 hours, pain and swelling developed in the wound, followed by fever, chills, and prostration. On exam, he is febrile (40°C) and toxic-appearing. His left lower leg is diffusely red, edematous, and tender. This clinical picture suggests that his blood cultures will likely yield which of the following?",
-    "choices": [
-        "Aeromonas hydrophila",
-        "Pseudomonas aeruginosa",
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Vibrio vulnificus"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The history of lake exposure and subsequent systemic symptoms strongly suggests infection by Aeromonas hydrophila."
-},
-{
-    "question": "A 52-year-old diabetic woman with chronic leg edema developed pain, swelling, and redness of her left lower leg. On exam, she is toxic and febrile (102°F). Her WBC is 23,000 and her blood glucose is 270 mg/dL. The leg shows diffuse redness and swelling, moderate tenderness, and several bullae containing purulent fluid. The most likely cause is which of the following?",
-    "choices": [
-        "Clostridium perfringens",
-        "Mixed flora",
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Vibrio vulnificus"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The clinical presentation of bullae in a diabetic patient points to Staphylococcus aureus as the most common cause."
-},
-{
-    "question": "A 49-year-old obese woman with a 6-year history of recurrent leg edema developed worsening edema in her left lower extremity, marked erythema, pain, and tenderness, making her unable to walk. She has a temperature of 39°C. Her WBC count is 18,000. The most likely diagnosis is which of the following?",
-    "choices": [
-        "Bullous impetigo",
-        "Cellulitis",
-        "Erysipelas",
-        "Gas gangrene",
-        "Necrotizing fasciitis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The clinical presentation of erythema, swelling, and tenderness suggests cellulitis, which is often caused by community-acquired MRSA."
-},
-{
-    "question": "A 27-year-old nurse comes to a physician because of the second recurrence of redness, tenderness, and blister formation in the same digit. On exam, the distal part of her index finger is red and tender with a cluster of coalescent vesicles around the nail bed. This clinical picture suggests which of the following?",
-    "choices": [
-        "Allergic reaction to latex gloves",
-        "Herpetic whitlow",
-        "Onychomycosis",
-        "Osteomyelitis of the distal phalanx",
-        "Staphylococcal paronychial infection"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The cluster of vesicles on the finger is classic for herpetic whitlow, typically caused by HSV-2."
-},
-{
-    "question": "A 32-year-old woman presents with pruritic pink wheals that appear and disappear within 24 hours. The lesions are annular and arcuate. What is the underlying pathophysiology of this condition?",
-    "choices": [
-        "T cell-mediated immune response",
-        "Mast cell degranulation with histamine release",
-        "Immune-complex deposition",
-        "Direct damage to keratinocytes"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Urticaria is caused by mast cell degranulation, which leads to histamine release, increased capillary permeability, and fluid extravasation."
-},
-{
-    "question": "A patient presents with urticaria that has persisted for over 6 weeks. Which of the following is a potential underlying cause?",
-    "choices": [
-        "Food allergies",
-        "Streptococcal infection",
-        "Idiopathic autoimmune disorder",
-        "Penicillin use"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Chronic urticaria (lasting >6 weeks) is often idiopathic or autoimmune in nature, unlike acute urticaria which is frequently due to drugs, food, or infections."
-},
-{
-    "question": "A patient experiences a drug-induced morbilliform rash characterized by blanchable macules and papules. Which type of hypersensitivity reaction is this most likely?",
-    "choices": [
-        "Type I (IgE-mediated)",
-        "Type II (cytotoxic)",
-        "Type III (immune complex-mediated)",
-        "Type IV (T cell-mediated)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Morbilliform drug reactions are often type IV hypersensitivity reactions, mediated by T cells."
-},
-{
-    "question": "A 45-year-old male develops a maculopapular rash 5 days after starting penicillin. The rash is non-blanchable and is accompanied by low-grade fever. What is the most likely diagnosis?",
-    "choices": [
-        "Erythema multiforme",
-        "Stevens-Johnson syndrome",
-        "Morbilliform drug reaction",
-        "Fixed drug eruption"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Morbilliform drug reactions typically present with a diffuse, maculopapular rash that may appear 5 to 14 days after starting the medication."
-},
-{
-    "question": "Which of the following drugs is most commonly associated with the development of DRESS (Drug Rash with Eosinophilia and Systemic Symptoms)?",
-    "choices": [
-        "Aspirin",
-        "Anticonvulsants",
-        "Penicillin",
-        "NSAIDs"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Anticonvulsants (e.g., phenytoin, carbamazepine) and sulfonamides are well-known triggers of DRESS."
-},
-{
-    "question": "A patient presents with a late-onset rash (2-6 weeks after starting a drug) accompanied by fever, facial edema, and eosinophilia. What is the most likely diagnosis?",
-    "choices": [
-        "Fixed drug eruption",
-        "Morbilliform drug reaction",
-        "DRESS (Drug Rash with Eosinophilia and Systemic Symptoms)",
-        "Stevens-Johnson Syndrome"
-    ],
-    "correctAnswer": 2,
-    "explanation": "DRESS presents with a late-onset rash, systemic symptoms, and eosinophilia, often after 2-6 weeks of drug exposure."
-},
-{
-    "question": "A 30-year-old man presents with 'three-zone' target lesions on his distal extremities and one mucosal site involvement. What is the most likely underlying trigger?",
-    "choices": [
-        "Mycoplasma infection",
-        "Herpes simplex virus",
-        "NSAID use",
-        "Sulfonamide antibiotics"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Erythema multiforme is often triggered by infections, particularly herpes simplex virus and Mycoplasma."
-},
-{
-    "question": "A patient develops widespread blisters on purpuric macules, involving multiple mucosal sites. The patient is febrile and appears acutely ill. Which of the following is the most likely diagnosis?",
-    "choices": [
-        "Erythema multiforme",
-        "DRESS",
-        "Stevens-Johnson Syndrome",
-        "Toxic epidermal necrolysis"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Stevens-Johnson Syndrome presents with blistering on purpuric macules, mucosal involvement, and systemic symptoms, often following drug exposure."
-},
-{
-    "question": "Which of the following characteristics differentiates toxic epidermal necrolysis (TEN) from Stevens-Johnson syndrome (SJS)?",
-    "choices": [
-        "Nikolsky sign",
-        "Mucosal involvement",
-        "Drug-induced",
-        "Extent of epidermal detachment"
-    ],
-    "correctAnswer": 3,
-    "explanation": "TEN involves greater than 30% of epidermal detachment, whereas SJS involves less than 10%."
-},
-{
-    "question": "A patient presents with extensive epidermal loss (>30% body surface area), positive Nikolsky sign, and mucosal involvement after starting allopurinol. What is the most appropriate next step in management?",
-    "choices": [
-        "Start high-dose corticosteroids",
-        "Aggressively debride the blisters",
-        "Discontinue allopurinol and provide supportive care",
-        "Administer broad-spectrum antibiotics"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Toxic epidermal necrolysis (TEN) is managed with supportive care, similar to burn patients, and the triggering drug (allopurinol in this case) should be discontinued."
-},
-{
-    "question": "A 40-year-old woman presents with erythematous, edematous plaques that heal with hyperpigmentation. She reports that she experiences similar lesions at the same site whenever she takes NSAIDs. What is the most likely diagnosis?",
-    "choices": [
-        "Fixed drug eruption",
-        "Morbilliform drug reaction",
-        "DRESS",
-        "Stevens-Johnson Syndrome"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Fixed drug eruptions are characterized by recurrent lesions at the same site, often triggered by NSAIDs or antibiotics."
-},
-{
-    "question": "Which of the following treatments is recommended for recurrent episodes of erythema multiforme associated with herpes simplex virus?",
-    "choices": [
-        "Systemic corticosteroids",
-        "Antiviral suppressive therapy",
-        "Topical corticosteroids",
-        "IV immunoglobulin"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Recurrent erythema multiforme associated with HSV is managed with suppressive oral antiviral therapy."
-},
-{
-    "question": "A 30-year-old male presents with acute low back pain following a sports injury. His pain is sharp and radiates down his right leg. He rates the pain as 8/10. Which of the following is the most appropriate initial pharmacotherapy?",
+    "question": "A 62-year-old woman presents to her local doctor to describe left knee pain and stiffness that is worse with movement and relieved with rest. She has no fever and no redness around the joint. She has no other joint problems. Rheumatoid factor and erythrocyte sedimentation rate (ESR) are normal. Which of the following is the next best step in management?",
     "choices": [
         "Acetaminophen",
+        "Arthrocentesis (joint fluid analysis)",
         "Ibuprofen",
-        "Morphine",
-        "Amitriptyline"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Ibuprofen, an NSAID, is a first-line treatment for acute musculoskeletal pain and inflammation."
-},
-{
-    "question": "A 55-year-old woman with osteoarthritis reports chronic pain in her knees that worsens with activity. She has been taking acetaminophen with little relief. Which of the following would be the next best pharmacologic treatment?",
-    "choices": [
-        "Morphine",
-        "Celecoxib",
-        "Gabapentin",
-        "Hydrocodone"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Celecoxib, a selective COX-2 inhibitor, is effective for chronic pain management in osteoarthritis with a lower risk of gastrointestinal side effects compared to non-selective NSAIDs."
-},
-{
-    "question": "A patient with chronic non-cancer pain has been taking an opioid for several months. Which of the following adverse effects is most likely to occur with long-term opioid therapy?",
-    "choices": [
-        "Respiratory depression",
-        "Tolerance and dependence",
-        "Acute renal failure",
-        "Gastrointestinal bleeding"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Chronic opioid use is associated with the development of tolerance and physical dependence."
-},
-{
-    "question": "A 45-year-old man with diabetic neuropathy presents with burning pain in his feet. Which of the following medications would be most appropriate to treat his neuropathic pain?",
-    "choices": [
-        "Ibuprofen",
-        "Amitriptyline",
-        "Morphine",
-        "Celecoxib"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Amitriptyline, a tricyclic antidepressant, is often used to treat neuropathic pain, including diabetic neuropathy."
-},
-{
-    "question": "A 20-year-old man with a history of sickle cell disease presents to the emergency department with severe pain in his back and legs. He reports that his usual hydrocodone has not provided relief. Which of the following would be the most appropriate next step in managing his pain?",
-    "choices": [
-        "Morphine",
-        "Ibuprofen",
-        "Codeine",
-        "Gabapentin"
+        "Methotrexate",
+        "Magnetic resonance imaging of knee"
     ],
     "correctAnswer": 0,
-    "explanation": "In a vaso-occlusive crisis, opioids like morphine are often required for pain management."
+    "explanation": "The correct answer is acetaminophen (A). The patient is an older woman with unilateral joint pain and stiffness that is relieved with rest and made worse with movement—classical symptoms of osteoarthritis. This is first treated with simple analgesics like acetaminophen, which has fewer adverse effects than NSAIDs like ibuprofen (C). Arthrocentesis (B) is done for inflammatory joint diseases to rule out crystal-induced disease (e.g., gout) and infection (septic joint) but is rarely done in OA, which is non-inflammatory. Methotrexate (D) is not used in OA but is in rheumatoid arthritis. MRI (E) is rarely needed in diagnosing OA, where the diagnosis is clinical or uses a simple x-ray."
 },
 {
-    "question": "A 70-year-old woman with a history of chronic renal disease presents with severe musculoskeletal pain. Which of the following NSAIDs should be avoided due to its high risk of renal toxicity?",
+    "question": "A 50-year-old man presents to his local doctor with bilateral hip pain. He has smoked cigarettes for the past 5 years, has elevated cholesterol levels in the blood, and has hypertension controlled with antihypertensive medications and lipid-lowering agents. The patient is also obese, with a body mass index of 35. Which one of the following risk factors is strongly associated with osteoarthritis?",
     "choices": [
-        "Celecoxib",
-        "Meloxicam",
-        "Ibuprofen",
-        "Ketorolac"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ketorolac has a high risk of renal toxicity and should be avoided in patients with renal disease."
-},
-{
-    "question": "A 25-year-old woman presents with primary dysmenorrhea and requests pain relief. Which of the following would be the best treatment option for this patient?",
-    "choices": [
-        "Ibuprofen",
-        "Codeine",
-        "Fentanyl patch",
-        "Amitriptyline"
-    ],
-    "correctAnswer": 0,
-    "explanation": "NSAIDs like ibuprofen are the first-line treatment for primary dysmenorrhea."
-},
-{
-    "question": "A 65-year-old male undergoing surgery is placed on patient-controlled analgesia (PCA) with hydromorphone. What is the typical IV dose interval for hydromorphone in PCA?",
-    "choices": [
-        "1 mg every 10 minutes",
-        "0.5 mg every 15 minutes",
-        "0.2 mg every 10 minutes",
-        "0.5 mg every 30 minutes"
+        "Age of 50 years",
+        "High serum cholesterol",
+        "Obesity",
+        "Smoking"
     ],
     "correctAnswer": 2,
-    "explanation": "Hydromorphone is typically administered as 0.2 mg IV every 10 minutes in a PCA setting."
+    "explanation": "The correct answer is obesity (C). Obesity is a well-established risk factor for osteoarthritis. Increased weight puts extra stress at the weight-bearing joints such as the hips and knees. So there is more rubbing between the bones at the joint space, resulting in repetitive insults. Age of 50 years (A) is not old enough; osteoarthritis is mostly evident in patients older than 65 years. High cholesterol in the blood (B) might be associated with increased body weight, but it is not directly associated with osteoarthritis. Smoking (D) is associated mostly with poor healing of wounds and bone fractures; it is not considered one of the major risk factors of osteoarthritis."
 },
 {
-    "question": "A patient presents with severe postoperative pain after an orthopedic procedure. The physician decides to administer an epidural with a combination of an opioid and a local anesthetic. Which of the following opioids is commonly used for epidural analgesia?",
+    "question": "Which of the following is a late pathologic feature of osteoarthritis?",
     "choices": [
-        "Methadone",
-        "Hydrocodone",
-        "Morphine",
-        "Fentanyl"
+        "Deposition of crystals at the joint space",
+        "Necrosis at the end of long bones",
+        "Subchondral sclerosis",
+        "Thickening of the synovial membrane"
     ],
-    "correctAnswer": 3,
-    "explanation": "Fentanyl is commonly used for epidural analgesia due to its potency and rapid onset."
+    "correctAnswer": 2,
+    "explanation": "The correct answer is subchondral sclerosis (C). This is the thickening of the end of bones at the joint space and is one of the late features in advanced osteoarthritis. Deposition of crystals at the joint space (A) is the hallmark of crystal-induced arthritis, such as gout and calcium pyrophosphate deposition disease; it is not seen in osteoarthritis. Necrosis at the end of long bones (B) is incorrect. Necrosis means death, and this is not a feature of osteoarthritis; rather, in children, a condition called Perthes disease is commonly associated with the necrosis of the head of the femur. Thickening of the synovial membrane (D) is commonly seen in rheumatoid arthritis (RA) as a result of severe inflammation and activation of the immune system. In osteoarthritis, there is only mild inflammation when compared with RA, because the main cause of osteoarthritis is mechanical wear and tear and not activation of the immune system."
 },
 {
-    "question": "A 45-year-old male with a history of chronic cancer pain has been taking opioids for several months. His physician decides to add a co-analgesic for better pain control. Which of the following agents is appropriate for managing opioid-induced hyperalgesia?",
+    "question": "Which of the following best describes the results of serum studies seen in patients with osteoporosis?",
     "choices": [
-        "Ibuprofen",
-        "Ketamine",
-        "Codeine",
-        "Lidocaine"
+        "Decreased calcium, increased phosphate, normal bone alkaline phosphatase",
+        "Decreased calcium and phosphate, increased bone alkaline phosphatase",
+        "Increased calcium, decreased phosphate, increased bone alkaline phosphatase",
+        "Normal calcium and phosphate, increased bone alkaline phosphatase",
+        "Normal calcium, phosphate, and bone alkaline phosphatase"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ketamine, an NMDA receptor antagonist, is often used to manage opioid-induced hyperalgesia."
+    "correctAnswer": 4,
+    "explanation": "The correct answer is normal calcium, phosphate, and bone alkaline phosphatase (E). In contrast to disorders like hyperparathyroidism that markedly increase bone turnover and the level of bone alkaline phosphatase, osteoporosis shows normal lab values except for increased 24-hour urine calcium. Osteomalacia and rickets due to vitamin D deficiency show low calcium and phosphate with increased bone turnover and alkaline phosphatase (B). Hyperparathyroidism shows increased calcium, decreased phosphate, and increased alkaline phosphatase (C). Paget disease of bone usually results in normal serum calcium, normal serum phosphate, and increased bone alkaline phosphatase (D)."
 },
 {
-    "question": "A 22-year-old man presents with sharp, shooting pain in his lower back that radiates down his leg. After an MRI confirms a herniated disc, which of the following would be the first-line pharmacotherapy?",
+    "question": "A 65-year-old woman comes to the clinic to discuss her risk of osteoporosis. She is worried because she has a family history of osteoporosis. Which of the following DEXA scan T-scores would indicate that she has osteoporosis?",
     "choices": [
-        "Oxycodone",
-        "Duloxetine",
-        "Acetaminophen",
-        "Ibuprofen"
-    ],
-    "correctAnswer": 3,
-    "explanation": "NSAIDs like ibuprofen are the first-line treatment for radicular pain due to herniated discs."
-},
-{
-    "question": "A 28-year-old woman with fibromyalgia is seeking pharmacological treatment for her widespread musculoskeletal pain. Which of the following medications is most appropriate for long-term management of her condition?",
-    "choices": [
-        "Tramadol",
-        "Gabapentin",
-        "Acetaminophen",
-        "Naproxen"
+        "T-score ≤ 2.5",
+        "T-score ≤ −2.5",
+        "T-score ≥ 2.5",
+        "T-score ≥ −2.5"
     ],
     "correctAnswer": 1,
-    "explanation": "Gabapentin, an anticonvulsant, is frequently used to manage fibromyalgia-related chronic pain."
+    "explanation": "The correct answer is T-score ≤ −2.5 (B). Osteoporosis is diagnosed as having a DEXA T-score of less than or equal to −2.5, which suggests that an individual has a bone mineral density 2.5 standard deviations or more below the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≤ 2.5 (A) does not necessarily diagnose a patient as having osteoporosis because their bone mineral density could still be close to or above the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ 2.5 (C) actually suggests greater bone density than the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ −2.5 (D) could be suggestive of osteopenia, which is indicated by a T-score between −1.0 and −2.5."
+},
+{
+    "question": "In the stages of bone healing, what type of cell predominately allows for soft callus formation?",
+    "choices": [
+        "Chondrocytes",
+        "Inflammatory cells",
+        "Macrophages",
+        "Osteoblasts",
+        "Osteoclasts"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is chondrocytes (A). Chondrocytes secrete collagen to make up cartilage that, along with fibrous tissue, forms the soft callus. In the first stage of bone healing, inflammatory cells (B) and macrophages (C) clear bone debris after injury to start the healing process. After the soft callus is formed, osteoblasts (D) and osteoclasts (E) work together to create the hard callus."
+},
+{
+    "question": "A 25-year-old man comes into your office with a wrapped hand. He states that he got into a fight last night and punched a wall out of frustration. Since then, he has been having pain near the proximal knuckle of his right pinky. Which bone is most likely fractured?",
+    "choices": [
+        "First phalanx",
+        "Metacarpal",
+        "Radius",
+        "Scaphoid",
+        "Ulna"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is metacarpal (B). A boxer fracture involves a break in the fifth metacarpal bone near the knuckle and commonly occurs when a person punches something with a closed fist. Phalangeal fractures (A) are caused by turning or twisting fingers. Distal radius (C) and ulnar fractures (E) are caused by wrist injuries. Scaphoid fractures (D) are a type of wrist fracture leading to pain in the wrist joint."
+},
+{
+    "question": "A 28-year-old man comes to the physician because of a 1-week history of weakness in the fingers of his right hand. One week ago, he experienced sudden pain in his right forearm during weight training. He has no history of serious illness. Physical examination shows impaired flexion of the proximal interphalangeal joints, while flexion of the distal interphalangeal joints is intact. Which of the following muscles is most likely injured?",
+    "choices": [
+        "Palmaris longus",
+        "Flexor carpi radialis",
+        "Flexor carpi ulnaris",
+        "Flexor digitorum superficialis",
+        "Flexor digitorum profundus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is flexor digitorum superficialis (D). The flexor digitorum superficialis muscle, which originates from the medial epicondyle of the humerus and proximal shaft of the radius, enables flexion of the wrist, metacarpophalangeal joints, and proximal interphalangeal joints. Isometric weight training can cause rupture of this muscle, as seen here. Flexion of the distal interphalangeal joints is a function of the flexor digitorum profundus muscle and is unaffected by flexor digitorum superficialis muscle injury."
+},
+{
+    "question": "A 41-year-old woman comes to the doctor because of gradually progressive weakness in her right hand over the past few weeks. She goes to the gym to lift weights 5 times a week. With the dorsum of the right hand on a flat surface, the patient is unable to move her thumb to touch a pen held 2 cm above the interphalangeal joint of the thumb. An MRI of the right arm shows compression of a nerve that passes through the pronator teres muscle. Based on the examination findings, loss of innervation of which of the following muscles is most likely in this patient?",
+    "choices": [
+        "Adductor pollicis",
+        "Flexor pollicis longus",
+        "First dorsal interosseous",
+        "Abductor pollicis brevis",
+        "Extensor pollicis brevis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is abductor pollicis brevis (D). This patient shows signs of weakness of the abductor pollicis brevis. The abductor pollicis brevis is a muscle of the thenar eminence that arises from the flexor retinaculum and the scaphoid bone, before inserting into the proximal phalanx and the capsule of the first metacarpophalangeal joint. This muscle is responsible for thumb abduction, extension, and opposition. Damage to the median nerve leads to a weakness of these functions, especially abduction, which can be assessed by the pen test. Repetitive activities such as weight-lifting can cause median nerve injury by direct compression or entrapment."
 }
+
 ]
