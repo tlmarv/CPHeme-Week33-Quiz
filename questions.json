@@ -1,5 +1,5 @@
 [
-   {
+    {
         "question": "Which nerve innervates the flexor carpi ulnaris muscle?",
         "choices": [
             "Median nerve",
@@ -63,7 +63,7 @@
             "Ulnar nerve entrapment"
         ],
         "correctAnswer": 2,
-        "explanation": "Radial head subluxation (nursemaid's elbow) commonly occurs in young children due to a sudden pull on the extended and pronated forearm."
+        "explanation": "Radial head subluxation (nursemaid's elbow) commonly occurs in young children due to a sudden pull on the extended and pronated forearm. It is a transient subluxation (dislocation) of the head of the radius from the anular ligament"
     },
     {
         "question": "A 50-year-old carpenter presents with pain on the medial side of his elbow after repetitive wrist flexion. Palpation reveals tenderness at the medial epicondyle. Which condition is most likely?",
@@ -85,7 +85,7 @@
             "Musculocutaneous nerve"
         ],
         "correctAnswer": 1,
-        "explanation": "The anterior interosseous nerve innervates the flexor pollicis longus, pronator quadratus, and the lateral part of flexor digitorum profundus."
+        "explanation": "The anterior interosseous nerve innervates the flexor pollicis longus, pronator quadratus, and the lateral part of flexor digitorum profundus. AKA anterior interosseous syndrome. Partial paralysis of the flexor digitorum profundus and flexor pollicus longus is seen and presents with reduced flexion at thumb IP joint and index finger DIP joint."
     },
     {
         "question": "A patient presents with a fracture of the distal radius after a fall on an outstretched hand. Which complication is most likely if the fracture extends into the radioulnar joint?",
@@ -242,17 +242,6 @@
         "explanation": "A scaphoid fracture can be occult on initial radiographs, but tenderness in the anatomical snuffbox is a key clinical indicator."
     },
     {
-        "question": "A 30-year-old cyclist presents with numbness in the medial one and a half fingers after prolonged riding with pressure on the handlebars. Which condition is most likely?",
-        "choices": [
-            "Carpal tunnel syndrome",
-            "Ulnar canal syndrome (Handlebar neuropathy)",
-            "Radial nerve palsy",
-            "Pronator teres syndrome"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Ulnar canal syndrome can occur from prolonged pressure on the ulnar nerve at the wrist, as seen in cyclists."
-    },
-    {
         "question": "A 50-year-old male presents with difficulty flexing the thumb. Physical examination shows weakness in opposition and atrophy of the thenar muscles. Which nerve is most likely affected?",
         "choices": [
             "Ulnar nerve",
@@ -316,7 +305,7 @@
             "Extension of the wrist"
         ],
         "correctAnswer": 2,
-        "explanation": "The recurrent branch of the median nerve innervates the thenar muscles, which control thumb opposition and abduction."
+        "explanation": "The recurrent branch of the median nerve innervates the thenar muscles (OAF- opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis), which control thumb opposition and abduction."
     },
     {
         "question": "A patient presents with a 'claw hand' deformity affecting the 4th and 5th digits. Which nerve injury is most likely responsible?",
@@ -371,7 +360,7 @@
             "Derived from mesenchymal stem cells only"
         ],
         "correctAnswer": 2,
-        "explanation": "Osteocytes reside in lacunae and communicate with other osteocytes through dendritic processes in canaliculi."
+        "explanation": "Osteocytes reside in lacunae and communicate with other osteocytes through dendritic processes in canaliculi. Provide mechanosensory information and control bone turnover.  THEY ARE NON MITOTIC SO THEY DO NOT PROLIFERATE."
     },
     {
         "question": "Which type of cartilage is most resistant to tensile forces and found in intervertebral discs?",
@@ -536,7 +525,7 @@
             "PHEX gene"
         ],
         "correctAnswer": 1,
-        "explanation": "Achondroplasia is caused by mutations in the FGFR3 gene, leading to abnormal endochondral ossification and shortened long bones."
+        "explanation": "Achondroplasia is caused by mutations in the FGFR3 gene, causing defects in chondrocyte proliferation and differentiation, producing narrow and disorganized zones of proliferation and hypertrophy in the growth plate."
     },
     {
         "question": "Which type of fracture is most common in children due to their softer bones?",
@@ -602,7 +591,7 @@
             "Overuse stress"
         ],
         "correctAnswer": 1,
-        "explanation": "Spiral fractures are caused by a rotational force applied to a long bone, such as twisting."
+        "explanation": "Spiral fractures are caused by a rotational force applied to a long bone, such as twisting. (Torque injury, like planting a foot in a hole while running)"
     },
     {
         "question": "A 60-year-old woman presents with sudden onset of back pain and is diagnosed with a vertebral compression fracture. Which underlying condition is most likely to contribute to this fracture?",
@@ -693,17 +682,6 @@
         "explanation": "Myositis ossificans is characterized by abnormal ossification within the muscle, often following trauma."
     },
     {
-        "question": "Which genetic mutation is associated with achondroplasia?",
-        "choices": [
-            "COL1A1",
-            "FGFR3",
-            "CLCN7",
-            "PHEX"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Achondroplasia is caused by a gain-of-function mutation in the FGFR3 gene, leading to impaired endochondral ossification and shortened limbs."
-    },
-    {
         "question": "What is the primary defect in osteogenesis imperfecta?",
         "choices": [
             "Deficient type II collagen",
@@ -723,7 +701,7 @@
             "Paget disease"
         ],
         "correctAnswer": 2,
-        "explanation": "Osteopetrosis results from defective osteoclast function, leading to increased bone density but brittle bones."
+        "explanation": "Osteopetrosis results from defective osteoclast function (typically too little resorption), leading to increased bone density but brittle bones."
     },
     {
         "question": "What laboratory finding is typically elevated in patients with Paget's disease of bone?",
@@ -792,7 +770,7 @@
         "explanation": "In osteopetrosis, the marrow space is filled with dense bone, leading to bone marrow failure and resulting in cytopenias, increased risk of infections, and bleeding."
     },
     {
-        "question": "A 7-year-old boy with osteogenesis imperfecta presents with multiple fractures and blue sclerae. Which of the following should be considered in the differential diagnosis to rule out another condition?",
+        "question": "A 7-year-old boy with osteogenesis imperfecta presents with multiple fractures and blue sclerae. Which of the following could be considered in the differential diagnosis to rule out another condition?",
         "choices": [
             "Osteopetrosis",
             "Rickets",
@@ -844,7 +822,7 @@
             "Paget's disease"
         ],
         "correctAnswer": 2,
-        "explanation": "Rickets in children presents with bone pain, bowing of the legs, and the 'rachitic rosary' appearance due to poorly mineralized cartilage at costochondral junctions."
+        "explanation": "Rickets in children presents with bone pain, bowing of the legs, and the 'rachitic rosary' appearance due to poorly mineralized cartilage at costochondral junctions. Additionally, Rickets has low calcium and phosphate levels but HIGH alkaline phosphatase"
     },
     {
         "question": "A 60-year-old patient with a long-standing history of osteoporosis presents with sudden back pain. Imaging reveals a T12 compression fracture. Which of the following is most likely responsible for this condition?",
@@ -932,7 +910,7 @@
             "Cardiomyopathy"
         ],
         "correctAnswer": 1,
-        "explanation": "Methotrexate can cause rare but serious adverse effects like pneumonitis, especially in patients with underlying lung disease."
+        "explanation": "Methotrexate can cause rare but serious adverse effects like pneumonitis, especially in patients with underlying lung disease. Other rare side effects include: teratogenicity and accelerated rheumatoid nodulosis."
     },
     {
         "question": "A 45-year-old woman presents with 3 months of morning stiffness in her wrists and MCP joints, lasting over 2 hours. She has tenderness along the joint lines, and her x-rays show marginal erosions. Which antibody is most likely to be positive?",
@@ -987,7 +965,7 @@
             "Magnesium oxide"
         ],
         "correctAnswer": 2,
-        "explanation": "Folic acid is used to mitigate the side effects of methotrexate, including mucositis and GI disturbances."
+        "explanation": "Folic acid is used to mitigate the side effects of methotrexate, including mucositis and GI disturbances. Other common symptoms of methotrexate include: nausea, alopecia, hepatotoxicity, and leukopenia."
     },
     {
         "question": "A patient with rheumatoid arthritis has been treated with methotrexate but has not achieved symptom control. Which biologic agent targeting TNF-alpha could be considered next?",
@@ -1009,7 +987,7 @@
             "Uveitis"
         ],
         "correctAnswer": 1,
-        "explanation": "Scleritis is associated with severe, deep eye pain and is a potential extra-articular manifestation of rheumatoid arthritis."
+        "explanation": "Scleritis is associated with severe, deep eye pain and is a potential extra-articular manifestation of rheumatoid arthritis. Also may have photophobia and decreased visual acuity."
     },
     {
         "question": "A 70-year-old male with rheumatoid arthritis presents with new-onset fatigue and unexplained weight loss. Which of the following should be considered given the chronic inflammatory state?",
@@ -1042,7 +1020,7 @@
             "Pleural effusion"
         ],
         "correctAnswer": 2,
-        "explanation": "Interstitial lung disease can develop in rheumatoid arthritis, presenting with symptoms like cough and dyspnea and showing honeycombing on imaging."
+        "explanation": "Interstitial lung disease can develop in rheumatoid arthritis, presenting with symptoms like cough and dyspnea and showing honeycombing ground glass opacities, and reticulation on imaging. Has increased risk in smokers."
     },
     {
         "question": "A patient presents with joint pain and swelling that is worse with rest and improves with activity. Which feature best differentiates inflammatory from non-inflammatory joint disease?",
@@ -1163,7 +1141,7 @@
             "Anterior interosseous nerve"
         ],
         "correctAnswer": 2,
-        "explanation": "Compression of the ulnar nerve in Guyon’s canal can lead to weakness of the intrinsic hand muscles and sensory loss in the medial 1½ digits."
+        "explanation": "Compression of the ulnar nerve in Guyon’s canal can lead to weakness of the intrinsic hand muscles (lumbricals 3-4, Palmar interossei, Dorsal interossei, hypothenar muscles, adductor pollicis) and sensory loss in the medial 1½ digits."
     },
     {
         "question": "A patient is undergoing an Allen test before a radial artery cannulation. What does a positive Allen test indicate?",
@@ -1686,6 +1664,158 @@
     ],
     "correctAnswer": 3,
     "explanation": "The correct answer is abductor pollicis brevis (D). This patient shows signs of weakness of the abductor pollicis brevis. The abductor pollicis brevis is a muscle of the thenar eminence that arises from the flexor retinaculum and the scaphoid bone, before inserting into the proximal phalanx and the capsule of the first metacarpophalangeal joint. This muscle is responsible for thumb abduction, extension, and opposition. Damage to the median nerve leads to a weakness of these functions, especially abduction, which can be assessed by the pen test. Repetitive activities such as weight-lifting can cause median nerve injury by direct compression or entrapment."
+},
+{
+    "question": "Which of the following is seen in patients with Marfan syndrome but not Ehlers-Danlos syndrome?",
+    "choices": [
+        "Aortic root dilation",
+        "Brittle bones",
+        "Flexible joints",
+        "Lens dislocation",
+        "Stretchy skin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is lens dislocation (D). It is a unique feature of Marfan syndrome. Aortic root dilatation (A) and flexible joints (C) are shared features of Marfan and Ehlers-Danlos Syndrome (EDS). Brittle bones (B) is seen in neither; it is a feature of osteogenesis imperfecta. Stretchy skin (E) is characteristic of EDS but not Marfan syndrome."
+},
+{
+    "question": "Abnormalities of which of the following is least likely in a patient with Ehlers-Danlos syndrome?",
+    "choices": [
+        "Collagen types I-V fibrils",
+        "Collagen III DNA",
+        "Collagen III posttranslational processing",
+        "Collagen V mRNA",
+        "Elastin"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is elastin (E). Ehlers-Danlos Syndrome (EDS) is due to collagen type III or type V synthesis defects or instability, whereas Marfan syndrome is due to elastin defects. EDS defects can be in the collagen III or V (DNA) (B), in the mRNA resulting from the mutated gene (D), in posttranslational processing (C), or in the inability of the defective collagen V to form fibrils with collagen I (A)."
+},
+{
+    "question": "Which condition listed below is correlated with the correct gene mutation?",
+    "choices": [
+        "EDS, FBN1",
+        "EDS, TGF-β",
+        "Marfan, COL3A1",
+        "Marfan, COL5A1",
+        "Marfan, FBN1"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is Marfan, FBN1 (E). The FBN1 gene encodes a fibrillin molecule, which gives stability to tropoelastin during synthesis. It is not related to EDS pathophysiology (A). TGF-β expression (B) may be altered in Marfan syndrome but not in EDS. COL3A1 (C) and COL5A1 (D) may be defective in EDS, not in Marfan syndrome."
+},
+{
+    "question": "A professional basketball player collapsed to the ground during a game and was found to have an enlarging aortic dissection. History revealed that his father died very young with similar symptoms. His genetic and clinical testing is consistent with Marfan syndrome. Which of the following findings would be least likely in this patient?",
+    "choices": [
+        "Dislocated eye lens",
+        "Long extremities",
+        "Long fingers",
+        "Intellectual disability",
+        "Tall stature"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is intellectual disability (D). Aortic dissection is a characteristic complication of Marfan syndrome. Lens dislocation (A), long extremities (B), long fingers (C), and tall stature (E) are all characteristics of Marfan syndrome. However, intellectual disability is not associated with it."
+},
+{
+    "question": "A 55-year-old man presents to the hospital with severe foot pain, specifically in his left big toe. The left proximal interphalangeal joint is swollen and red. His serum uric acid level is 9.2 mg/dL. A joint aspirate shows a WBC count of 40,000/mm³ and negatively birefringent needle-shaped crystals. Which of the following is the best next step in management?",
+    "choices": [
+        "Allopurinol",
+        "Codeine",
+        "Hydroxychloroquine",
+        "Indomethacin",
+        "Methotrexate"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is indomethacin (D). The patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol (A) lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. It is used in chronic gout for prevention of acute attacks later. Codeine (B) is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine (C) is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate (E) is prescribed for some chronic forms of CPPD but not acute gout."
+},
+{
+    "question": "A 67-year-old man with a history of diabetes mellitus has been experiencing joint pain for the past few years. He describes pain, mainly in the small joints of his hands, associated with morning stiffness. Analysis of synovial fluid aspirated from an affected joint reveals crystals that are blue when parallel to the projection of polarized light. What is the most likely diagnosis?",
+    "choices": [
+        "Calcium pyrophosphate deposition disease",
+        "Gout",
+        "Osteoarthritis",
+        "Rheumatoid arthritis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is calcium pyrophosphate deposition disease (A). In CPPD, aspiration of affected joints will yield synovial fluid that contains rhomboid crystals weakly positively birefringent under polarized light. This means that crystals will be blue when parallel to the projection of polarized light and yellow when perpendicular. Gout (B) may present with similar symptoms. However, aspirated synovial fluid will demonstrate needle-shaped crystals that have negative birefringence, meaning that they will be yellow when parallel to the projection of polarized light. In osteoarthritis (C) and rheumatoid arthritis (D), analysis of the synovial fluid under polarized light will not reveal crystals."
+},
+{
+    "question": "A 58-year-old man presents to the emergency department with pain and redness in multiple joints, including the metatarsophalangeal joint of his big toe. He reports that over the past several years, he has had numerous such occurrences. Plain radiograph of the patient’s right foot demonstrates multiple bone erosions in the toes. After treating the patient's acute symptoms, which of the following medications, administered long-term, would most likely prevent a recurrence?",
+    "choices": [
+        "Allopurinol",
+        "Colchicine",
+        "Ibuprofen",
+        "Prednisone"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is allopurinol (A). This patient is currently experiencing an acute gout attack. However, given his long history of such attacks as well as radiographic evidence of bone erosions, he also has chronic gout. First-line treatment of chronic gout, as well as prophylaxis to prevent future acute attacks, is allopurinol, a xanthine oxidase inhibitor. Colchicine (B), NSAIDs such as ibuprofen (C), and steroids (D) are effective in treating acute gout attacks but are not used as prophylaxis."
+},
+{
+    "question": "A 55-year-old man presents to his physician describing left hip pain for the past 2 years. He has no fever, and the pain is worse with movement and relieved by rest. He also has early morning stiffness. Apart from mild swelling, the skin overlying his left hip looks normal. His CRP value is normal. What is the most likely diagnosis?",
+    "choices": [
+        "Ankylosing spondylitis",
+        "Gout",
+        "Osteoarthritis",
+        "Reactive arthritis",
+        "Septic arthritis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is osteoarthritis (C). This patient has joint pain that is worse with movement and relieved with rest, without any systemic signs and symptoms, and osteoarthritis is the most probable diagnosis. The normal CRP confirms a noninflammatory arthritis, of which osteoarthritis is the most common cause."
+},
+{
+    "question": "A 54-year-old man presents to his physician because of morning stiffness and pain in his left knee and right wrist that has been increasing for several weeks. The exam shows redness and swelling in both of these joints. His serum rheumatoid factor is elevated. A joint aspiration would most likely show which of the following?",
+    "choices": [
+        "Gram-positive cocci",
+        "Needle-shaped crystals",
+        "Rhomboid crystals",
+        "WBC count 1000/mm³",
+        "WBC count 7500/mm³"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is WBC count 7500/mm³ (E). Acute arthritis is best evaluated with a joint aspiration. This patient with morning stiffness and inflammation, and a positive rheumatoid factor, most likely has rheumatoid arthritis. This shows inflammatory joint aspirate, typically with a WBC count of 2000-50,000 /mm³."
+},
+{
+    "question": "A 34-year-old female presents to her physician describing knee pain for the past 3 months. There is mild swelling around her right knee. Her physician also discovers she has a 5-year history of malar rash, photosensitivity, and kidney disease. What is the most likely cause of her knee pain?",
+    "choices": [
+        "Lyme disease",
+        "Rheumatoid arthritis",
+        "Septic arthritis",
+        "Systemic lupus erythematosus"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is systemic lupus erythematosus (D). The patient has signs and symptoms of SLE-like photosensitivity, malar rash, and kidney disease. Patients with systemic lupus erythematosus can also experience joint pain."
+},
+{
+  "question": "A 7-year-old male presents with multiple fractures and carious teeth, with a similar family history. However, the X-ray report shows thickened dense bones. The patient has white sclera. Most likely diagnosis is:",
+  "choices": [
+    "A. Child abuse",
+    "B. Osteogenesis imperfecta",
+    "C. Osteoporosis",
+    "D. Osteopetrosis",
+    "E. Rickets"
+  ],
+  "correctAnswer": "D",
+  "explanation": "The correct answer is osteopetrosis (D). Osteopetrosis is characterized by thickened and dense bones due to defective osteoclast function. It often presents with multiple fractures, dental issues like carious teeth, and a family history. Unlike osteogenesis imperfecta, which is associated with blue sclera, patients with osteopetrosis typically have normal or white sclera."
+},
+{
+    question: "A 25-year-old male athlete presents with knee pain that has been persistent for the last 6 months after a sports-related injury. Imaging reveals a small area of damaged articular cartilage in the knee. The orthopedic surgeon decides to perform a procedure that involves debriding the damaged cartilage and drilling small holes into the underlying subchondral bone. The aim is to allow mesenchymal stem cells from the bone marrow to form a clot that will differentiate into fibrocartilage to repair the area. What is the name of this surgical technique?",
+    options: {
+        A: "Osteochondral autograft transplantation",
+        B: "Autologous chondrocyte implantation",
+        C: "Arthroscopic lavage and debridement",
+        D: "{{c1::Microfracture surgery}}",
+        E: "Meniscus repair"
+    },
+    correctAnswer: "D",
+    explanation: "Microfracture surgery involves debriding damaged cartilage and drilling small holes into the underlying subchondral bone, allowing mesenchymal stem cells to form a clot that differentiates into fibrocartilage. This technique is used to treat small cartilage defects, especially in the knee."
+},
+{
+    question: "A 68-year-old woman presents to her physician with a history of osteoporosis. Dual-energy X-ray absorptiometry (DEXA) reveals a significant reduction in bone density, particularly in the vertebrae and proximal femur. The physician explains that the changes in bone density mainly affect a specific type of bone structure that is more metabolically active. Which of the following bone structures is primarily affected in this patient’s condition?",
+    options: {
+        A: "Cortical bone",
+        B: "Woven bone",
+        C: "{{c1::Trabecular bone (spongy bone)}}",
+        D: "Periosteum",
+        E: "Articular cartilage"
+    },
+    correctAnswer: "C",
+    explanation: "Trabecular bone, also known as spongy bone, is more metabolically active and has a higher surface area compared to cortical bone. It is found predominantly in areas like the vertebrae and the ends of long bones. Osteoporosis primarily affects trabecular bone, leading to an increased risk of fractures in these areas. Cortical bone, which is denser and makes up the outer layer of bones, is also affected by osteoporosis but to a lesser extent."
 }
-
 ]
