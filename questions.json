@@ -1791,7 +1791,7 @@
     "D. Osteopetrosis",
     "E. Rickets"
   ],
-  "correctAnswer": "D",
+  "correctAnswer": 3,
   "explanation": "The correct answer is osteopetrosis (D). Osteopetrosis is characterized by thickened and dense bones due to defective osteoclast function. It often presents with multiple fractures, dental issues like carious teeth, and a family history. Unlike osteogenesis imperfecta, which is associated with blue sclera, patients with osteopetrosis typically have normal or white sclera."
 },
 {
@@ -1803,7 +1803,7 @@
         "D: Microfracture surgery",
         "E: Meniscus repair"
     ],
-    "correctAnswer": "D",
+    "correctAnswer": 3,
     "explanation": "Microfracture surgery involves debriding damaged cartilage and drilling small holes into the underlying subchondral bone, allowing mesenchymal stem cells to form a clot that differentiates into fibrocartilage. This technique is used to treat small cartilage defects, especially in the knee."
 },
 {
@@ -1815,7 +1815,7 @@
         "D: Periosteum",
         "E: Articular cartilage"
     ],
-    "correctAnswer": "C",
+    "correctAnswer": 2,
     "explanation": "Trabecular bone, also known as spongy bone, is more metabolically active and has a higher surface area compared to cortical bone. It is found predominantly in areas like the vertebrae and the ends of long bones. Osteoporosis primarily affects trabecular bone, leading to an increased risk of fractures in these areas. Cortical bone, which is denser and makes up the outer layer of bones, is also affected by osteoporosis but to a lesser extent."
 }
 ]
