@@ -1,1505 +1,212 @@
 [
-    {
-        "question": "Which nerve innervates the flexor carpi ulnaris muscle?",
-        "choices": [
-            "Median nerve",
-            "Ulnar nerve",
-            "Radial nerve",
-            "Musculocutaneous nerve"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The ulnar nerve is responsible for innervating the flexor carpi ulnaris muscle."
-    },
-    {
-        "question": "What is the primary action of the pronator teres muscle?",
-        "choices": [
-            "Supination of the forearm",
-            "Flexion of the forearm",
-            "Pronation of the forearm",
-            "Extension of the forearm"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The pronator teres is primarily responsible for pronating the forearm."
-    },
-    {
-        "question": "The anterior interosseous nerve is a branch of which nerve?",
-        "choices": [
-            "Radial nerve",
-            "Ulnar nerve",
-            "Musculocutaneous nerve",
-            "Median nerve"
-        ],
-        "correctAnswer": 3,
-        "explanation": "The anterior interosseous nerve is a branch of the median nerve."
-    },
-    {
-        "question": "Which structure forms the pivot joint between the radius and ulna at the proximal forearm?",
-        "choices": [
-            "Radial collateral ligament",
-            "Trochlea",
-            "Anular ligament",
-            "Ulnar collateral ligament"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The anular ligament encircles the head of the radius, forming a pivot joint with the ulna."
-    },
-    {
-        "question": "Which muscle is part of the intermediate group in the anterior forearm?",
-        "choices": [
-            "Flexor carpi ulnaris",
-            "Flexor digitorum superficialis",
-            "Pronator quadratus",
-            "Flexor pollicis longus"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The flexor digitorum superficialis is the only muscle in the intermediate group of the anterior forearm."
-    },
-    {
-        "question": "A 10-year-old child is brought to the clinic after being pulled up by the arm while the forearm was pronated. The child now has pain and resists movement of the elbow. What is the most likely diagnosis?",
-        "choices": [
-            "Radial head fracture",
-            "Olecranon bursitis",
-            "Radial head subluxation (nursemaid's elbow)",
-            "Ulnar nerve entrapment"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Radial head subluxation (nursemaid's elbow) commonly occurs in young children due to a sudden pull on the extended and pronated forearm. It is a transient subluxation (dislocation) of the head of the radius from the anular ligament"
-    },
-    {
-        "question": "A 50-year-old carpenter presents with pain on the medial side of his elbow after repetitive wrist flexion. Palpation reveals tenderness at the medial epicondyle. Which condition is most likely?",
-        "choices": [
-            "Lateral epicondylitis",
-            "Medial epicondylitis",
-            "Olecranon bursitis",
-            "Cubital tunnel syndrome"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Medial epicondylitis, also known as golfer's elbow, is associated with pain from repetitive wrist flexion."
-    },
-    {
-        "question": "A 45-year-old man presents with difficulty flexing the distal phalanges of the index and middle fingers. Examination reveals weakness in the pronator quadratus and flexor pollicis longus muscles. Which nerve is likely affected?",
-        "choices": [
-            "Ulnar nerve",
-            "Anterior interosseous nerve",
-            "Radial nerve",
-            "Musculocutaneous nerve"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The anterior interosseous nerve innervates the flexor pollicis longus, pronator quadratus, and the lateral part of flexor digitorum profundus. AKA anterior interosseous syndrome. Partial paralysis of the flexor digitorum profundus and flexor pollicus longus is seen and presents with reduced flexion at thumb IP joint and index finger DIP joint."
-    },
-    {
-        "question": "A patient presents with a fracture of the distal radius after a fall on an outstretched hand. Which complication is most likely if the fracture extends into the radioulnar joint?",
-        "choices": [
-            "Carpal tunnel syndrome",
-            "Radial head subluxation",
-            "Distal radioulnar joint instability",
-            "Pronator syndrome"
-        ],
-        "correctAnswer": 2,
-        "explanation": "A fracture involving the distal radioulnar joint can cause instability and affect forearm rotation."
-    },
-    {
-        "question": "During a physical exam, a patient with a history of repetitive gripping presents with numbness in the medial forearm and weakness in flexor carpi ulnaris. Which nerve is most likely compressed?",
-        "choices": [
-            "Radial nerve at the elbow",
-            "Ulnar nerve at the cubital tunnel",
-            "Median nerve at the carpal tunnel",
-            "Anterior interosseous nerve"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Compression of the ulnar nerve in the cubital tunnel leads to weakness in muscles like the flexor carpi ulnaris and sensory changes in the medial forearm."
-    },
-    {
-        "question": "A 35-year-old patient sustains a fracture at the medial epicondyle of the humerus. Which movement is most likely to be affected?",
-        "choices": [
-            "Extension of the wrist",
-            "Flexion of the wrist",
-            "Supination of the forearm",
-            "Pronation of the forearm"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The ulnar nerve, which innervates muscles that flex the wrist, can be damaged in fractures of the medial epicondyle."
-    },
-    {
-        "question": "A 60-year-old woman complains of difficulty turning a doorknob with her right hand. On exam, she has weakness in pronation of the forearm. Which muscle is likely involved?",
-        "choices": [
-            "Supinator",
-            "Pronator teres",
-            "Biceps brachii",
-            "Flexor carpi ulnaris"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The pronator teres is responsible for pronation of the forearm, which is crucial for turning movements."
-    },
-    {
-        "question": "A patient with a history of wrist fractures presents with decreased sensation over the lateral part of the palm and the first three fingers. Which nerve is likely compressed?",
-        "choices": [
-            "Radial nerve",
-            "Ulnar nerve",
-            "Median nerve",
-            "Anterior interosseous nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Compression of the median nerve affects sensation in the lateral palm and the first three fingers, commonly seen in carpal tunnel syndrome."
-    },
-    {
-        "question": "A young athlete presents with pain and swelling over the distal forearm following a direct blow during sports. X-ray reveals a transverse fracture of the distal radius. Which of the following structures is most likely at risk?",
-        "choices": [
-            "Anterior interosseous nerve",
-            "Ulnar nerve",
-            "Radial artery",
-            "Pronator quadratus"
-        ],
-        "correctAnswer": 3,
-        "explanation": "A fracture of the distal radius can disrupt the pronator quadratus muscle, which is located near the distal forearm."
-    },
-    {
-        "question": "A patient complains of difficulty flexing the fingers of the hand and numbness in the lateral forearm. The most likely nerve involved passes through which structure at the elbow?",
-        "choices": [
-            "Cubital tunnel",
-            "Carpal tunnel",
-            "Pronator teres",
-            "Anular ligament"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The median nerve passes through the pronator teres, and entrapment here can lead to symptoms in the forearm and hand."
-    },
-    {
-        "question": "Which nerve passes through the carpal tunnel along with the flexor tendons?",
-        "choices": [
-            "Ulnar nerve",
-            "Radial nerve",
-            "Median nerve",
-            "Musculocutaneous nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The median nerve passes through the carpal tunnel along with tendons like flexor digitorum superficialis, profundus, and flexor pollicis longus."
-    },
-    {
-        "question": "What is the most commonly fractured carpal bone?",
-        "choices": [
-            "Lunate",
-            "Scaphoid",
-            "Triquetrum",
-            "Hamate"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The scaphoid is most commonly fractured, typically due to a fall on an outstretched hand (FOOSH)."
-    },
-    {
-        "question": "Which artery primarily contributes to the superficial palmar arch?",
-        "choices": [
-            "Radial artery",
-            "Ulnar artery",
-            "Deep palmar arch",
-            "Brachial artery"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The ulnar artery is the main contributor to the superficial palmar arch, with a minor contribution from the radial artery."
-    },
-    {
-        "question": "What condition is characterized by progressive thickening and shortening of the palmar aponeurosis leading to finger flexion?",
-        "choices": [
-            "Carpal tunnel syndrome",
-            "Dupuytren’s contracture",
-            "Ulnar canal syndrome",
-            "De Quervain’s tenosynovitis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Dupuytren’s contracture involves thickening of the palmar aponeurosis, causing flexion deformities of the fingers."
-    },
-    {
-        "question": "Which nerve innervates the hypothenar muscles of the hand?",
-        "choices": [
-            "Median nerve",
-            "Radial nerve",
-            "Deep branch of the ulnar nerve",
-            "Musculocutaneous nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The deep branch of the ulnar nerve innervates the muscles of the hypothenar eminence."
-    },
-    {
-        "question": "A 45-year-old patient presents with numbness and tingling in the lateral three and a half fingers. Which structure is most likely compressed?",
-        "choices": [
-            "Ulnar nerve in Guyon’s canal",
-            "Median nerve in the carpal tunnel",
-            "Radial nerve at the wrist",
-            "Brachial plexus at the level of C6"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Compression of the median nerve in the carpal tunnel causes numbness in the lateral three and a half fingers."
-    },
-    {
-        "question": "A patient presents with pain in the anatomical snuffbox after a fall on an outstretched hand. Radiographs are initially negative. What is the most likely diagnosis?",
-        "choices": [
-            "Lunate dislocation",
-            "Colles’ fracture",
-            "Scaphoid fracture",
-            "Ulnar styloid fracture"
-        ],
-        "correctAnswer": 2,
-        "explanation": "A scaphoid fracture can be occult on initial radiographs, but tenderness in the anatomical snuffbox is a key clinical indicator."
-    },
-    {
-        "question": "A 50-year-old male presents with difficulty flexing the thumb. Physical examination shows weakness in opposition and atrophy of the thenar muscles. Which nerve is most likely affected?",
-        "choices": [
-            "Ulnar nerve",
-            "Radial nerve",
-            "Median nerve",
-            "Axillary nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The recurrent branch of the median nerve innervates the thenar muscles, which are responsible for opposition of the thumb."
-    },
-    {
-        "question": "A patient sustains a laceration to the wrist that severed the superficial palmar arch. Which artery is most likely involved?",
-        "choices": [
-            "Ulnar artery",
-            "Radial artery",
-            "Deep palmar arch",
-            "Common interosseous artery"
-        ],
-        "correctAnswer": 0,
-        "explanation": "The ulnar artery is the main contributor to the superficial palmar arch."
-    },
-    {
-        "question": "A patient with a history of rheumatoid arthritis presents with pain and swelling at the wrist, with decreased ability to extend the thumb and fingers. Which nerve is most likely affected?",
-        "choices": [
-            "Ulnar nerve",
-            "Median nerve",
-            "Radial nerve",
-            "Axillary nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The radial nerve innervates the extensor muscles of the forearm, and its compression can result in difficulty extending the thumb and fingers."
-    },
-    {
-        "question": "During a physical exam, a patient is unable to hold a piece of paper between their thumb and index finger. Which muscle is likely affected, and what sign is this?",
-        "choices": [
-            "Adductor pollicis; Froment’s sign",
-            "Abductor pollicis brevis; Tinel's sign",
-            "Opponens pollicis; Phalen’s sign",
-            "Flexor pollicis brevis; Froment’s sign"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Froment’s sign indicates weakness in the adductor pollicis, which is innervated by the ulnar nerve."
-    },
-    {
-        "question": "A construction worker presents with swelling and pain along the flexor aspect of the index finger after a puncture wound. The finger is held in a flexed position and is painful with passive extension. What is the most likely diagnosis?",
-        "choices": [
-            "Carpal tunnel syndrome",
-            "Flexor tenosynovitis",
-            "Dupuytren’s contracture",
-            "Ulnar canal syndrome"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Pain and swelling along the flexor tendon with a flexed posture of the finger suggest flexor tenosynovitis."
-    },
-    {
-        "question": "A patient has a laceration to the lateral side of the wrist, damaging the recurrent branch of the median nerve. Which function would most likely be affected?",
-        "choices": [
-            "Adduction of the thumb",
-            "Flexion of the 4th and 5th digits",
-            "Abduction and opposition of the thumb",
-            "Extension of the wrist"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The recurrent branch of the median nerve innervates the thenar muscles (OAF- opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis), which control thumb opposition and abduction."
-    },
-    {
-        "question": "A patient presents with a 'claw hand' deformity affecting the 4th and 5th digits. Which nerve injury is most likely responsible?",
-        "choices": [
-            "Radial nerve at the spiral groove",
-            "Median nerve at the carpal tunnel",
-            "Ulnar nerve at the wrist",
-            "Axillary nerve at the shoulder"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Clawing of the 4th and 5th digits is characteristic of ulnar nerve injury at the wrist, affecting the intrinsic muscles of the hand."
-    },
-    {
-        "question": "A patient undergoing wrist surgery requires an Allen test. Which of the following best describes the purpose of the Allen test?",
-        "choices": [
-            "Evaluates median nerve function",
-            "Assesses the integrity of the radial and ulnar arteries",
-            "Tests the strength of wrist flexion",
-            "Measures the range of motion in the wrist joint"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The Allen test is used to assess the collateral circulation between the radial and ulnar arteries before procedures involving the hand."
-    },
-    {
-        "question": "Which type of collagen is most abundant in the bone matrix?",
-        "choices": [
-            "Type I",
-            "Type II",
-            "Type III",
-            "Type IV"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Type I collagen makes up about 90% of the organic matrix in bones, providing tensile strength."
-    },
-    {
-        "question": "What is the primary function of osteoclasts?",
-        "choices": [
-            "Synthesize osteoid",
-            "Maintain bone mineral homeostasis",
-            "Resorb bone",
-            "Produce collagen"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteoclasts are responsible for bone resorption, breaking down the bone matrix to release calcium."
-    },
-    {
-        "question": "Which of the following is a characteristic feature of osteocytes?",
-        "choices": [
-            "Multinucleated cells",
-            "Located in Howship's lacunae",
-            "Have cellular processes extending through canaliculi",
-            "Derived from mesenchymal stem cells only"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteocytes reside in lacunae and communicate with other osteocytes through dendritic processes in canaliculi. Provide mechanosensory information and control bone turnover.  THEY ARE NON MITOTIC SO THEY DO NOT PROLIFERATE."
-    },
-    {
-        "question": "Which type of cartilage is most resistant to tensile forces and found in intervertebral discs?",
-        "choices": [
-            "Hyaline cartilage",
-            "Elastic cartilage",
-            "Fibrocartilage",
-            "Articular cartilage"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Fibrocartilage contains type I collagen, making it highly resistant to compressive and tensile forces, suitable for intervertebral discs."
-    },
-    {
-        "question": "What percentage of bone's wet weight is composed of hydroxyapatite mineral?",
-        "choices": [
-            "10%",
-            "30%",
-            "60%",
-            "80%"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Hydroxyapatite, a form of calcium phosphate, constitutes about 60% of the bone's wet weight, providing compressive strength."
-    },
-    {
-        "question": "A 5-year-old child presents with frequent bone fractures and blue sclerae. Genetic testing reveals a defect in collagen synthesis. Which condition is most likely?",
-        "choices": [
-            "Osteopetrosis",
-            "Osteomalacia",
-            "Osteogenesis imperfecta",
-            "Paget’s disease"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteogenesis imperfecta, also known as 'brittle bone disease,' results from defective type I collagen, leading to fragile bones and other connective tissue abnormalities."
-    },
-    {
-        "question": "A patient with a history of vitamin D deficiency presents with bone pain and muscle weakness. X-rays reveal diffuse bone softening. Which histological feature is most likely present?",
-        "choices": [
-            "Increased unmineralized osteoid",
-            "Increased osteoclast activity",
-            "Mosaic pattern of lamellar bone",
-            "Increased bone density"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Osteomalacia is characterized by insufficient mineralization of bone, leading to an excess of unmineralized osteoid."
-    },
-    {
-        "question": "A bone biopsy shows large, multinucleated cells in Howship’s lacunae adjacent to trabecular bone. Which cell type is being described?",
-        "choices": [
-            "Osteoblasts",
-            "Osteocytes",
-            "Chondrocytes",
-            "Osteoclasts"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Osteoclasts are large, multinucleated cells that resorb bone and are often found in Howship’s lacunae on bone surfaces."
-    },
-    {
-        "question": "A 70-year-old woman presents with a vertebral compression fracture. Bone density studies show decreased bone mass. Histology would most likely reveal which of the following?",
-        "choices": [
-            "Increased osteoblast activity",
-            "Decreased bone resorption",
-            "Thinned trabeculae and cortical bone",
-            "Excess woven bone"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteoporosis is characterized by a reduction in bone mass and thinning of trabeculae, leading to increased fracture risk."
-    },
-    {
-        "question": "A young athlete suffers a cartilage injury to the knee. Which characteristic of cartilage limits its ability to heal?",
-        "choices": [
-            "Abundance of type II collagen",
-            "Avascular nature",
-            "High cellular density",
-            "Presence of perichondrium"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Cartilage is avascular, which means it lacks direct blood supply, significantly impairing its ability to heal after injury."
-    },
-    {
-        "question": "Histological examination of a bone biopsy reveals disorganized woven and lamellar bone, with areas of excessive osteoclast activity followed by abnormal osteoblast function. What is the most likely diagnosis?",
-        "choices": [
-            "Osteomalacia",
-            "Paget’s disease",
-            "Osteopetrosis",
-            "Osteosarcoma"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Paget’s disease is characterized by a disorganized pattern of bone remodeling, with both excessive osteoclastic activity and uncoordinated osteoblastic activity."
-    },
-    {
-        "question": "A 65-year-old male presents with chronic low back pain. Imaging shows increased bone density in the vertebrae. Bone biopsy reveals dense, brittle bone with obliteration of the marrow space. What is the most likely diagnosis?",
-        "choices": [
-            "Osteoporosis",
-            "Osteogenesis imperfecta",
-            "Osteopetrosis",
-            "Osteomalacia"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteopetrosis, or 'marble bone disease,' results from defective osteoclasts, leading to dense but brittle bones."
-    },
-    {
-        "question": "A biopsy of bone tissue reveals cuboidal cells with abundant alkaline phosphatase activity, lining a bony surface. Which type of cell is this?",
-        "choices": [
-            "Osteoclast",
-            "Osteoblast",
-            "Osteocyte",
-            "Chondrocyte"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Osteoblasts synthesize bone matrix and exhibit alkaline phosphatase activity."
-    },
-    {
-        "question": "A child with rickets presents with bowed legs and a widened growth plate on X-ray. Which histological finding is most consistent with this diagnosis?",
-        "choices": [
-            "Excess osteoclasts in Howship’s lacunae",
-            "Thinning of cortical bone",
-            "Excess unmineralized osteoid in growth plates",
-            "Increased osteocyte density"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Rickets is characterized by defective mineralization of the growth plate, resulting in an excess of unmineralized osteoid."
-    },
-    {
-        "question": "A 55-year-old woman is started on a bisphosphonate for osteoporosis. What is the primary mechanism of action of this drug?",
-        "choices": [
-            "Inhibits osteoblast function",
-            "Promotes bone resorption",
-            "Stimulates osteoclast apoptosis",
-            "Enhances collagen synthesis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Bisphosphonates work by inhibiting osteoclast activity, leading to decreased bone resorption and increased bone density."
-    },
-    {
-        "question": "What type of ossification is responsible for the formation of flat bones like the skull?",
-        "choices": [
-            "Endochondral ossification",
-            "Intramembranous ossification",
-            "Appositional growth",
-            "Osteoclastic resorption"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Intramembranous ossification involves the direct differentiation of mesenchymal cells into osteoblasts, which form flat bones like those in the skull."
-    },
-    {
-        "question": "Which zone of the growth plate is characterized by active mitosis of chondrocytes?",
-        "choices": [
-            "Resting zone",
-            "Hypertrophic zone",
-            "Proliferative zone",
-            "Vascular invasion zone"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The proliferative zone of the growth plate is where chondrocytes undergo rapid cell division, contributing to the lengthening of bones."
-    },
-    {
-        "question": "What genetic mutation is associated with achondroplasia?",
-        "choices": [
-            "ACVR1 gene",
-            "FGFR3 gene",
-            "RUNX2 gene",
-            "PHEX gene"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Achondroplasia is caused by mutations in the FGFR3 gene, causing defects in chondrocyte proliferation and differentiation, producing narrow and disorganized zones of proliferation and hypertrophy in the growth plate."
-    },
-    {
-        "question": "Which type of fracture is most common in children due to their softer bones?",
-        "choices": [
-            "Transverse fracture",
-            "Greenstick fracture",
-            "Comminuted fracture",
-            "Spiral fracture"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Greenstick fractures are incomplete fractures where one side of the bone bends. These are common in children due to their more flexible bone structure."
-    },
-    {
-        "question": "What is the first step in the process of fracture healing?",
-        "choices": [
-            "Formation of a hard callus",
-            "Formation of a fibrocartilaginous callus",
-            "Hematoma formation",
-            "Remodeling into lamellar bone"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Fracture healing begins with the formation of a hematoma due to rupture of blood vessels at the site of injury."
-    },
-    {
-        "question": "A 10-year-old child presents with pain and deformity of the femur after a minor fall. X-ray reveals a bowing of the bone without complete breakage. What type of fracture is most likely?",
-        "choices": [
-            "Greenstick fracture",
-            "Spiral fracture",
-            "Transverse fracture",
-            "Comminuted fracture"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Greenstick fractures occur in children and are characterized by a partial break in the bone with bending on the other side."
-    },
-    {
-        "question": "A 35-year-old male undergoes mandibular lengthening surgery, and bone healing occurs without the formation of a cartilaginous callus. What type of ossification is most likely involved in this process?",
-        "choices": [
-            "Endochondral ossification",
-            "Intramembranous ossification",
-            "Secondary ossification",
-            "Appositional growth"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Intramembranous ossification is the process involved in rigidly stabilized fractures, such as those in limb lengthening surgeries."
-    },
-    {
-        "question": "A child with achondroplasia presents with short limbs and a normal-sized trunk. Which area of the growth plate is most affected by this condition?",
-        "choices": [
-            "Resting zone",
-            "Proliferative and hypertrophic zones",
-            "Vascular invasion zone",
-            "Epiphyseal bone deposition"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Achondroplasia is characterized by disorganized and narrowed proliferative and hypertrophic zones of the growth plate, leading to impaired bone elongation."
-    },
-    {
-        "question": "A patient presents with a spiral fracture of the tibia after a sports injury. What mechanism of injury is most consistent with this type of fracture?",
-        "choices": [
-            "Direct trauma perpendicular to the bone",
-            "Twisting force applied to the limb",
-            "Compression injury",
-            "Overuse stress"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Spiral fractures are caused by a rotational force applied to a long bone, such as twisting. (Torque injury, like planting a foot in a hole while running)"
-    },
-    {
-        "question": "A 60-year-old woman presents with sudden onset of back pain and is diagnosed with a vertebral compression fracture. Which underlying condition is most likely to contribute to this fracture?",
-        "choices": [
-            "Osteoporosis",
-            "Osteopetrosis",
-            "Paget's disease",
-            "Osteogenesis imperfecta"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Osteoporosis leads to decreased bone density, making bones more susceptible to compression fractures, especially in the vertebrae."
-    },
-    {
-        "question": "A bone biopsy from a 30-year-old patient with a recent femoral fracture shows unmineralized osteoid. What condition is most likely?",
-        "choices": [
-            "Osteopetrosis",
-            "Rickets",
-            "Osteomalacia",
-            "Osteosarcoma"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteomalacia involves defective mineralization of bone, leading to an excess of unmineralized osteoid."
-    },
-    {
-        "question": "A 22-year-old athlete presents with a tibial stress fracture. Which of the following is the most appropriate initial management?",
-        "choices": [
-            "Immediate surgical fixation",
-            "Cast immobilization",
-            "Rest and gradual return to activity",
-            "Physical therapy focusing on weight-bearing exercises"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Stress fractures are best managed with rest and activity modification, allowing time for bone healing."
-    },
-    {
-        "question": "A patient presents with a closed transverse fracture of the radius after a fall. Which of the following best describes the nature of this fracture?",
-        "choices": [
-            "Fracture perpendicular to the bone's long axis with no communication with the outside environment",
-            "Fracture along the long axis of the bone with soft tissue damage",
-            "Spiral fracture with twisting mechanism",
-            "Comminuted fracture with multiple bone fragments"
-        ],
-        "correctAnswer": 0,
-        "explanation": "A closed transverse fracture is characterized by a break perpendicular to the bone's axis and does not involve an open wound."
-    },
-    {
-        "question": "A 45-year-old patient undergoes open reduction and internal fixation for a comminuted humeral fracture. Which part of the healing process is promoted by the surgical intervention?",
-        "choices": [
-            "Hematoma formation",
-            "Callus formation",
-            "Direct bone healing without callus formation",
-            "Remodeling into lamellar bone"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Open reduction and internal fixation (ORIF) can facilitate primary bone healing without the formation of a cartilaginous callus."
-    },
-    {
-        "question": "A patient presents with a deformity following a fractured tibia that was improperly set. X-ray shows a significant angle between the distal and proximal bone fragments. What term best describes this deformity?",
-        "choices": [
-            "Displacement",
-            "Angulation",
-            "Shortening",
-            "Rotation"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Angulation refers to the deviation of the bone fragments from their normal alignment, creating an angle."
-    },
-    {
-        "question": "A child presents with a fracture that has healed with a noticeable bump at the site of injury. Which part of the healing process most likely resulted in this finding?",
-        "choices": [
-            "Hematoma formation",
-            "Soft callus formation",
-            "Hard callus formation",
-            "Bone remodeling"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The formation of a hard callus during fracture healing results in a mass of new bone that may present as a bump before remodeling occurs."
-    },
-    {
-        "question": "A patient has a history of repeated soft-tissue trauma and presents with localized pain and stiffness in the quadriceps muscle. Imaging reveals calcification within the muscle. What is the most likely diagnosis?",
-        "choices": [
-            "Osteosarcoma",
-            "Osteochondritis dissecans",
-            "Myositis ossificans",
-            "Fibrodysplasia ossificans progressiva"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Myositis ossificans is characterized by abnormal ossification within the muscle, often following trauma."
-    },
-    {
-        "question": "What is the primary defect in osteogenesis imperfecta?",
-        "choices": [
-            "Deficient type II collagen",
-            "Deficient type I collagen",
-            "Abnormal osteoclast function",
-            "Deficient vitamin D"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Osteogenesis imperfecta results from mutations in COL1A1 or COL1A2 genes, affecting type I collagen and leading to brittle bones."
-    },
-    {
-        "question": "Which bone disorder is characterized by thick, dense bones due to defective osteoclast function?",
-        "choices": [
-            "Osteogenesis imperfecta",
-            "Osteomalacia",
-            "Osteopetrosis",
-            "Paget disease"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteopetrosis results from defective osteoclast function (typically too little resorption), leading to increased bone density but brittle bones."
-    },
-    {
-        "question": "What laboratory finding is typically elevated in patients with Paget's disease of bone?",
-        "choices": [
-            "Serum calcium",
-            "Serum phosphate",
-            "Serum alkaline phosphatase",
-            "Parathyroid hormone"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Paget's disease is often associated with elevated serum alkaline phosphatase due to increased bone turnover."
-    },
-    {
-        "question": "What is a common radiological finding in osteoporosis?",
-        "choices": [
-            "Vertebral compression fractures",
-            "Mixed lytic and sclerotic lesions",
-            "Erlenmeyer flask deformity",
-            "Pseudofractures"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Osteoporosis is associated with decreased bone density, leading to vertebral compression fractures."
-    },
-    {
-        "question": "A 5-year-old boy presents with short stature, bowed legs, and an enlarged head. Genetic testing reveals a mutation in the FGFR3 gene. Which complication is he most at risk for?",
-        "choices": [
-            "Vertebral compression fractures",
-            "Sudden death from brainstem compression",
-            "Osteosarcoma",
-            "Aortic dissection"
-        ],
-        "correctAnswer": 1,
-        "explanation": "In severe cases of achondroplasia, narrowing of the foramen magnum can lead to brainstem compression."
-    },
-    {
-        "question": "A 35-year-old woman presents with bone pain and recurrent fractures. X-ray shows osteopenia, and labs reveal low serum calcium and phosphate with high alkaline phosphatase. What is the most likely diagnosis?",
-        "choices": [
-            "Osteogenesis imperfecta",
-            "Paget's disease",
-            "Osteomalacia",
-            "Osteopetrosis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteomalacia is characterized by defective bone mineralization, resulting in bone pain, low calcium and phosphate levels, and elevated alkaline phosphatase."
-    },
-    {
-        "question": "A 65-year-old man presents with a history of increasing hat size and bone pain in the pelvis. Radiographs show mixed lytic and sclerotic lesions. Which complication is he most at risk for?",
-        "choices": [
-            "Avascular necrosis",
-            "Osteosarcoma",
-            "Osteomyelitis",
-            "Spinal stenosis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Paget's disease can lead to secondary osteosarcoma due to excessive and disorganized bone remodeling."
-    },
-    {
-        "question": "A patient with osteopetrosis presents with recurrent infections and easy bruising. What is the most likely explanation for these symptoms?",
-        "choices": [
-            "Hypercalcemia",
-            "Marrow failure",
-            "Compression fractures",
-            "Hyperphosphatemia"
-        ],
-        "correctAnswer": 1,
-        "explanation": "In osteopetrosis, the marrow space is filled with dense bone, leading to bone marrow failure and resulting in cytopenias, increased risk of infections, and bleeding."
-    },
-    {
-        "question": "A 7-year-old boy with osteogenesis imperfecta presents with multiple fractures and blue sclerae. Which of the following could be considered in the differential diagnosis to rule out another condition?",
-        "choices": [
-            "Osteopetrosis",
-            "Rickets",
-            "Child abuse",
-            "Paget's disease"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Multiple fractures in pediatric patients can be a sign of child abuse, but the presence of blue sclerae and a family history supports osteogenesis imperfecta."
-    },
-    {
-        "question": "A 70-year-old woman presents with a vertebral compression fracture after a minor fall. Her DEXA scan reveals a T-score of -3.0. What is the best initial treatment?",
-        "choices": [
-            "Vitamin D supplementation alone",
-            "High-dose calcium supplementation",
-            "Bisphosphonate therapy",
-            "Calcitonin"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Bisphosphonates are the first-line treatment for osteoporosis to reduce bone resorption and prevent further fractures."
-    },
-    {
-        "question": "A patient presents with a fracture and radiological findings of 'Erlenmeyer flask' deformity. Which condition is most likely?",
-        "choices": [
-            "Paget's disease",
-            "Achondroplasia",
-            "Osteopetrosis",
-            "Osteomalacia"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteopetrosis can present with an 'Erlenmeyer flask' deformity, where the metaphysis of long bones is flared and widened."
-    },
-    {
-        "question": "A patient with Paget’s disease presents with a new onset of heart failure. Which of the following mechanisms is most likely responsible?",
-        "choices": [
-            "Decreased cardiac output due to immobility",
-            "High-output heart failure from increased vascularization of bone",
-            "Compression of the heart by thickened ribs",
-            "Hypercalcemia leading to cardiac dysfunction"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Paget's disease can create arterio-venous shunts in bone, leading to high-output heart failure."
-    },
-    {
-        "question": "A patient presents with bone pain and bowing of the legs. X-ray shows a widened growth plate with a 'rachitic rosary' appearance. What is the most likely diagnosis?",
-        "choices": [
-            "Osteopetrosis",
-            "Osteogenesis imperfecta",
-            "Rickets",
-            "Paget's disease"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Rickets in children presents with bone pain, bowing of the legs, and the 'rachitic rosary' appearance due to poorly mineralized cartilage at costochondral junctions. Additionally, Rickets has low calcium and phosphate levels but HIGH alkaline phosphatase"
-    },
-    {
-        "question": "A 60-year-old patient with a long-standing history of osteoporosis presents with sudden back pain. Imaging reveals a T12 compression fracture. Which of the following is most likely responsible for this condition?",
-        "choices": [
-            "Excessive osteoblastic activity",
-            "Decreased bone resorption",
-            "Imbalance favoring osteoclastic over osteoblastic activity",
-            "Increased bone density"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteoporosis results from increased bone resorption relative to bone formation, leading to reduced bone density and increased fracture risk."
-    },
-    {
-        "question": "A child presents with diffuse bone pain and muscle weakness. Labs show low calcium, low phosphate, and high alkaline phosphatase. Which of the following is the most likely diagnosis?",
-        "choices": [
-            "Paget’s disease",
-            "Osteomalacia",
-            "Rickets",
-            "Osteopetrosis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Rickets is associated with vitamin D deficiency, leading to poor bone mineralization and characteristic lab findings."
-    },
-    {
-        "question": "A 55-year-old man presents with bone pain and a history of multiple fractures. X-ray shows a mosaic pattern of woven and lamellar bone. What is the most likely diagnosis?",
-        "choices": [
-            "Osteopetrosis",
-            "Osteomalacia",
-            "Paget’s disease",
-            "Achondroplasia"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Paget's disease of bone is characterized by a mosaic pattern of bone, resulting from disorganized bone remodeling."
-    },
-    {
-        "question": "Which antibody has high specificity for rheumatoid arthritis?",
-        "choices": [
-            "ANA",
-            "Anti-dsDNA",
-            "Anti-CCP",
-            "Rheumatoid factor (RF)"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Anti-cyclic citrullinated peptide (Anti-CCP) antibodies have a high specificity for rheumatoid arthritis (93-99%)."
-    },
-    {
-        "question": "What is the hallmark radiographic feature of rheumatoid arthritis?",
-        "choices": [
-            "Osteophyte formation",
-            "Marginal erosions and periarticular osteopenia",
-            "Subchondral sclerosis",
-            "Joint space narrowing with osteophytes"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Marginal erosions and periarticular osteopenia are characteristic findings in rheumatoid arthritis due to inflammation and bone loss."
-    },
-    {
-        "question": "Which joint is most often spared in rheumatoid arthritis?",
-        "choices": [
-            "Wrist",
-            "MCP",
-            "DIP",
-            "PIP"
-        ],
-        "correctAnswer": 2,
-        "explanation": "DIP joints are typically spared in rheumatoid arthritis, while the MCP and PIP joints are commonly involved."
-    },
-    {
-        "question": "What is the typical duration of morning stiffness in inflammatory arthritis such as rheumatoid arthritis?",
-        "choices": [
-            "Less than 15 minutes",
-            "15-30 minutes",
-            "Less than 1 hour",
-            "More than 1 hour"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Morning stiffness lasting more than 1 hour is a hallmark of inflammatory arthritis like rheumatoid arthritis."
-    },
-    {
-        "question": "Which of the following is a potential adverse effect of methotrexate therapy in rheumatoid arthritis?",
-        "choices": [
-            "Nephrotoxicity",
-            "Pneumonitis",
-            "Hypoglycemia",
-            "Cardiomyopathy"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Methotrexate can cause rare but serious adverse effects like pneumonitis, especially in patients with underlying lung disease. Other rare side effects include: teratogenicity and accelerated rheumatoid nodulosis."
-    },
-    {
-        "question": "A 45-year-old woman presents with 3 months of morning stiffness in her wrists and MCP joints, lasting over 2 hours. She has tenderness along the joint lines, and her x-rays show marginal erosions. Which antibody is most likely to be positive?",
-        "choices": [
-            "ANA",
-            "Anti-CCP",
-            "Anti-dsDNA",
-            "Anti-histone"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Anti-CCP is highly specific for rheumatoid arthritis, which is suggested by the clinical presentation and radiographic findings."
-    },
-    {
-        "question": "A patient with rheumatoid arthritis presents with difficulty breathing and is found to have ground-glass opacities on chest imaging. Which of the following is the most likely pulmonary complication?",
-        "choices": [
-            "Pulmonary embolism",
-            "Interstitial lung disease",
-            "Pleural effusion",
-            "Pulmonary hypertension"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Interstitial lung disease is a known extra-articular manifestation of rheumatoid arthritis, especially in patients with long-standing disease."
-    },
-    {
-        "question": "A 60-year-old male presents with long-standing rheumatoid arthritis and recurrent infections. Laboratory testing reveals neutropenia and splenomegaly. What is the most likely diagnosis?",
-        "choices": [
-            "Felty syndrome",
-            "Sjögren syndrome",
-            "Systemic lupus erythematosus",
-            "Ankylosing spondylitis"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Felty syndrome is a triad of rheumatoid arthritis, neutropenia, and splenomegaly."
-    },
-    {
-        "question": "A 35-year-old woman with rheumatoid arthritis complains of neck pain and has a shock-like sensation down her spine when flexing her neck. Which complication should be ruled out?",
-        "choices": [
-            "Atlantoaxial subluxation",
-            "Cervical spondylosis",
-            "Thoracic outlet syndrome",
-            "Subclavian steal syndrome"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Atlantoaxial subluxation is a serious complication in rheumatoid arthritis that can lead to spinal cord compression and requires imaging."
-    },
-    {
-        "question": "A patient with rheumatoid arthritis is started on methotrexate but develops mouth ulcers and GI upset. What should be co-administered to reduce these side effects?",
-        "choices": [
-            "Calcium carbonate",
-            "Vitamin D",
-            "Folic acid",
-            "Magnesium oxide"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Folic acid is used to mitigate the side effects of methotrexate, including mucositis and GI disturbances. Other common symptoms of methotrexate include: nausea, alopecia, hepatotoxicity, and leukopenia."
-    },
-    {
-        "question": "A patient with rheumatoid arthritis has been treated with methotrexate but has not achieved symptom control. Which biologic agent targeting TNF-alpha could be considered next?",
-        "choices": [
-            "Rituximab",
-            "Etanercept",
-            "Abatacept",
-            "Tocilizumab"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Etanercept is a TNF-alpha inhibitor often used when methotrexate alone does not provide adequate control of rheumatoid arthritis symptoms."
-    },
-    {
-        "question": "A 55-year-old woman with rheumatoid arthritis presents with progressive worsening of vision and severe eye pain. Examination reveals a red, tender globe. Which condition is most likely?",
-        "choices": [
-            "Conjunctivitis",
-            "Scleritis",
-            "Keratitis",
-            "Uveitis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Scleritis is associated with severe, deep eye pain and is a potential extra-articular manifestation of rheumatoid arthritis. Also may have photophobia and decreased visual acuity."
-    },
-    {
-        "question": "A 70-year-old male with rheumatoid arthritis presents with new-onset fatigue and unexplained weight loss. Which of the following should be considered given the chronic inflammatory state?",
-        "choices": [
-            "Renal cell carcinoma",
-            "Lung cancer",
-            "Hepatocellular carcinoma",
-            "Lymphoma"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Patients with long-standing rheumatoid arthritis are at increased risk for lymphomas due to chronic immune activation."
-    },
-    {
-        "question": "A 40-year-old woman presents with symmetric polyarthritis affecting her wrists, MCPs, and PIPs. She has been on glucocorticoids for 6 months. What is a potential long-term complication of this therapy?",
-        "choices": [
-            "Osteoporosis",
-            "Hypercalcemia",
-            "Hypothyroidism",
-            "Nephrotic syndrome"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Long-term glucocorticoid use is associated with an increased risk of osteoporosis and bone fractures."
-    },
-    {
-        "question": "A 65-year-old male with rheumatoid arthritis presents with persistent cough and dyspnea. A CT scan reveals honeycombing. What is the likely diagnosis?",
-        "choices": [
-            "Pulmonary embolism",
-            "Bronchiectasis",
-            "Interstitial lung disease",
-            "Pleural effusion"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Interstitial lung disease can develop in rheumatoid arthritis, presenting with symptoms like cough and dyspnea and showing honeycombing ground glass opacities, and reticulation on imaging. Has increased risk in smokers."
-    },
-    {
-        "question": "A patient presents with joint pain and swelling that is worse with rest and improves with activity. Which feature best differentiates inflammatory from non-inflammatory joint disease?",
-        "choices": [
-            "Morning stiffness lasting more than 1 hour",
-            "Joint pain with movement",
-            "Presence of Heberden’s nodes",
-            "Worsening symptoms with use"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Morning stiffness lasting more than 1 hour is characteristic of inflammatory arthritis, such as rheumatoid arthritis."
-    },
-    {
-        "question": "A 45-year-old man with rheumatoid arthritis presents with sudden pain and swelling in the right calf. A Doppler ultrasound reveals a deep vein thrombosis (DVT). Which of the following is a potential risk factor in this patient?",
-        "choices": [
-            "Reduced mobility",
-            "Long-term use of NSAIDs",
-            "Methotrexate use",
-            "High levels of anti-CCP antibodies"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Reduced mobility, often seen in patients with active joint inflammation, is a significant risk factor for DVT in rheumatoid arthritis patients."
-    },
-    {
-        "question": "A patient with rheumatoid arthritis has persistent joint inflammation despite methotrexate therapy. Which laboratory test would indicate a need to check for treatment-related bone marrow suppression?",
-        "choices": [
-            "ESR",
-            "Complete blood count (CBC)",
-            "CRP",
-            "Anti-CCP"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Methotrexate can cause bone marrow suppression, and monitoring with a CBC is essential to detect cytopenias."
-    },
-    {
-        "question": "Which carpal bone is most commonly fractured in a fall on an outstretched hand (FOOSH) injury?",
-        "choices": [
-            "Lunate",
-            "Scaphoid",
-            "Trapezium",
-            "Hamate"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The scaphoid is the most commonly fractured carpal bone in a FOOSH injury, and fractures can lead to avascular necrosis due to its retrograde blood supply."
-    },
-    {
-        "question": "Which nerve is most likely to be affected in carpal tunnel syndrome?",
-        "choices": [
-            "Ulnar nerve",
-            "Radial nerve",
-            "Median nerve",
-            "Musculocutaneous nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Carpal tunnel syndrome results from compression of the median nerve as it passes through the carpal tunnel, leading to symptoms in the lateral 3½ fingers."
-    },
-    {
-        "question": "A 32-year-old cyclist presents with numbness and tingling in the medial 1½ digits of his right hand after a long ride. Which condition is most likely causing his symptoms?",
-        "choices": [
-            "Carpal tunnel syndrome",
-            "Ulnar canal syndrome (Guyon's canal syndrome)",
-            "Radial nerve palsy",
-            "Pronator syndrome"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Ulnar canal syndrome (Guyon's canal syndrome), also known as 'handlebar palsy,' is common in cyclists and results from compression of the ulnar nerve as it passes through Guyon's canal."
-    },
-    {
-        "question": "A patient presents with weakness in thumb opposition and atrophy of the thenar eminence. Which nerve is likely affected, and what is the likely location of injury?",
-        "choices": [
-            "Ulnar nerve at the wrist",
-            "Median nerve at the wrist",
-            "Radial nerve at the elbow",
-            "Ulnar nerve at the elbow"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Injury to the median nerve at the wrist, such as in carpal tunnel syndrome, can lead to atrophy of the thenar muscles and difficulty opposing the thumb."
-    },
-    {
-        "question": "A 45-year-old man sustains a fall and lands on his outstretched hand. He presents with tenderness in the anatomical snuffbox region. Which imaging study is most appropriate to confirm the suspected diagnosis?",
-        "choices": [
-            "Ultrasound of the wrist",
-            "X-ray of the wrist",
-            "CT scan of the hand",
-            "MRI of the hand"
-        ],
-        "correctAnswer": 1,
-        "explanation": "X-ray of the wrist is the initial imaging study of choice to diagnose a suspected scaphoid fracture, which presents with tenderness in the anatomical snuffbox."
-    },
-    {
-        "question": "A patient presents with numbness and tingling in the lateral 3½ fingers. Which structure is most likely involved in this presentation?",
-        "choices": [
-            "Ulnar nerve",
-            "Radial nerve",
-            "Median nerve",
-            "Lateral cutaneous nerve of forearm"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Carpal tunnel syndrome results from compression of the median nerve as it passes through the carpal tunnel, leading to sensory symptoms in the lateral 3½ fingers."
-    },
-    {
-        "question": "Which artery forms the primary contribution to the superficial palmar arch?",
-        "choices": [
-            "Radial artery",
-            "Ulnar artery",
-            "Brachial artery",
-            "Common interosseous artery"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The ulnar artery is the primary contributor to the superficial palmar arch, although it is often completed by a superficial branch of the radial artery."
-    },
-    {
-        "question": "A patient presents with weakness in finger abduction and adduction and loss of sensation over the medial 1½ fingers. Compression of which structure is most likely responsible?",
-        "choices": [
-            "Median nerve in the carpal tunnel",
-            "Radial nerve in the anatomical snuffbox",
-            "Ulnar nerve in Guyon's canal",
-            "Anterior interosseous nerve"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Compression of the ulnar nerve in Guyon’s canal can lead to weakness of the intrinsic hand muscles (lumbricals 3-4, Palmar interossei, Dorsal interossei, hypothenar muscles, adductor pollicis) and sensory loss in the medial 1½ digits."
-    },
-    {
-        "question": "A patient is undergoing an Allen test before a radial artery cannulation. What does a positive Allen test indicate?",
-        "choices": [
-            "Absence of ulnar artery perfusion",
-            "Presence of complete superficial palmar arch",
-            "Compression of the median nerve",
-            "Presence of flexor tenosynovitis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "A positive Allen test indicates that there is sufficient collateral circulation through the ulnar artery to perfuse the hand if the radial artery is compromised."
-    },
-    {
-        "question": "A construction worker presents with pain and swelling in the fifth digit after a puncture wound. He has difficulty flexing and extending the finger. Which structure is most likely affected?",
-        "choices": [
-            "Flexor retinaculum",
-            "Extensor hood",
-            "Digital synovial sheath",
-            "Thenar muscles"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Infection of the digital synovial sheath can lead to flexor tenosynovitis, causing pain, swelling, and difficulty moving the affected finger."
-    },
-    {
-        "question": "A patient presents with a fracture of the scaphoid bone. What is the primary concern associated with this injury?",
-        "choices": [
-            "Damage to the median nerve",
-            "Avascular necrosis of the proximal segment",
-            "Compression of the ulnar artery",
-            "Dislocation of the lunate"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The scaphoid has a retrograde blood supply, making the proximal segment vulnerable to avascular necrosis if the bone is fractured."
-    },
-    {
-        "question": "Which ligament is most commonly injured in a wrist sprain following a fall on an outstretched hand (FOOSH)?",
-        "choices": [
-            "Ulnar collateral ligament",
-            "Palmar radiocarpal ligament",
-            "Scapholunate ligament",
-            "Radial collateral ligament"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The scapholunate ligament is often damaged in a wrist sprain due to a FOOSH injury, which can result in instability between the scaphoid and lunate bones."
-    },
-    {
-        "question": "A patient presents with sensory loss over the medial 1½ digits and weakness in the intrinsic muscles of the hand. Which structure is most likely involved?",
-        "choices": [
-            "Carpal tunnel",
-            "Guyon's canal",
-            "Flexor retinaculum",
-            "Extensor retinaculum"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Compression of the ulnar nerve in Guyon's canal results in sensory deficits over the medial 1½ digits and weakness of the intrinsic hand muscles."
-    },
-    {
-        "question": "Which bone is at the highest risk of avascular necrosis following a fracture in the anatomical snuffbox?",
-        "choices": [
-            "Lunate",
-            "Triquetrum",
-            "Scaphoid",
-            "Pisiform"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The scaphoid is prone to avascular necrosis due to its retrograde blood supply, especially when fractured in the anatomical snuffbox region."
-    },
-    {
-        "question": "A cyclist presents with weakness in grip strength and sensory loss on the palmar surface of the medial 1½ fingers. Which nerve is likely compressed?",
-        "choices": [
-            "Median nerve",
-            "Ulnar nerve",
-            "Radial nerve",
-            "Musculocutaneous nerve"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Handlebar neuropathy is caused by compression of the ulnar nerve, leading to sensory loss and weakness of muscles innervated by this nerve."
-    },
-    {
-        "question": "A 50-year-old man presents with a contracted fourth and fifth digit, making it difficult to extend his fingers. Which condition best describes his presentation?",
-        "choices": [
-            "Carpal tunnel syndrome",
-            "Dupuytren's contracture",
-            "Trigger finger",
-            "Ulnar canal syndrome"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Dupuytren's contracture involves the progressive thickening of the palmar aponeurosis, leading to contracture and flexion deformity of the fingers."
-    },
-    {
-        "question": "A patient undergoes an Allen test prior to radial artery cannulation. The palm remains blanched when the ulnar artery is released. What does this indicate?",
-        "choices": [
-            "Adequate collateral circulation from the radial artery",
-            "Adequate collateral circulation from the ulnar artery",
-            "Incomplete superficial palmar arch",
-            "Normal deep palmar arch"
-        ],
-        "correctAnswer": 2,
-        "explanation": "A positive Allen test, where the palm remains blanched, suggests insufficient collateral circulation through the superficial palmar arch, indicating an incomplete connection between the radial and ulnar arteries."
-    },
-{
-    "question": "Which of the following best describes how Medicare Part A is funded?",
+   {
+    "question": "A patient presents with pain over the lateral epicondyle of the humerus after repeated racquet sports. Which muscle is most likely involved in this injury?",
     "choices": [
-        "Federal general revenue and state taxes",
-        "Payroll taxes (FICA) and federal general funds",
-        "Premiums paid by enrollees only",
-        "State and local government contributions"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Medicare Part A is primarily funded through payroll taxes (FICA) and some contributions from federal general funds."
-},
-{
-    "question": "What is the primary focus of Medicaid coverage?",
-    "choices": [
-        "Providing health insurance for individuals over 65",
-        "Assisting low-income individuals and families with medical expenses",
-        "Offering long-term care insurance for disabled veterans",
-        "Subsidizing private health insurance premiums for the uninsured"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Medicaid is designed to assist low-income individuals and families with medical expenses."
-},
-{
-    "question": "Which Medicare part covers prescription drugs?",
-    "choices": [
-        "Part A",
-        "Part B",
-        "Part C",
-        "Part D"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Medicare Part D is the portion that covers prescription drug benefits."
-},
-{
-    "question": "Approximately what percentage of the U.S. population is covered by employer-sponsored health insurance?",
-    "choices": [
-        "30%",
-        "49%",
-        "60%",
-        "75%"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Around 49% of the U.S. population has health insurance through their employer."
-},
-{
-    "question": "A 67-year-old patient is admitted to the hospital for a hip replacement. He is enrolled in Medicare and is concerned about what his insurance will cover. Which Medicare part is primarily responsible for covering his hospital stay?",
-    "choices": [
-        "Part A",
-        "Part B",
-        "Part C",
-        "Part D"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Medicare Part A covers inpatient hospital stays, making it the correct choice for hospital-related expenses."
-},
-{
-    "question": "A 45-year-old woman with low income is recently unemployed and applies for Medicaid. The state in which she resides did not expand Medicaid coverage under the ACA. Which of the following is likely true about her eligibility?",
-    "choices": [
-        "She is automatically eligible for Medicaid due to her unemployment status.",
-        "She may not qualify if her income is above the state-specific threshold.",
-        "She is eligible for Medicaid because it covers all uninsured adults.",
-        "She can enroll in Medicare instead."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Eligibility for Medicaid depends on state-specific thresholds, and she may not qualify if her state has not expanded coverage."
-},
-{
-    "question": "A patient aged 70 has a Medicare Advantage Plan (Part C). He asks you how this differs from traditional Medicare Parts A and B. Which of the following is the most appropriate response?",
-    "choices": [
-        "Medicare Advantage Plans are state-funded while Parts A and B are federally funded.",
-        "Part C plans provide additional coverage and may include prescription drug benefits, but are managed by private insurers.",
-        "Part C only covers prescription drugs without any other medical services.",
-        "Medicare Advantage Plans are limited to low-income individuals."
-    ],
-    "correctAnswer": 1,
-    "explanation": "Medicare Part C, or Medicare Advantage, offers the same benefits as Parts A and B, sometimes with additional coverage options and is managed by private insurance companies."
-},
-{
-    "question": "During a review of a patient's financial records, you note that a portion of her paycheck is deducted for Medicare taxes. This payroll tax primarily funds which Medicare part?",
-    "choices": [
-        "Part B",
-        "Part D",
-        "Part A",
-        "Part C"
+        "Flexor carpi ulnaris",
+        "Brachioradialis",
+        "Extensor carpi radialis brevis",
+        "Pronator teres"
     ],
     "correctAnswer": 2,
-    "explanation": "Payroll taxes (FICA) are primarily used to fund Medicare Part A."
+    "explanation": "The extensor carpi radialis brevis is commonly involved in lateral epicondylitis, also known as tennis elbow."
 },
 {
-    "question": "A 62-year-old patient presents to the clinic and mentions that her state recently expanded Medicaid under the Affordable Care Act (ACA). Which of the following populations is likely to benefit from this expansion?",
+    "question": "A 32-year-old rock climber presents with wrist drop following a humeral shaft fracture. Which structure was most likely damaged?",
     "choices": [
-        "Individuals with incomes up to 400% of the federal poverty level",
-        "Adults aged 19-64 with incomes up to 138% of the federal poverty level",
-        "Only children under 18 and pregnant women",
-        "Individuals over the age of 65 regardless of income"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The ACA allowed states to expand Medicaid eligibility to adults with incomes up to 138% of the federal poverty level."
-},
-{
-    "question": "A 58-year-old man is newly diagnosed with diabetes and is concerned about his coverage for outpatient services like physician visits and lab work. He is enrolled in Medicare. Which Medicare part covers these services, and what percentage does it typically pay after the deductible is met?",
-    "choices": [
-        "Part A, 100%",
-        "Part B, 80%",
-        "Part D, 50%",
-        "Part C, 90%"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Medicare Part B covers outpatient services and typically pays 80% of the approved amount after the deductible is met."
-},
-{
-    "question": "Which of the following is the best treatment of Paget disease?",
-    "choices": [
-        "Bisphosphonates",
-        "Estrogen",
-        "NSAIDs",
-        "Vitamin D"
+        "Radial nerve",
+        "Median nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is bisphosphonates (A). Paget disease is treated with bisphosphonates as they work by inhibiting osteoclast activity. Estrogen (B) induces apoptosis in osteoclasts and is a potential treatment for osteoporosis in postmenopausal women. NSAIDs (C) allow for pain control but are not the first-line treatment in Paget disease. Vitamin D supplementation (D) is used to treat osteomalacia and rickets."
+    "explanation": "The radial nerve, which runs along the humeral shaft, is often injured in fractures of the humeral shaft, leading to wrist drop."
 },
 {
-    "question": "A 4-year-old girl is brought to the pediatrician’s office. Her mother says that she noticed that her legs seem unsteady and bowed when the girl stands. She noticed this for the first time 2 months ago. What is the most likely diagnosis?",
+    "question": "During an assessment, a patient cannot extend their wrist and fingers. Which nerve injury would result in this clinical presentation?",
     "choices": [
-        "Osteopenia",
-        "Osteoporosis",
-        "Paget disease",
-        "Rickets"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is rickets (D). Rickets often occurs in children aged 6-23 months or 12-15 years because of vitamin D deficiency and presents with genu varum, or bow legs. Osteoporosis (B) is a disorder of decreased bone mineral density that is common in postmenopausal women and caused by factors such as old age and decreased estrogen levels. Osteopenia (A) is a milder loss of bone mineral density that is a precursor to osteoporosis. Paget disease (C) is characterized by increased deposition of poor-quality bone that is typically seen in adults older than 55 years and not seen in children."
-},
-{
-    "question": "Which of the following is seen in both osteomalacia and osteoporosis?",
-    "choices": [
-        "Elevated bone alkaline phosphatase",
-        "Frequent bone fractures",
-        "Low vitamin D levels",
-        "Hypocalcemia"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is frequent bone fractures (B). Both disorders lead to weakened bone, making them prone to fractures. Elevated alkaline phosphatase (A) is indicative of high bone turnover, typically seen in hyperparathyroidism rather than in osteomalacia or osteoporosis. Low vitamin D levels (C) are associated with osteomalacia but not osteoporosis. Hypocalcemia (D) is common in osteomalacia due to vitamin D deficiency but not in osteoporosis."
-},
-{
-    "question": "Which of the following is a major component of bone matrix?",
-    "choices": [
-        "Chondroitin sulfate",
-        "Hydroxyapatite",
-        "Nitric oxide",
-        "Type II collagen",
-        "Type IV collagen"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is hydroxyapatite (B). Hydroxyapatite and type I collagen are the major components of bone matrix. Chondroitin sulfate (A) and type II collagen (D) are both major components of cartilage. Nitric oxide (C) is a gaseous signaling molecule, and type IV collagen (E) is a major component of the basal lamina in epithelial tissue."
-},
-{
-    "question": "Where in a developing long bone does the secondary ossification center form?",
-    "choices": [
-        "Diaphysis",
-        "Epiphysis",
-        "Growth plate",
-        "Medullary cavity",
-        "Metaphysis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is epiphysis (B). During endochondral ossification, the secondary ossification center arises after birth and involves the same process of blood vessel and osteogenic cell invasion that occurs in the primary ossification center. In long bones, the primary ossification center is located in the diaphysis (A), but the secondary ossification center is located in the epiphysis. The growth plate (C) is a portion of the metaphysis (E) that maintains cartilage after secondary ossification occurs and continues to grow before becoming ossified in adolescence. The medullary cavity (D) of long bones is a space in the diaphysis that stores red and yellow bone marrow."
-},
-{
-    "question": "High serum levels of which of the following would lead to decreased bone resorption?",
-    "choices": [
-        "Calcium",
-        "Interleukin 6",
-        "Parathyroid hormone",
-        "RANK ligand"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is calcium (A). High serum calcium would suppress parathyroid hormone (PTH) secretion, which would lower bone resorption. Bone resorption is done by osteoclasts, and their activity is stimulated by parathyroid hormone (via osteoblast release of RANK ligand) and IL-6. IL-6 (B), PTH (C), and RANKL (D) all increase osteoclast activity and increase bone resorption."
-},
-{
-    "question": "A 6-year-old boy is brought to his pediatrician by his mother. She says she has noticed that he isn’t able to see or hear as well as he used to. She states that other members of her family have had a similar condition. On x-ray, sclerotic thickened dense bones are seen. Which of the following cell types is not appropriately secreting protons in this condition?",
-    "choices": [
-        "Monocytes",
-        "Osteoblast",
-        "Osteoclast",
-        "Platelets"
+        "Ulnar nerve at the elbow",
+        "Median nerve at the wrist",
+        "Radial nerve in the axilla",
+        "Axillary nerve at the shoulder"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is osteoclast (C). Osteoclasts secrete protons for bone resorption. In osteopetrosis, some patients have a defect in carbonic anhydrase II in osteoclasts, leading to an inability to secrete protons and thus loss of normal bone resorption. Monocytes (A) can differentiate into osteoclasts; however, they do not directly secrete protons for bone resorption. Osteoblasts (B) build bone by secreting collagen. Platelets (D) do not cause osteopetrosis; however, in osteopetrosis, replacing bone marrow can lead to low levels of platelets."
+    "explanation": "Radial nerve injury in the axilla can lead to an inability to extend the wrist and fingers, resulting in wrist drop."
 },
 {
-    "question": "What is the inheritance pattern of achondroplasia?",
+    "question": "A patient with a history of falling on an outstretched hand is found to have tenderness in the anatomical snuffbox. Which bone is most likely fractured?",
     "choices": [
-        "Autosomal dominant",
-        "Autosomal recessive",
-        "Combination of genetic and environmental factors",
-        "X-linked recessive"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is autosomal dominant (A). Achondroplasia is inherited in an autosomal dominant fashion. It is caused by a mutation in FGFR3 that leads to short stature with a normal head size. Autosomal recessive (B), genetic and environmental factors (C), and X-linked recessive (D) are all incorrect."
-},
-{
-    "question": "A 4-year-old child is brought to the emergency department with multiple fractures on his left hand, right femur, and left tibia. The parents report he fell while playing with his siblings. They deny any family history of genetic conditions. On physical exam, you notice bruising on the body and white sclera. The child is crying but able to hear and respond to you. What is the most likely diagnosis?",
-    "choices": [
-        "Achondroplasia",
-        "Child abuse",
-        "Osteogenesis imperfecta",
-        "Syndactyly"
+        "Lunate",
+        "Scaphoid",
+        "Trapezium",
+        "Capitate"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is child abuse (B). Multiple fractures in a young child and the presence of bruising raise suspicion for child abuse. Furthermore, the presence of white sclera, ability to hear properly, and lack of family history of any genetic conditions make osteogenesis imperfecta less likely. In achondroplasia (A), bone growth is stunted, but multiple fractures are not typical. In osteogenesis imperfecta (C), you would often expect to see blue sclera, hearing loss, and indication of family history of the condition. In syndactyly (D), the digits are abnormally fused together; it is not related to frequency of bruising and fractures."
+    "explanation": "Tenderness in the anatomical snuffbox following a fall on an outstretched hand suggests a scaphoid fracture."
 },
 {
-    "question": "Which of the following is required for forearm pronation to occur?",
+    "question": "A 40-year-old carpenter reports difficulty extending his thumb after a deep cut to his forearm. Which nerve is most likely damaged?",
     "choices": [
-        "Abduction of the carpal bones at the wrist",
-        "Abduction of the ulna at the elbow",
-        "Adduction of the ulna at the elbow",
-        "Independent, non-joined radius and ulna",
-        "Rotation of the radius against the humerus"
+        "Radial nerve",
+        "Median nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
     ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is rotation of the radius against the humerus (E). Pronation of the forearm occurs when the radius rotates against the humerus and twists over the ulna, flipping the hand position 180°. The rotation can occur because the concave head of the radius articulates with the rounded capitulum of the humerus. Pronation occurs in the forearm, not the wrist, and the carpal bones do not adduct (A). There is no abduction of the ulna (B) or radius (C) at the elbow, only flexion and extension. The radius and ulna are not independent and non-joined (D); they are joined at the proximal and distal radioulnar joints, which are part of the elbow and wrist, respectively."
+    "correctAnswer": 0,
+    "explanation": "The radial nerve innervates the extensors of the forearm, including those that extend the thumb."
 },
 {
-    "question": "A 78-year-old female comes to you 2 days after she fell forward and landed on her outstretched arm. She reports pain at her lateral wrist since then. You palpate her hand in the space between the extensor pollicis longus, the extensor pollicis brevis, and the abductor pollicis longus and can reproduce the pain. Which of the following is her most likely injury?",
+    "question": "Which nerve injury is associated with loss of sensation over the dorsolateral hand, including the area between the thumb and index finger?",
     "choices": [
-        "Adhesive capsulitis",
-        "Pisiform fracture",
-        "Radius fracture",
-        "Scaphoid fracture",
-        "Ulnar fracture"
+        "Median nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve",
+        "Radial nerve (superficial branch)"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is scaphoid fracture (D). The scaphoid sits at the base of the anatomic snuffbox on the lateral dorsum of the hand, formed from the tendons of the extensor pollicis longus, the extensor pollicis brevis, and the abductor pollicis longus. The carpal scaphoid bone is often fractured after a fall on an outstretched hand. Adhesive capsulitis (A) occurs with repetitive trauma to the glenohumeral joint, causing formation of adhesions. The pisiform (B) is another carpal bone but is not near the anatomic snuffbox. Distal fractures of the radius (C) or ulna (E) present with wrist swelling."
+    "explanation": "The superficial branch of the radial nerve provides sensation to the dorsolateral aspect of the hand."
 },
 {
-    "question": "Which of the following joints is a hinge joint?",
+    "question": "A patient has difficulty extending their wrist and fingers after compression of a nerve in the axilla. What additional symptom would you expect?",
     "choices": [
-        "Acromioclavicular joint",
-        "Carpometacarpal joint of the thumb",
-        "Glenohumeral joint",
-        "Interphalangeal joint of the thumb",
-        "Sternoclavicular joint"
+        "Sensory loss over the medial forearm",
+        "Weakness in forearm supination",
+        "Weakness in elbow flexion",
+        "Weakness in shoulder abduction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The radial nerve also contributes to forearm supination via the supinator muscle."
+},
+{
+    "question": "A 28-year-old presents with pain in the posterior forearm and weakened extension of the index finger after repetitive activities. Which muscle is likely affected?",
+    "choices": [
+        "Extensor pollicis longus",
+        "Extensor indicis",
+        "Extensor carpi radialis brevis",
+        "Extensor digiti minimi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The extensor indicis is responsible for extending the index finger and may be affected in cases of repetitive strain."
+},
+{
+    "question": "After a deep cut over the posterior forearm, a patient has lost the ability to abduct their thumb. Which nerve is likely injured?",
+    "choices": [
+        "Ulnar nerve",
+        "Median nerve",
+        "Radial nerve (posterior interosseous branch)",
+        "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The posterior interosseous branch of the radial nerve innervates the muscles that control thumb abduction and extension."
+},
+{
+    "question": "A patient with 'tennis elbow' presents with pain at the lateral epicondyle. Which type of repetitive movement likely contributed to this injury?",
+    "choices": [
+        "Wrist extension",
+        "Wrist flexion",
+        "Elbow extension",
+        "Forearm pronation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lateral epicondylitis, or tennis elbow, often results from repetitive wrist extension movements."
+},
+{
+    "question": "Which artery primarily supplies blood to the posterior compartment of the forearm?",
+    "choices": [
+        "Ulnar artery",
+        "Radial artery",
+        "Anterior interosseous artery",
+        "Posterior interosseous artery"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is interphalangeal (IP) joint of the thumb (D). All the interphalangeal joints of the digits are hinge joints, with full flexion and limited extension. The acromioclavicular joint (A) connects the scapula to the clavicle and is a simple plane (sliding) joint. The carpometacarpal joint of the thumb (B) is a saddle joint that allows motion in multiple planes, including opposition. The glenohumeral (shoulder) joint (C) is a ball-and-socket joint allowing motion in all directions. The sternoclavicular joint (E) is a flexible saddle joint that allows motion in multiple directions."
+    "explanation": "The posterior interosseous artery is the primary blood supply for the extensor (posterior) compartment of the forearm."
 },
 {
-    "question": "Which of the following is an intrinsic muscle of the hand that moves the thumb toward the palm?",
+    "question": "Which structure is found in the anatomical snuffbox?",
     "choices": [
-        "Abductor pollicis brevis",
+        "Ulnar artery",
+        "Cephalic vein",
+        "Radial artery",
+        "Anterior interosseous artery"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The radial artery passes through the anatomical snuffbox and is palpable here."
+},
+{
+    "question": "Which muscle is responsible for extending the thumb at the interphalangeal joint?",
+    "choices": [
+        "Extensor pollicis longus",
+        "Extensor pollicis brevis",
         "Abductor pollicis longus",
-        "Adductor pollicis",
-        "Flexor digitorum profundus",
-        "Flexor digitorum superficialis"
+        "Flexor pollicis longus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The extensor pollicis longus extends the thumb at the interphalangeal joint."
+},
+{
+    "question": "Which nerve innervates the skin on the dorsum of the hand, lateral to the 4th digit?",
+    "choices": [
+        "Ulnar nerve",
+        "Radial nerve (superficial branch)",
+        "Median nerve",
+        "Lateral cutaneous nerve of the forearm"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The radial nerve’s superficial branch supplies sensation to the dorsolateral aspect of the hand."
+},
+{
+    "question": "Which clinical condition is commonly known as 'tennis elbow'?",
+    "choices": [
+        "Medial epicondylitis",
+        "Lateral epicondylitis",
+        "Golfer’s elbow",
+        "Carpal tunnel syndrome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lateral epicondylitis is the clinical term for tennis elbow, affecting the tendons attached to the lateral epicondyle."
+},
+{
+    "question": "A 35-year-old construction worker presents with an inability to extend his wrist after a recent humeral shaft fracture. Physical examination reveals wrist drop. Which nerve is most likely injured?",
+    "choices": [
+        "Ulnar nerve",
+        "Radial nerve",
+        "Median nerve",
+        "Musculocutaneous nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Injury to the radial nerve along the humeral shaft can result in wrist drop due to paralysis of the wrist extensors. The radial nerve runs in the radial groove on the posterior aspect of the humerus, making it vulnerable in fractures."
+},
+{
+    "question": "A patient presents with numbness over the dorsolateral hand and weakness in thumb extension following compression of a nerve in the forearm. Which branch of the radial nerve is most likely affected?",
+    "choices": [
+        "Superficial branch of the radial nerve",
+        "Deep branch of the radial nerve",
+        "Posterior interosseous nerve",
+        "Lateral cutaneous nerve of the forearm"
     ],
     "correctAnswer": 2,
-    "explanation": "The correct answer is adductor pollicis (C). The adductor pollicis is an intrinsic muscle of the hand that adducts the thumb, moving it toward the midline in the palmar plane. The abductor pollicis brevis (A) is an intrinsic hand muscle that abducts the thumb, moving it away from the midline. The abductor pollicis longus (B) also abducts the thumb and originates in the forearm, so it is not an intrinsic hand muscle. The flexor digitorum profundus (D) and superficialis (E) are forearm muscles that flex digits 2-5."
+    "explanation": "Compression of the posterior interosseous nerve, a branch of the radial nerve, can lead to weakness in thumb extension and numbness in the dorsolateral hand."
+},
+{
+    "question": "Following a fall on an outstretched hand, a patient complains of tenderness in the anatomical snuffbox. Which bone is most likely fractured, and what is the clinical significance if left untreated?",
+    "choices": [
+        "Trapezium; chronic pain",
+        "Lunate; carpal instability",
+        "Capitate; avascular necrosis",
+        "Scaphoid; avascular necrosis"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A fall on an outstretched hand often results in a scaphoid fracture. The scaphoid has a retrograde blood supply, making the proximal fragment vulnerable to avascular necrosis if left untreated."
+},
+{
+    "question": "A tennis player presents with pain and tenderness over the lateral epicondyle of the humerus, worsened by wrist extension against resistance. What condition is most likely, and which muscle is primarily affected?",
+    "choices": [
+        "Medial epicondylitis; pronator teres",
+        "Lateral epicondylitis; extensor carpi radialis brevis",
+        "Golfer’s elbow; extensor digitorum",
+        "Radial tunnel syndrome; extensor pollicis brevis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lateral epicondylitis, or tennis elbow, commonly involves the extensor carpi radialis brevis, which attaches to the lateral epicondyle and is strained by repetitive wrist extension."
 },
 {
     "question": "A 37-year-old woman comes to your office describing pain over her lateral elbow. You can reproduce the pain by having her extend her hand against resistance. What muscles are most likely involved?",
@@ -1510,43 +217,30 @@
         "The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is the extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris (B). These are the extensor muscles of the posterior forearm that originate from the lateral epicondyle or common extensor origin. Overuse of the extensors stresses extensor tendons, leading to pain over the lateral condyle, or tennis elbow."
+    "explanation": "The correct answer is the extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris (B). These are the extensor muscles of the posterior forearm that originate from the lateral epicondyle or common extensor origin. Overuse of the extensors stresses extensor tendons, leading to pain over the lateral condyle, or tennis elbow. The biceps brachii (short head) (A) is a forearm flexor, not extensor. The opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis (C) originate from the flexor retinaculum and act on the thumb. The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris (D) are flexors that may be injured by flexor overuse (golfer elbow), producing pain over the medial epicondyle with flexion."
 },
 {
-    "question": "Which of the following muscles originates in the forearm?",
+    "question": "A 20-year-old woman is brought to the emergency department after cutting her wrists in a suicide attempt. Physical examination reveals several superficial lacerations on the medial side of the ventral left wrist. She has some sensory loss over the left fifth digit. Surgical exploration of the wounds reveals a nerve injury. The function of which of the following muscles is most likely affected by this patient's nerve injury?",
     "choices": [
-        "Flexor digitorum superficialis",
-        "Flexor pollicis brevis",
-        "Lumbricals",
-        "Opponens pollicis",
-        "Palmar interossei"
+        "Abductor pollicis brevis",
+        "Adductor pollicis",
+        "Extensor pollicis brevis",
+        "Lumbricals (1 and 2)",
+        "Opponens pollicis"
     ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is flexor digitorum superficialis (A). This muscle originates in the forearm and crosses the wrist, flexing digits 2-5. The other listed options are all intrinsic to the hand, with origins and insertions in the wrist or more distal. The flexor pollicis brevis (B) flexes the thumb. The lumbricals (C) flex the first phalanx and extend the second and third phalanges. The opponens pollicis (D) opposes the thumb against the fifth finger. The palmar interossei (E) adduct the fingers to midline."
+    "correctAnswer": 1,
+    "explanation": "The correct answer is adductor pollicis. Lacerations on the medial side of the ventral wrist can affect the ulnar nerve, which provides sensory innervation to the fifth digit and motor innervation to muscles including the adductor pollicis. The abductor pollicis brevis, opponens pollicis, and lumbricals 1 and 2 are innervated by the median nerve, while extensor pollicis brevis is innervated by the radial nerve."
 },
 {
-    "question": "Which of these arteries is a branch of the radial artery?",
+    "question": "A 37-year-old woman comes to your office describing pain over her lateral elbow. You can reproduce the pain by having her extend her hand against resistance. What muscles are most likely involved?",
     "choices": [
-        "Anterior interosseous artery",
-        "Axillary artery",
-        "Brachial artery",
-        "Deep palmar arch",
-        "Ulnar artery"
+        "The biceps brachii (short head)",
+        "The extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris",
+        "The opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis",
+        "The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris"
     ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is deep palmar arch (D). The radial artery crosses the wrist and is largely responsible for creating the deep palmar arch, which supplies many of the intrinsic muscles of the fingers. The axillary (B) and brachial (C) arteries are proximal to the radial artery. The anterior interosseous artery (A) is a branch of the ulnar artery (E), which is not a branch of the radial artery but is a branch of the more proximal brachial artery."
-},
-{
-    "question": "Through which of these vessels will lymph from the right finger most likely flow?",
-    "choices": [
-        "Inferior vena cava",
-        "Left subclavian vein",
-        "Right cephalic vein",
-        "Right lymphatic duct",
-        "Thoracic duct"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is right lymphatic duct (D). The lymph from the extremities does not run through upper extremity veins (C) but instead runs through lymphatics, moving to the right or left lymphatic duct corresponding to the right or left extremity. From there, the lymphatic ducts empty into the corresponding subclavian vein or internal jugular vein. The lymph would not enter the inferior vena cava (A), which drains the lower extremities and abdomen. It would not enter the left subclavian vein (B), because that drains the left upper extremity, abdomen, and lower extremities via the thoracic duct. The thoracic duct (E) is another name for the left lymphatic duct, which drains the left upper extremity, not the right."
+    "correctAnswer": 1,
+    "explanation": "The correct answer is the extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris. These are the extensor muscles of the posterior forearm that originate from the lateral epicondyle or common extensor origin. Overuse of these muscles can lead to tennis elbow, characterized by pain over the lateral condyle."
 },
 {
     "question": "A 19-year-old man comes to your office concerned that he cannot lift his hand. On physical exam, his wrist extensor strength is 1/5, and there is impaired sensation over the back of the hand. He sheepishly admits that he may have fallen asleep with his arm over a chair while at a party last night. Which of the following nerves is most likely injured?",
@@ -1558,160 +252,909 @@
         "Upper trunk of brachial plexus"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is the radial nerve (D). Compression of the radial nerve at the radial groove often occurs in people who fall asleep with their arm over a chair. The injury to the radial nerve leads to loss of extensor function, wrist drop, and impaired sensation over the back of the hand. The axillary nerve (A) is injured by anterior dislocation of the humerus or fracture of the surgical neck, leading to impaired arm abduction and sensation over the shoulder. The C5 spinal nerve (B) is injured in a radiculopathy due to disc disease, leading to weak upper arm abduction and numbness over the shoulder and lateral upper arm. A median nerve injury (C) leads to loss of flexion of the first three digits (the hand of benediction) if proximal, usually due to a humerus fracture. Distal median nerve injury leads to impaired thenar sensation and muscle function, usually due to carpal tunnel compression of the nerve. Injury to the upper trunk of the brachial plexus (E) is Erb-Duchenne palsy and leads to the waiter tip deformity, due to a paralysis of the arm that occurs with extreme separation of the shoulder from the neck."
+    "explanation": "The correct answer is radial nerve. Compression of the radial nerve at the radial groove can occur in individuals who fall asleep with their arm over a chair, leading to wrist drop and loss of sensation over the back of the hand."
 },
 {
-    "question": "A 62-year-old woman presents to her local doctor to describe left knee pain and stiffness that is worse with movement and relieved with rest. She has no fever and no redness around the joint. She has no other joint problems. Rheumatoid factor and erythrocyte sedimentation rate (ESR) are normal. Which of the following is the next best step in management?",
+    "question": "A 30-year-old man comes to the clinic because of right-sided neck pain and tingling that radiates down to the middle finger of his right hand. He sustained a neck injury during a skiing accident 1 year ago. Neurologic examination reveals weakness of the right triceps and an absent right triceps reflex. Which of the following is the most likely cause of his symptoms?",
     "choices": [
-        "Acetaminophen",
-        "Arthrocentesis (joint fluid analysis)",
-        "Ibuprofen",
+        "Right C4–C5 disc herniation",
+        "Right C5–C6 disc herniation",
+        "Right C6–C7 disc herniation",
+        "Right axillary nerve compression",
+        "Right radial nerve compression",
+        "Right ulnar nerve compression"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is right C6–C7 disc herniation. Weakness in the triceps and an absent triceps reflex suggest a C7 radiculopathy, which can be caused by a disc herniation at the C6–C7 level."
+},
+{
+    "question": "A 19-year-old man comes to the emergency department with a severely dislocated left elbow after a snowboarding accident. He is sedated and undergoes manual reduction for dislocation. Two weeks later, he reports difficulty making a fist with his left hand. Physical examination reveals difficulty flexing the metacarpophalangeal joints of the second and third digits of the left hand. Sensation is intact on the dorsal hand but is lost over the palmar aspect of the first three digits. Which of the following nerves has most likely been injured in this patient?",
+    "choices": [
+        "Axillary nerve",
+        "Median nerve",
+        "Musculocutaneous nerve",
+        "Radial nerve",
+        "Ulnar nerve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is the median nerve. Injury to the median nerve leads to difficulty flexing the metacarpophalangeal joints of the second and third digits and loss of sensation over the palmar aspect of the first three digits, while sensation on the dorsal side remains intact."
+},
+{
+    "question": "A 10-year-old boy is brought to the pediatrician because of a 4-day history of fever, fatigue, and right shoulder pain. His temperature is 38.6°C (101.5°F). On physical examination, he has right shoulder tenderness, worse at the right axillary region, and painful and weak abduction. On palpation, a swollen mass in the axillary region is noted. He also has wrist-extension weakness and triceps hyporeflexia in the same limb. Sensory examination reveals absent sensation to light touch over the right shoulder and lateral and posterior arm. Imaging identifies an abscess in the right axillary region. The most likely diagnosis is an abscess. Which of the following structures is most likely being compressed by the abscess?",
+    "choices": [
+        "Axillary nerve",
+        "Lateral cord of the brachial plexus",
+        "Medial cord of the brachial plexus",
+        "Posterior cord of brachial plexus",
+        "Radial nerve"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is the posterior cord of the brachial plexus. The posterior cord of the brachial plexus gives rise to the axillary and radial nerves. An injury to this structure will manifest as an inability to perform shoulder abduction and wrist extension in the affected arm."
+},
+{
+        "question": "Which eicosanoid plays a key role in fever by acting on the hypothalamus?",
+        "choices": [
+            "Leukotriene B4",
+            "Prostaglandin E2",
+            "Thromboxane A2",
+            "Prostacyclin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Prostaglandin E2 (PGE2) mediates fever by acting on the hypothalamus, increasing body temperature."
+    },
+    {
+        "question": "A 55-year-old patient with arthritis is advised to avoid NSAIDs due to potential kidney damage. Which medication would be safer?",
+        "choices": [
+            "Ibuprofen",
+            "Acetaminophen",
+            "Celecoxib",
+            "Aspirin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acetaminophen is an analgesic with minimal anti-inflammatory effects and is less nephrotoxic than NSAIDs."
+    },
+    {
+        "question": "Which of the following is an advantage of COXIBs over traditional NSAIDs?",
+        "choices": [
+            "Improved antiplatelet effect",
+            "Reduced risk of gastrointestinal ulcers",
+            "Lower cost",
+            "Stronger anti-inflammatory action"
+        ],
+        "correctAnswer": 1,
+        "explanation": "COXIBs selectively inhibit COX-2, which reduces the risk of gastrointestinal side effects associated with COX-1 inhibition."
+    },
+    {
+        "question": "A patient with RA has responded poorly to NSAIDs and is now prescribed methotrexate. What is its primary mechanism of action in RA?",
+        "choices": [
+            "Inhibits xanthine oxidase",
+            "Increases adenosine levels",
+            "Decreases leukotriene synthesis",
+            "Blocks IL-17A receptors"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Methotrexate increases adenosine levels, which has an anti-inflammatory effect helpful in RA management."
+    },
+    {
+        "question": "A patient taking infliximab for RA has been advised to monitor for which common adverse effect?",
+        "choices": [
+            "Vision loss",
+            "Opportunistic infections",
+            "Hepatotoxicity",
+            "Hyperkalemia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "TNF-α inhibitors like infliximab can suppress the immune system, leading to an increased risk of infections."
+    },
+    {
+        "question": "Which NSAID is associated with the lowest risk of cardiovascular events?",
+        "choices": [
+            "Ibuprofen",
+            "Celecoxib",
+            "Naproxen",
+            "Aspirin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Naproxen has the lowest cardiovascular risk among NSAIDs due to its mild COX-2 inhibitory effects."
+    },
+    {
+        "question": "Why is aspirin contraindicated in children with viral infections?",
+        "choices": [
+            "Increased risk of hepatic necrosis",
+            "Risk of Reye's syndrome",
+            "Severe gastrointestinal bleeding",
+            "Elevated risk of nephrotoxicity"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Aspirin in children with viral infections is linked to Reye's syndrome, affecting the liver and brain."
+    },
+    {
+        "question": "A 70-year-old male with gouty arthritis is advised to avoid which drug class due to an increased risk of hyperuricemia?",
+        "choices": [
+            "COXIBs",
+            "NSAIDs",
+            "DMARDs",
+            "Thiazide diuretics"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Thiazide diuretics can raise serum uric acid levels, exacerbating gout symptoms."
+    },
+    {
+        "question": "A 60-year-old female with a recent heart attack and osteoarthritis is considering NSAID use. Which NSAID would most increase her cardiovascular risk?",
+        "choices": [
+            "Celecoxib",
+            "Naproxen",
+            "Ibuprofen",
+            "Diclofenac"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Diclofenac has a higher cardiovascular risk profile than other NSAIDs and should be avoided in patients with cardiovascular disease."
+    },
+    {
+        "question": "In rheumatoid arthritis, which cell type is predominantly targeted by TNF inhibitors?",
+        "choices": [
+            "B cells",
+            "T cells",
+            "Macrophages",
+            "Neutrophils"
+        ],
+        "correctAnswer": 2,
+        "explanation": "TNF inhibitors target TNF-α, a cytokine that activates T cells and macrophages in autoimmune diseases."
+    },
+    {
+        "question": "A patient with RA experiences nausea and mild hair loss after starting methotrexate. What is a common remedy for methotrexate toxicity?",
+        "choices": [
+            "Folic acid supplementation",
+            "Hydration therapy",
+            "Iron supplements",
+            "Avoiding dairy products"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Folic acid is often supplemented to reduce methotrexate toxicity, especially to alleviate GI and hair loss side effects."
+    },
+    {
+        "question": "Which of the following drugs is a selective COX-2 inhibitor used primarily in arthritis management?",
+        "choices": [
+            "Indomethacin",
+            "Aspirin",
+            "Celecoxib",
+            "Diclofenac"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Celecoxib is a selective COX-2 inhibitor that reduces inflammation with fewer GI side effects than non-selective NSAIDs."
+    },
+    {
+        "question": "What is the primary therapeutic target of methotrexate in managing rheumatoid arthritis?",
+        "choices": [
+            "Inhibition of COX-1 enzyme",
+            "Increase in adenosine",
+            "Blocking leukotriene synthesis",
+            "Inhibition of PGE2 synthesis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Methotrexate increases adenosine, an anti-inflammatory mediator that helps manage rheumatoid arthritis symptoms."
+    },
+    {
+        "question": "A patient undergoing therapy with adalimumab for RA should be closely monitored for which complication?",
+        "choices": [
+            "Immunosuppression",
+            "Hyperlipidemia",
+            "Severe hypercalcemia",
+            "Pulmonary embolism"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Adalimumab suppresses immune function, so patients should be monitored for infections and other immune-related issues."
+    },
+    {
+        "question": "What is the most likely adverse effect of prolonged use of high-dose NSAIDs?",
+        "choices": [
+            "Hepatotoxicity",
+            "Nephrotoxicity",
+            "Neurotoxicity",
+            "Bone marrow suppression"
+        ],
+        "correctAnswer": 1,
+        "explanation": "High doses of NSAIDs over prolonged periods can damage renal function, especially in patients with existing kidney issues."
+    },
+{
+    "question": "A 32-year-old woman comes to the physician because of pain and stiffness in both of her hands for the past 3 weeks. The pain is most severe early in the day and does not respond to ibuprofen. She has no history of serious illness and takes no medications. Examination shows swelling and tenderness of the wrists and metacarpophalangeal joints bilaterally. Range of motion is decreased due to pain. There are subcutaneous, nontender, firm, mobile nodules on the extensor surface of the forearm. Which of the following is the most appropriate pharmacotherapy for this patient's current symptoms?",
+    "choices": [
         "Methotrexate",
-        "Magnetic resonance imaging of knee"
+        "Adalimumab",
+        "Colchicine",
+        "Sulfasalazine",
+        "Prednisone"
     ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is acetaminophen (A). The patient is an older woman with unilateral joint pain and stiffness that is relieved with rest and made worse with movement—classical symptoms of osteoarthritis. This is first treated with simple analgesics like acetaminophen, which has fewer adverse effects than NSAIDs like ibuprofen (C). Arthrocentesis (B) is done for inflammatory joint diseases to rule out crystal-induced disease (e.g., gout) and infection (septic joint) but is rarely done in OA, which is non-inflammatory. Methotrexate (D) is not used in OA but is in rheumatoid arthritis. MRI (E) is rarely needed in diagnosing OA, where the diagnosis is clinical or uses a simple x-ray."
+    "correctAnswer": 4,
+    "explanation": "Glucocorticoids like prednisone act rapidly to reduce symptoms of severe acute flares of RA. A short course of glucocorticoids has been shown to be more effective than NSAID therapy in reducing joint tenderness and pain and can be used to bridge the period until DMARDs, which are prescribed on a long-term basis to control disease activity, take effect."
 },
 {
-    "question": "A 50-year-old man presents to his local doctor with bilateral hip pain. He has smoked cigarettes for the past 5 years, has elevated cholesterol levels in the blood, and has hypertension controlled with antihypertensive medications and lipid-lowering agents. The patient is also obese, with a body mass index of 35. Which one of the following risk factors is strongly associated with osteoarthritis?",
+    "question": "A 66-year-old woman comes to the physician for a routine health maintenance examination. She has no history of serious medical illness and takes no medications. A screening DEXA scan shows a T-score of -1.5 at the femur. Which of the following is the strongest predisposing factor for osteopenia?",
     "choices": [
-        "Age of 50 years",
-        "High serum cholesterol",
+        "Hypoparathyroidism",
+        "NSAID use",
         "Obesity",
-        "Smoking"
+        "Smoking",
+        "Type 2 diabetes mellitus"
     ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is obesity (C). Obesity is a well-established risk factor for osteoarthritis. Increased weight puts extra stress at the weight-bearing joints such as the hips and knees. So there is more rubbing between the bones at the joint space, resulting in repetitive insults. Age of 50 years (A) is not old enough; osteoarthritis is mostly evident in patients older than 65 years. High cholesterol in the blood (B) might be associated with increased body weight, but it is not directly associated with osteoarthritis. Smoking (D) is associated mostly with poor healing of wounds and bone fractures; it is not considered one of the major risk factors of osteoarthritis."
+    "correctAnswer": 3,
+    "explanation": "Smoking is a major risk factor for both osteopenia and osteoporosis. In postmenopausal women who smoke, an additional 2% of bone density loss per decade of life can be attributed to smoking. This results in a higher incidence of osteoporosis and pathologic fractures. Other risk factors include advanced age, positive family history, alcohol abuse, sedentary lifestyle, low body weight, vitamin D deficiency, and cortisone use."
 },
 {
-    "question": "Which of the following is a late pathologic feature of osteoarthritis?",
+    "question": "A 36-year-old woman comes to the physician because of a 2-week history of progressively worsening pain on the outer side of her left elbow. She reports no recent trauma and recreationally plays badminton. Examination shows tenderness over the lateral surface of the left distal humerus. The pain is reproduced by supinating the forearm against resistance. Which of the following is the most likely underlying cause of this patient’s pain?",
     "choices": [
-        "Deposition of crystals at the joint space",
-        "Necrosis at the end of long bones",
-        "Subchondral sclerosis",
-        "Thickening of the synovial membrane"
+        "Excessive stress to bone",
+        "Nerve compression at the elbow",
+        "Bursal inflammation",
+        "Repeated wrist extension",
+        "Repeated wrist flexion"
     ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is subchondral sclerosis (C). This is the thickening of the end of bones at the joint space and is one of the late features in advanced osteoarthritis. Deposition of crystals at the joint space (A) is the hallmark of crystal-induced arthritis, such as gout and calcium pyrophosphate deposition disease; it is not seen in osteoarthritis. Necrosis at the end of long bones (B) is incorrect. Necrosis means death, and this is not a feature of osteoarthritis; rather, in children, a condition called Perthes disease is commonly associated with the necrosis of the head of the femur. Thickening of the synovial membrane (D) is commonly seen in rheumatoid arthritis (RA) as a result of severe inflammation and activation of the immune system. In osteoarthritis, there is only mild inflammation when compared with RA, because the main cause of osteoarthritis is mechanical wear and tear and not activation of the immune system."
+    "correctAnswer": 3,
+    "explanation": "The lateral epicondyle is the common origin of the wrist extensors. Lateral epicondylitis is caused by activities such as racket sports that involve repetitive wrist extension and/or forearm supination/pronation with the elbow nearly fully extended. The pain can be exacerbated by resisted supination, resisted wrist extension, and tight grasping of objects."
 },
 {
-    "question": "Which of the following best describes the results of serum studies seen in patients with osteoporosis?",
+    "question": "A 71-year-old woman presents with pain in her neck, left shoulder, and left hand following a day of shoveling snow. She reports improvement when lifting her arm above her head. Physical examination reveals decreased sensation to pinprick over the index and middle fingers, and a 1+ triceps reflex in the left upper extremity. MRI shows a lateral disk herniation. Which nerve root is most likely compressed in this patient?",
     "choices": [
-        "Decreased calcium, increased phosphate, normal bone alkaline phosphatase",
-        "Decreased calcium and phosphate, increased bone alkaline phosphatase",
-        "Increased calcium, decreased phosphate, increased bone alkaline phosphatase",
-        "Normal calcium and phosphate, increased bone alkaline phosphatase",
-        "Normal calcium, phosphate, and bone alkaline phosphatase"
+        "C4",
+        "C5",
+        "C6",
+        "C7",
+        "C8"
+    ],
+    "correctAnswer": 3,
+    "explanation": "C7 radiculopathy presents with pain and paresthesia extending from the dorsal medial forearm to the fingers II-IV. It affects the triceps, wrist flexors, and finger extensors, leading to a reduction in the triceps reflex. Sensory loss over the index, middle fingers, and radial half of finger IV further supports C7 involvement."
+},
+{
+        "question": "A 28-year-old man presents with lower back pain that worsens in the morning and improves with activity. He also reports occasional redness and pain in his right eye. X-ray shows bilateral sacroiliitis. Which of the following findings is most likely to be associated with this condition?",
+        "choices": [
+            "Positive rheumatoid factor",
+            "Negative HLA-B27",
+            "Achilles tendon pain",
+            "Symmetric joint involvement in the hands"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Achilles tendon pain, or enthesitis, is commonly associated with seronegative spondyloarthropathies like ankylosing spondylitis. The patient's symptoms suggest ankylosing spondylitis, which frequently presents with HLA-B27 positivity and enthesitis."
+    },
+    {
+        "question": "A patient is diagnosed with reactive arthritis following a gastrointestinal infection. Which of the following symptoms is most likely to be observed in this patient?",
+        "choices": [
+            "Symmetric polyarthritis",
+            "Uveitis and urethritis",
+            "Nail pitting",
+            "Symmetric sacroiliitis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Reactive arthritis often presents with the classic triad of urethritis, conjunctivitis, and arthritis. It typically follows infections such as Salmonella or Chlamydia."
+    },
+    {
+        "question": "Which seronegative spondyloarthropathy is most likely to show asymmetric involvement of the sacroiliac joints and 'pencil-in-cup' deformities on X-ray?",
+        "choices": [
+            "Ankylosing spondylitis",
+            "Psoriatic arthritis",
+            "Reactive arthritis",
+            "IBD-associated arthritis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Psoriatic arthritis can show asymmetric sacroiliitis and characteristic 'pencil-in-cup' deformities on imaging due to erosive changes in the joints."
+    },
+    {
+        "question": "A 32-year-old woman presents with painful, swollen joints in her hands and a history of irritable bowel disease. Which type of arthritis is most likely associated with her condition?",
+        "choices": [
+            "Gout",
+            "Ankylosing spondylitis",
+            "Reactive arthritis",
+            "IBD-associated arthritis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "IBD-associated arthritis can accompany inflammatory bowel disease and may present with peripheral arthritis, which is often asymmetric and affects larger joints."
+    },
+    {
+        "question": "Which cytokine is a primary driver in the pathogenesis of enthesitis in seronegative spondyloarthropathies?",
+        "choices": [
+            "Interleukin-10",
+            "Interleukin-23",
+            "Tumor Necrosis Factor-alpha",
+            "Interleukin-6"
+        ],
+        "correctAnswer": 1,
+        "explanation": "IL-23 plays a key role in driving the enthesitis observed in seronegative spondyloarthropathies, often through its effects on IL-17-producing T cells."
+    },
+    {
+        "question": "A 50-year-old man with a history of gout presents with acute pain in his big toe. Which of the following crystals is most likely to be found on polarized light microscopy of the synovial fluid?",
+        "choices": [
+            "Calcium pyrophosphate",
+            "Monosodium urate",
+            "Hydroxyapatite",
+            "Calcium oxalate"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Monosodium urate crystals, which are needle-shaped and negatively birefringent, are characteristic of gout and would likely be seen in this patient."
+    },
+    {
+        "question": "A 64-year-old woman with knee pain and chondrocalcinosis on X-ray is diagnosed with pseudogout. Which of the following is true about the crystals found in her synovial fluid?",
+        "choices": [
+            "They are needle-shaped and negatively birefringent.",
+            "They are rhomboid-shaped and positively birefringent.",
+            "They are amorphous and non-birefringent.",
+            "They are rod-shaped and negatively birefringent."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Calcium pyrophosphate crystals in pseudogout are rhomboid-shaped and show weak positive birefringence under polarized light."
+    },
+    {
+        "question": "A 45-year-old male with psoriasis presents with arthritis affecting his distal interphalangeal joints. Which of the following findings would most strongly suggest psoriatic arthritis?",
+        "choices": [
+            "Sausage digit appearance",
+            "Bilateral sacroiliitis",
+            "Symmetric joint space narrowing",
+            "Tophi"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Psoriatic arthritis can lead to dactylitis, which causes a 'sausage digit' appearance due to inflammation of the entire finger or toe."
+    },
+    {
+        "question": "Which of the following seronegative spondyloarthropathies is most commonly associated with anterior uveitis?",
+        "choices": [
+            "Ankylosing spondylitis",
+            "Reactive arthritis",
+            "Psoriatic arthritis",
+            "IBD-associated arthritis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Anterior uveitis is frequently associated with ankylosing spondylitis and can be a recurring extra-articular manifestation of the disease."
+    },
+    {
+        "question": "In the pathogenesis of gout, which enzyme is responsible for the synthesis of uric acid from purine nucleotides?",
+        "choices": [
+            "HGPRT",
+            "Xanthine oxidase",
+            "G6PD",
+            "PRPP synthetase"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Xanthine oxidase is the enzyme that catalyzes the conversion of xanthine to uric acid in the purine degradation pathway, leading to hyperuricemia in gout."
+    },
+    {
+        "question": "Which feature differentiates autoimmune arthritis from autoinflammatory arthritis in terms of immune mechanisms?",
+        "choices": [
+            "Autoimmune arthritis is mediated by innate immune cells only.",
+            "Autoinflammatory arthritis is mediated by T-cell responses.",
+            "Autoimmune arthritis involves antigen-specific T-cells and autoantibodies.",
+            "Autoinflammatory arthritis involves antigen-specific T-cells."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Autoimmune arthritis involves adaptive immunity, specifically T-cells and autoantibodies, while autoinflammatory arthritis primarily involves innate immune pathways."
+    },
+    {
+        "question": "A 60-year-old man with tophi on his elbows and ears presents with severe pain in his left great toe. What is the primary goal of urate-lowering therapy in this patient?",
+        "choices": [
+            "To increase renal excretion of uric acid",
+            "To reduce serum uric acid levels below 6 mg/dL",
+            "To dissolve existing urate crystals in joints",
+            "To prevent the formation of new urate crystals"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The primary goal of urate-lowering therapy in gout is to keep serum uric acid levels below 6 mg/dL to prevent crystal formation and reduce the risk of flare-ups."
+    },
+    {
+        "question": "A 35-year-old man presents with asymmetric arthritis and a rash on his legs after a recent bout of gastroenteritis. Which of the following is the most likely diagnosis?",
+        "choices": [
+            "Psoriatic arthritis",
+            "Reactive arthritis",
+            "Rheumatoid arthritis",
+            "Ankylosing spondylitis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Reactive arthritis can develop following a gastrointestinal or urogenital infection and often presents with asymmetric joint involvement."
+    },
+    {
+        "question": "A patient with Crohn's disease has recurrent joint pain in his knees and ankles. Which of the following statements best characterizes IBD-associated arthritis?",
+        "choices": [
+            "It is symmetric and affects small joints.",
+            "It is typically limited to the axial skeleton.",
+            "It does not improve with anti-TNF therapy.",
+            "It often parallels IBD activity and affects large joints."
+        ],
+        "correctAnswer": 3,
+        "explanation": "IBD-associated arthritis commonly affects larger joints and often flares in parallel with IBD activity. It may also involve the axial skeleton."
+    },
+    {
+        "question": "A 70-year-old man is diagnosed with chronic tophaceous gout. Which of the following best describes the typical radiographic findings?",
+        "choices": [
+            "Marginal erosions with overhanging edges",
+            "Symmetric joint space narrowing",
+            "Non-marginal osteophytes",
+            "Periarticular osteopenia"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Chronic gout is characterized by 'rat-bite' erosions, which are marginal erosions with overhanging edges due to deposition of monosodium urate crystals."
+    },
+    {
+        "question": "Which medication is contraindicated for the prophylactic treatment of gout in a patient with a history of uric acid kidney stones?",
+        "choices": [
+            "Allopurinol",
+            "Febuxostat",
+            "Pegloticase",
+            "Probenecid"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Probenecid increases uric acid excretion, which may exacerbate uric acid stone formation. It is contraindicated in patients with a history of uric acid kidney stones."
+    },
+    {
+        "question": "A 27-year-old man presents with low back pain for five years, worse in the morning and after sitting for prolonged periods. Pain improves with movement. Which feature would be most supportive of a diagnosis of ankylosing spondylitis?",
+        "choices": [
+            "Positive rheumatoid factor",
+            "Pain radiating to the shoulder",
+            "Morning stiffness lasting less than 30 minutes",
+            "Improvement with NSAIDs"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ankylosing spondylitis, a type of seronegative spondyloarthropathy, is characterized by chronic back pain that improves with NSAIDs and worsens with inactivity."
+    },
+    {
+        "question": "Which of the following is the primary cytokine involved in the inflammatory process of enthesitis in seronegative spondyloarthropathies?",
+        "choices": [
+            "IL-6",
+            "TNF-alpha",
+            "IL-1",
+            "IL-10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "TNF-alpha and IL-17 play significant roles in the inflammatory process seen in enthesitis associated with seronegative spondyloarthropathies."
+    },
+    {
+        "question": "A 30-year-old man with a history of psoriasis develops joint pain, especially in the distal interphalangeal (DIP) joints. Which radiographic finding is most characteristic of his condition?",
+        "choices": [
+            "Symmetric sacroiliitis",
+            "Pencil-in-cup deformity",
+            "Non-marginal syndesmophytes",
+            "Erosion and osteopenia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Psoriatic arthritis often presents with a ‘pencil-in-cup’ deformity in DIP joints due to bone erosion and resorption."
+    },
+    {
+        "question": "A patient with recent conjunctivitis, urethritis, and arthritis presents. Which organism is most commonly associated with triggering reactive arthritis in this patient?",
+        "choices": [
+            "Staphylococcus aureus",
+            "Escherichia coli",
+            "Salmonella",
+            "Mycobacterium tuberculosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Reactive arthritis often follows infections with organisms such as Salmonella, Shigella, Yersinia, or Chlamydia."
+    },
+    {
+        "question": "A 45-year-old man with Crohn’s disease presents with joint pain in his knees and ankles that varies with the activity of his bowel disease. Which type of arthritis is he likely experiencing?",
+        "choices": [
+            "Psoriatic arthritis",
+            "Osteoarthritis",
+            "Rheumatoid arthritis",
+            "IBD-associated arthritis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "IBD-associated arthritis often flares with underlying bowel disease and is associated with Crohn’s disease and ulcerative colitis."
+    },
+    {
+        "question": "In gout, monosodium urate crystals trigger inflammation via which of the following mechanisms?",
+        "choices": [
+            "Complement activation",
+            "NLRP3 inflammasome activation",
+            "Direct T-cell activation",
+            "IL-10 secretion"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Monosodium urate crystals activate the NLRP3 inflammasome, leading to the release of pro-inflammatory cytokines such as IL-1beta."
+    },
+    {
+        "question": "A 68-year-old man with joint pain has crystals in his synovial fluid that appear rhomboid-shaped under polarized light. Which condition is most likely?",
+        "choices": [
+            "Gout",
+            "Rheumatoid arthritis",
+            "Calcium pyrophosphate deposition disease",
+            "Osteoarthritis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Calcium pyrophosphate deposition disease (CPPD) crystals appear rhomboid and show weakly positive birefringence under polarized light."
+    },
+    {
+        "question": "Which of the following is a common extra-articular manifestation in patients with ankylosing spondylitis?",
+        "choices": [
+            "Pulmonary fibrosis",
+            "Psoriasis",
+            "Oral ulcers",
+            "Butterfly rash"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Apical pulmonary fibrosis and aortic valve regurgitation are extra-articular manifestations of ankylosing spondylitis."
+    },
+    {
+        "question": "A 55-year-old man presents with recurrent knee pain and has evidence of chondrocalcinosis on X-ray. Which treatment would be most appropriate for acute flare-ups?",
+        "choices": [
+            "Methotrexate",
+            "NSAIDs",
+            "Allopurinol",
+            "Antibiotics"
+        ],
+        "correctAnswer": 1,
+        "explanation": "NSAIDs are commonly used to treat acute flare-ups of calcium pyrophosphate deposition disease (CPPD), also known as pseudogout."
+    },
+    {
+        "question": "A patient with rheumatoid arthritis is being evaluated for a DMARD. Which of the following is a commonly used DMARD for managing this condition?",
+        "choices": [
+            "Adalimumab",
+            "Aspirin",
+            "Prednisone",
+            "Colchicine"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Adalimumab, a TNF inhibitor, is a DMARD frequently used for treating rheumatoid arthritis."
+    },
+    {
+        "question": "Which cytokine is primarily involved in the pathogenesis of autoinflammatory diseases like gout?",
+        "choices": [
+            "IL-1",
+            "IL-10",
+            "IL-4",
+            "IL-13"
+        ],
+        "correctAnswer": 0,
+        "explanation": "IL-1 is a key pro-inflammatory cytokine activated by the inflammasome in autoinflammatory conditions such as gout."
+    },
+    {
+        "question": "Which genetic factor is most commonly associated with seronegative spondyloarthropathies?",
+        "choices": [
+            "HLA-DR4",
+            "HLA-B27",
+            "HLA-DQ2",
+            "HLA-A3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "HLA-B27 is strongly associated with seronegative spondyloarthropathies, especially ankylosing spondylitis."
+    },
+    {
+        "question": "In gout, which dietary substance is most likely to precipitate a flare?",
+        "choices": [
+            "High-fiber foods",
+            "Red meat",
+            "Citrus fruits",
+            "Dairy products"
+        ],
+        "correctAnswer": 1,
+        "explanation": "High-purine foods like red meat can increase uric acid levels and precipitate gout flares."
+    },
+    {
+        "question": "A patient with long-standing gout develops joint tophi. What is the composition of these deposits?",
+        "choices": [
+            "Calcium hydroxyapatite",
+            "Monosodium urate",
+            "Calcium pyrophosphate",
+            "Osteoid"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tophi in gout are composed of monosodium urate crystals."
+    },
+    {
+        "question": "Which of the following is a distinguishing feature of ankylosing spondylitis on imaging?",
+        "choices": [
+            "Osteophytes",
+            "Bamboo spine",
+            "Rat-bite erosions",
+            "Juxta-articular osteopenia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ankylosing spondylitis can cause ‘bamboo spine’ due to fusion of the vertebral bodies with syndesmophytes."
+    },
+    {
+        "question": "A 10-year-old boy presents with acute osteomyelitis. Which microorganism is the most common causative agent in children with osteomyelitis?",
+        "choices": [
+            "Escherichia coli",
+            "Kingella kingae",
+            "Staphylococcus aureus",
+            "Group A Streptococcus"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Staphylococcus aureus is the most common cause of acute osteomyelitis in children, particularly in older children."
+    },
+    {
+        "question": "A 45-year-old man presents with chronic osteomyelitis following an open tibial fracture. Imaging shows a lucent area in the bone and involucrum formation. Which of the following is the best next step in management?",
+        "choices": [
+            "Empirical antibiotics only",
+            "Surgical debridement and bone culture",
+            "Six weeks of IV antibiotics",
+            "Hyperbaric oxygen therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In chronic osteomyelitis, surgical debridement and obtaining bone cultures are essential for effective management and to guide antibiotic therapy."
+    },
+    {
+        "question": "Which of the following bacteria is most likely to cause hematogenous osteomyelitis in an infant?",
+        "choices": [
+            "Staphylococcus aureus",
+            "Kingella kingae",
+            "E. coli",
+            "Mycobacterium tuberculosis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "E. coli is a common cause of hematogenous osteomyelitis in neonates and infants."
+    },
+    {
+        "question": "A 27-year-old woman presents with progressive pain, swelling, and erythema in the knee following a cat bite. A Gram stain of the joint aspirate is most likely to reveal:",
+        "choices": [
+            "Gram-positive cocci in clusters",
+            "Gram-negative coccobacilli",
+            "Gram-positive cocci in chains",
+            "Gram-negative diplococci"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Cat bites can lead to infections caused by Pasteurella multocida, a Gram-negative coccobacillus."
+    },
+    {
+        "question": "In a case of contiguous osteomyelitis following a traumatic wound, which of the following bacteria is most likely involved?",
+        "choices": [
+            "Escherichia coli",
+            "Staphylococcus aureus",
+            "Streptococcus pneumoniae",
+            "Mycobacterium tuberculosis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Contiguous osteomyelitis often involves Staphylococcus aureus, especially in cases of trauma or open wounds."
+    },
+    {
+        "question": "Which of the following characteristics is typical of chronic osteomyelitis?",
+        "choices": [
+            "Rapid onset of symptoms",
+            "Formation of involucrum and sequestrum",
+            "Minimal bone destruction",
+            "Commonly due to hematogenous spread"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Chronic osteomyelitis is characterized by the formation of sequestrum (dead bone) and involucrum (new bone growth around dead tissue)."
+    },
+    {
+        "question": "A 3-year-old child presents with fever and a limp. MRI confirms osteomyelitis in the femur. Which organism is most commonly associated with this condition in children under 4 years?",
+        "choices": [
+            "Staphylococcus aureus",
+            "Salmonella spp.",
+            "Kingella kingae",
+            "Streptococcus pyogenes"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kingella kingae is a common cause of osteomyelitis in children between 6 months and 4 years."
+    },
+    {
+        "question": "In the pathogenesis of acute osteomyelitis in children, what anatomical feature of growing bone promotes bacterial adherence?",
+        "choices": [
+            "Epiphysis",
+            "Nutrient artery",
+            "Periosteum",
+            "Discontinuous endothelium in metaphysis"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The discontinuous endothelium in the metaphysis of growing bones provides a foothold for bacteria, predisposing to osteomyelitis."
+    },
+    {
+        "question": "A 65-year-old man presents with back pain, fever, and tenderness over the lower lumbar spine. He has a history of UTIs. MRI shows disc space narrowing and vertebral erosion at L4-L5. Which organism is most likely the cause?",
+        "choices": [
+            "Mycobacterium tuberculosis",
+            "Staphylococcus aureus",
+            "Escherichia coli",
+            "Pseudomonas aeruginosa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In vertebral osteomyelitis, the most common pathogen is Staphylococcus aureus, though E. coli can also be seen, particularly in older adults with UTIs."
+    },
+    {
+        "question": "A 72-year-old woman is hospitalized for septic arthritis of the knee. Which organism is the most common cause of infectious arthritis in elderly patients?",
+        "choices": [
+            "Staphylococcus aureus",
+            "Neisseria gonorrhoeae",
+            "Kingella kingae",
+            "Escherichia coli"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Staphylococcus aureus is the most common cause of septic arthritis in elderly patients."
+    },
+    {
+        "question": "A 25-year-old man presents with fever, chills, and severe headache following a camping trip. He recalls a tick bite and develops a target-like rash. What is the recommended treatment for early-stage Lyme disease?",
+        "choices": [
+            "Intravenous ceftriaxone",
+            "Oral doxycycline",
+            "Oral amoxicillin-clavulanate",
+            "Oral azithromycin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Oral doxycycline is the treatment of choice for early Lyme disease, particularly in adults."
+    },
+    {
+        "question": "Which feature distinguishes hematogenous osteomyelitis from contiguous osteomyelitis?",
+        "choices": [
+            "Higher prevalence in children",
+            "Typically caused by direct inoculation",
+            "Often polymicrobial",
+            "More common in the elderly"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hematogenous osteomyelitis is more common in children and often results from bloodborne bacteria, whereas contiguous osteomyelitis is more common in adults following trauma or surgery."
+    },
+    {
+        "question": "A 35-year-old IVDU presents with back pain and fever. MRI reveals an epidural abscess. Which of the following organisms is most likely to be isolated?",
+        "choices": [
+            "Escherichia coli",
+            "Staphylococcus aureus",
+            "Mycobacterium tuberculosis",
+            "Pseudomonas aeruginosa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Staphylococcus aureus is the most common cause of spinal infections in IVDUs, often leading to osteomyelitis or epidural abscess."
+    },
+    {
+        "question": "A 52-year-old woman with early disseminated Lyme disease presents with meningitis and facial nerve palsy. What is the appropriate treatment for her neurological symptoms?",
+        "choices": [
+            "Oral doxycycline",
+            "Oral azithromycin",
+            "IV ceftriaxone",
+            "Oral amoxicillin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "IV ceftriaxone is recommended for Lyme disease with neurological involvement, such as meningitis or cranial nerve palsy."
+    },
+    {
+        "question": "A patient presents with chronic osteomyelitis and a draining sinus tract in the tibia. Which imaging modality is preferred for assessing the extent of infection?",
+        "choices": [
+            "X-ray",
+            "CT scan",
+            "MRI",
+            "Bone scan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "MRI is the most sensitive imaging modality for assessing the extent of chronic osteomyelitis and identifying areas of bone involvement and abscesses."
+    },
+{
+        "question": "A 45-year-old patient with chronic lower back pain asks about complementary and alternative medicine (CAM) therapies. Which of the following is most supported by evidence for managing chronic pain?",
+        "choices": [
+            "Hypnosis",
+            "Acupuncture",
+            "Homeopathy",
+            "Detox diets"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acupuncture has a solid evidence base supporting its role in pain management, particularly for conditions like chronic lower back pain."
+    },
+    {
+        "question": "A patient wants information on a diet that may reduce chronic inflammation and improve joint health. Which diet is commonly recommended for its anti-inflammatory properties?",
+        "choices": [
+            "High-protein diet",
+            "Mediterranean diet",
+            "Paleo diet",
+            "Low-fat diet"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The Mediterranean diet is well-researched for its anti-inflammatory effects and can help reduce pain and inflammation in chronic diseases."
+    },
+    {
+        "question": "Which mind-body intervention is shown to have positive effects on both pain severity and associated depression in patients with chronic pain?",
+        "choices": [
+            "Qigong",
+            "Guided imagery",
+            "Yoga",
+            "Mindfulness-based stress reduction (MBSR)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Mindfulness-based stress reduction (MBSR) is shown to improve pain severity and associated anxiety and depression."
+    },
+    {
+        "question": "A 40-year-old woman with fibromyalgia is interested in trying complementary treatments. She asks about CAM approaches that target both body and mind for pain relief. Which therapy is likely most beneficial?",
+        "choices": [
+            "Hypnosis",
+            "Tai Chi",
+            "Osteopathic Manipulative Therapy (OMT)",
+            "Therapeutic touch"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tai Chi is a mind-body practice that has shown benefits in reducing fibromyalgia symptoms through movement, relaxation, and focus."
+    },
+    {
+        "question": "When discussing CAM options for pain management with a patient, what should be emphasized about these treatments?",
+        "choices": [
+            "They are always free of side effects",
+            "They can replace all conventional pain medications",
+            "Not all CAM therapies are evidence-based",
+            "They are only useful for psychological pain"
+        ],
+        "correctAnswer": 2,
+        "explanation": "It's essential to inform patients that while CAM therapies can be beneficial, they may not be fully evidence-based and should be chosen carefully."
+    },
+    {
+        "question": "A physician is looking for reliable sources to provide patients with information about CAM options for pain management. Which of the following sources is most appropriate?",
+        "choices": [
+            "National Center for Complementary and Integrative Health (NCCIH)",
+            "Social media wellness blogs",
+            "Alternative Medicine Guidebook (non-peer-reviewed)",
+            "Online forums with patient reviews"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The NCCIH provides reliable, evidence-based information on CAM therapies for both patients and healthcare providers."
+    },
+    {
+        "question": "Which of the following CAM therapies has shown the greatest evidence for efficacy in reducing pain through localized neuromodulation?",
+        "choices": [
+            "Biofeedback",
+            "Acupuncture",
+            "Homeopathy",
+            "Aromatherapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Acupuncture has demonstrated pain-reducing effects by modulating local neuromodulation and neurotransmitter release."
+    },
+    {
+        "question": "Which CAM therapy focuses on improving blood flow, decreasing pain, and reducing stress by manipulating muscle and connective tissues?",
+        "choices": [
+            "Hypnotherapy",
+            "Therapeutic massage",
+            "Reflexology",
+            "Qi Gong"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Therapeutic massage manipulates soft tissues to reduce stress and pain by improving blood circulation and relaxation."
+    },
+    {
+        "question": "Which therapy involves gentle movement and breathing exercises to help manage pain through relaxation and enhanced awareness?",
+        "choices": [
+            "Acupuncture",
+            "Homeopathy",
+            "Tai Chi",
+            "Meditation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tai Chi involves slow, controlled movements and deep breathing, helping to alleviate pain by improving relaxation and body awareness."
+    },
+    {
+        "question": "Which of the following is a mind-body technique that has shown evidence for pain management by influencing both the HPA axis and stress response?",
+        "choices": [
+            "Biofeedback",
+            "Yoga",
+            "Herbal supplements",
+            "Detox diets"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yoga is a mind-body intervention shown to affect the hypothalamic-pituitary-adrenal (HPA) axis, reducing stress and contributing to pain relief."
+    }, 
+{
+    "question": "Which of the characteristics below is least characteristic of the spondyloarthropathies?",
+    "choices": [
+        "Axial skeleton involvement",
+        "C-reactive protein positive",
+        "HLA-B27 antigen",
+        "Joint pain",
+        "Rheumatoid factor"
     ],
     "correctAnswer": 4,
-    "explanation": "The correct answer is normal calcium, phosphate, and bone alkaline phosphatase (E). In contrast to disorders like hyperparathyroidism that markedly increase bone turnover and the level of bone alkaline phosphatase, osteoporosis shows normal lab values except for increased 24-hour urine calcium. Osteomalacia and rickets due to vitamin D deficiency show low calcium and phosphate with increased bone turnover and alkaline phosphatase (B). Hyperparathyroidism shows increased calcium, decreased phosphate, and increased alkaline phosphatase (C). Paget disease of bone usually results in normal serum calcium, normal serum phosphate, and increased bone alkaline phosphatase (D)."
+    "explanation": "The correct answer is rheumatoid factor (E). None of these disorders shows a positive rheumatoid factor or antinuclear antibody, making them forms of seronegative arthritis. Their autoimmune injury comes via different mechanisms. The other listed options are all common to these disorders, including axial skeleton involvement (A), elevated C-reactive protein (B) and erythrocyte sedimentation rate, HLA-B27 (C), and joint pain (D)."
 },
 {
-    "question": "A 65-year-old woman comes to the clinic to discuss her risk of osteoporosis. She is worried because she has a family history of osteoporosis. Which of the following DEXA scan T-scores would indicate that she has osteoporosis?",
+    "question": "Which of the following is seen more often in ankylosing spondylitis than in the other spondyloarthropathies?",
     "choices": [
-        "T-score ≤ 2.5",
-        "T-score ≤ −2.5",
-        "T-score ≥ 2.5",
-        "T-score ≥ −2.5"
+        "Conjunctivitis",
+        "DIP joint arthritis",
+        "Fingernail abnormalities",
+        "Mitral valve stenosis",
+        "Sacroiliac joint inflammation"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is sacroiliac joint inflammation (E). Ankylosing spondylitis is characterized by chronic low back pain in young men, due to sacroiliac joint inflammation. Conjunctivitis (A) is more commonly seen in reactive arthritis. DIP joint arthritis (B) is seen more in psoriatic arthritis. Fingernail abnormalities (C) are seen in both reactive arthritis and psoriatic arthritis. Mitral valve stenosis (D) is not seen in any of these disorders."
+},
+{
+    "question": "A 24-year-old man diagnosed with *Chlamydia trachomatis* infection 2 weeks ago comes to the office for follow-up. He has taken his prescribed antibiotics but now has ankle and knee pain as well as pain on urination. His joint pain is only on the left side. It started as an ankle pain, which he thought was due to some sort of injury, but several days later the knee pain started. In addition, he noticed some brown nodules on his foot, and he has pink, watery eyes. In addition to continuing antibiotics, which of the following is the most appropriate treatment for him?",
+    "choices": [
+        "Anti–IL-17 agents",
+        "NSAIDs",
+        "Methotrexate",
+        "Observation only",
+        "TNF inhibitors"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is T-score ≤ −2.5 (B). Osteoporosis is diagnosed as having a DEXA T-score of less than or equal to −2.5, which suggests that an individual has a bone mineral density 2.5 standard deviations or more below the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≤ 2.5 (A) does not necessarily diagnose a patient as having osteoporosis because their bone mineral density could still be close to or above the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ 2.5 (C) actually suggests greater bone density than the average bone mineral density for a healthy individual of the same sex and ethnicity. A T-score ≥ −2.5 (D) could be suggestive of osteopenia, which is indicated by a T-score between −1.0 and −2.5."
-},
-{
-    "question": "In the stages of bone healing, what type of cell predominately allows for soft callus formation?",
-    "choices": [
-        "Chondrocytes",
-        "Inflammatory cells",
-        "Macrophages",
-        "Osteoblasts",
-        "Osteoclasts"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The correct answer is chondrocytes (A). Chondrocytes secrete collagen to make up cartilage that, along with fibrous tissue, forms the soft callus. In the first stage of bone healing, inflammatory cells (B) and macrophages (C) clear bone debris after injury to start the healing process. After the soft callus is formed, osteoblasts (D) and osteoclasts (E) work together to create the hard callus."
-},
-{
-    "question": "A 25-year-old man comes into your office with a wrapped hand. He states that he got into a fight last night and punched a wall out of frustration. Since then, he has been having pain near the proximal knuckle of his right pinky. Which bone is most likely fractured?",
-    "choices": [
-        "First phalanx",
-        "Metacarpal",
-        "Radius",
-        "Scaphoid",
-        "Ulna"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is metacarpal (B). A boxer fracture involves a break in the fifth metacarpal bone near the knuckle and commonly occurs when a person punches something with a closed fist. Phalangeal fractures (A) are caused by turning or twisting fingers. Distal radius (C) and ulnar fractures (E) are caused by wrist injuries. Scaphoid fractures (D) are a type of wrist fracture leading to pain in the wrist joint."
-},
-{
-    "question": "A 28-year-old man comes to the physician because of a 1-week history of weakness in the fingers of his right hand. One week ago, he experienced sudden pain in his right forearm during weight training. He has no history of serious illness. Physical examination shows impaired flexion of the proximal interphalangeal joints, while flexion of the distal interphalangeal joints is intact. Which of the following muscles is most likely injured?",
-    "choices": [
-        "Palmaris longus",
-        "Flexor carpi radialis",
-        "Flexor carpi ulnaris",
-        "Flexor digitorum superficialis",
-        "Flexor digitorum profundus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is flexor digitorum superficialis (D). The flexor digitorum superficialis muscle, which originates from the medial epicondyle of the humerus and proximal shaft of the radius, enables flexion of the wrist, metacarpophalangeal joints, and proximal interphalangeal joints. Isometric weight training can cause rupture of this muscle, as seen here. Flexion of the distal interphalangeal joints is a function of the flexor digitorum profundus muscle and is unaffected by flexor digitorum superficialis muscle injury."
-},
-{
-    "question": "A 41-year-old woman comes to the doctor because of gradually progressive weakness in her right hand over the past few weeks. She goes to the gym to lift weights 5 times a week. With the dorsum of the right hand on a flat surface, the patient is unable to move her thumb to touch a pen held 2 cm above the interphalangeal joint of the thumb. An MRI of the right arm shows compression of a nerve that passes through the pronator teres muscle. Based on the examination findings, loss of innervation of which of the following muscles is most likely in this patient?",
-    "choices": [
-        "Adductor pollicis",
-        "Flexor pollicis longus",
-        "First dorsal interosseous",
-        "Abductor pollicis brevis",
-        "Extensor pollicis brevis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is abductor pollicis brevis (D). This patient shows signs of weakness of the abductor pollicis brevis. The abductor pollicis brevis is a muscle of the thenar eminence that arises from the flexor retinaculum and the scaphoid bone, before inserting into the proximal phalanx and the capsule of the first metacarpophalangeal joint. This muscle is responsible for thumb abduction, extension, and opposition. Damage to the median nerve leads to a weakness of these functions, especially abduction, which can be assessed by the pen test. Repetitive activities such as weight-lifting can cause median nerve injury by direct compression or entrapment."
-},
-{
-    "question": "Which of the following is seen in patients with Marfan syndrome but not Ehlers-Danlos syndrome?",
-    "choices": [
-        "Aortic root dilation",
-        "Brittle bones",
-        "Flexible joints",
-        "Lens dislocation",
-        "Stretchy skin"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is lens dislocation (D). It is a unique feature of Marfan syndrome. Aortic root dilatation (A) and flexible joints (C) are shared features of Marfan and Ehlers-Danlos Syndrome (EDS). Brittle bones (B) is seen in neither; it is a feature of osteogenesis imperfecta. Stretchy skin (E) is characteristic of EDS but not Marfan syndrome."
-},
-{
-    "question": "Abnormalities of which of the following is least likely in a patient with Ehlers-Danlos syndrome?",
-    "choices": [
-        "Collagen types I-V fibrils",
-        "Collagen III DNA",
-        "Collagen III posttranslational processing",
-        "Collagen V mRNA",
-        "Elastin"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is elastin (E). Ehlers-Danlos Syndrome (EDS) is due to collagen type III or type V synthesis defects or instability, whereas Marfan syndrome is due to elastin defects. EDS defects can be in the collagen III or V (DNA) (B), in the mRNA resulting from the mutated gene (D), in posttranslational processing (C), or in the inability of the defective collagen V to form fibrils with collagen I (A)."
-},
-{
-    "question": "Which condition listed below is correlated with the correct gene mutation?",
-    "choices": [
-        "EDS, FBN1",
-        "EDS, TGF-β",
-        "Marfan, COL3A1",
-        "Marfan, COL5A1",
-        "Marfan, FBN1"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is Marfan, FBN1 (E). The FBN1 gene encodes a fibrillin molecule, which gives stability to tropoelastin during synthesis. It is not related to EDS pathophysiology (A). TGF-β expression (B) may be altered in Marfan syndrome but not in EDS. COL3A1 (C) and COL5A1 (D) may be defective in EDS, not in Marfan syndrome."
-},
-{
-    "question": "A professional basketball player collapsed to the ground during a game and was found to have an enlarging aortic dissection. History revealed that his father died very young with similar symptoms. His genetic and clinical testing is consistent with Marfan syndrome. Which of the following findings would be least likely in this patient?",
-    "choices": [
-        "Dislocated eye lens",
-        "Long extremities",
-        "Long fingers",
-        "Intellectual disability",
-        "Tall stature"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is intellectual disability (D). Aortic dissection is a characteristic complication of Marfan syndrome. Lens dislocation (A), long extremities (B), long fingers (C), and tall stature (E) are all characteristics of Marfan syndrome. However, intellectual disability is not associated with it."
+    "explanation": "The correct answer is NSAIDs (B). This patient has reactive arthritis, a condition that manifests a few weeks after an initial infection. Antibiotics are given to address any underlying infections, but because he has symptomatic arthritis, NSAIDs should be started for symptomatic relief. None of the remaining listed drugs is used in reactive arthritis. Anti–IL-17 agents (A) are used for very severe psoriatic arthritis. Methotrexate (C) is used in severe psoriatic arthritis. Treatment is needed for the patient’s inflammation, so observation alone (D) is incorrect. TNF inhibitors (E) are used for ankylosing spondylitis and psoriatic arthritis."
 },
 {
     "question": "A 55-year-old man presents to the hospital with severe foot pain, specifically in his left big toe. The left proximal interphalangeal joint is swollen and red. His serum uric acid level is 9.2 mg/dL. A joint aspirate shows a WBC count of 40,000/mm³ and negatively birefringent needle-shaped crystals. Which of the following is the best next step in management?",
@@ -1723,99 +1166,270 @@
         "Methotrexate"
     ],
     "correctAnswer": 3,
-    "explanation": "The correct answer is indomethacin (D). The patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol (A) lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. It is used in chronic gout for prevention of acute attacks later. Codeine (B) is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine (C) is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate (E) is prescribed for some chronic forms of CPPD but not acute gout."
+    "explanation": "The correct answer is indomethacin (D). The patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol (A) lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. It is used in chronic gout and for prevention of acute attacks later. Codeine (B) is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine (C) is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate (E) is prescribed for some chronic forms of CPPD but not acute gout."
 },
+    {
+        "question": "A 55-year-old man presents to the hospital with severe foot pain, specifically in his left big toe. The left proximal interphalangeal joint is swollen and red. His serum uric acid level is 9.2 mg/dL. A joint aspirate shows a WBC count of 40,000/mm³ and negatively birefringent needle-shaped crystals. Which of the following is the best next step in management?",
+        "choices": [
+            "Allopurinol",
+            "Codeine",
+            "Hydroxychloroquine",
+            "Indomethacin",
+            "Methotrexate"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The correct answer is indomethacin. This patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. Codeine is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate is prescribed for some chronic forms of CPPD but not acute gout."
+    },
+    {
+        "question": "A 67-year-old man with a history of diabetes mellitus has been experiencing joint pain for the past few years. He describes pain, mainly in the small joints of his hands, associated with morning stiffness. Analysis of synovial fluid aspirated from an affected joint reveals crystals that are blue when parallel to the projection of polarized light. What is the most likely diagnosis?",
+        "choices": [
+            "Calcium pyrophosphate deposition disease",
+            "Gout",
+            "Osteoarthritis",
+            "Rheumatoid arthritis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The correct answer is calcium pyrophosphate deposition disease (CPPD). In CPPD, synovial fluid will contain rhomboid crystals weakly positively birefringent under polarized light, appearing blue when parallel and yellow when perpendicular. Gout may present similarly but shows needle-shaped crystals with negative birefringence, appearing yellow when parallel to polarized light. Osteoarthritis and rheumatoid arthritis would not show crystals under polarized light."
+    },
+    {
+        "question": "A 28-year-old field hockey player presents to the physician’s office after being hit in the back of her knee by an opponent’s field hockey stick. For the past few days after the incident, she has experienced intermittent pain and swelling. On physical exam, you see a fluid-filled cyst in the popliteal region. What is the next step?",
+        "choices": [
+            "Aspirate the fluid-filled cyst",
+            "Obtain MRI to confirm the diagnosis",
+            "Prescribe NSAIDs and rest",
+            "Start empiric antibiotics"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is to prescribe NSAIDs and rest. The patient most likely has popliteal bursitis, also known as a Baker cyst. If the bursitis is acute, there may be no need to aspirate immediately because most cysts are benign and reduce on their own. MRI is typically reserved if the diagnosis is unclear, and antibiotics are not indicated without suspicion of infection."
+    },
+  {
+        "question": "A 55-year-old male presents to his physician describing left hip pain for the past 2 years. He has no fever, and the pain is worse with movement and relieved by rest. He also has early morning stiffness. Apart from mild swelling, the skin overlying his left hip looks normal. His CRP value is normal. What is the most likely diagnosis?",
+        "choices": [
+            "Ankylosing spondylitis",
+            "Gout",
+            "Osteoarthritis",
+            "Reactive arthritis",
+            "Septic arthritis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is osteoarthritis (C). This patient has joint pain that is worse with movement and relieved with rest, without any systemic signs and symptoms, and osteoarthritis is the most probable diagnosis. The normal CRP confirms a noninflammatory arthritis, of which osteoarthritis is the most common cause."
+    },
+    {
+        "question": "A 10-year-old male with a medical history of sickle cell disease presents to the hospital with fever and a swollen, red, and painful knee joint. His sickle cell disease is well-controlled. An x-ray of the joint is normal. In addition to appropriate antibiotics, IV fluids, and pain management, what else should be done now?",
+        "choices": [
+            "Biopsy the synovium",
+            "Drain the joint with needle aspiration",
+            "Give intra-articular antibiotics",
+            "MRI of the involved joint",
+            "No additional management required"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The correct answer is to drain the joint with needle aspiration (B). Joint drainage with antibiotics is the standard of care for septic arthritis, especially in patients with high-risk conditions like sickle cell disease."
+    },
+    {
+        "question": "A 56-year-old female with diabetes presents to the emergency department with a 5-day history of decreased range of motion of her right knee, along with pain and fever. What is the best next step in diagnosis?",
+        "choices": [
+            "Blood cultures",
+            "Complete blood count",
+            "C-reactive protein",
+            "Joint aspiration of synovial fluid",
+            "X-rays of the knee"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The correct answer is joint aspiration of synovial fluid (D). Joint aspiration provides definitive information on the presence of pathogens within the joint space, which is essential in diagnosing septic arthritis."
+    },
+    {
+        "question": "A 25-year-old female had a car crash 2 weeks ago and broke her leg. Her injuries were treated. Today she complains of leg pain, along with fever and redness of the upper part of her leg. A diagnosis of osteomyelitis was made; however, no organisms were identified despite all the blood tests that were done. Blood cultures have been negative three times. What is the best next step in management?",
+        "choices": [
+            "Blood cultures",
+            "Bone biopsy",
+            "Bone scan",
+            "Complete blood count",
+            "MRI of the bone"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The correct answer is bone biopsy (B). Bone biopsy is the most definitive diagnostic test in cases where blood cultures are negative, as it can identify the causative organism directly from the infected bone."
+    },
 {
-    "question": "A 67-year-old man with a history of diabetes mellitus has been experiencing joint pain for the past few years. He describes pain, mainly in the small joints of his hands, associated with morning stiffness. Analysis of synovial fluid aspirated from an affected joint reveals crystals that are blue when parallel to the projection of polarized light. What is the most likely diagnosis?",
+    "question": "A 27-year-old man comes to the clinic because of pain and blurry vision in his right eye for the past week. He also notes a 3-month history of progressive low back and hip pain and stiffness. The pain wakes him up at night, feels worse in the morning, and improves with activity. On physical examination, the right eye is erythematous, with decreased visual acuity. There is decreased range of motion when bending at the waist. Which of the following human leukocyte antigen (HLA) subtypes would most likely be present in this patient's cells?",
     "choices": [
-        "Calcium pyrophosphate deposition disease",
-        "Gout",
-        "Osteoarthritis",
-        "Rheumatoid arthritis"
+        "HLA-B27",
+        "HLA-B8",
+        "HLA-DQ8",
+        "HLA-DR2",
+        "HLA-DR4"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is calcium pyrophosphate deposition disease (A). In CPPD, aspiration of affected joints will yield synovial fluid that contains rhomboid crystals weakly positively birefringent under polarized light. This means that crystals will be blue when parallel to the projection of polarized light and yellow when perpendicular. Gout (B) may present with similar symptoms. However, aspirated synovial fluid will demonstrate needle-shaped crystals that have negative birefringence, meaning that they will be yellow when parallel to the projection of polarized light. In osteoarthritis (C) and rheumatoid arthritis (D), analysis of the synovial fluid under polarized light will not reveal crystals."
+    "explanation": "The correct answer is HLA-B27 (A). The patient's symptoms of progressive low back pain and uveitis (eye inflammation) are characteristic of ankylosing spondylitis, which is commonly associated with the HLA-B27 genotype. This condition primarily affects the axial skeleton and often presents with pain that is worse in the morning and improves with movement."
 },
 {
-    "question": "A 58-year-old man presents to the emergency department with pain and redness in multiple joints, including the metatarsophalangeal joint of his big toe. He reports that over the past several years, he has had numerous such occurrences. Plain radiograph of the patient’s right foot demonstrates multiple bone erosions in the toes. After treating the patient's acute symptoms, which of the following medications, administered long-term, would most likely prevent a recurrence?",
+    "question": "A 26-year-old man comes to the clinic because of several years of back pain. He reports stiffness upon waking that improves with exercise. He also reports occasional hip pain. On physical examination, hip flexion, hip extension, and flexion of the lower back are limited. There is tenderness on palpation over the lumbar spine and sacroiliac joints. Which of the following is the most likely finding on diagnostic imaging?",
     "choices": [
-        "Allopurinol",
-        "Colchicine",
-        "Ibuprofen",
-        "Prednisone"
+        "Fusion of lumbar vertebrae",
+        "Lateral curvature of the spine",
+        "Lumbar disc herniation",
+        "Osteophytes in the intervertebral joints",
+        "Pannus formation",
+        "Vertebral compression fractures"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is allopurinol (A). This patient is currently experiencing an acute gout attack. However, given his long history of such attacks as well as radiographic evidence of bone erosions, he also has chronic gout. First-line treatment of chronic gout, as well as prophylaxis to prevent future acute attacks, is allopurinol, a xanthine oxidase inhibitor. Colchicine (B), NSAIDs such as ibuprofen (C), and steroids (D) are effective in treating acute gout attacks but are not used as prophylaxis."
+    "explanation": "The correct answer is fusion of lumbar vertebrae (A). The patient's chronic back pain, morning stiffness that improves with exercise, and limited range of motion are characteristic of ankylosing spondylitis. This condition often leads to fusion of the vertebrae, particularly in the lumbar and sacroiliac regions, which would be observed on imaging. Other options are less consistent with this presentation."
 },
 {
-    "question": "A 55-year-old man presents to his physician describing left hip pain for the past 2 years. He has no fever, and the pain is worse with movement and relieved by rest. He also has early morning stiffness. Apart from mild swelling, the skin overlying his left hip looks normal. His CRP value is normal. What is the most likely diagnosis?",
+    "question": "A 38-year-old man with type 2 diabetes mellitus presents to his physician for evaluation of swelling in his right middle finger, left hand, and right foot over the past 3 weeks. Physical examination reveals marked erythema and edema in the swollen joints. Both elbows have well-demarcated pink plaques with thick, silvery scale. Which of the following is most likely to also be seen in this patient?",
     "choices": [
-        "Ankylosing spondylitis",
-        "Gout",
-        "Osteoarthritis",
-        "Reactive arthritis",
-        "Septic arthritis"
+        "Antigliadin antibodies",
+        "Nail pits",
+        "Negatively birefringent crystals in joint fluid",
+        "Positive rheumatoid factor",
+        "Weakly positively birefringent crystals in joint fluid"
     ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is osteoarthritis (C). This patient has joint pain that is worse with movement and relieved with rest, without any systemic signs and symptoms, and osteoarthritis is the most probable diagnosis. The normal CRP confirms a noninflammatory arthritis, of which osteoarthritis is the most common cause."
+    "correctAnswer": 1,
+    "explanation": "The correct answer is nail pits (B). The presentation of pink plaques with silvery scale is suggestive of psoriasis. Psoriatic arthritis, which is associated with psoriasis, commonly presents with joint swelling and erythema. Nail pits are a classic finding in psoriatic arthritis. Antigliadin antibodies (A) are associated with celiac disease, negatively birefringent crystals (C) indicate gout, positive rheumatoid factor (D) is seen in rheumatoid arthritis, and weakly birefringent crystals (E) are indicative of calcium pyrophosphate deposition disease (CPPD)."
 },
+ {
+        "question": "A patient develops acute osteomyelitis of the proximal tibia. If infection spreads to the knee joint, the patient’s age is most likely which of the following?",
+        "choices": [
+            "1 month",
+            "5 years",
+            "15 years",
+            "35 years"
+        ],
+        "correctAnswer": 0,
+        "explanation": "In infants, the joint capsule surrounds the epiphysis and metaphysis, allowing spread to adjacent joints in osteomyelitis. This pattern of spread is less common in older children and adults."
+    },
+    {
+        "question": "A 79-year-old man comes to the emergency department because of fever and progressive back pain for three weeks. He also has experienced some numbness and tingling in his right thigh, and is now weak and unable to bear weight on the leg. He has a history of recurrent urinary tract infections. On exam he is febrile (101oF) and in moderate pain. There is tenderness over the spinous processes of L3 and L4 and spine films show lucencies in both these vertebrae and disk space collapse. A needle aspirate of the affected area will likely yield which of the following in culture?",
+        "choices": [
+            "Coagulase-negative staphylococci",
+            "Escherichia coli",
+            "Mycobacterium tuberculosis",
+            "Nocardia asteroides",
+            "Staphylococcus aureus"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Escherichia coli is commonly associated with osteomyelitis in older adults with a history of recurrent UTIs, especially in cases involving the vertebrae."
+    },
+    {
+        "question": "A 26-year-old IVDU was hospitalized two weeks earlier for fever and chills and was found to have staphylococcal bacteremia. Two days into treatment, he signed out AMA. On exam, his temperature is 38.7o C. Point tenderness is present over the spinous process of T-10. Imaging of the spine will most likely show which of the following?",
+        "choices": [
+            "A central lesion in T-10",
+            "An erosion of T-10 and an adjacent vertebra",
+            "An erosion of T-10 with epidural abscess",
+            "No abnormality",
+            "T-10 changes consistent with osteoarthritis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In IV drug users with staphylococcal infections, contiguous spread often leads to vertebral osteomyelitis with involvement of adjacent vertebrae. Posterior spinal artery supplies 2 vertebrae."
+    },
+    {
+        "question": "A 41-year-old former NFL linebacker comes to an orthopaedic surgeon because of a draining wound in the region of his distal left tibia for a week. He suffered a career-ending fracture there three years ago which required surgery for re-alignment of the bone edges. He has had chronic pain and swelling in the region of the surgical incision, but no fever, chills, or sweats. On exam, the area is red swollen and draining purulent material through a fistulous tract. His CBC reveals a mild normochromic, normocytic anemia. An x-ray shows a bone fragment in a lucent defect in the tibia.
+
+The bone fragment is known as which of the following?",
+        "choices": [
+            "Arcanum",
+            "Involucrum",
+            "Pellucidum",
+            "Periculum",
+            "Sequestrum"
+        ],
+        "correctAnswer": 4,
+        "explanation": "A sequestrum is a fragment of necrotic bone that has separated from healthy tissue in chronic osteomyelitis."
+    },
+    {
+        "question": "A 27-year-old woman comes to a physician for progressive pain, tenderness, and swelling of the right, second metacarpophalangeal joint for six days. Two days prior to the onset of symptoms, she was bitten by her cat at the site. On exam, she has a fever of 100.8oF, but is not toxic-appearing. The involved joint is red, tender, and has obvious fluid. A Gram’s stain of joint aspirate will most likely show which of the following?",
+        "choices": [
+            "Gram-negative coccobacilli",
+            "Gram-negative intracellular diplococci",
+            "Gram-positive bacilli",
+            "Gram-positive cocci in chains",
+            "Gram-positive cocci in clusters"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Pasteurella multocida, a Gram-negative coccobacillus, is commonly associated with animal bites and can cause septic arthritis."
+    },
+    {
+        "question": "A 52-year-old woman comes to a rheumatologist because of mild arthralgias involving multiple small and large joints for six months. She has had no fever, chills, or constitutional symptoms. She pulled a tick from her dog about one week prior to the onset of symptoms. Her exam is normal except that her hands show early signs of osteoarthritis, but there are no other joint abnormalities. She requests a test for Lyme arthritis. What is the appropriate management strategy?",
+        "choices": [
+            "Obtain Lyme serology and empirically treat with amoxicillin",
+            "Obtain Lyme serology and empirically treat with ceftriaxone",
+            "Obtain MRI of both hands",
+            "Prescribe a tapering course of prednisone",
+            "Reassure the patient and treat for osteoarthritis"
+        ],
+        "correctAnswer": 4,
+        "explanation": "This patient's presentation does not strongly suggest Lyme disease, as early osteoarthritis is seen on exam and the exposure history is not temporally related. Reassurance is appropriate."
+    },
+    {
+        "question": "A 65-year-old man underwent a total left hip replacement three weeks ago. Post-operative pain resolved after the first week. He has noted a mild increase in hip pain during the past few days and the surgical wound has become slightly tender and draining a few drops of serosanguinous fluid. On exam, the wound is erythematous, mildly warm, and tender. Assuming the joint is infected, the most likely causative organism is which of the following?:",
+        "choices": [
+            "Candida albicans",
+            "Coagulase-negative staphylococcus",
+            "Escherichia coli",
+            "MRSA",
+            "Pseudomonas aeruginosa"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Coagulase-negative staphylococci are common culprits in prosthetic joint infections, often associated with mild symptoms and serous or serosanguinous drainage."
+    },
+    {
+        "question": "A 55-year-old male presents with chronic left hip pain worse with movement and stiffness relieved by rest. CRP is normal. What is the most likely diagnosis?",
+        "choices": [
+            "Ankylosing spondylitis",
+            "Gout",
+            "Osteoarthritis",
+            "Reactive arthritis",
+            "Septic arthritis"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Osteoarthritis often presents with chronic joint pain and stiffness relieved by rest. The absence of systemic symptoms and normal CRP help exclude inflammatory conditions."
+    },
+    {
+        "question": "A 10-year-old male with sickle cell disease presents with fever and a painful, swollen knee joint. Joint x-ray is normal. What should be done next?",
+        "choices": [
+            "Biopsy the synovium",
+            "Drain the joint with needle aspiration",
+            "Give intra-articular antibiotics",
+            "Order an MRI of the joint",
+            "No additional management required"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Joint aspiration is indicated in suspected septic arthritis for diagnosis and relief. Septic arthritis is a complication of sickle cell disease."
+    },
+    {
+        "question": "A 56-year-old female with diabetes and knee pain presents with fever and decreased ROM. What is the best next step in diagnosis?",
+        "choices": [
+            "Blood cultures",
+            "Complete blood count",
+            "C-reactive protein",
+            "Joint aspiration of synovial fluid",
+            "X-rays of the knee"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Joint aspiration provides definitive diagnosis for septic arthritis, which is a medical emergency requiring timely intervention."
+    },
+    {
+        "question": "A 25-year-old post-car accident patient has pain and redness in the leg. Osteomyelitis is suspected but blood cultures are negative. What is the next step?",
+        "choices": [
+            "Blood cultures",
+            "Bone biopsy",
+            "Bone scan",
+            "Complete blood count",
+            "MRI of the bone"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bone biopsy is necessary when cultures are negative, as it allows for precise organism identification and targeted treatment."
+    },
 {
-    "question": "A 54-year-old man presents to his physician because of morning stiffness and pain in his left knee and right wrist that has been increasing for several weeks. The exam shows redness and swelling in both of these joints. His serum rheumatoid factor is elevated. A joint aspiration would most likely show which of the following?",
+    "question": "A 39-year-old man is referred to an orthopedic surgeon because of a draining wound in the region of his distal right tibia for a week. A year ago, he sustained a fracture in a flag football game which required surgery for re-alignment of the bone edges. He has had chronic pain and redness in the region of the surgical incision, but no fever, chills, or sweats. On exam, the area is red and swollen and draining purulent material through a fistulous tract. A CBC reveals a mild anemia. An x-ray shows a lucent area in the bone and the suggestion of an involucrum.\n\nThe next appropriate step in management is which of the following?",
     "choices": [
-        "Gram-positive cocci",
-        "Needle-shaped crystals",
-        "Rhomboid crystals",
-        "WBC count 1000/mm³",
-        "WBC count 7500/mm³"
+        "A. Debride the bone and fill defect with antibiotic beads",
+        "B. Debride the bone and perform smears and cultures of the bone and give long-term antibiotics based on results of microbiology studies",
+        "C. Draw blood cultures and begin empirical antibiotics; adjust after culture results are available",
+        "D. Give 4-6 weeks of antibiotics on the basis of Gram’s stain and culture of the drainage",
+        "E. Perform needle aspirate of involved bone and begin 4-6 weeks of antibiotics based on culture results"
     ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is WBC count 7500/mm³ (E). Acute arthritis is best evaluated with a joint aspiration. This patient with morning stiffness and inflammation, and a positive rheumatoid factor, most likely has rheumatoid arthritis. This shows inflammatory joint aspirate, typically with a WBC count of 2000-50,000 /mm³."
-},
-{
-    "question": "A 34-year-old female presents to her physician describing knee pain for the past 3 months. There is mild swelling around her right knee. Her physician also discovers she has a 5-year history of malar rash, photosensitivity, and kidney disease. What is the most likely cause of her knee pain?",
-    "choices": [
-        "Lyme disease",
-        "Rheumatoid arthritis",
-        "Septic arthritis",
-        "Systemic lupus erythematosus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is systemic lupus erythematosus (D). The patient has signs and symptoms of SLE-like photosensitivity, malar rash, and kidney disease. Patients with systemic lupus erythematosus can also experience joint pain."
-},
-{
-  "question": "A 7-year-old male presents with multiple fractures and carious teeth, with a similar family history. However, the X-ray report shows thickened dense bones. The patient has white sclera. Most likely diagnosis is:",
-  "choices": [
-    "A. Child abuse",
-    "B. Osteogenesis imperfecta",
-    "C. Osteoporosis",
-    "D. Osteopetrosis",
-    "E. Rickets"
-  ],
-  "correctAnswer": 3,
-  "explanation": "The correct answer is osteopetrosis (D). Osteopetrosis is characterized by thickened and dense bones due to defective osteoclast function. It often presents with multiple fractures, dental issues like carious teeth, and a family history. Unlike osteogenesis imperfecta, which is associated with blue sclera, patients with osteopetrosis typically have normal or white sclera."
-},
-{
-    "question": "A 25-year-old male athlete presents with knee pain that has been persistent for the last 6 months after a sports-related injury. Imaging reveals a small area of damaged articular cartilage in the knee. The orthopedic surgeon decides to perform a procedure that involves debriding the damaged cartilage and drilling small holes into the underlying subchondral bone. The aim is to allow mesenchymal stem cells from the bone marrow to form a clot that will differentiate into fibrocartilage to repair the area. What is the name of this surgical technique?",
-    "choices": [
-        "A: Osteochondral autograft transplantation",
-        "B: Autologous chondrocyte implantation",
-        "C: Arthroscopic lavage and debridement",
-        "D: Microfracture surgery",
-        "E: Meniscus repair"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Microfracture surgery involves debriding damaged cartilage and drilling small holes into the underlying subchondral bone, allowing mesenchymal stem cells to form a clot that differentiates into fibrocartilage. This technique is used to treat small cartilage defects, especially in the knee."
-},
-{
-    "question": "A 68-year-old woman presents to her physician with a history of osteoporosis. Dual-energy X-ray absorptiometry (DEXA) reveals a significant reduction in bone density, particularly in the vertebrae and proximal femur. The physician explains that the changes in bone density mainly affect a specific type of bone structure that is more metabolically active. Which of the following bone structures is primarily affected in this patient’s condition?",
-    "choices": [
-        "A: Cortical bone",
-        "B: Woven bone",
-        "C: Trabecular bone (spongy bone)",
-        "D: Periosteum",
-        "E: Articular cartilage"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Trabecular bone, also known as spongy bone, is more metabolically active and has a higher surface area compared to cortical bone. It is found predominantly in areas like the vertebrae and the ends of long bones. Osteoporosis primarily affects trabecular bone, leading to an increased risk of fractures in these areas. Cortical bone, which is denser and makes up the outer layer of bones, is also affected by osteoporosis but to a lesser extent."
+    "correctAnswer": 1,
+    "explanation": "The correct answer is (B). In chronic osteomyelitis, especially in cases with evidence of an involucrum, it is essential to debride necrotic bone, perform cultures to guide antibiotic therapy, and provide long-term antibiotic treatment based on culture results. This approach ensures thorough removal of infected tissue and proper targeting of causative organisms, which is critical for managing chronic infections. In general, all dead bone must be removed to cure chronic osteomyelitis."
 }
 ]
