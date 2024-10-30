@@ -33,17 +33,6 @@
     "explanation": "Radial nerve injury in the axilla can lead to an inability to extend the wrist and fingers, resulting in wrist drop."
 },
 {
-    "question": "A patient with a history of falling on an outstretched hand is found to have tenderness in the anatomical snuffbox. Which bone is most likely fractured?",
-    "choices": [
-        "Lunate",
-        "Scaphoid",
-        "Trapezium",
-        "Capitate"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Tenderness in the anatomical snuffbox following a fall on an outstretched hand suggests a scaphoid fracture."
-},
-{
     "question": "A 40-year-old carpenter reports difficulty extending his thumb after a deep cut to his forearm. Which nerve is most likely damaged?",
     "choices": [
         "Radial nerve",
@@ -140,7 +129,7 @@
         "Flexor pollicis longus"
     ],
     "correctAnswer": 0,
-    "explanation": "The extensor pollicis longus extends the thumb at the interphalangeal joint."
+    "explanation": "The extensor pollicis longus extends the thumb at the interphalangeal joint. The extensor pollicis brevis extends the thumb at metacarpophalangeal joint."
 },
 {
     "question": "Which nerve innervates the skin on the dorsum of the hand, lateral to the 4th digit?",
@@ -232,17 +221,6 @@
     "explanation": "The correct answer is adductor pollicis. Lacerations on the medial side of the ventral wrist can affect the ulnar nerve, which provides sensory innervation to the fifth digit and motor innervation to muscles including the adductor pollicis. The abductor pollicis brevis, opponens pollicis, and lumbricals 1 and 2 are innervated by the median nerve, while extensor pollicis brevis is innervated by the radial nerve."
 },
 {
-    "question": "A 37-year-old woman comes to your office describing pain over her lateral elbow. You can reproduce the pain by having her extend her hand against resistance. What muscles are most likely involved?",
-    "choices": [
-        "The biceps brachii (short head)",
-        "The extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris",
-        "The opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis",
-        "The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is the extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris. These are the extensor muscles of the posterior forearm that originate from the lateral epicondyle or common extensor origin. Overuse of these muscles can lead to tennis elbow, characterized by pain over the lateral condyle."
-},
-{
     "question": "A 19-year-old man comes to your office concerned that he cannot lift his hand. On physical exam, his wrist extensor strength is 1/5, and there is impaired sensation over the back of the hand. He sheepishly admits that he may have fallen asleep with his arm over a chair while at a party last night. Which of the following nerves is most likely injured?",
     "choices": [
         "Axillary nerve",
@@ -328,12 +306,12 @@
         "question": "A patient with RA has responded poorly to NSAIDs and is now prescribed methotrexate. What is its primary mechanism of action in RA?",
         "choices": [
             "Inhibits xanthine oxidase",
-            "Increases adenosine levels",
+            "Inhibits aminoimidazolecarboxamide (AICAR) transformylase",
             "Decreases leukotriene synthesis",
             "Blocks IL-17A receptors"
         ],
         "correctAnswer": 1,
-        "explanation": "Methotrexate increases adenosine levels, which has an anti-inflammatory effect helpful in RA management."
+        "explanation": "Methotrexate increases adenosine levels by inhibiting AICAR, which has an anti-inflammatory effect helpful in RA management."
     },
     {
         "question": "A patient taking infliximab for RA has been advised to monitor for which common adverse effect?",
@@ -513,7 +491,7 @@
             "Symmetric joint involvement in the hands"
         ],
         "correctAnswer": 2,
-        "explanation": "Achilles tendon pain, or enthesitis, is commonly associated with seronegative spondyloarthropathies like ankylosing spondylitis. The patient's symptoms suggest ankylosing spondylitis, which frequently presents with HLA-B27 positivity and enthesitis."
+        "explanation": "Achilles tendon pain, or enthesitis, is commonly associated with seronegative spondyloarthropathies like ankylosing spondylitis. The patient's symptoms suggest ankylosing spondylitis, which frequently presents with HLA-B27 positivity and enthesitis. Peripheral involvement in ankylosing spondylitis is uncommon (hands)."
     },
     {
         "question": "A patient is diagnosed with reactive arthritis following a gastrointestinal infection. Which of the following symptoms is most likely to be observed in this patient?",
@@ -524,7 +502,7 @@
             "Symmetric sacroiliitis"
         ],
         "correctAnswer": 1,
-        "explanation": "Reactive arthritis often presents with the classic triad of urethritis, conjunctivitis, and arthritis. It typically follows infections such as Salmonella or Chlamydia."
+        "explanation": "Reactive arthritis often presents with the classic triad of urethritis, conjunctivitis, and arthritis. It typically follows infections such as Salmonella or Chlamydia. "
     },
     {
         "question": "Which seronegative spondyloarthropathy is most likely to show asymmetric involvement of the sacroiliac joints and 'pencil-in-cup' deformities on X-ray?",
@@ -536,17 +514,6 @@
         ],
         "correctAnswer": 1,
         "explanation": "Psoriatic arthritis can show asymmetric sacroiliitis and characteristic 'pencil-in-cup' deformities on imaging due to erosive changes in the joints."
-    },
-    {
-        "question": "A 32-year-old woman presents with painful, swollen joints in her hands and a history of irritable bowel disease. Which type of arthritis is most likely associated with her condition?",
-        "choices": [
-            "Gout",
-            "Ankylosing spondylitis",
-            "Reactive arthritis",
-            "IBD-associated arthritis"
-        ],
-        "correctAnswer": 3,
-        "explanation": "IBD-associated arthritis can accompany inflammatory bowel disease and may present with peripheral arthritis, which is often asymmetric and affects larger joints."
     },
     {
         "question": "Which cytokine is a primary driver in the pathogenesis of enthesitis in seronegative spondyloarthropathies?",
@@ -584,13 +551,13 @@
     {
         "question": "A 45-year-old male with psoriasis presents with arthritis affecting his distal interphalangeal joints. Which of the following findings would most strongly suggest psoriatic arthritis?",
         "choices": [
-            "Sausage digit appearance",
+            "Nail Pitting",
             "Bilateral sacroiliitis",
             "Symmetric joint space narrowing",
             "Tophi"
         ],
         "correctAnswer": 0,
-        "explanation": "Psoriatic arthritis can lead to dactylitis, which causes a 'sausage digit' appearance due to inflammation of the entire finger or toe."
+        "explanation": "Pitting, lifting off the nail plate distally (onycholysis), thickening, discoloration, fragmentation; Increased risk of PsA with nail psoriasis."
     },
     {
         "question": "Which of the following seronegative spondyloarthropathies is most commonly associated with anterior uveitis?",
@@ -601,7 +568,7 @@
             "IBD-associated arthritis"
         ],
         "correctAnswer": 0,
-        "explanation": "Anterior uveitis is frequently associated with ankylosing spondylitis and can be a recurring extra-articular manifestation of the disease."
+        "explanation": "Anterior uveitis is frequently associated with ankylosing spondylitis and can be a recurring extra-articular manifestation of the disease. Painful, red eye with photophobia, has “Flare cells” = PMNs in anterior chamber, may sediment leading to hypopyon. May aslo have ciliary flush"
     },
     {
         "question": "In the pathogenesis of gout, which enzyme is responsible for the synthesis of uric acid from purine nucleotides?",
@@ -722,7 +689,7 @@
             "Mycobacterium tuberculosis"
         ],
         "correctAnswer": 2,
-        "explanation": "Reactive arthritis often follows infections with organisms such as Salmonella, Shigella, Yersinia, or Chlamydia."
+        "explanation": "Reactive arthritis often follows infections with organisms such as Salmonella, Shigella, Yersinia, or Chlamydia. The classic triad is conjunctivitis, urethritis, and arthritis."
     },
     {
         "question": "A 45-year-old man with Crohn’s disease presents with joint pain in his knees and ankles that varies with the activity of his bowel disease. Which type of arthritis is he likely experiencing?",
@@ -782,13 +749,13 @@
     {
         "question": "A patient with rheumatoid arthritis is being evaluated for a DMARD. Which of the following is a commonly used DMARD for managing this condition?",
         "choices": [
-            "Adalimumab",
+            "Methotrexate",
             "Aspirin",
             "Prednisone",
             "Colchicine"
         ],
         "correctAnswer": 0,
-        "explanation": "Adalimumab, a TNF inhibitor, is a DMARD frequently used for treating rheumatoid arthritis."
+        "explanation": "Methotrexate is the first DMARD of choice in treatment of rheumatoid arthritis. Also used in cancer chemotherapy, lower than chemotherapeutic doses are needed. Inhibits aminoimidazolecarboxamide (AICAR) transformylase. Antirheumatic activity - adenosine synthesis "
     },
     {
         "question": "Which cytokine is primarily involved in the pathogenesis of autoinflammatory diseases like gout?",
@@ -838,12 +805,12 @@
         "question": "Which of the following is a distinguishing feature of ankylosing spondylitis on imaging?",
         "choices": [
             "Osteophytes",
-            "Bamboo spine",
+            "Aortic valve regurgitation",
             "Rat-bite erosions",
             "Juxta-articular osteopenia"
         ],
         "correctAnswer": 1,
-        "explanation": "Ankylosing spondylitis can cause ‘bamboo spine’ due to fusion of the vertebral bodies with syndesmophytes."
+        "explanation": "Ankylosing spondylitis can cause ‘bamboo spine’ due to fusion of the vertebral bodies with syndesmophytes. Also causes cardiac involvement: Aortic valve regurgitation or ascending aorta inflammation (aortitis)"
     },
     {
         "question": "A 10-year-old boy presents with acute osteomyelitis. Which microorganism is the most common causative agent in children with osteomyelitis?",
@@ -877,17 +844,6 @@
         ],
         "correctAnswer": 2,
         "explanation": "E. coli is a common cause of hematogenous osteomyelitis in neonates and infants."
-    },
-    {
-        "question": "A 27-year-old woman presents with progressive pain, swelling, and erythema in the knee following a cat bite. A Gram stain of the joint aspirate is most likely to reveal:",
-        "choices": [
-            "Gram-positive cocci in clusters",
-            "Gram-negative coccobacilli",
-            "Gram-positive cocci in chains",
-            "Gram-negative diplococci"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Cat bites can lead to infections caused by Pasteurella multocida, a Gram-negative coccobacillus."
     },
     {
         "question": "In a case of contiguous osteomyelitis following a traumatic wound, which of the following bacteria is most likely involved?",
@@ -938,11 +894,11 @@
         "choices": [
             "Mycobacterium tuberculosis",
             "Staphylococcus aureus",
-            "Escherichia coli",
+            "Propionibacterium acnes",
             "Pseudomonas aeruginosa"
         ],
         "correctAnswer": 2,
-        "explanation": "In vertebral osteomyelitis, the most common pathogen is Staphylococcus aureus, though E. coli can also be seen, particularly in older adults with UTIs."
+        "explanation": "In vertebral osteomyelitis, coagulase (-) staph and P.acnes are most common. Brucella and M. tuberculosis are also possible but less common."
     },
     {
         "question": "A 72-year-old woman is hospitalized for septic arthritis of the knee. Which organism is the most common cause of infectious arthritis in elderly patients?",
@@ -960,11 +916,11 @@
         "choices": [
             "Intravenous ceftriaxone",
             "Oral doxycycline",
-            "Oral amoxicillin-clavulanate",
+            "Oral ceftriaxone",
             "Oral azithromycin"
         ],
         "correctAnswer": 1,
-        "explanation": "Oral doxycycline is the treatment of choice for early Lyme disease, particularly in adults."
+        "explanation": "Oral doxycycline or amoxicillin for 14-21 days is the treatment of choice for early Lyme disease, particularly in adults."
     },
     {
         "question": "Which feature distinguishes hematogenous osteomyelitis from contiguous osteomyelitis?",
@@ -1168,18 +1124,7 @@
     "correctAnswer": 3,
     "explanation": "The correct answer is indomethacin (D). The patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol (A) lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. It is used in chronic gout and for prevention of acute attacks later. Codeine (B) is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine (C) is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate (E) is prescribed for some chronic forms of CPPD but not acute gout."
 },
-    {
-        "question": "A 55-year-old man presents to the hospital with severe foot pain, specifically in his left big toe. The left proximal interphalangeal joint is swollen and red. His serum uric acid level is 9.2 mg/dL. A joint aspirate shows a WBC count of 40,000/mm³ and negatively birefringent needle-shaped crystals. Which of the following is the best next step in management?",
-        "choices": [
-            "Allopurinol",
-            "Codeine",
-            "Hydroxychloroquine",
-            "Indomethacin",
-            "Methotrexate"
-        ],
-        "correctAnswer": 3,
-        "explanation": "The correct answer is indomethacin. This patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. Codeine is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate is prescribed for some chronic forms of CPPD but not acute gout."
-    },
+
     {
         "question": "A 67-year-old man with a history of diabetes mellitus has been experiencing joint pain for the past few years. He describes pain, mainly in the small joints of his hands, associated with morning stiffness. Analysis of synovial fluid aspirated from an affected joint reveals crystals that are blue when parallel to the projection of polarized light. What is the most likely diagnosis?",
         "choices": [
@@ -1323,7 +1268,9 @@
         "explanation": "In IV drug users with staphylococcal infections, contiguous spread often leads to vertebral osteomyelitis with involvement of adjacent vertebrae. Posterior spinal artery supplies 2 vertebrae."
     },
     {
-        "question": "A 41-year-old former NFL linebacker comes to an orthopaedic surgeon because of a draining wound in the region of his distal left tibia for a week. He suffered a career-ending fracture there three years ago which required surgery for re-alignment of the bone edges. He has had chronic pain and swelling in the region of the surgical incision, but no fever, chills, or sweats. On exam, the area is red swollen and draining purulent material through a fistulous tract. His CBC reveals a mild normochromic, normocytic anemia. An x-ray shows a bone fragment in a lucent defect in the tibia. The bone fragment is known as which of the following?",
+        "question": "A 41-year-old former NFL linebacker comes to an orthopaedic surgeon because of a draining wound in the region of his distal left tibia for a week. He suffered a career-ending fracture there three years ago which required surgery for re-alignment of the bone edges. He has had chronic pain and swelling in the region of the surgical incision, but no fever, chills, or sweats. On exam, the area is red swollen and draining purulent material through a fistulous tract. His CBC reveals a mild normochromic, normocytic anemia. An x-ray shows a bone fragment in a lucent defect in the tibia.
+
+The bone fragment is known as which of the following?",
         "choices": [
             "Arcanum",
             "Involucrum",
@@ -1429,5 +1376,82 @@
     ],
     "correctAnswer": 1,
     "explanation": "The correct answer is (B). In chronic osteomyelitis, especially in cases with evidence of an involucrum, it is essential to debride necrotic bone, perform cultures to guide antibiotic therapy, and provide long-term antibiotic treatment based on culture results. This approach ensures thorough removal of infected tissue and proper targeting of causative organisms, which is critical for managing chronic infections. In general, all dead bone must be removed to cure chronic osteomyelitis."
-}
+},
+{
+        "question": "A 45-year-old woman presents with a painful lump at the DIP joint of her index finger. She reports that it occasionally drains a clear, thick fluid. Physical examination reveals a mucous-filled cyst overlying the DIP joint. Which of the following is the most appropriate initial management?",
+        "choices": [
+            "Observation",
+            "Aspiration of the cyst",
+            "Surgical excision",
+            "Debridement of osteophytes"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Observation is appropriate for mucous cysts, as they may not cause significant issues other than cosmetic concerns. Aspiration or surgery can be considered if the cyst is painful or recurrent."
+    },
+    {
+        "question": "A 30-year-old carpenter complains of pain and triggering when trying to flex his right ring finger. Physical examination reveals tenderness at the A1 pulley. What is the best initial treatment?",
+        "choices": [
+            "NSAIDs and rest",
+            "Steroid injection",
+            "A1 pulley release surgery",
+            "Splinting"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Steroid injections are the first line of treatment for trigger finger, as they reduce inflammation and improve symptoms in most cases."
+    },
+ {
+        "question": "A patient with septic arthritis in his right knee comes into the clinic. He has had the same partner for over 10 years. He has recently had blood in his stool as well. What would the culture of his knee show?",
+        "choices": [
+            "S. Aureus",
+            "Neisseria gonorrhoeae",
+            "S. Gallolyticus",
+            "E. Coli"
+        ],
+        "correctAnswer": 2,
+        "explanation": "S. Gallolyticus (S. Bovis) has an association with colon cancer."
+    },
+ {
+        "question": "Aspirin is a drug commonly used for the primary prevention of cardiovascular disease in patients with elevated risk factors (e.g. advanced age, diabetes, smoking, high blood pressure, and/or coronary artery disease). While aspirin has been found to be effective in reducing cardiovascular risk in such patients, it has also been found that other drugs can significantly interfere with aspirin's beneficial effects if taken concomitantly. An example of the type of drug to be avoided in such patients is:",
+        "choices": [
+            "Ibuprofen",
+            "Prednisone",
+            "Methotrexate",
+            "Colchine"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ibuprofen and other "reversible" NSAIDs compete for the same binding site on COX-1 & COX-2 that aspirin interacts with. These non-aspirin NSAIDS bind reversibly to COX, have "relatively" short half lives, and produce relatively weak antiplatelet effects. When both aspirin and ibuprofen (or naproxen) are taken together, the occupancy of the COX active site by ibuprofen (or naproxen) prevents aspirin from binding irreversibly before aspirin is eliminated. This reduces the impact of aspirin therapy on platelet aggregation. Hence the use of other over-the-counter (OTC) NSAIDs should be avoided in patients taking daily aspirin for cardioprotection."
+    },
+{
+        "question": "Your ten year old son is running a fever of 101oF after developing a cold. To help him feel better you go to the local pharmacy to purchase a fever-lowering medication. However, as a good parent you recall that there are warnings about the risk of drug-induced Reye's syndrome in children given the wrong type of NSAID. Which NSAID is associated with this potentially serious condition?",
+        "choices": [
+            "Aspirin",
+            "Acetomenophin",
+            "Celecoxib",
+            "Montelukast"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The initial classic features of Reye's syndrome include the development of a rash, vomiting, and signs of liver damage. It can eventually result in severe brain injury and death. The exact cause is unknown, but appears to involve mitochondrial damage (at least in the liver). It most commonly occurs in patients younger than 19 years old who take aspirin while suffering from a viral disease. It is extremely rare in adults. Other antipyretics such as acetaminophen or ibuprofen are recommended for fever reduction in children & adolescents.."
+    },
+{
+        "question": "Highly selective COX-2 inhibitors are anti-inflammatory drugs with fewer GI side effects compared to traditional non-selective COX inhibitors, such as aspirin. What other effect do COX-2 inhibitors lack, in contrast to aspirin?",
+        "choices": [
+            "Anagelsic",
+            "Anti-inflammatory",
+            "Antipyretic",
+            "Antiplatelet"
+        ],
+        "correctAnswer": 3,
+        "explanation": "COX-2 selective drugs do not alter COX-1 mediated platelet biosynthesis of thromboxane, but suppress COX-2 mediated production of prostacyclin by the blood vessel wall. The change in balance of production of thromboxane (which promotes platelet aggregation & vasoconstriction) vs prostacyclin (which inhibits platelet aggregation & induces vasodilation) can increase the risk for vascular events such as stroke and myocardial infarction in patients taking COX-2 inhibitors."
+    },
+{
+        "question": "Highly selective COX-2 inhibitors are anti-inflammatory drugs with fewer GI side effects compared to traditional non-selective COX inhibitors, such as aspirin. What other effect do COX-2 inhibitors lack, in contrast to aspirin?",
+        "choices": [
+            "Anagelsic",
+            "Anti-inflammatory",
+            "Antipyretic",
+            "Antiplatelet"
+        ],
+        "correctAnswer": 3,
+        "explanation": "COX-2 selective drugs do not alter COX-1 mediated platelet biosynthesis of thromboxane, but suppress COX-2 mediated production of prostacyclin by the blood vessel wall. The change in balance of production of thromboxane (which promotes platelet aggregation & vasoconstriction) vs prostacyclin (which inhibits platelet aggregation & induces vasodilation) can increase the risk for vascular events such as stroke and myocardial infarction in patients taking COX-2 inhibitors."
+    }
 ]
