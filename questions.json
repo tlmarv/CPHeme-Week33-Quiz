@@ -1,1455 +1,1786 @@
 [
    {
-    "question": "A patient presents with pain over the lateral epicondyle of the humerus after repeated racquet sports. Which muscle is most likely involved in this injury?",
+    "question": "Which parameter measured in a Complete Blood Count (CBC) provides information about the average size of red blood cells?",
     "choices": [
-        "Flexor carpi ulnaris",
-        "Brachioradialis",
-        "Extensor carpi radialis brevis",
-        "Pronator teres"
+        "Hemoglobin",
+        "Hematocrit",
+        "Mean Corpuscular Volume (MCV)",
+        "White Blood Cell (WBC) count"
     ],
     "correctAnswer": 2,
-    "explanation": "The extensor carpi radialis brevis is commonly involved in lateral epicondylitis, also known as tennis elbow."
+    "explanation": "The Mean Corpuscular Volume (MCV) measures the average size of red blood cells and is used to classify anemias as microcytic, normocytic, or macrocytic."
 },
 {
-    "question": "A 32-year-old rock climber presents with wrist drop following a humeral shaft fracture. Which structure was most likely damaged?",
+    "question": "A 28-year-old woman presents with fatigue and shortness of breath. A Complete Blood Count (CBC) reveals a hemoglobin level of 8.5 g/dL and a Mean Corpuscular Volume (MCV) of 68 fL. Peripheral blood smear shows red blood cells of varying sizes. Which term best describes this variation in size?",
     "choices": [
-        "Radial nerve",
-        "Median nerve",
-        "Ulnar nerve",
-        "Musculocutaneous nerve"
+        "Microcytosis",
+        "Spherocytosis",
+        "Anisocytosis",
+        "Reticulocytosis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Anisocytosis refers to the presence of red blood cells of varying sizes, a finding often seen in microcytic or macrocytic anemias."
+},
+{
+    "question": "A 45-year-old woman presents with pallor and fatigue. Laboratory studies reveal a hemoglobin level of 7.2 g/dL, and a reticulocyte count is markedly elevated. Which of the following is the most likely explanation for the reticulocytosis?",
+    "choices": [
+        "Bone marrow suppression",
+        "Acute blood loss",
+        "Chronic kidney disease",
+        "Iron deficiency anemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reticulocytosis indicates an increased production of immature red blood cells by the bone marrow, which can commonly occur in response to acute blood loss or hemolysis."
+},
+{
+    "question": "A 30-year-old man presents with fever and fatigue. A Complete Blood Count (CBC) reveals a leukocytosis with 15% band forms. What is the most likely underlying condition?",
+    "choices": [
+        "Allergic reaction",
+        "Acute bacterial infection",
+        "Chronic myeloid leukemia",
+        "Viral infection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The presence of band forms, which are immature neutrophils, is typically associated with an acute bacterial infection, as the bone marrow releases immature cells to meet the increased demand for neutrophils. They are indicative of stress and are referred to as a left shift on the differential cell count."
+},
+{
+    "question": "A 25-year-old woman presents with nasal congestion, sneezing, and itchy eyes during spring. A peripheral blood smear reveals an elevated eosinophil count. Which of the following conditions is most likely associated with this finding?",
+    "choices": [
+        "Acute bacterial infection",
+        "Seasonal allergic rhinitis",
+        "Chronic lymphocytic leukemia",
+        "Iron deficiency anemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Eosinophilia is commonly associated with allergic conditions such as seasonal allergic rhinitis, as eosinophils play a role in hypersensitivity reactions and parasitic infections."
+},
+{
+    "question": "A peripheral blood smear is examined, and a number of small, pale, disc-shaped cells with a granular appearance are observed. What is the most likely identity of these cells?",
+    "choices": [
+        "Lymphocytes",
+        "Platelets",
+        "Eosinophils",
+        "Monocytes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Platelets, also known as thrombocytes, are small, disc-shaped cell fragments that lack a nucleus and contain a core of blue granules. They play a key role in hemostasis and the clotting process."
+},
+{
+    "question": "A 40-year-old man presents with jaundice and dark urine. Laboratory tests show elevated levels of bilirubin. Which of the following is the primary function of heme in red blood cells?",
+    "choices": [
+        "Oxygen transport",
+        "Protein synthesis",
+        "Carbon dioxide elimination",
+        "Iron storage"
     ],
     "correctAnswer": 0,
-    "explanation": "The radial nerve, which runs along the humeral shaft, is often injured in fractures of the humeral shaft, leading to wrist drop."
+    "explanation": "Heme is the iron-containing component of hemoglobin, which is responsible for oxygen transport in red blood cells. The breakdown of heme leads to the production of bilirubin, which is excreted in bile."
 },
 {
-    "question": "During an assessment, a patient cannot extend their wrist and fingers. Which nerve injury would result in this clinical presentation?",
+    "question": "A 28-year-old woman presents with microcytic anemia. Laboratory studies show low levels of heme, but normal iron levels. Which of the following enzymes is most likely deficient in this patient, leading to impaired heme synthesis?",
     "choices": [
-        "Ulnar nerve at the elbow",
-        "Median nerve at the wrist",
-        "Radial nerve in the axilla",
-        "Axillary nerve at the shoulder"
+        "Porphobilinogen deaminase",
+        "Aminolevulinic acid synthase",
+        "Ferrochelatase",
+        "Uroporphyrinogen decarboxylase"
     ],
-    "correctAnswer": 2,
-    "explanation": "Radial nerve injury in the axilla can lead to an inability to extend the wrist and fingers, resulting in wrist drop."
+    "correctAnswer": 1,
+    "explanation": "Aminolevulinic acid synthase (ALAS) is the first and rate-limiting enzyme in heme synthesis. Deficiency in ALAS can lead to impaired heme production, often resulting in conditions like sideroblastic anemia."
 },
 {
-    "question": "A 40-year-old carpenter reports difficulty extending his thumb after a deep cut to his forearm. Which nerve is most likely damaged?",
+    "question": "A 22-year-old woman with a history of heavy menstrual bleeding presents with fatigue and pallor. Bone marrow examination reveals increased erythroid precursors. What is the primary mechanism that regulates heme synthesis in the bone marrow during erythropoiesis?",
     "choices": [
-        "Radial nerve",
-        "Median nerve",
-        "Ulnar nerve",
-        "Musculocutaneous nerve"
+        "Increased erythropoietin stimulates ALAS2 activity",
+        "Decreased iron stores inhibit the activity of porphobilinogen deaminase",
+        "Increased heme levels suppress ALAS2 transcription",
+        "Bilirubin accumulation stimulates the synthesis of ferrochelatase"
     ],
     "correctAnswer": 0,
-    "explanation": "The radial nerve innervates the extensors of the forearm, including those that extend the thumb."
+    "explanation": "In the bone marrow, heme synthesis is primarily regulated by erythropoietin (EPO), which stimulates the activity of ALAS2, the rate-limiting enzyme in heme biosynthesis, during erythropoiesis."
 },
 {
-    "question": "Which nerve injury is associated with loss of sensation over the dorsolateral hand, including the area between the thumb and index finger?",
+    "question": "A 35-year-old woman presents with photosensitivity, blistering, and skin lesions after sun exposure. Laboratory tests reveal elevated uroporphyrin levels in her urine. Which of the following conditions is most likely responsible for her symptoms?",
     "choices": [
-        "Median nerve",
-        "Ulnar nerve",
-        "Musculocutaneous nerve",
-        "Radial nerve (superficial branch)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The superficial branch of the radial nerve provides sensation to the dorsolateral aspect of the hand."
-},
-{
-    "question": "A patient has difficulty extending their wrist and fingers after compression of a nerve in the axilla. What additional symptom would you expect?",
-    "choices": [
-        "Sensory loss over the medial forearm",
-        "Weakness in forearm supination",
-        "Weakness in elbow flexion",
-        "Weakness in shoulder abduction"
+        "Acute intermittent porphyria",
+        "Porphyria cutanea tarda",
+        "Erythropoietic protoporphyria",
+        "Iron deficiency anemia"
     ],
     "correctAnswer": 1,
-    "explanation": "The radial nerve also contributes to forearm supination via the supinator muscle."
+    "explanation": "Porphyria cutanea tarda is caused by a deficiency of uroporphyrinogen decarboxylase, leading to the accumulation of uroporphyrin in the liver and skin. Uroporphyrin is a benign molecule until it is oxidized by visible light. Once oxidized, it generates oxygen radicals which can damage cellular components. It typically presents with photosensitivity, blistering, and skin lesions."
 },
 {
-    "question": "A 28-year-old presents with pain in the posterior forearm and weakened extension of the index finger after repetitive activities. Which muscle is likely affected?",
+    "question": "A 30-year-old man presents with painful, red, and swollen hands after sun exposure. Laboratory studies reveal elevated protoporphyrin levels in his erythrocytes. Which of the following conditions is most likely responsible for his symptoms?",
     "choices": [
-        "Extensor pollicis longus",
-        "Extensor indicis",
-        "Extensor carpi radialis brevis",
-        "Extensor digiti minimi"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The extensor indicis is responsible for extending the index finger and may be affected in cases of repetitive strain."
-},
-{
-    "question": "After a deep cut over the posterior forearm, a patient has lost the ability to abduct their thumb. Which nerve is likely injured?",
-    "choices": [
-        "Ulnar nerve",
-        "Median nerve",
-        "Radial nerve (posterior interosseous branch)",
-        "Musculocutaneous nerve"
+        "Acute intermittent porphyria",
+        "Porphyria cutanea tarda",
+        "Erythropoietic protoporphyria",
+        "Lead poisoning"
     ],
     "correctAnswer": 2,
-    "explanation": "The posterior interosseous branch of the radial nerve innervates the muscles that control thumb abduction and extension."
+    "explanation": "Erythropoietic protoporphyria is caused by a deficiency in ferrochelatase, leading to the accumulation of protoporphyrin in erythrocytes. This condition presents with painful, non-blistering photosensitivity, typically affecting the hands, and may worsen with sun exposure. EPP can result in reduced liver function and gallstones. "
 },
 {
-    "question": "A patient with 'tennis elbow' presents with pain at the lateral epicondyle. Which type of repetitive movement likely contributed to this injury?",
+    "question": "A 40-year-old man with a history of acute intermittent porphyria presents with severe abdominal pain, nausea, and confusion. Which of the following is the most appropriate initial treatment to alleviate his symptoms?",
     "choices": [
-        "Wrist extension",
-        "Wrist flexion",
-        "Elbow extension",
-        "Forearm pronation"
+        "Administration of hemin to inhibit the porphyrin biosynthetic pathway",
+        "Administration of intravenous iron to replenish hemoglobin levels",
+        "Administration of glucose to inhibit the synthesis of porphyrins",
+        "Administration of corticosteroids to reduce inflammation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The treatment of acute intermittent porphyria includes the administration of glucose, which inhibits the induction of porphyrin synthesis in the liver by inactivating PGC-1a and inhibiting ALAS1. Hemin may also be used in severe cases to suppress the production of porphyrins and alleviate symptoms."
+},
+{
+    "question": "A 28-year-old woman with porphyria cutanea tarda presents with significant photosensitivity and frequent blistering on sun exposure. She has failed to improve with conventional treatments. Which of the following medications is most appropriate to help manage her photosensitivity?",
+    "choices": [
+        "Scenesse (afamelanotide)",
+        "Hemin",
+        "Chloroquine",
+        "Corticosteroids"
     ],
     "correctAnswer": 0,
-    "explanation": "Lateral epicondylitis, or tennis elbow, often results from repetitive wrist extension movements."
+    "explanation": "Scenesse (afamelanotide) is a synthetic melanocortin-1 receptor agonist that helps increase melanin production in the skin, thereby providing photoprotection in patients with photosensitive porphyrias like porphyria cutanea tarda. Lumitene (beta-carotene) is another drug that provides photoprotection through yellowing (carotenemia) of skin."
 },
 {
-    "question": "Which artery primarily supplies blood to the posterior compartment of the forearm?",
+    "question": "A 45-year-old woman presents with fatigue, shortness of breath, and frequent headaches. On physical examination, she has pale conjunctiva and spoon-shaped nails (koilonychia). Laboratory studies reveal low hemoglobin, low hematocrit, and a decreased mean corpuscular volume (MCV). Which of the following is the most likely diagnosis?",
     "choices": [
-        "Ulnar artery",
-        "Radial artery",
-        "Anterior interosseous artery",
-        "Posterior interosseous artery"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The posterior interosseous artery is the primary blood supply for the extensor (posterior) compartment of the forearm."
-},
-{
-    "question": "Which structure is found in the anatomical snuffbox?",
-    "choices": [
-        "Ulnar artery",
-        "Cephalic vein",
-        "Radial artery",
-        "Anterior interosseous artery"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The radial artery passes through the anatomical snuffbox and is palpable here."
-},
-{
-    "question": "Which muscle is responsible for extending the thumb at the interphalangeal joint?",
-    "choices": [
-        "Extensor pollicis longus",
-        "Extensor pollicis brevis",
-        "Abductor pollicis longus",
-        "Flexor pollicis longus"
+        "Iron deficiency anemia",
+        "Vitamin B12 deficiency anemia",
+        "Sickle cell anemia",
+        "Thalassemia"
     ],
     "correctAnswer": 0,
-    "explanation": "The extensor pollicis longus extends the thumb at the interphalangeal joint. The extensor pollicis brevis extends the thumb at metacarpophalangeal joint."
+    "explanation": "Iron deficiency anemia is characterized by symptoms such as fatigue, pallor, and shortness of breath. Physical findings like koilonychia and microcytic hypochromic red blood cells on lab studies are classic features of this condition."
 },
 {
-    "question": "Which nerve innervates the skin on the dorsum of the hand, lateral to the 4th digit?",
+    "question": "A 60-year-old man presents with fatigue and dizziness. He has a history of gastroesophageal reflux disease (GERD) and has been taking omeprazole (Prilosec) daily for the past year. Laboratory tests reveal low hemoglobin, low ferritin, and microcytic red blood cells. How does omeprazole use contribute to this patient’s condition?",
     "choices": [
-        "Ulnar nerve",
-        "Radial nerve (superficial branch)",
-        "Median nerve",
-        "Lateral cutaneous nerve of the forearm"
+        "By increasing gastric acid secretion, leading to iron malabsorption",
+        "By decreasing gastric acid secretion, impairing iron absorption",
+        "By binding to iron directly and preventing its absorption",
+        "By interfering with erythropoietin production in the kidneys"
     ],
     "correctAnswer": 1,
-    "explanation": "The radial nerve’s superficial branch supplies sensation to the dorsolateral aspect of the hand."
+    "explanation": "Omeprazole, a proton pump inhibitor, decreases gastric acid secretion, which is necessary for the reduction of dietary ferric iron (Fe³⁺) to its absorbable ferrous form (Fe²⁺). This can impair iron absorption and lead to iron deficiency anemia over time."
 },
 {
-    "question": "Which clinical condition is commonly known as 'tennis elbow'?",
+    "question": "A 65-year-old man with a history of rheumatoid arthritis presents with fatigue and pallor. Laboratory studies reveal hemoglobin of 10 g/dL (normal: 13.5–17.5 g/dL), decreased serum iron, normal-to-elevated ferritin, and decreased total iron-binding capacity (TIBC). Which of the following best explains the underlying mechanism of this patient’s anemia?",
     "choices": [
-        "Medial epicondylitis",
-        "Lateral epicondylitis",
-        "Golfer’s elbow",
-        "Carpal tunnel syndrome"
+        "Chronic blood loss leading to depletion of iron stores",
+        "Impaired iron utilization due to increased hepcidin levels",
+        "Decreased erythropoietin production in the kidneys",
+        "Defective hemoglobin synthesis due to vitamin B12 deficiency"
     ],
     "correctAnswer": 1,
-    "explanation": "Lateral epicondylitis is the clinical term for tennis elbow, affecting the tendons attached to the lateral epicondyle."
+    "explanation": "Anemia of chronic inflammation is caused by elevated levels of hepcidin, a liver-derived hormone that inhibits iron release from macrophages and decreases intestinal iron absorption. This leads to impaired iron utilization despite adequate or elevated ferritin levels, resulting in a normocytic or slightly microcytic anemia."
 },
 {
-    "question": "A 35-year-old construction worker presents with an inability to extend his wrist after a recent humeral shaft fracture. Physical examination reveals wrist drop. Which nerve is most likely injured?",
+    "question": "A 45-year-old man presents with fatigue, irritability, and abdominal pain. Physical examination reveals bluish-black discoloration of the gingival margin (Burton's sign). Laboratory studies show a microcytic anemia, elevated serum iron, and ringed sideroblasts on bone marrow biopsy. Which of the following is the most likely cause of this patient’s anemia?",
     "choices": [
-        "Ulnar nerve",
-        "Radial nerve",
-        "Median nerve",
-        "Musculocutaneous nerve"
+        "Iron deficiency anemia",
+        "Lead poisoning",
+        "Vitamin B6 deficiency",
+        "Thalassemia"
     ],
     "correctAnswer": 1,
-    "explanation": "Injury to the radial nerve along the humeral shaft can result in wrist drop due to paralysis of the wrist extensors. The radial nerve runs in the radial groove on the posterior aspect of the humerus, making it vulnerable in fractures."
+    "explanation": "Sideroblastic anemia is characterized by defective heme synthesis, often due to lead poisoning, which inhibits enzymes like delta-aminolevulinic acid dehydratase and ferrochelatase. Burton's sign is a classic finding in lead poisoning, and ringed sideroblasts on bone marrow biopsy are a hallmark of sideroblastic anemia."
 },
 {
-    "question": "A patient presents with numbness over the dorsolateral hand and weakness in thumb extension following compression of a nerve in the forearm. Which branch of the radial nerve is most likely affected?",
+    "question": "A 48-year-old man presents with fatigue, glossitis, and tingling in his hands and feet. Laboratory studies reveal hemoglobin of 8.5 g/dL, mean corpuscular volume (MCV) of 112 fL, and hypersegmented neutrophils on a peripheral blood smear. A urine methylmalonate test is ordered and shows elevated levels. Which of the following is the most likely cause of his anemia?",
     "choices": [
-        "Superficial branch of the radial nerve",
-        "Deep branch of the radial nerve",
-        "Posterior interosseous nerve",
-        "Lateral cutaneous nerve of the forearm"
+        "Vitamin B12 deficiency",
+        "Folate deficiency",
+        "Iron deficiency anemia",
+        "Thalassemia"
     ],
-    "correctAnswer": 2,
-    "explanation": "Compression of the posterior interosseous nerve, a branch of the radial nerve, can lead to weakness in thumb extension and numbness in the dorsolateral hand."
+    "correctAnswer": 0,
+    "explanation": "Both vitamin B12 and folate deficiencies can cause macrocytic anemia with hypersegmented neutrophils. However, elevated methylmalonic acid (MMA) levels are specific to vitamin B12 deficiency, as MMA metabolism requires vitamin B12."
 },
 {
-    "question": "Following a fall on an outstretched hand, a patient complains of tenderness in the anatomical snuffbox. Which bone is most likely fractured, and what is the clinical significance if left untreated?",
+    "question": "A 60-year-old woman presents with fatigue, pallor, difficulty walking, and a lemon yellow complexion. On neurological examination, she has a loss of proprioception and vibration sense in both lower extremities. Laboratory studies reveal elevated mean corpuscular volume (MCV), and hypersegmented neutrophils. A Schilling test is positive, indicating impaired vitamin B12 absorption. Which of the following is the most likely underlying cause of her vitamin B12 deficiency?",
     "choices": [
-        "Trapezium; chronic pain",
-        "Lunate; carpal instability",
-        "Capitate; avascular necrosis",
-        "Scaphoid; avascular necrosis"
-    ],
-    "correctAnswer": 3,
-    "explanation": "A fall on an outstretched hand often results in a scaphoid fracture. The scaphoid has a retrograde blood supply, making the proximal fragment vulnerable to avascular necrosis if left untreated."
-},
-{
-    "question": "A tennis player presents with pain and tenderness over the lateral epicondyle of the humerus, worsened by wrist extension against resistance. What condition is most likely, and which muscle is primarily affected?",
-    "choices": [
-        "Medial epicondylitis; pronator teres",
-        "Lateral epicondylitis; extensor carpi radialis brevis",
-        "Golfer’s elbow; extensor digitorum",
-        "Radial tunnel syndrome; extensor pollicis brevis"
+        "Folate deficiency",
+        "Pernicious anemia",
+        "Chronic alcoholism",
+        "Gastrectomy"
     ],
     "correctAnswer": 1,
-    "explanation": "Lateral epicondylitis, or tennis elbow, commonly involves the extensor carpi radialis brevis, which attaches to the lateral epicondyle and is strained by repetitive wrist extension."
+    "explanation": "Pernicious anemia is an autoimmune condition in which antibodies are directed against intrinsic factor or parietal cells, leading to impaired vitamin B12 absorption in the ileum. This results in macrocytic anemia, and a positive Schilling test helps confirm impaired B12 absorption."
 },
-{
-    "question": "A 37-year-old woman comes to your office describing pain over her lateral elbow. You can reproduce the pain by having her extend her hand against resistance. What muscles are most likely involved?",
-    "choices": [
-        "The biceps brachii (short head)",
-        "The extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris",
-        "The opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis",
-        "The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is the extensor carpi radialis brevis, extensor digitorum, extensor digiti minimi, and extensor carpi ulnaris (B). These are the extensor muscles of the posterior forearm that originate from the lateral epicondyle or common extensor origin. Overuse of the extensors stresses extensor tendons, leading to pain over the lateral condyle, or tennis elbow. The biceps brachii (short head) (A) is a forearm flexor, not extensor. The opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis (C) originate from the flexor retinaculum and act on the thumb. The pronator teres, flexor carpi radialis, palmaris longus, and flexor carpi ulnaris (D) are flexors that may be injured by flexor overuse (golfer elbow), producing pain over the medial epicondyle with flexion."
-},
-{
-    "question": "A 20-year-old woman is brought to the emergency department after cutting her wrists in a suicide attempt. Physical examination reveals several superficial lacerations on the medial side of the ventral left wrist. She has some sensory loss over the left fifth digit. Surgical exploration of the wounds reveals a nerve injury. The function of which of the following muscles is most likely affected by this patient's nerve injury?",
-    "choices": [
-        "Abductor pollicis brevis",
-        "Adductor pollicis",
-        "Extensor pollicis brevis",
-        "Lumbricals (1 and 2)",
-        "Opponens pollicis"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is adductor pollicis. Lacerations on the medial side of the ventral wrist can affect the ulnar nerve, which provides sensory innervation to the fifth digit and motor innervation to muscles including the adductor pollicis. The abductor pollicis brevis, opponens pollicis, and lumbricals 1 and 2 are innervated by the median nerve, while extensor pollicis brevis is innervated by the radial nerve."
-},
-{
-    "question": "A 19-year-old man comes to your office concerned that he cannot lift his hand. On physical exam, his wrist extensor strength is 1/5, and there is impaired sensation over the back of the hand. He sheepishly admits that he may have fallen asleep with his arm over a chair while at a party last night. Which of the following nerves is most likely injured?",
-    "choices": [
-        "Axillary nerve",
-        "C5 spinal nerve",
-        "Median nerve",
-        "Radial nerve",
-        "Upper trunk of brachial plexus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is radial nerve. Compression of the radial nerve at the radial groove can occur in individuals who fall asleep with their arm over a chair, leading to wrist drop and loss of sensation over the back of the hand."
-},
-{
-    "question": "A 30-year-old man comes to the clinic because of right-sided neck pain and tingling that radiates down to the middle finger of his right hand. He sustained a neck injury during a skiing accident 1 year ago. Neurologic examination reveals weakness of the right triceps and an absent right triceps reflex. Which of the following is the most likely cause of his symptoms?",
-    "choices": [
-        "Right C4–C5 disc herniation",
-        "Right C5–C6 disc herniation",
-        "Right C6–C7 disc herniation",
-        "Right axillary nerve compression",
-        "Right radial nerve compression",
-        "Right ulnar nerve compression"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The correct answer is right C6–C7 disc herniation. Weakness in the triceps and an absent triceps reflex suggest a C7 radiculopathy, which can be caused by a disc herniation at the C6–C7 level."
-},
-{
-    "question": "A 19-year-old man comes to the emergency department with a severely dislocated left elbow after a snowboarding accident. He is sedated and undergoes manual reduction for dislocation. Two weeks later, he reports difficulty making a fist with his left hand. Physical examination reveals difficulty flexing the metacarpophalangeal joints of the second and third digits of the left hand. Sensation is intact on the dorsal hand but is lost over the palmar aspect of the first three digits. Which of the following nerves has most likely been injured in this patient?",
-    "choices": [
-        "Axillary nerve",
-        "Median nerve",
-        "Musculocutaneous nerve",
-        "Radial nerve",
-        "Ulnar nerve"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is the median nerve. Injury to the median nerve leads to difficulty flexing the metacarpophalangeal joints of the second and third digits and loss of sensation over the palmar aspect of the first three digits, while sensation on the dorsal side remains intact."
-},
-{
-    "question": "A 10-year-old boy is brought to the pediatrician because of a 4-day history of fever, fatigue, and right shoulder pain. His temperature is 38.6°C (101.5°F). On physical examination, he has right shoulder tenderness, worse at the right axillary region, and painful and weak abduction. On palpation, a swollen mass in the axillary region is noted. He also has wrist-extension weakness and triceps hyporeflexia in the same limb. Sensory examination reveals absent sensation to light touch over the right shoulder and lateral and posterior arm. Imaging identifies an abscess in the right axillary region. The most likely diagnosis is an abscess. Which of the following structures is most likely being compressed by the abscess?",
-    "choices": [
-        "Axillary nerve",
-        "Lateral cord of the brachial plexus",
-        "Medial cord of the brachial plexus",
-        "Posterior cord of brachial plexus",
-        "Radial nerve"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is the posterior cord of the brachial plexus. The posterior cord of the brachial plexus gives rise to the axillary and radial nerves. An injury to this structure will manifest as an inability to perform shoulder abduction and wrist extension in the affected arm."
-},
-{
-        "question": "Which eicosanoid plays a key role in fever by acting on the hypothalamus?",
+     {
+        "question": "A 45-year-old woman presents with fatigue and pallor. CBC shows hemoglobin of 9 g/dL, MCV of 72 fL, and an increased RDW. Peripheral blood smear reveals microcytic, hypochromic red blood cells. What is the most likely diagnosis?",
         "choices": [
-            "Leukotriene B4",
-            "Prostaglandin E2",
-            "Thromboxane A2",
-            "Prostacyclin"
+            "Iron-deficiency anemia",
+            "Thalassemia",
+            "Anemia of chronic disease",
+            "Vitamin B12 deficiency"
         ],
-        "correctAnswer": 1,
-        "explanation": "Prostaglandin E2 (PGE2) mediates fever by acting on the hypothalamus, increasing body temperature."
+        "correctAnswer": 0,
+        "explanation": "Microcytic, hypochromic anemia with increased RDW is most consistent with iron-deficiency anemia."
     },
     {
-        "question": "A 55-year-old patient with arthritis is advised to avoid NSAIDs due to potential kidney damage. Which medication would be safer?",
+        "question": "A 10-year-old male is brought to the ER with a history of recurrent infections. CBC reveals a WBC count of 15,000/mm³ with 80% neutrophils. Peripheral smear shows toxic granulations and Döhle bodies in neutrophils. What is the most likely cause?",
         "choices": [
-            "Ibuprofen",
-            "Acetaminophen",
-            "Celecoxib",
+            "Acute bacterial infection",
+            "Viral infection",
+            "Allergic reaction",
+            "Chronic lymphocytic leukemia"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Toxic granulations and Döhle bodies are seen in neutrophils during acute bacterial infections."
+    },
+    {
+        "question": "A patient’s CBC shows a WBC count of 4,000/mm³, 80% lymphocytes, and no immature forms. This finding is most consistent with which of the following?",
+        "choices": [
+            "Viral infection",
+            "Acute leukemia",
+            "Chronic myelogenous leukemia",
+            "Parasitic infection"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Lymphocytosis without immature forms is typically seen in viral infections."
+    },
+    {
+        "question": "A 67-year-old man presents with splenomegaly and fatigue. CBC reveals hemoglobin of 10 g/dL, MCV of 90 fL, and WBC of 120,000/mm³ with 60% lymphocytes. Which diagnostic test would confirm chronic lymphocytic leukemia?",
+        "choices": [
+            "Flow cytometry for CD markers",
+            "Peripheral smear for schistocytes",
+            "Bone marrow biopsy for hyperplasia",
+            "Cytogenetic analysis for Philadelphia chromosome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Flow cytometry identifying specific CD markers confirms the diagnosis of chronic lymphocytic leukemia."
+    },
+    {
+        "question": "A peripheral smear shows sickle-shaped red blood cells. What molecular abnormality is associated with this finding?",
+        "choices": [
+            "Substitution of glutamic acid with valine in β-globin",
+            "Deletion of α-globin genes",
+            "Iron deposition in red blood cells",
+            "Point mutation in spectrin gene"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Sickle cell disease is caused by a substitution of glutamic acid with valine in the β-globin chain of hemoglobin."
+    },
+    {
+        "question": "A patient presents with jaundice and a history of hereditary spherocytosis. What is the most likely mechanism leading to this condition?",
+        "choices": [
+            "Defect in spectrin protein",
+            "Mutation in β-globin chain",
+            "Autoimmune destruction of red blood cells",
+            "Hemoglobin polymerization under hypoxia"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hereditary spherocytosis is caused by a defect in spectrin or other cytoskeletal proteins, leading to spherical red cells with increased fragility."
+    },
+    {
+        "question": "A neonate has a high unconjugated bilirubin level and reticulocytosis. Peripheral smear shows nucleated RBCs. What is the likely cause?",
+        "choices": [
+            "Hemolytic disease of the newborn",
+            "Vitamin K deficiency",
+            "Neonatal sepsis",
+            "G6PD deficiency"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hemolytic disease of the newborn due to maternal alloimmunization leads to unconjugated hyperbilirubinemia and reticulocytosis."
+    },
+    {
+        "question": "Which parameter in a CBC provides the most direct measure of the oxygen-carrying capacity of blood?",
+        "choices": [
+            "Hemoglobin",
+            "Hematocrit",
+            "RBC count",
+            "MCV"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hemoglobin directly measures the oxygen-carrying capacity of blood."
+    },
+    {
+        "question": "A patient with a history of chemotherapy presents with fever and chills. CBC shows WBC of 1,200/mm³. Peripheral smear reveals no toxic granulations or immature neutrophils. What is the most likely explanation?",
+        "choices": [
+            "Neutropenia due to bone marrow suppression",
+            "Parasitic infection",
+            "Viral suppression of WBCs",
+            "Left shift due to bacterial sepsis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Chemotherapy-induced bone marrow suppression commonly leads to neutropenia and increased infection risk."
+    },
+    {
+        "question": "Which anticoagulant is used in a purple-top tube for CBC analysis?",
+        "choices": [
+            "EDTA",
+            "Heparin",
+            "Citrate",
+            "Oxalate"
+        ],
+        "correctAnswer": 0,
+        "explanation": "EDTA is the anticoagulant commonly used in purple-top tubes for CBC analysis to chelate calcium and prevent clotting."
+    },
+    {
+        "question": "A 32-year-old woman presents with recurrent abdominal pain, confusion, and tachycardia. Her urine turns reddish-brown after sunlight exposure. What is the most likely diagnosis?",
+        "choices": [
+            "Acute Intermittent Porphyria (AIP)",
+            "Porphyria Cutanea Tarda (PCT)",
+            "Erythropoietic Protoporphyria (EPP)",
+            "Lead Poisoning"
+        ],
+        "correctAnswer": 0,
+        "explanation": "AIP is characterized by abdominal pain, neuropsychiatric symptoms, and reddish-brown urine due to porphobilinogen oxidation in sunlight."
+    },
+    {
+        "question": "A patient with blistering skin lesions, hyperpigmentation, and hypertrichosis has elevated urine uroporphyrins. Which enzyme deficiency is most likely involved?",
+        "choices": [
+            "ALA Synthase",
+            "Uroporphyrinogen Decarboxylase",
+            "Porphobilinogen Deaminase",
+            "Ferrochelatase"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Porphyria Cutanea Tarda (PCT) results from a deficiency in Uroporphyrinogen Decarboxylase, leading to elevated uroporphyrins."
+    },
+    {
+        "question": "A pediatric patient presents with acute photosensitivity but no blistering. Plasma and RBC protoporphyrin levels are elevated. What is the most likely diagnosis?",
+        "choices": [
+            "Acute Intermittent Porphyria (AIP)",
+            "Porphyria Cutanea Tarda (PCT)",
+            "Erythropoietic Protoporphyria (EPP)",
+            "Lead Poisoning"
+        ],
+        "correctAnswer": 2,
+        "explanation": "EPP is characterized by non-blistering photosensitivity, elevated protoporphyrins, and sometimes liver dysfunction."
+    },
+    {
+        "question": "What is the primary treatment for acute attacks of Acute Intermittent Porphyria (AIP)?",
+        "choices": [
+            "Afamelanotide",
+            "Glucose and Hemin",
+            "Beta-Carotene",
+            "Chelation Therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Glucose and hemin downregulate ALA synthase, reducing the buildup of porphyrin precursors in AIP."
+    },
+    {
+        "question": "A 40-year-old man presents with severe abdominal pain and peripheral neuropathy. Lead poisoning is suspected. Which finding supports the diagnosis?",
+        "choices": [
+            "Elevated δ-aminolevulinic acid in urine",
+            "Increased uroporphyrinogen in urine",
+            "Reddish-brown urine",
+            "Excess protoporphyrin in RBCs"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Lead poisoning inhibits enzymes in the heme synthesis pathway, including ALA dehydratase, leading to elevated δ-ALA."
+    },
+    {
+        "question": "Which porphyria is associated with hypertrichosis and photosensitivity in adults?",
+        "choices": [
+            "Acute Intermittent Porphyria (AIP)",
+            "Porphyria Cutanea Tarda (PCT)",
+            "Erythropoietic Protoporphyria (EPP)",
+            "Lead Poisoning"
+        ],
+        "correctAnswer": 1,
+        "explanation": "PCT presents with hypertrichosis, photosensitivity, and blistering skin lesions due to uroporphyrinogen accumulation."
+    },
+    {
+        "question": "A patient with Erythropoietic Protoporphyria (EPP) has protoporphyrin IX accumulation in the liver. Which complication is this patient at risk for?",
+        "choices": [
+            "Gallstones",
+            "Psychosis",
+            "Peripheral Neuropathy",
+            "Anemia"
+        ],
+        "correctAnswer": 0,
+        "explanation": "EPP can lead to gallstones and reduced liver function due to insoluble protoporphyrin IX accumulation."
+    },
+    {
+        "question": "Which treatment is most appropriate for managing non-blistering photosensitivity in Erythropoietic Protoporphyria (EPP)?",
+        "choices": [
+            "Afamelanotide",
+            "Hemin Infusion",
+            "Glucose Infusion",
+            "Chelation Therapy"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Afamelanotide, a melanocortin-1 receptor agonist, increases melanin production, providing protection against photosensitivity in EPP."
+    },
+    {
+        "question": "Heme synthesis begins with the condensation of succinyl-CoA and glycine. Which enzyme catalyzes this rate-limiting step?",
+        "choices": [
+            "ALA Synthase",
+            "ALA Dehydratase",
+            "Porphobilinogen Deaminase",
+            "Ferrochelatase"
+        ],
+        "correctAnswer": 0,
+        "explanation": "ALA synthase catalyzes the condensation of succinyl-CoA and glycine to form δ-aminolevulinic acid (ALA), the first step in heme synthesis."
+    },
+    {
+        "question": "Which of the following regulates ALA synthase in the liver?",
+        "choices": [
+            "Heme",
+            "Iron",
+            "Protoporphyrin IX",
+            "Erythropoietin"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Heme feedback inhibits ALA synthase in the liver, reducing its own synthesis when levels are sufficient."
+    },
+    {
+        "question": "What is the most common clinical presentation of lead poisoning in children?",
+        "choices": [
+            "Developmental delay",
+            "Photosensitivity",
+            "Peripheral neuropathy",
+            "Blistering skin lesions"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Lead poisoning in children commonly presents with developmental delay and behavioral changes due to neurotoxicity."
+    },
+    {
+        "question": "Which of the following enzymes in heme synthesis is most sensitive to inhibition by lead?",
+        "choices": [
+            "ALA Synthase",
+            "ALA Dehydratase",
+            "Porphobilinogen Deaminase",
+            "Ferrochelatase"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lead inhibits ALA dehydratase, leading to accumulation of δ-ALA, a hallmark finding in lead poisoning."
+    },
+    {
+        "question": "A 45-year-old man presents with fatigue and pallor. Laboratory tests reveal a hemoglobin level of 10 g/dL and MCV of 70 fL. Which of the following findings would most likely support a diagnosis of iron deficiency anemia?",
+        "choices": [
+            "Increased serum ferritin",
+            "Elevated total iron-binding capacity (TIBC)",
+            "Decreased red cell distribution width (RDW)",
+            "Elevated reticulocyte count"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Iron deficiency anemia is associated with elevated TIBC, reflecting increased transferrin production due to low iron stores."
+    },
+    {
+        "question": "A 60-year-old woman with long-standing rheumatoid arthritis develops anemia. Labs show a hemoglobin of 10 g/dL, MCV of 85 fL, decreased TIBC, and increased ferritin. What is the most likely cause of her anemia?",
+        "choices": [
+            "Iron deficiency anemia",
+            "Anemia of chronic inflammation",
+            "Sideroblastic anemia",
+            "Folate deficiency"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Anemia of chronic inflammation is characterized by decreased TIBC, normal or increased ferritin, and normocytic or slightly microcytic anemia."
+    },
+    {
+        "question": "A patient with iron deficiency anemia presents with dysphagia and a barium swallow study reveals an esophageal web. What is the most likely diagnosis?",
+        "choices": [
+            "Plummer-Vinson syndrome",
+            "Achalasia",
+            "Zenker's diverticulum",
+            "Esophageal stricture"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Plummer-Vinson syndrome is associated with iron deficiency anemia, dysphagia, and esophageal webs."
+    },
+    {
+        "question": "A 25-year-old vegetarian presents with fatigue and glossitis. Labs reveal hemoglobin 8 g/dL, MCV 110 fL, and hypersegmented neutrophils on peripheral smear. Which additional test is most likely to confirm the diagnosis?",
+        "choices": [
+            "Serum ferritin",
+            "Vitamin B12 level",
+            "Reticulocyte count",
+            "Bone marrow biopsy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Macrocytic anemia with hypersegmented neutrophils suggests a megaloblastic anemia, often caused by vitamin B12 or folate deficiency."
+    },
+    {
+        "question": "A patient with pernicious anemia presents with paresthesias and difficulty walking. What is the most likely pathophysiology underlying these neurological symptoms?",
+        "choices": [
+            "Defective DNA synthesis",
+            "Myelin degeneration due to impaired methylation",
+            "Cytotoxicity of excess homocysteine",
+            "Chronic hypoxia in peripheral nerves"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pernicious anemia leads to myelin degeneration due to impaired methylation caused by vitamin B12 deficiency."
+    },
+    {
+        "question": "A 70-year-old man is found to have a hemoglobin of 9 g/dL and MCV of 72 fL. Peripheral smear shows basophilic stippling. Which of the following conditions is most likely?",
+        "choices": [
+            "Folate deficiency",
+            "Lead poisoning",
+            "Iron deficiency anemia",
+            "Thalassemia minor"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Basophilic stippling is a hallmark of lead poisoning, which interferes with heme synthesis."
+    },
+    {
+        "question": "A 6-year-old boy presents with pallor, fatigue, and dark-colored urine. Labs reveal hemoglobin 6 g/dL, MCV 95 fL, and elevated reticulocyte count. Coombs test is positive. What is the most likely diagnosis?",
+        "choices": [
+            "Hereditary spherocytosis",
+            "Iron deficiency anemia",
+            "Autoimmune hemolytic anemia",
+            "G6PD deficiency"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Positive Coombs test suggests autoimmune hemolytic anemia, associated with extravascular hemolysis and reticulocytosis."
+    },
+    {
+        "question": "A 50-year-old man with chronic alcohol use presents with macrocytic anemia. Labs reveal normal B12 and folate levels. What is the most likely cause of his anemia?",
+        "choices": [
+            "Liver disease",
+            "Iron deficiency anemia",
+            "Folate deficiency",
+            "Myelodysplastic syndrome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Chronic alcohol use can cause macrocytic anemia due to liver dysfunction affecting red cell membrane cholesterol content."
+    },
+    {
+        "question": "A 40-year-old woman is diagnosed with anemia of chronic inflammation. Which cytokine is most directly implicated in its pathogenesis?",
+        "choices": [
+            "Interleukin-1",
+            "Interleukin-6",
+            "Tumor necrosis factor-alpha",
+            "Interferon-gamma"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Interleukin-6 induces hepcidin production, which blocks iron release and contributes to anemia of chronic inflammation."
+    },
+    {
+        "question": "A 28-year-old man with β-thalassemia minor is asymptomatic. Which of the following findings would most likely be present on his blood smear?",
+        "choices": [
+            "Target cells",
+            "Spherocytes",
+            "Basophilic stippling",
+            "Macroovalocytes"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Target cells are commonly seen in β-thalassemia minor due to decreased globin chain synthesis."
+    },
+    {
+        "question": "A 65-year-old woman presents with fatigue and jaundice. Labs show hemoglobin 9 g/dL, MCV 90 fL, and elevated LDH. Peripheral smear reveals schistocytes. What is the most likely diagnosis?",
+        "choices": [
+            "Microangiopathic hemolytic anemia",
+            "Iron deficiency anemia",
+            "Autoimmune hemolytic anemia",
+            "Anemia of chronic inflammation"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Schistocytes suggest microangiopathic hemolytic anemia, often due to mechanical hemolysis in conditions like DIC or TTP."
+    },
+    {
+        "question": "Which of the following findings is most characteristic of sideroblastic anemia?",
+        "choices": [
+            "Ringed sideroblasts in bone marrow",
+            "Hypersegmented neutrophils",
+            "Target cells on peripheral smear",
+            "Elevated ferritin and low TIBC"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Sideroblastic anemia is diagnosed by the presence of ringed sideroblasts, indicative of defective heme synthesis."
+    },
+    {
+        "question": "A 45-year-old woman with a history of gastric bypass surgery presents with fatigue and paresthesias. Labs reveal hemoglobin of 10 g/dL, MCV 112 fL, and a low vitamin B12 level. Which of the following best explains her condition?",
+        "choices": [
+            "Impaired intrinsic factor production",
+            "Reduced stomach acid for B12 absorption",
+            "Increased folate metabolism",
+            "Autoimmune destruction of parietal cells"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gastric bypass surgery reduces the production of stomach acid, impairing the release of vitamin B12 from food, leading to deficiency."
+    },
+    {
+        "question": "A patient presents with microcytic anemia. Labs show low serum iron, low TIBC, and elevated ferritin. What is the most likely underlying cause of the anemia?",
+        "choices": [
+            "Iron deficiency",
+            "Sideroblastic anemia",
+            "Anemia of chronic inflammation",
+            "Thalassemia"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Anemia of chronic inflammation is characterized by low serum iron, low TIBC, and increased ferritin due to iron sequestration by inflammatory cytokines."
+    },
+    {
+        "question": "A 35-year-old man presents with symptoms of anemia and brittle nails. Labs reveal a hemoglobin of 8 g/dL, MCV 70 fL, and elevated RDW. Which of the following is the most likely associated symptom?",
+        "choices": [
+            "Paresthesias",
+            "Dysphagia",
+            "Photosensitivity",
+            "Hypersegmented neutrophils"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dysphagia in association with brittle nails and iron deficiency anemia suggests Plummer-Vinson syndrome, characterized by esophageal webs."
+    },
+    {
+        "question": "A 50-year-old man with chronic alcohol use presents with a hemoglobin of 10 g/dL and MCV of 105 fL. Peripheral smear shows macrocytes and hypersegmented neutrophils. Which of the following is the most likely cause?",
+        "choices": [
+            "Folate deficiency",
+            "Vitamin B12 deficiency",
+            "Liver disease",
+            "Iron deficiency"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Chronic alcohol use can lead to folate deficiency, causing macrocytic anemia with hypersegmented neutrophils on peripheral smear."
+    },
+    {
+        "question": "A 25-year-old man presents with jaundice and fatigue. Labs show hemoglobin 8 g/dL, increased indirect bilirubin, elevated LDH, and low haptoglobin. Which test is most appropriate to evaluate for autoimmune hemolytic anemia?",
+        "choices": [
+            "Osmotic fragility test",
+            "Direct Coombs test",
+            "Reticulocyte count",
+            "Peripheral blood smear"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A direct Coombs test detects antibodies bound to red cells, supporting a diagnosis of autoimmune hemolytic anemia (AIHA)."
+    },
+    {
+        "question": "A patient with hereditary spherocytosis undergoes an osmotic fragility test. What is the expected result?",
+        "choices": [
+            "Increased resistance to hemolysis in hypotonic solutions",
+            "Increased hemolysis in mildly hypotonic solutions",
+            "No hemolysis in isotonic solutions",
+            "Hemolysis only in hypertonic solutions"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hereditary spherocytosis causes spherocytes to have decreased surface area, making them more fragile and prone to hemolysis in mildly hypotonic solutions."
+    },
+    {
+        "question": "A 40-year-old man presents with episodic hemoglobinuria triggered by infections. Peripheral smear shows bite cells and Heinz bodies. What is the most likely diagnosis?",
+        "choices": [
+            "Hereditary elliptocytosis",
+            "G6PD deficiency",
+            "Autoimmune hemolytic anemia",
+            "Pyruvate kinase deficiency"
+        ],
+        "correctAnswer": 1,
+        "explanation": "G6PD deficiency causes oxidant stress to red cells, leading to Heinz body formation and bite cells on peripheral smear."
+    },
+    {
+        "question": "Which of the following findings is most characteristic of microangiopathic hemolytic anemia (MAHA)?",
+        "choices": [
+            "Spherocytes",
+            "Schistocytes",
+            "Bite cells",
+            "Target cells"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Schistocytes, or fragmented red cells, are a hallmark of MAHA, often seen in conditions like TTP or DIC."
+    },
+    {
+        "question": "A 55-year-old woman is diagnosed with cold agglutinin disease. Which antibody type is primarily responsible for this condition?",
+        "choices": [
+            "IgA",
+            "IgE",
+            "IgG",
+            "IgM"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Cold agglutinin disease is mediated by IgM antibodies that agglutinate red cells at low temperatures."
+    },
+    {
+        "question": "A patient presents with fatigue and jaundice. Labs reveal hemoglobin 7 g/dL, low haptoglobin, and elevated LDH. Direct Coombs test is positive for IgG. What is the most likely underlying cause?",
+        "choices": [
+            "Cold agglutinin disease",
+            "Warm autoimmune hemolytic anemia",
+            "Hereditary spherocytosis",
+            "Microangiopathic hemolytic anemia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Warm autoimmune hemolytic anemia is associated with IgG antibodies that target red cells, leading to extravascular hemolysis."
+    },
+    {
+        "question": "Which of the following is a common clinical feature of hereditary spherocytosis?",
+        "choices": [
+            "Pigmented gallstones",
+            "Schistocytes",
+            "IgM-mediated hemolysis",
+            "Cold-induced hemolysis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Pigmented gallstones are a hallmark of hereditary spherocytosis due to chronic hemolysis and bilirubin overproduction."
+    },
+    {
+        "question": "A patient with splenomegaly and hemolytic anemia is found to have elliptocytes on peripheral smear. What is the most likely diagnosis?",
+        "choices": [
+            "Hereditary spherocytosis",
+            "Hereditary elliptocytosis",
+            "G6PD deficiency",
+            "Autoimmune hemolytic anemia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hereditary elliptocytosis is characterized by elliptocyte formation due to structural abnormalities in spectrin or membrane protein 4.1."
+    },
+    {
+        "question": "A patient with G6PD deficiency presents with acute hemolysis after eating fava beans. Which test is best for diagnosis during an asymptomatic period?",
+        "choices": [
+            "Peripheral blood smear",
+            "G6PD enzyme activity test",
+            "Direct Coombs test",
+            "Osmotic fragility test"
+        ],
+        "correctAnswer": 1,
+        "explanation": "G6PD enzyme activity testing is best performed when the patient is not actively hemolyzing, as reticulocytes may falsely normalize levels."
+    },
+    {
+        "question": "Which of the following conditions is characterized by intravascular hemolysis, hemoglobinuria, and hemosiderinuria?",
+        "choices": [
+            "G6PD deficiency",
+            "Hereditary spherocytosis",
+            "Microangiopathic hemolytic anemia",
+            "Paroxysmal nocturnal hemoglobinuria"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Paroxysmal nocturnal hemoglobinuria involves intravascular hemolysis due to complement-mediated red cell destruction, resulting in hemoglobinuria and hemosiderinuria."
+    },
+    {
+        "question": "A 50-year-old woman with systemic lupus erythematosus presents with fatigue and jaundice. Labs reveal hemoglobin 9 g/dL, reticulocyte count 8%, and a positive direct Coombs test. What is the most likely cause of her anemia?",
+        "choices": [
+            "Iron deficiency",
+            "Warm autoimmune hemolytic anemia",
+            "Cold agglutinin disease",
+            "Microangiopathic hemolytic anemia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Warm autoimmune hemolytic anemia is commonly associated with autoimmune conditions like lupus."
+    },
+    {
+        "question": "Which laboratory finding is most consistent with intravascular hemolysis?",
+        "choices": [
+            "Low reticulocyte count",
+            "Elevated serum haptoglobin",
+            "Hemoglobinuria",
+            "Normal LDH"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Intravascular hemolysis leads to hemoglobinuria due to free hemoglobin exceeding haptoglobin-binding capacity."
+    },
+    {
+        "question": "A patient with warm autoimmune hemolytic anemia does not respond to corticosteroids. Which treatment is most appropriate as the next step?",
+        "choices": [
+            "Splenectomy",
+            "Plasmapheresis",
+            "Iron supplementation",
+            "Cold avoidance"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Splenectomy is often used for refractory cases of warm autoimmune hemolytic anemia when corticosteroids are insufficient."
+    },
+    {
+        "question": "Which of the following is the primary function of von Willebrand factor (vWf)?",
+        "choices": [
+            "Binds platelets via GpIIb/IIIa",
+            "Carries factor VIII in circulation",
+            "Activates fibrinogen to fibrin",
+            "Stimulates thrombopoietin production"
+        ],
+        "correctAnswer": 1,
+        "explanation": "vWf carries factor VIII in circulation and facilitates platelet adhesion to subendothelial tissue via GpIb."
+    },
+    {
+        "question": "A 5-year-old boy presents with recurrent epistaxis and easy bruising. Laboratory testing reveals normal platelet count and elevated bleeding time. Platelet aggregation studies show no aggregation with ristocetin. What is the most likely diagnosis?",
+        "choices": [
+            "Glanzmann thrombasthenia",
+            "Bernard-Soulier syndrome",
+            "Immune thrombocytopenic purpura",
+            "von Willebrand disease"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bernard-Soulier syndrome involves a defect in GpIb, impairing platelet aggregation with ristocetin."
+    },
+    {
+        "question": "Which coagulation test evaluates the extrinsic and common pathways?",
+        "choices": [
+            "Bleeding time",
+            "aPTT",
+            "PT",
+            "5M urea test"
+        ],
+        "correctAnswer": 2,
+        "explanation": "PT (prothrombin time) evaluates the extrinsic and common pathways, commonly used to monitor warfarin therapy."
+    },
+    {
+        "question": "What laboratory finding is most characteristic of Disseminated Intravascular Coagulation (DIC)?",
+        "choices": [
+            "Normal PT and PTT",
+            "Elevated d-dimer and thrombocytopenia",
+            "Elevated fibrinogen",
+            "Prolonged bleeding time"
+        ],
+        "correctAnswer": 1,
+        "explanation": "DIC presents with elevated d-dimer, thrombocytopenia, and prolonged PT/PTT due to widespread clotting and fibrinolysis."
+    },
+    {
+        "question": "Which treatment is most appropriate for Thrombotic Thrombocytopenic Purpura (TTP)?",
+        "choices": [
+            "Platelet transfusion",
+            "Plasma exchange",
+            "Heparin administration",
+            "Vitamin K supplementation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Plasma exchange removes anti-ADAMTS13 antibodies, restores enzyme activity, and clears high molecular weight vWf multimers."
+    },
+    {
+        "question": "What is the primary role of factor XIII in the coagulation cascade?",
+        "choices": [
+            "Activation of fibrinogen",
+            "Crosslinking fibrin monomers",
+            "Stabilization of platelets",
+            "Initiation of the intrinsic pathway"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Factor XIII crosslinks fibrin monomers, stabilizing the clot."
+    },
+    {
+        "question": "Which condition is most commonly associated with prolonged aPTT that does not correct with a mixing study?",
+        "choices": [
+            "Factor VIII deficiency",
+            "Factor V Leiden mutation",
+            "Antiphospholipid antibody syndrome",
+            "Vitamin K deficiency"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antiphospholipid antibodies inhibit the coagulation assay, causing a prolonged aPTT that does not correct with a mixing study."
+    },
+    {
+        "question": "A patient with Hemophilia A is treated with desmopressin (DDAVP). What is the mechanism of this drug?",
+        "choices": [
+            "Stimulates platelet production",
+            "Induces release of vWf and factor VIII",
+            "Inhibits fibrinolysis",
+            "Binds directly to factor VIII receptors"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Desmopressin induces the release of vWf and factor VIII, temporarily increasing their plasma levels."
+    },
+    {
+        "question": "What is the most common inherited thrombophilia in the United States?",
+        "choices": [
+            "Protein S deficiency",
+            "Antithrombin deficiency",
+            "Factor V Leiden mutation",
+            "Prothrombin G20210A mutation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Factor V Leiden is the most common inherited thrombophilia, involving resistance to protein C inactivation."
+    },
+    {
+        "question": "Which laboratory finding is specific for fibrinolysis in DIC?",
+        "choices": [
+            "Prolonged PT",
+            "Low fibrinogen",
+            "Elevated d-dimer",
+            "Increased platelets"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Elevated d-dimer specifically reflects fibrinolysis, as it is a degradation product of crosslinked fibrin."
+    },
+    {
+        "question": "Which of the following is a characteristic feature of Glanzmann thrombasthenia?",
+        "choices": [
+            "Giant platelets on smear",
+            "Defect in GpIIb/IIIa",
+            "Prolonged aPTT",
+            "Lack of aggregation with ristocetin only"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Glanzmann thrombasthenia is caused by a defect in GpIIb/IIIa, preventing platelet aggregation with all agonists except ristocetin."
+    },
+    {
+        "question": "A 35-year-old man with antiphospholipid antibody syndrome is at risk for which of the following complications?",
+        "choices": [
+            "Hemarthrosis",
+            "Recurrent thrombosis",
+            "Petechial bleeding",
+            "Spontaneous intracranial hemorrhage"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Antiphospholipid antibody syndrome is associated with recurrent thrombosis, despite laboratory findings suggesting a bleeding tendency."
+    },
+    {
+        "question": "Which test is used to confirm von Willebrand disease type 2B?",
+        "choices": [
+            "Factor VIII assay",
+            "Ristocetin-induced platelet aggregation (RIPA)",
+            "Mixing study",
+            "Platelet aggregation studies"
+        ],
+        "correctAnswer": 1,
+        "explanation": "RIPA is enhanced in von Willebrand disease type 2B, differentiating it from other subtypes."
+    },
+    {
+        "question": "A patient with heparin-induced thrombocytopenia (HIT) should be transitioned to which anticoagulant?",
+        "choices": [
+            "Warfarin",
+            "Argatroban",
+            "Aspirin",
+            "Fondaparinux"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Argatroban, a direct thrombin inhibitor, is used to treat HIT, as it does not interact with platelet factor 4."
+    },
+    {
+        "question": "What is the primary therapeutic approach for Hemolytic Uremic Syndrome (HUS)?",
+        "choices": [
+            "Corticosteroids",
+            "Plasma exchange",
+            "Antibiotics",
+            "Supportive care"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Supportive care, including hydration and management of renal failure, is the mainstay of therapy for HUS."
+    },
+    {
+        "question": "Which laboratory finding differentiates Hemophilia A from von Willebrand disease?",
+        "choices": [
+            "Prolonged bleeding time",
+            "Decreased factor VIII activity",
+            "Prolonged aPTT",
+            "Normal platelet count"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hemophilia A typically has a normal bleeding time, while von Willebrand disease may have prolonged bleeding time due to platelet dysfunction."
+    },
+    {
+        "question": "Which protein inhibits activated factors IIa and Xa in the coagulation cascade?",
+        "choices": [
+            "Protein C",
+            "Protein S",
+            "Antithrombin",
+            "Thrombomodulin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Antithrombin inhibits activated factors IIa (thrombin) and Xa, with its activity enhanced by heparin."
+    },
+    {
+        "question": "Which condition is characterized by prolonged PT, prolonged aPTT, and low fibrinogen levels?",
+        "choices": [
+            "Vitamin K deficiency",
+            "Hemophilia A",
+            "Disseminated Intravascular Coagulation (DIC)",
+            "Thrombotic Thrombocytopenic Purpura (TTP)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "DIC involves consumption of coagulation factors and fibrinogen, resulting in prolonged PT and aPTT with low fibrinogen."
+    },
+    {
+        "question": "What is the mechanism of action of emicizumab in treating Hemophilia A?",
+        "choices": [
+            "Replaces missing factor VIII",
+            "Activates factor IX directly",
+            "Mimics factor VIII activity",
+            "Enhances fibrinogen cleavage"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Emicizumab is a bispecific antibody that mimics the activity of factor VIII by bringing factor IXa and factor X together."
+    },
+    {
+        "question": "Which condition presents with a pentad of fever, thrombocytopenia, anemia, renal dysfunction, and neurologic symptoms?",
+        "choices": [
+            "Disseminated Intravascular Coagulation",
+            "Thrombotic Thrombocytopenic Purpura",
+            "Hemolytic Uremic Syndrome",
+            "Antiphospholipid Antibody Syndrome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The pentad of fever, thrombocytopenia, anemia, renal dysfunction, and neurologic symptoms is characteristic of Thrombotic Thrombocytopenic Purpura (TTP)."
+    },
+{
+    "question": "A patient is found to have a hemoglobin of 9 g/dL (normal = 12-16 g/dL) and a mean corpuscular volume (MCV) of 106 fL (normal = 80-100 fL). Which of the following is the most likely diagnosis?",
+    "choices": [
+        "Anemia of chronic disease/inflammation",
+        "Folate deficiency",
+        "Hereditary spherocytosis",
+        "Iron-deficiency anemia",
+        "Sickle cell anemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Folate deficiency is a form of megaloblastic anemia. Anemias with an elevated MCV, like in this case, are termed macrocytic. Among the listed options, only folate deficiency is associated with macrocytic anemia. The other options are normocytic (anemia of chronic disease, sickle cell anemia, hereditary spherocytosis) or microcytic (iron-deficiency anemia)."
+},
+{
+    "question": "Which of the following anemias is mainly caused by decreased red blood cell (RBC) production?",
+    "choices": [
+        "Glucose-6-phosphate dehydrogenase deficiency",
+        "Hereditary spherocytosis",
+        "Iron-deficiency anemia",
+        "Sickle cell anemia",
+        "Warm autoimmune hemolytic anemia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Iron-deficiency anemia results from decreased RBC production due to insufficient iron for hemoglobin synthesis. Other listed anemias are related to increased RBC destruction or abnormalities, not decreased production."
+},
+{
+    "question": "Which of the following symptoms is most common in anemia?",
+    "choices": [
+        "Confusion",
+        "Facial flushing",
+        "Fever",
+        "Skin rashes",
+        "Tachycardia"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Tachycardia is a common symptom of anemia. It occurs as a compensatory mechanism for the decreased oxygen-carrying capacity of the blood. Other listed symptoms such as confusion, fever, and skin rashes are not characteristic of anemia."
+},
+{
+    "question": "Why is the lattice-like shape of the RBC cytoskeleton advantageous?",
+    "choices": [
+        "It enhances the ability to maneuver through small blood vessels.",
+        "It increases the ability to carry oxygen.",
+        "It increases the speed of blood flow through arteries.",
+        "It prevents invasion by microorganisms.",
+        "It provides a greater surface-to-volume ratio for transport of nutrients."
+    ],
+    "correctAnswer": 0,
+    "explanation": "The lattice-like structure of the RBC cytoskeleton enables it to deform and pass through narrow capillaries and the splenic sieve. This unique shape provides flexibility, which is crucial for maneuvering through small vessels."
+},
+    {
+        "question": "Which of the following hemoglobins is primarily found in adults and constitutes the majority of normal hemoglobin?",
+        "choices": [
+            "Hb A2",
+            "Hb A",
+            "Hb F",
+            "Hb Gower-1"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hb A (α2β2) constitutes 96-98% of hemoglobin in adults and is the main functional hemoglobin in postnatal life."
+    },
+    {
+        "question": "Which mutation is responsible for sickle cell anemia?",
+        "choices": [
+            "Glu → Lys at position 6 of the β-globin chain",
+            "Glu → Val at position 6 of the β-globin chain",
+            "Phe → Ser at position 8 of the α-globin chain",
+            "Tyr → His at position 15 of the β-globin chain"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sickle cell anemia is caused by a single nucleotide mutation resulting in the substitution of glutamic acid with valine at position 6 of the β-globin chain."
+    },
+    {
+        "question": "What is the primary genetic cause of β-thalassemia major?",
+        "choices": [
+            "Deletion of both β-globin genes",
+            "Nonsense and frameshift mutations in β-globin genes",
+            "Deletion of the α-globin genes",
+            "Point mutation in δ-globin gene"
+        ],
+        "correctAnswer": 1,
+        "explanation": "β-thalassemia major is primarily caused by nonsense and frameshift mutations that prevent or significantly reduce β-globin production."
+    },
+    {
+        "question": "Which of the following is a clinical feature of β-thalassemia major?",
+        "choices": [
+            "Normal growth and development",
+            "Elevated Hb A2 and mild anemia",
+            "Hepatosplenomegaly and skeletal deformities",
+            "Asymptomatic presentation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "β-thalassemia major presents with hepatosplenomegaly, growth retardation, delayed puberty, and skeletal deformities due to chronic anemia and extramedullary hematopoiesis."
+    },
+    {
+        "question": "Which hemoglobinopathy is associated with an increase in oxygen affinity, leading to erythrocytosis?",
+        "choices": [
+            "Hb S",
+            "Hb C",
+            "Hb variants with α1β2 contact mutations",
+            "Hb variants with α1β1 contact mutations"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hemoglobin variants with mutations affecting α1β2 contacts often lead to increased oxygen affinity, resulting in erythrocytosis."
+    },
+    {
+        "question": "In α-thalassemia, the presence of which hemoglobin correlates with the most severe form, hydrops fetalis?",
+        "choices": [
+            "Hb Bart’s (γ4)",
+            "Hb H (β4)",
+            "Hb A2 (α2δ2)",
+            "Hb F (α2γ2)"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hb Bart’s (γ4) is associated with hydrops fetalis, the most severe form of α-thalassemia, caused by the deletion of all four α-globin genes."
+    },
+    {
+        "question": "What is the mechanism of action of hydroxyurea in treating sickle cell disease?",
+        "choices": [
+            "Reduces microvascular occlusion by blocking P-selectin",
+            "Induces fetal hemoglobin (Hb F) production",
+            "Increases oxygen affinity of Hb S",
+            "Inhibits β-globin chain polymerization"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hydroxyurea increases the production of Hb F, which inhibits the polymerization of deoxy-Hb S, reducing sickling and vaso-occlusion."
+    },
+    {
+        "question": "Which of the following conditions is most commonly associated with elevated Hb A2 levels?",
+        "choices": [
+            "Sickle cell anemia",
+            "β-thalassemia trait",
+            "α-thalassemia",
+            "Hb H disease"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Elevated Hb A2 levels (around 5%) are a hallmark of β-thalassemia trait due to compensatory increases in δ-globin chain production."
+    },
+    {
+        "question": "Which therapy has been shown to reduce the transfusion burden in β-thalassemia major by targeting activin signaling pathways?",
+        "choices": [
+            "Hydroxyurea",
+            "Luspatercept",
+            "Deferasirox",
+            "Gene therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Luspatercept, an activin receptor ligand trap, improves anemia and reduces transfusion requirements in β-thalassemia by enhancing erythropoiesis."
+    },
+    {
+        "question": "Which of the following complications is most common in sickle cell disease patients by age 20?",
+        "choices": [
+            "Avascular necrosis",
+            "Ischemic stroke",
+            "Acute chest syndrome",
+            "Splenic sequestration"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ischemic stroke occurs in approximately 11% of patients with SS sickle cell disease by age 20."
+    },
+    {
+        "question": "What is the primary therapeutic benefit of high Hb F levels in patients with sickle cell disease?",
+        "choices": [
+            "Prevents hemolysis",
+            "Inhibits polymerization of deoxy-Hb S",
+            "Enhances microvascular perfusion",
+            "Reduces chronic inflammation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hb F inhibits polymerization of deoxy-Hb S, reducing sickling and vaso-occlusive events in sickle cell disease."
+    },
+    {
+        "question": "Which gene-editing technique has been FDA-approved for the treatment of sickle cell disease?",
+        "choices": [
+            "Zinc finger nucleases",
+            "CRISPR-Cas9",
+            "Lentiviral vectors",
+            "RNA interference"
+        ],
+        "correctAnswer": 1,
+        "explanation": "CRISPR-Cas9 has been FDA-approved for sickle cell disease, involving deletion of the BCL11A erythroid-specific enhancer to increase Hb F production."
+    },
+    {
+        "question": "Which therapeutic approach offers a curative potential for both sickle cell disease and β-thalassemia?",
+        "choices": [
+            "Hydroxyurea therapy",
+            "Iron chelation therapy",
+            "Stem cell transplantation",
+            "Luspatercept"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Stem cell transplantation is the only curative therapy currently available for both sickle cell disease and β-thalassemia."
+    },
+    {
+        "question": "Which hemoglobinopathy is characterized by moderate anemia and the presence of Hb SC on electrophoresis?",
+        "choices": [
+            "Sickle cell anemia",
+            "Hb C disease",
+            "Sickle cell-Hb C disease",
+            "Hb H disease"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hb SC disease is a compound heterozygous condition with both Hb S and Hb C, leading to moderate anemia and vaso-occlusive complications."
+    },
+    {
+        "question": "Which treatment option is most effective in reducing the risk of ischemic stroke in children with sickle cell disease and abnormal transcranial Doppler (TCD) velocities?",
+        "choices": [
+            "Hydroxyurea",
+            "Chronic transfusion therapy",
+            "Luspatercept",
+            "Gene therapy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Chronic transfusion therapy is used to lower Hb S levels and reduce the risk of ischemic stroke in children with abnormal TCD velocities."
+    },
+    {
+        "question": "A 65-year-old male presents with chest pain and is diagnosed with an ST-elevation myocardial infarction (STEMI). Which drug is most appropriate for dissolving the thrombus in this patient?",
+        "choices": [
+            "Aspirin",
+            "Warfarin",
+            "Tissue plasminogen activator (t-PA)",
+            "Heparin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "t-PA (tissue plasminogen activator) is a fibrinolytic agent that selectively activates plasminogen bound to fibrin, dissolving thrombi in acute settings like STEMI."
+    },
+    {
+        "question": "A patient is on warfarin therapy and develops bleeding complications. What is the best immediate treatment to reverse the effects of warfarin?",
+        "choices": [
+            "Protamine sulfate",
+            "Vitamin K",
+            "Fresh frozen plasma",
+            "Aminocaproic acid"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Fresh frozen plasma provides immediate replacement of coagulation factors inhibited by warfarin. Vitamin K works slower (hours)."
+    },
+    {
+        "question": "Which anticoagulant is contraindicated in patients with renal failure due to its sole excretion by the kidneys?",
+        "choices": [
+            "Heparin",
+            "Fondaparinux",
+            "Warfarin",
+            "Argatroban"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fondaparinux, a synthetic heparin derivative, is excreted exclusively by the kidneys and should not be used in patients with renal failure."
+    },
+    {
+        "question": "Which of the following anticoagulants directly inhibits thrombin (factor IIa) without requiring antithrombin?",
+        "choices": [
+            "Heparin",
+            "Argatroban",
+            "Fondaparinux",
+            "Warfarin"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Argatroban is a direct thrombin inhibitor that binds directly to the active site of thrombin, preventing clot formation."
+    },
+    {
+        "question": "A 45-year-old patient with atrial fibrillation is started on warfarin. The INR is 4.5 (elevated). What is the best next step in management?",
+        "choices": [
+            "Stop warfarin and administer vitamin K",
+            "Continue the current dose",
+            "Add aspirin therapy",
+            "Administer protamine sulfate"
+        ],
+        "correctAnswer": 0,
+        "explanation": "An elevated INR indicates an increased bleeding risk. Warfarin should be stopped, and vitamin K can help reverse its effects."
+    },
+    {
+        "question": "A 50-year-old man develops heparin-induced thrombocytopenia (HIT) after receiving heparin for a deep vein thrombosis. Which anticoagulant should be administered next?",
+        "choices": [
+            "Warfarin",
+            "Lepirudin",
+            "Fondaparinux",
             "Aspirin"
         ],
         "correctAnswer": 1,
-        "explanation": "Acetaminophen is an analgesic with minimal anti-inflammatory effects and is less nephrotoxic than NSAIDs."
+        "explanation": "Lepirudin, a direct thrombin inhibitor, is commonly used in HIT as it bypasses the need for heparin and antithrombin."
     },
     {
-        "question": "Which of the following is an advantage of COXIBs over traditional NSAIDs?",
+        "question": "Aspirin exerts its antiplatelet effect through which of the following mechanisms?",
         "choices": [
-            "Improved antiplatelet effect",
-            "Reduced risk of gastrointestinal ulcers",
-            "Lower cost",
-            "Stronger anti-inflammatory action"
+            "Inhibition of ADP receptor P2Y12",
+            "Inhibition of phosphodiesterase",
+            "Inhibition of cyclooxygenase (COX) and thromboxane A2 production",
+            "Inhibition of glycoprotein IIb/IIIa"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aspirin irreversibly inhibits cyclooxygenase (COX), reducing thromboxane A2 synthesis and preventing platelet aggregation."
+    },
+    {
+        "question": "Which of the following is an advantage of low-molecular-weight heparins (LMWH) over unfractionated heparin?",
+        "choices": [
+            "Ability to cross the placenta",
+            "No need for laboratory monitoring in most patients",
+            "Higher risk of heparin-induced thrombocytopenia (HIT)",
+            "Shorter half-life"
         ],
         "correctAnswer": 1,
-        "explanation": "COXIBs selectively inhibit COX-2, which reduces the risk of gastrointestinal side effects associated with COX-1 inhibition."
+        "explanation": "LMWH has a more predictable pharmacokinetic profile and does not require routine laboratory monitoring, unlike unfractionated heparin."
     },
     {
-        "question": "A patient with RA has responded poorly to NSAIDs and is now prescribed methotrexate. What is its primary mechanism of action in RA?",
+        "question": "A patient is undergoing coronary angioplasty. Which glycoprotein IIb/IIIa inhibitor is most appropriate to prevent platelet aggregation during the procedure?",
         "choices": [
-            "Inhibits xanthine oxidase",
-            "Inhibits aminoimidazolecarboxamide (AICAR) transformylase",
-            "Decreases leukotriene synthesis",
-            "Blocks IL-17A receptors"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Methotrexate increases adenosine levels by inhibiting AICAR, which has an anti-inflammatory effect helpful in RA management."
-    },
-    {
-        "question": "A patient taking infliximab for RA has been advised to monitor for which common adverse effect?",
-        "choices": [
-            "Vision loss",
-            "Opportunistic infections",
-            "Hepatotoxicity",
-            "Hyperkalemia"
-        ],
-        "correctAnswer": 1,
-        "explanation": "TNF-α inhibitors like infliximab can suppress the immune system, leading to an increased risk of infections."
-    },
-    {
-        "question": "Which NSAID is associated with the lowest risk of cardiovascular events?",
-        "choices": [
-            "Ibuprofen",
-            "Celecoxib",
-            "Naproxen",
+            "Tirofiban",
+            "Dipyridamole",
+            "Clopidogrel",
             "Aspirin"
         ],
-        "correctAnswer": 2,
-        "explanation": "Naproxen has the lowest cardiovascular risk among NSAIDs due to its mild COX-2 inhibitory effects."
+        "correctAnswer": 0,
+        "explanation": "Tirofiban, a glycoprotein IIb/IIIa inhibitor, blocks fibrinogen binding and platelet aggregation, making it effective for coronary interventions."
     },
     {
-        "question": "Why is aspirin contraindicated in children with viral infections?",
+        "question": "Which of the following drugs is most effective at treating an acute arterial thromboembolism in the setting of peripheral arterial disease?",
         "choices": [
-            "Increased risk of hepatic necrosis",
-            "Risk of Reye's syndrome",
-            "Severe gastrointestinal bleeding",
-            "Elevated risk of nephrotoxicity"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Aspirin in children with viral infections is linked to Reye's syndrome, affecting the liver and brain."
-    },
-    {
-        "question": "A 70-year-old male with gouty arthritis is advised to avoid which drug class due to an increased risk of hyperuricemia?",
-        "choices": [
-            "COXIBs",
-            "NSAIDs",
-            "DMARDs",
-            "Thiazide diuretics"
+            "Clopidogrel",
+            "Streptokinase",
+            "Warfarin",
+            "Alteplase"
         ],
         "correctAnswer": 3,
-        "explanation": "Thiazide diuretics can raise serum uric acid levels, exacerbating gout symptoms."
-    },
-    {
-        "question": "A 60-year-old female with a recent heart attack and osteoarthritis is considering NSAID use. Which NSAID would most increase her cardiovascular risk?",
-        "choices": [
-            "Celecoxib",
-            "Naproxen",
-            "Ibuprofen",
-            "Diclofenac"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Diclofenac has a higher cardiovascular risk profile than other NSAIDs and should be avoided in patients with cardiovascular disease."
-    },
-    {
-        "question": "In rheumatoid arthritis, which cell type is predominantly targeted by TNF inhibitors?",
-        "choices": [
-            "B cells",
-            "T cells",
-            "Macrophages",
-            "Neutrophils"
-        ],
-        "correctAnswer": 2,
-        "explanation": "TNF inhibitors target TNF-α, a cytokine that activates T cells and macrophages in autoimmune diseases."
-    },
-    {
-        "question": "A patient with RA experiences nausea and mild hair loss after starting methotrexate. What is a common remedy for methotrexate toxicity?",
-        "choices": [
-            "Folic acid supplementation",
-            "Hydration therapy",
-            "Iron supplements",
-            "Avoiding dairy products"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Folic acid is often supplemented to reduce methotrexate toxicity, especially to alleviate GI and hair loss side effects."
-    },
-    {
-        "question": "Which of the following drugs is a selective COX-2 inhibitor used primarily in arthritis management?",
-        "choices": [
-            "Indomethacin",
-            "Aspirin",
-            "Celecoxib",
-            "Diclofenac"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Celecoxib is a selective COX-2 inhibitor that reduces inflammation with fewer GI side effects than non-selective NSAIDs."
-    },
-    {
-        "question": "What is the primary therapeutic target of methotrexate in managing rheumatoid arthritis?",
-        "choices": [
-            "Inhibition of COX-1 enzyme",
-            "Increase in adenosine",
-            "Blocking leukotriene synthesis",
-            "Inhibition of PGE2 synthesis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Methotrexate increases adenosine, an anti-inflammatory mediator that helps manage rheumatoid arthritis symptoms."
-    },
-    {
-        "question": "A patient undergoing therapy with adalimumab for RA should be closely monitored for which complication?",
-        "choices": [
-            "Immunosuppression",
-            "Hyperlipidemia",
-            "Severe hypercalcemia",
-            "Pulmonary embolism"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Adalimumab suppresses immune function, so patients should be monitored for infections and other immune-related issues."
-    },
-    {
-        "question": "What is the most likely adverse effect of prolonged use of high-dose NSAIDs?",
-        "choices": [
-            "Hepatotoxicity",
-            "Nephrotoxicity",
-            "Neurotoxicity",
-            "Bone marrow suppression"
-        ],
-        "correctAnswer": 1,
-        "explanation": "High doses of NSAIDs over prolonged periods can damage renal function, especially in patients with existing kidney issues."
+        "explanation": "Alteplase, a recombinant tissue plasminogen activator (t-PA), is effective at breaking down arterial thrombi by activating plasminogen."
     },
 {
-    "question": "A 32-year-old woman comes to the physician because of pain and stiffness in both of her hands for the past 3 weeks. The pain is most severe early in the day and does not respond to ibuprofen. She has no history of serious illness and takes no medications. Examination shows swelling and tenderness of the wrists and metacarpophalangeal joints bilaterally. Range of motion is decreased due to pain. There are subcutaneous, nontender, firm, mobile nodules on the extensor surface of the forearm. Which of the following is the most appropriate pharmacotherapy for this patient's current symptoms?",
+    "question": "A 43-year-old female is brought to the emergency department after a seizure. She has had daily intermittent fevers for several weeks and now has difficulty breathing. She appears pale. Examination of a blood smear reveals large numbers of ring forms within red blood cells, as well as a banana-shaped gametocyte. Which species of Plasmodium is most likely responsible for this patient’s symptoms?",
     "choices": [
-        "Methotrexate",
-        "Adalimumab",
-        "Colchicine",
-        "Sulfasalazine",
-        "Prednisone"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Glucocorticoids like prednisone act rapidly to reduce symptoms of severe acute flares of RA. A short course of glucocorticoids has been shown to be more effective than NSAID therapy in reducing joint tenderness and pain and can be used to bridge the period until DMARDs, which are prescribed on a long-term basis to control disease activity, take effect."
-},
-{
-    "question": "A 66-year-old woman comes to the physician for a routine health maintenance examination. She has no history of serious medical illness and takes no medications. A screening DEXA scan shows a T-score of -1.5 at the femur. Which of the following is the strongest predisposing factor for osteopenia?",
-    "choices": [
-        "Hypoparathyroidism",
-        "NSAID use",
-        "Obesity",
-        "Smoking",
-        "Type 2 diabetes mellitus"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Smoking is a major risk factor for both osteopenia and osteoporosis. In postmenopausal women who smoke, an additional 2% of bone density loss per decade of life can be attributed to smoking. This results in a higher incidence of osteoporosis and pathologic fractures. Other risk factors include advanced age, positive family history, alcohol abuse, sedentary lifestyle, low body weight, vitamin D deficiency, and cortisone use."
-},
-{
-    "question": "A 36-year-old woman comes to the physician because of a 2-week history of progressively worsening pain on the outer side of her left elbow. She reports no recent trauma and recreationally plays badminton. Examination shows tenderness over the lateral surface of the left distal humerus. The pain is reproduced by supinating the forearm against resistance. Which of the following is the most likely underlying cause of this patient’s pain?",
-    "choices": [
-        "Excessive stress to bone",
-        "Nerve compression at the elbow",
-        "Bursal inflammation",
-        "Repeated wrist extension",
-        "Repeated wrist flexion"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The lateral epicondyle is the common origin of the wrist extensors. Lateral epicondylitis is caused by activities such as racket sports that involve repetitive wrist extension and/or forearm supination/pronation with the elbow nearly fully extended. The pain can be exacerbated by resisted supination, resisted wrist extension, and tight grasping of objects."
-},
-{
-    "question": "A 71-year-old woman presents with pain in her neck, left shoulder, and left hand following a day of shoveling snow. She reports improvement when lifting her arm above her head. Physical examination reveals decreased sensation to pinprick over the index and middle fingers, and a 1+ triceps reflex in the left upper extremity. MRI shows a lateral disk herniation. Which nerve root is most likely compressed in this patient?",
-    "choices": [
-        "C4",
-        "C5",
-        "C6",
-        "C7",
-        "C8"
-    ],
-    "correctAnswer": 3,
-    "explanation": "C7 radiculopathy presents with pain and paresthesia extending from the dorsal medial forearm to the fingers II-IV. It affects the triceps, wrist flexors, and finger extensors, leading to a reduction in the triceps reflex. Sensory loss over the index, middle fingers, and radial half of finger IV further supports C7 involvement."
-},
-{
-        "question": "A 28-year-old man presents with lower back pain that worsens in the morning and improves with activity. He also reports occasional redness and pain in his right eye. X-ray shows bilateral sacroiliitis. Which of the following findings is most likely to be associated with this condition?",
-        "choices": [
-            "Positive rheumatoid factor",
-            "Negative HLA-B27",
-            "Achilles tendon pain",
-            "Symmetric joint involvement in the hands"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Achilles tendon pain, or enthesitis, is commonly associated with seronegative spondyloarthropathies like ankylosing spondylitis. The patient's symptoms suggest ankylosing spondylitis, which frequently presents with HLA-B27 positivity and enthesitis. Peripheral involvement in ankylosing spondylitis is uncommon (hands)."
-    },
-    {
-        "question": "A patient is diagnosed with reactive arthritis following a gastrointestinal infection. Which of the following symptoms is most likely to be observed in this patient?",
-        "choices": [
-            "Symmetric polyarthritis",
-            "Uveitis and urethritis",
-            "Nail pitting",
-            "Symmetric sacroiliitis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Reactive arthritis often presents with the classic triad of urethritis, conjunctivitis, and arthritis. It typically follows infections such as Salmonella or Chlamydia. "
-    },
-    {
-        "question": "Which seronegative spondyloarthropathy is most likely to show asymmetric involvement of the sacroiliac joints and 'pencil-in-cup' deformities on X-ray?",
-        "choices": [
-            "Ankylosing spondylitis",
-            "Psoriatic arthritis",
-            "Reactive arthritis",
-            "IBD-associated arthritis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Psoriatic arthritis can show asymmetric sacroiliitis and characteristic 'pencil-in-cup' deformities on imaging due to erosive changes in the joints."
-    },
-    {
-        "question": "Which cytokine is a primary driver in the pathogenesis of enthesitis in seronegative spondyloarthropathies?",
-        "choices": [
-            "Interleukin-10",
-            "Interleukin-23",
-            "Tumor Necrosis Factor-alpha",
-            "Interleukin-6"
-        ],
-        "correctAnswer": 1,
-        "explanation": "IL-23 plays a key role in driving the enthesitis observed in seronegative spondyloarthropathies, often through its effects on IL-17-producing T cells."
-    },
-    {
-        "question": "A 50-year-old man with a history of gout presents with acute pain in his big toe. Which of the following crystals is most likely to be found on polarized light microscopy of the synovial fluid?",
-        "choices": [
-            "Calcium pyrophosphate",
-            "Monosodium urate",
-            "Hydroxyapatite",
-            "Calcium oxalate"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Monosodium urate crystals, which are needle-shaped and negatively birefringent, are characteristic of gout and would likely be seen in this patient."
-    },
-    {
-        "question": "A 64-year-old woman with knee pain and chondrocalcinosis on X-ray is diagnosed with pseudogout. Which of the following is true about the crystals found in her synovial fluid?",
-        "choices": [
-            "They are needle-shaped and negatively birefringent.",
-            "They are rhomboid-shaped and positively birefringent.",
-            "They are amorphous and non-birefringent.",
-            "They are rod-shaped and negatively birefringent."
-        ],
-        "correctAnswer": 1,
-        "explanation": "Calcium pyrophosphate crystals in pseudogout are rhomboid-shaped and show weak positive birefringence under polarized light."
-    },
-    {
-        "question": "A 45-year-old male with psoriasis presents with arthritis affecting his distal interphalangeal joints. Which of the following findings would most strongly suggest psoriatic arthritis?",
-        "choices": [
-            "Nail Pitting",
-            "Bilateral sacroiliitis",
-            "Symmetric joint space narrowing",
-            "Tophi"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Pitting, lifting off the nail plate distally (onycholysis), thickening, discoloration, fragmentation; Increased risk of PsA with nail psoriasis."
-    },
-    {
-        "question": "Which of the following seronegative spondyloarthropathies is most commonly associated with anterior uveitis?",
-        "choices": [
-            "Ankylosing spondylitis",
-            "Reactive arthritis",
-            "Psoriatic arthritis",
-            "IBD-associated arthritis"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Anterior uveitis is frequently associated with ankylosing spondylitis and can be a recurring extra-articular manifestation of the disease. Painful, red eye with photophobia, has “Flare cells” = PMNs in anterior chamber, may sediment leading to hypopyon. May aslo have ciliary flush"
-    },
-    {
-        "question": "In the pathogenesis of gout, which enzyme is responsible for the synthesis of uric acid from purine nucleotides?",
-        "choices": [
-            "HGPRT",
-            "Xanthine oxidase",
-            "G6PD",
-            "PRPP synthetase"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Xanthine oxidase is the enzyme that catalyzes the conversion of xanthine to uric acid in the purine degradation pathway, leading to hyperuricemia in gout."
-    },
-    {
-        "question": "Which feature differentiates autoimmune arthritis from autoinflammatory arthritis in terms of immune mechanisms?",
-        "choices": [
-            "Autoimmune arthritis is mediated by innate immune cells only.",
-            "Autoinflammatory arthritis is mediated by T-cell responses.",
-            "Autoimmune arthritis involves antigen-specific T-cells and autoantibodies.",
-            "Autoinflammatory arthritis involves antigen-specific T-cells."
-        ],
-        "correctAnswer": 2,
-        "explanation": "Autoimmune arthritis involves adaptive immunity, specifically T-cells and autoantibodies, while autoinflammatory arthritis primarily involves innate immune pathways."
-    },
-    {
-        "question": "A 60-year-old man with tophi on his elbows and ears presents with severe pain in his left great toe. What is the primary goal of urate-lowering therapy in this patient?",
-        "choices": [
-            "To increase renal excretion of uric acid",
-            "To reduce serum uric acid levels below 6 mg/dL",
-            "To dissolve existing urate crystals in joints",
-            "To prevent the formation of new urate crystals"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The primary goal of urate-lowering therapy in gout is to keep serum uric acid levels below 6 mg/dL to prevent crystal formation and reduce the risk of flare-ups."
-    },
-    {
-        "question": "A 35-year-old man presents with asymmetric arthritis and a rash on his legs after a recent bout of gastroenteritis. Which of the following is the most likely diagnosis?",
-        "choices": [
-            "Psoriatic arthritis",
-            "Reactive arthritis",
-            "Rheumatoid arthritis",
-            "Ankylosing spondylitis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Reactive arthritis can develop following a gastrointestinal or urogenital infection and often presents with asymmetric joint involvement."
-    },
-    {
-        "question": "A patient with Crohn's disease has recurrent joint pain in his knees and ankles. Which of the following statements best characterizes IBD-associated arthritis?",
-        "choices": [
-            "It is symmetric and affects small joints.",
-            "It is typically limited to the axial skeleton.",
-            "It does not improve with anti-TNF therapy.",
-            "It often parallels IBD activity and affects large joints."
-        ],
-        "correctAnswer": 3,
-        "explanation": "IBD-associated arthritis commonly affects larger joints and often flares in parallel with IBD activity. It may also involve the axial skeleton."
-    },
-    {
-        "question": "A 70-year-old man is diagnosed with chronic tophaceous gout. Which of the following best describes the typical radiographic findings?",
-        "choices": [
-            "Marginal erosions with overhanging edges",
-            "Symmetric joint space narrowing",
-            "Non-marginal osteophytes",
-            "Periarticular osteopenia"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Chronic gout is characterized by 'rat-bite' erosions, which are marginal erosions with overhanging edges due to deposition of monosodium urate crystals."
-    },
-    {
-        "question": "Which medication is contraindicated for the prophylactic treatment of gout in a patient with a history of uric acid kidney stones?",
-        "choices": [
-            "Allopurinol",
-            "Febuxostat",
-            "Pegloticase",
-            "Probenecid"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Probenecid increases uric acid excretion, which may exacerbate uric acid stone formation. It is contraindicated in patients with a history of uric acid kidney stones."
-    },
-    {
-        "question": "A 27-year-old man presents with low back pain for five years, worse in the morning and after sitting for prolonged periods. Pain improves with movement. Which feature would be most supportive of a diagnosis of ankylosing spondylitis?",
-        "choices": [
-            "Positive rheumatoid factor",
-            "Pain radiating to the shoulder",
-            "Morning stiffness lasting less than 30 minutes",
-            "Improvement with NSAIDs"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Ankylosing spondylitis, a type of seronegative spondyloarthropathy, is characterized by chronic back pain that improves with NSAIDs and worsens with inactivity."
-    },
-    {
-        "question": "Which of the following is the primary cytokine involved in the inflammatory process of enthesitis in seronegative spondyloarthropathies?",
-        "choices": [
-            "IL-6",
-            "TNF-alpha",
-            "IL-1",
-            "IL-10"
-        ],
-        "correctAnswer": 1,
-        "explanation": "TNF-alpha and IL-17 play significant roles in the inflammatory process seen in enthesitis associated with seronegative spondyloarthropathies."
-    },
-    {
-        "question": "A 30-year-old man with a history of psoriasis develops joint pain, especially in the distal interphalangeal (DIP) joints. Which radiographic finding is most characteristic of his condition?",
-        "choices": [
-            "Symmetric sacroiliitis",
-            "Pencil-in-cup deformity",
-            "Non-marginal syndesmophytes",
-            "Erosion and osteopenia"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Psoriatic arthritis often presents with a ‘pencil-in-cup’ deformity in DIP joints due to bone erosion and resorption."
-    },
-    {
-        "question": "A patient with recent conjunctivitis, urethritis, and arthritis presents. Which organism is most commonly associated with triggering reactive arthritis in this patient?",
-        "choices": [
-            "Staphylococcus aureus",
-            "Escherichia coli",
-            "Salmonella",
-            "Mycobacterium tuberculosis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Reactive arthritis often follows infections with organisms such as Salmonella, Shigella, Yersinia, or Chlamydia. The classic triad is conjunctivitis, urethritis, and arthritis."
-    },
-    {
-        "question": "A 45-year-old man with Crohn’s disease presents with joint pain in his knees and ankles that varies with the activity of his bowel disease. Which type of arthritis is he likely experiencing?",
-        "choices": [
-            "Psoriatic arthritis",
-            "Osteoarthritis",
-            "Rheumatoid arthritis",
-            "IBD-associated arthritis"
-        ],
-        "correctAnswer": 3,
-        "explanation": "IBD-associated arthritis often flares with underlying bowel disease and is associated with Crohn’s disease and ulcerative colitis."
-    },
-    {
-        "question": "In gout, monosodium urate crystals trigger inflammation via which of the following mechanisms?",
-        "choices": [
-            "Complement activation",
-            "NLRP3 inflammasome activation",
-            "Direct T-cell activation",
-            "IL-10 secretion"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Monosodium urate crystals activate the NLRP3 inflammasome, leading to the release of pro-inflammatory cytokines such as IL-1beta."
-    },
-    {
-        "question": "A 68-year-old man with joint pain has crystals in his synovial fluid that appear rhomboid-shaped under polarized light. Which condition is most likely?",
-        "choices": [
-            "Gout",
-            "Rheumatoid arthritis",
-            "Calcium pyrophosphate deposition disease",
-            "Osteoarthritis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Calcium pyrophosphate deposition disease (CPPD) crystals appear rhomboid and show weakly positive birefringence under polarized light."
-    },
-    {
-        "question": "Which of the following is a common extra-articular manifestation in patients with ankylosing spondylitis?",
-        "choices": [
-            "Pulmonary fibrosis",
-            "Psoriasis",
-            "Oral ulcers",
-            "Butterfly rash"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Apical pulmonary fibrosis and aortic valve regurgitation are extra-articular manifestations of ankylosing spondylitis."
-    },
-    {
-        "question": "A 55-year-old man presents with recurrent knee pain and has evidence of chondrocalcinosis on X-ray. Which treatment would be most appropriate for acute flare-ups?",
-        "choices": [
-            "Methotrexate",
-            "NSAIDs",
-            "Allopurinol",
-            "Antibiotics"
-        ],
-        "correctAnswer": 1,
-        "explanation": "NSAIDs are commonly used to treat acute flare-ups of calcium pyrophosphate deposition disease (CPPD), also known as pseudogout."
-    },
-    {
-        "question": "A patient with rheumatoid arthritis is being evaluated for a DMARD. Which of the following is a commonly used DMARD for managing this condition?",
-        "choices": [
-            "Methotrexate",
-            "Aspirin",
-            "Prednisone",
-            "Colchicine"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Methotrexate is the first DMARD of choice in treatment of rheumatoid arthritis. Also used in cancer chemotherapy, lower than chemotherapeutic doses are needed. Inhibits aminoimidazolecarboxamide (AICAR) transformylase. Antirheumatic activity - adenosine synthesis "
-    },
-    {
-        "question": "Which cytokine is primarily involved in the pathogenesis of autoinflammatory diseases like gout?",
-        "choices": [
-            "IL-1",
-            "IL-10",
-            "IL-4",
-            "IL-13"
-        ],
-        "correctAnswer": 0,
-        "explanation": "IL-1 is a key pro-inflammatory cytokine activated by the inflammasome in autoinflammatory conditions such as gout."
-    },
-    {
-        "question": "Which genetic factor is most commonly associated with seronegative spondyloarthropathies?",
-        "choices": [
-            "HLA-DR4",
-            "HLA-B27",
-            "HLA-DQ2",
-            "HLA-A3"
-        ],
-        "correctAnswer": 1,
-        "explanation": "HLA-B27 is strongly associated with seronegative spondyloarthropathies, especially ankylosing spondylitis."
-    },
-    {
-        "question": "In gout, which dietary substance is most likely to precipitate a flare?",
-        "choices": [
-            "High-fiber foods",
-            "Red meat",
-            "Citrus fruits",
-            "Dairy products"
-        ],
-        "correctAnswer": 1,
-        "explanation": "High-purine foods like red meat can increase uric acid levels and precipitate gout flares."
-    },
-    {
-        "question": "A patient with long-standing gout develops joint tophi. What is the composition of these deposits?",
-        "choices": [
-            "Calcium hydroxyapatite",
-            "Monosodium urate",
-            "Calcium pyrophosphate",
-            "Osteoid"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Tophi in gout are composed of monosodium urate crystals."
-    },
-    {
-        "question": "Which of the following is a distinguishing feature of ankylosing spondylitis on imaging?",
-        "choices": [
-            "Osteophytes",
-            "Aortic valve regurgitation",
-            "Rat-bite erosions",
-            "Juxta-articular osteopenia"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Ankylosing spondylitis can cause ‘bamboo spine’ due to fusion of the vertebral bodies with syndesmophytes. Also causes cardiac involvement: Aortic valve regurgitation or ascending aorta inflammation (aortitis)"
-    },
-    {
-        "question": "A 10-year-old boy presents with acute osteomyelitis. Which microorganism is the most common causative agent in children with osteomyelitis?",
-        "choices": [
-            "Escherichia coli",
-            "Kingella kingae",
-            "Staphylococcus aureus",
-            "Group A Streptococcus"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Staphylococcus aureus is the most common cause of acute osteomyelitis in children, particularly in older children."
-    },
-    {
-        "question": "A 45-year-old man presents with chronic osteomyelitis following an open tibial fracture. Imaging shows a lucent area in the bone and involucrum formation. Which of the following is the best next step in management?",
-        "choices": [
-            "Empirical antibiotics only",
-            "Surgical debridement and bone culture",
-            "Six weeks of IV antibiotics",
-            "Hyperbaric oxygen therapy"
-        ],
-        "correctAnswer": 1,
-        "explanation": "In chronic osteomyelitis, surgical debridement and obtaining bone cultures are essential for effective management and to guide antibiotic therapy."
-    },
-    {
-        "question": "Which of the following bacteria is most likely to cause hematogenous osteomyelitis in an infant?",
-        "choices": [
-            "Staphylococcus aureus",
-            "Kingella kingae",
-            "E. coli",
-            "Mycobacterium tuberculosis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "E. coli is a common cause of hematogenous osteomyelitis in neonates and infants."
-    },
-    {
-        "question": "In a case of contiguous osteomyelitis following a traumatic wound, which of the following bacteria is most likely involved?",
-        "choices": [
-            "Escherichia coli",
-            "Staphylococcus aureus",
-            "Streptococcus pneumoniae",
-            "Mycobacterium tuberculosis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Contiguous osteomyelitis often involves Staphylococcus aureus, especially in cases of trauma or open wounds."
-    },
-    {
-        "question": "Which of the following characteristics is typical of chronic osteomyelitis?",
-        "choices": [
-            "Rapid onset of symptoms",
-            "Formation of involucrum and sequestrum",
-            "Minimal bone destruction",
-            "Commonly due to hematogenous spread"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Chronic osteomyelitis is characterized by the formation of sequestrum (dead bone) and involucrum (new bone growth around dead tissue)."
-    },
-    {
-        "question": "A 3-year-old child presents with fever and a limp. MRI confirms osteomyelitis in the femur. Which organism is most commonly associated with this condition in children under 4 years?",
-        "choices": [
-            "Staphylococcus aureus",
-            "Salmonella spp.",
-            "Kingella kingae",
-            "Streptococcus pyogenes"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Kingella kingae is a common cause of osteomyelitis in children between 6 months and 4 years."
-    },
-    {
-        "question": "In the pathogenesis of acute osteomyelitis in children, what anatomical feature of growing bone promotes bacterial adherence?",
-        "choices": [
-            "Epiphysis",
-            "Nutrient artery",
-            "Periosteum",
-            "Discontinuous endothelium in metaphysis"
-        ],
-        "correctAnswer": 3,
-        "explanation": "The discontinuous endothelium in the metaphysis of growing bones provides a foothold for bacteria, predisposing to osteomyelitis."
-    },
-    {
-        "question": "A 65-year-old man presents with back pain, fever, and tenderness over the lower lumbar spine. He has a history of UTIs. MRI shows disc space narrowing and vertebral erosion at L4-L5. Which organism is most likely the cause?",
-        "choices": [
-            "Mycobacterium tuberculosis",
-            "Staphylococcus aureus",
-            "Propionibacterium acnes",
-            "Pseudomonas aeruginosa"
-        ],
-        "correctAnswer": 2,
-        "explanation": "In vertebral osteomyelitis, coagulase (-) staph and P.acnes are most common. Brucella and M. tuberculosis are also possible but less common."
-    },
-    {
-        "question": "A 72-year-old woman is hospitalized for septic arthritis of the knee. Which organism is the most common cause of infectious arthritis in elderly patients?",
-        "choices": [
-            "Staphylococcus aureus",
-            "Neisseria gonorrhoeae",
-            "Kingella kingae",
-            "Escherichia coli"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Staphylococcus aureus is the most common cause of septic arthritis in elderly patients."
-    },
-    {
-        "question": "A 25-year-old man presents with fever, chills, and severe headache following a camping trip. He recalls a tick bite and develops a target-like rash. What is the recommended treatment for early-stage Lyme disease?",
-        "choices": [
-            "Intravenous ceftriaxone",
-            "Oral doxycycline",
-            "Oral ceftriaxone",
-            "Oral azithromycin"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Oral doxycycline or amoxicillin for 14-21 days is the treatment of choice for early Lyme disease, particularly in adults."
-    },
-    {
-        "question": "Which feature distinguishes hematogenous osteomyelitis from contiguous osteomyelitis?",
-        "choices": [
-            "Higher prevalence in children",
-            "Typically caused by direct inoculation",
-            "Often polymicrobial",
-            "More common in the elderly"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Hematogenous osteomyelitis is more common in children and often results from bloodborne bacteria, whereas contiguous osteomyelitis is more common in adults following trauma or surgery."
-    },
-    {
-        "question": "A 35-year-old IVDU presents with back pain and fever. MRI reveals an epidural abscess. Which of the following organisms is most likely to be isolated?",
-        "choices": [
-            "Escherichia coli",
-            "Staphylococcus aureus",
-            "Mycobacterium tuberculosis",
-            "Pseudomonas aeruginosa"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Staphylococcus aureus is the most common cause of spinal infections in IVDUs, often leading to osteomyelitis or epidural abscess."
-    },
-    {
-        "question": "A 52-year-old woman with early disseminated Lyme disease presents with meningitis and facial nerve palsy. What is the appropriate treatment for her neurological symptoms?",
-        "choices": [
-            "Oral doxycycline",
-            "Oral azithromycin",
-            "IV ceftriaxone",
-            "Oral amoxicillin"
-        ],
-        "correctAnswer": 2,
-        "explanation": "IV ceftriaxone is recommended for Lyme disease with neurological involvement, such as meningitis or cranial nerve palsy."
-    },
-    {
-        "question": "A patient presents with chronic osteomyelitis and a draining sinus tract in the tibia. Which imaging modality is preferred for assessing the extent of infection?",
-        "choices": [
-            "X-ray",
-            "CT scan",
-            "MRI",
-            "Bone scan"
-        ],
-        "correctAnswer": 2,
-        "explanation": "MRI is the most sensitive imaging modality for assessing the extent of chronic osteomyelitis and identifying areas of bone involvement and abscesses."
-    },
-{
-        "question": "A 45-year-old patient with chronic lower back pain asks about complementary and alternative medicine (CAM) therapies. Which of the following is most supported by evidence for managing chronic pain?",
-        "choices": [
-            "Hypnosis",
-            "Acupuncture",
-            "Homeopathy",
-            "Detox diets"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Acupuncture has a solid evidence base supporting its role in pain management, particularly for conditions like chronic lower back pain."
-    },
-    {
-        "question": "A patient wants information on a diet that may reduce chronic inflammation and improve joint health. Which diet is commonly recommended for its anti-inflammatory properties?",
-        "choices": [
-            "High-protein diet",
-            "Mediterranean diet",
-            "Paleo diet",
-            "Low-fat diet"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The Mediterranean diet is well-researched for its anti-inflammatory effects and can help reduce pain and inflammation in chronic diseases."
-    },
-    {
-        "question": "Which mind-body intervention is shown to have positive effects on both pain severity and associated depression in patients with chronic pain?",
-        "choices": [
-            "Qigong",
-            "Guided imagery",
-            "Yoga",
-            "Mindfulness-based stress reduction (MBSR)"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Mindfulness-based stress reduction (MBSR) is shown to improve pain severity and associated anxiety and depression."
-    },
-    {
-        "question": "A 40-year-old woman with fibromyalgia is interested in trying complementary treatments. She asks about CAM approaches that target both body and mind for pain relief. Which therapy is likely most beneficial?",
-        "choices": [
-            "Hypnosis",
-            "Tai Chi",
-            "Osteopathic Manipulative Therapy (OMT)",
-            "Therapeutic touch"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Tai Chi is a mind-body practice that has shown benefits in reducing fibromyalgia symptoms through movement, relaxation, and focus."
-    },
-    {
-        "question": "When discussing CAM options for pain management with a patient, what should be emphasized about these treatments?",
-        "choices": [
-            "They are always free of side effects",
-            "They can replace all conventional pain medications",
-            "Not all CAM therapies are evidence-based",
-            "They are only useful for psychological pain"
-        ],
-        "correctAnswer": 2,
-        "explanation": "It's essential to inform patients that while CAM therapies can be beneficial, they may not be fully evidence-based and should be chosen carefully."
-    },
-    {
-        "question": "A physician is looking for reliable sources to provide patients with information about CAM options for pain management. Which of the following sources is most appropriate?",
-        "choices": [
-            "National Center for Complementary and Integrative Health (NCCIH)",
-            "Social media wellness blogs",
-            "Alternative Medicine Guidebook (non-peer-reviewed)",
-            "Online forums with patient reviews"
-        ],
-        "correctAnswer": 0,
-        "explanation": "The NCCIH provides reliable, evidence-based information on CAM therapies for both patients and healthcare providers."
-    },
-    {
-        "question": "Which of the following CAM therapies has shown the greatest evidence for efficacy in reducing pain through localized neuromodulation?",
-        "choices": [
-            "Biofeedback",
-            "Acupuncture",
-            "Homeopathy",
-            "Aromatherapy"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Acupuncture has demonstrated pain-reducing effects by modulating local neuromodulation and neurotransmitter release."
-    },
-    {
-        "question": "Which CAM therapy focuses on improving blood flow, decreasing pain, and reducing stress by manipulating muscle and connective tissues?",
-        "choices": [
-            "Hypnotherapy",
-            "Therapeutic massage",
-            "Reflexology",
-            "Qi Gong"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Therapeutic massage manipulates soft tissues to reduce stress and pain by improving blood circulation and relaxation."
-    },
-    {
-        "question": "Which therapy involves gentle movement and breathing exercises to help manage pain through relaxation and enhanced awareness?",
-        "choices": [
-            "Acupuncture",
-            "Homeopathy",
-            "Tai Chi",
-            "Meditation"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Tai Chi involves slow, controlled movements and deep breathing, helping to alleviate pain by improving relaxation and body awareness."
-    },
-    {
-        "question": "Which of the following is a mind-body technique that has shown evidence for pain management by influencing both the HPA axis and stress response?",
-        "choices": [
-            "Biofeedback",
-            "Yoga",
-            "Herbal supplements",
-            "Detox diets"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Yoga is a mind-body intervention shown to affect the hypothalamic-pituitary-adrenal (HPA) axis, reducing stress and contributing to pain relief."
-    }, 
-{
-    "question": "Which of the characteristics below is least characteristic of the spondyloarthropathies?",
-    "choices": [
-        "Axial skeleton involvement",
-        "C-reactive protein positive",
-        "HLA-B27 antigen",
-        "Joint pain",
-        "Rheumatoid factor"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is rheumatoid factor (E). None of these disorders shows a positive rheumatoid factor or antinuclear antibody, making them forms of seronegative arthritis. Their autoimmune injury comes via different mechanisms. The other listed options are all common to these disorders, including axial skeleton involvement (A), elevated C-reactive protein (B) and erythrocyte sedimentation rate, HLA-B27 (C), and joint pain (D)."
-},
-{
-    "question": "Which of the following is seen more often in ankylosing spondylitis than in the other spondyloarthropathies?",
-    "choices": [
-        "Conjunctivitis",
-        "DIP joint arthritis",
-        "Fingernail abnormalities",
-        "Mitral valve stenosis",
-        "Sacroiliac joint inflammation"
-    ],
-    "correctAnswer": 4,
-    "explanation": "The correct answer is sacroiliac joint inflammation (E). Ankylosing spondylitis is characterized by chronic low back pain in young men, due to sacroiliac joint inflammation. Conjunctivitis (A) is more commonly seen in reactive arthritis. DIP joint arthritis (B) is seen more in psoriatic arthritis. Fingernail abnormalities (C) are seen in both reactive arthritis and psoriatic arthritis. Mitral valve stenosis (D) is not seen in any of these disorders."
-},
-{
-    "question": "A 24-year-old man diagnosed with *Chlamydia trachomatis* infection 2 weeks ago comes to the office for follow-up. He has taken his prescribed antibiotics but now has ankle and knee pain as well as pain on urination. His joint pain is only on the left side. It started as an ankle pain, which he thought was due to some sort of injury, but several days later the knee pain started. In addition, he noticed some brown nodules on his foot, and he has pink, watery eyes. In addition to continuing antibiotics, which of the following is the most appropriate treatment for him?",
-    "choices": [
-        "Anti–IL-17 agents",
-        "NSAIDs",
-        "Methotrexate",
-        "Observation only",
-        "TNF inhibitors"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is NSAIDs (B). This patient has reactive arthritis, a condition that manifests a few weeks after an initial infection. Antibiotics are given to address any underlying infections, but because he has symptomatic arthritis, NSAIDs should be started for symptomatic relief. None of the remaining listed drugs is used in reactive arthritis. Anti–IL-17 agents (A) are used for very severe psoriatic arthritis. Methotrexate (C) is used in severe psoriatic arthritis. Treatment is needed for the patient’s inflammation, so observation alone (D) is incorrect. TNF inhibitors (E) are used for ankylosing spondylitis and psoriatic arthritis."
-},
-{
-    "question": "A 55-year-old man presents to the hospital with severe foot pain, specifically in his left big toe. The left proximal interphalangeal joint is swollen and red. His serum uric acid level is 9.2 mg/dL. A joint aspirate shows a WBC count of 40,000/mm³ and negatively birefringent needle-shaped crystals. Which of the following is the best next step in management?",
-    "choices": [
-        "Allopurinol",
-        "Codeine",
-        "Hydroxychloroquine",
-        "Indomethacin",
-        "Methotrexate"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is indomethacin (D). The patient has symptoms and joint findings indicative of acute gout, which is best treated initially with an NSAID like indomethacin. Allopurinol (A) lowers serum uric acid levels but is not used in acute gout because it may precipitate acute attacks. It is used in chronic gout and for prevention of acute attacks later. Codeine (B) is an analgesic that might reduce pain but not inflammation, so it is not indicated in acute gout. Hydroxychloroquine (C) is an antimalarial medication used in some types of chronic CPPD but not acute gout. Methotrexate (E) is prescribed for some chronic forms of CPPD but not acute gout."
-},
-
-    {
-        "question": "A 67-year-old man with a history of diabetes mellitus has been experiencing joint pain for the past few years. He describes pain, mainly in the small joints of his hands, associated with morning stiffness. Analysis of synovial fluid aspirated from an affected joint reveals crystals that are blue when parallel to the projection of polarized light. What is the most likely diagnosis?",
-        "choices": [
-            "Calcium pyrophosphate deposition disease",
-            "Gout",
-            "Osteoarthritis",
-            "Rheumatoid arthritis"
-        ],
-        "correctAnswer": 0,
-        "explanation": "The correct answer is calcium pyrophosphate deposition disease (CPPD). In CPPD, synovial fluid will contain rhomboid crystals weakly positively birefringent under polarized light, appearing blue when parallel and yellow when perpendicular. Gout may present similarly but shows needle-shaped crystals with negative birefringence, appearing yellow when parallel to polarized light. Osteoarthritis and rheumatoid arthritis would not show crystals under polarized light."
-    },
-    {
-        "question": "A 28-year-old field hockey player presents to the physician’s office after being hit in the back of her knee by an opponent’s field hockey stick. For the past few days after the incident, she has experienced intermittent pain and swelling. On physical exam, you see a fluid-filled cyst in the popliteal region. What is the next step?",
-        "choices": [
-            "Aspirate the fluid-filled cyst",
-            "Obtain MRI to confirm the diagnosis",
-            "Prescribe NSAIDs and rest",
-            "Start empiric antibiotics"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The correct answer is to prescribe NSAIDs and rest. The patient most likely has popliteal bursitis, also known as a Baker cyst. If the bursitis is acute, there may be no need to aspirate immediately because most cysts are benign and reduce on their own. MRI is typically reserved if the diagnosis is unclear, and antibiotics are not indicated without suspicion of infection."
-    },
-  {
-        "question": "A 55-year-old male presents to his physician describing left hip pain for the past 2 years. He has no fever, and the pain is worse with movement and relieved by rest. He also has early morning stiffness. Apart from mild swelling, the skin overlying his left hip looks normal. His CRP value is normal. What is the most likely diagnosis?",
-        "choices": [
-            "Ankylosing spondylitis",
-            "Gout",
-            "Osteoarthritis",
-            "Reactive arthritis",
-            "Septic arthritis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "The correct answer is osteoarthritis (C). This patient has joint pain that is worse with movement and relieved with rest, without any systemic signs and symptoms, and osteoarthritis is the most probable diagnosis. The normal CRP confirms a noninflammatory arthritis, of which osteoarthritis is the most common cause."
-    },
-    {
-        "question": "A 10-year-old male with a medical history of sickle cell disease presents to the hospital with fever and a swollen, red, and painful knee joint. His sickle cell disease is well-controlled. An x-ray of the joint is normal. In addition to appropriate antibiotics, IV fluids, and pain management, what else should be done now?",
-        "choices": [
-            "Biopsy the synovium",
-            "Drain the joint with needle aspiration",
-            "Give intra-articular antibiotics",
-            "MRI of the involved joint",
-            "No additional management required"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The correct answer is to drain the joint with needle aspiration (B). Joint drainage with antibiotics is the standard of care for septic arthritis, especially in patients with high-risk conditions like sickle cell disease."
-    },
-    {
-        "question": "A 56-year-old female with diabetes presents to the emergency department with a 5-day history of decreased range of motion of her right knee, along with pain and fever. What is the best next step in diagnosis?",
-        "choices": [
-            "Blood cultures",
-            "Complete blood count",
-            "C-reactive protein",
-            "Joint aspiration of synovial fluid",
-            "X-rays of the knee"
-        ],
-        "correctAnswer": 3,
-        "explanation": "The correct answer is joint aspiration of synovial fluid (D). Joint aspiration provides definitive information on the presence of pathogens within the joint space, which is essential in diagnosing septic arthritis."
-    },
-    {
-        "question": "A 25-year-old female had a car crash 2 weeks ago and broke her leg. Her injuries were treated. Today she complains of leg pain, along with fever and redness of the upper part of her leg. A diagnosis of osteomyelitis was made; however, no organisms were identified despite all the blood tests that were done. Blood cultures have been negative three times. What is the best next step in management?",
-        "choices": [
-            "Blood cultures",
-            "Bone biopsy",
-            "Bone scan",
-            "Complete blood count",
-            "MRI of the bone"
-        ],
-        "correctAnswer": 1,
-        "explanation": "The correct answer is bone biopsy (B). Bone biopsy is the most definitive diagnostic test in cases where blood cultures are negative, as it can identify the causative organism directly from the infected bone."
-    },
-{
-    "question": "A 27-year-old man comes to the clinic because of pain and blurry vision in his right eye for the past week. He also notes a 3-month history of progressive low back and hip pain and stiffness. The pain wakes him up at night, feels worse in the morning, and improves with activity. On physical examination, the right eye is erythematous, with decreased visual acuity. There is decreased range of motion when bending at the waist. Which of the following human leukocyte antigen (HLA) subtypes would most likely be present in this patient's cells?",
-    "choices": [
-        "HLA-B27",
-        "HLA-B8",
-        "HLA-DQ8",
-        "HLA-DR2",
-        "HLA-DR4"
+        "P falciparum",
+        "P malariae",
+        "P ovale",
+        "P vivax"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is HLA-B27 (A). The patient's symptoms of progressive low back pain and uveitis (eye inflammation) are characteristic of ankylosing spondylitis, which is commonly associated with the HLA-B27 genotype. This condition primarily affects the axial skeleton and often presents with pain that is worse in the morning and improves with movement."
+    "explanation": "The correct answer is P falciparum (A). This patient has severe malaria, confirmed via blood smear examination, which revealed ring forms, as well as a banana-shaped gametocyte, which is specific for P falciparum. The other species, P malariae (B), P ovale (C), and P vivax (D), do not typically cause such severe disease, and their gametes are not banana or crescent shaped."
+},
+    {
+        "question": "Which species of Plasmodium is most likely to cause severe malaria and cerebral complications?",
+        "choices": [
+            "P vivax",
+            "P ovale",
+            "P malariae",
+            "P falciparum"
+        ],
+        "correctAnswer": 3,
+        "explanation": "P falciparum causes high-grade parasitemia, rosetting of RBCs, and adhesion to endothelial cells, leading to severe complications like cerebral malaria."
+    },
+    {
+        "question": "A patient presents with cyclic fever every 48 hours. Which Plasmodium species are most likely responsible for these symptoms?",
+        "choices": [
+            "P malariae and P knowlesi",
+            "P vivax and P ovale",
+            "P falciparum and P malariae",
+            "P falciparum and P vivax"
+        ],
+        "correctAnswer": 1,
+        "explanation": "P vivax and P ovale complete their asexual RBC life cycle in 48 hours, leading to fevers every third day."
+    },
+    {
+        "question": "Which genetic factor provides the most protection against P falciparum infection?",
+        "choices": [
+            "Beta-thalassemia",
+            "Absence of the Duffy antigen",
+            "Hgb AS (sickle cell trait)",
+            "G6PD deficiency"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hgb AS (sickle cell trait) is 80-90% protective against severe falciparum malaria by interfering with parasite growth."
+    },
+    {
+        "question": "A patient presents with symptoms of blackwater fever. Which complication is most likely responsible for this presentation?",
+        "choices": [
+            "Severe hemolysis leading to hemoglobinuria",
+            "RBC invasion by P vivax",
+            "Liver dysfunction due to malaria",
+            "Renal failure caused by P malariae"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Blackwater fever is caused by hemoglobinuria due to massive hemolysis, a hallmark of severe P falciparum infection."
+    },
+    {
+        "question": "Which diagnostic method is considered the most sensitive for detecting Plasmodium species in the laboratory?",
+        "choices": [
+            "Microscopy of a blood smear",
+            "Antigen detection of Plasmodium Ag",
+            "Polymerase chain reaction (PCR)",
+            "Clinical diagnosis based on symptoms"
+        ],
+        "correctAnswer": 2,
+        "explanation": "PCR is the most sensitive method for detecting Plasmodium species, though it is not practical for field testing."
+    },
+    {
+        "question": "A patient with G6PD deficiency is treated for malaria. Which antimalarial should be avoided to prevent hemolysis?",
+        "choices": [
+            "Chloroquine",
+            "Primaquine",
+            "Atovaquone",
+            "Artesunate"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Primaquine can cause hemolytic anemia in G6PD-deficient individuals and should be avoided."
+    },
+    {
+        "question": "A 30-year-old woman in her first trimester of pregnancy is diagnosed with severe malaria. Which treatment is the most appropriate?",
+        "choices": [
+            "Chloroquine phosphate",
+            "Primaquine",
+            "IV artesunate",
+            "Atovaquone/proguanil"
+        ],
+        "correctAnswer": 2,
+        "explanation": "IV artesunate is the treatment of choice for severe malaria, including in pregnant women."
+    },
+    {
+        "question": "Which species of Plasmodium is most likely to cause relapsing malaria due to dormant liver forms (hypnozoites)?",
+        "choices": [
+            "P falciparum",
+            "P vivax and P ovale",
+            "P malariae",
+            "P knowlesi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "P vivax and P ovale form hypnozoites in the liver, which can reactivate and cause relapses months to years after the initial infection."
+    },
+    {
+        "question": "Which non-genetic factor provides significant protection against severe malaria in endemic areas?",
+        "choices": [
+            "Absence of Duffy antigen",
+            "Iron-deficiency anemia",
+            "Maternal antibodies",
+            "Beta-thalassemia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Iron-deficiency anemia reduces the availability of iron, which is essential for the parasite's growth, providing partial protection against malaria."
+    },
+    {
+        "question": "Which antimalarial drug combination is most effective for malaria prophylaxis in areas with multidrug-resistant P falciparum?",
+        "choices": [
+            "Chloroquine and primaquine",
+            "Atovaquone/proguanil",
+            "Artemether/lumefantrine",
+            "Doxycycline and chloroquine"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Atovaquone/proguanil is effective for malaria prophylaxis in regions with multidrug-resistant P falciparum."
+    },
+    {
+        "question": "What is the largest category of waste in the U.S. healthcare system, accounting for up to 25% of total healthcare expenditures?",
+        "choices": [
+            "Unnecessary services",
+            "Excess administrative costs",
+            "Fraud",
+            "Missed prevention opportunities"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Excess administrative costs are the largest category of waste, estimated to be $812 billion annually, driven by complex billing, pre-certifications, and documentation requirements."
+    },
+    {
+        "question": "How does the current U.S. healthcare system compare to peer nations in terms of cost and outcomes?",
+        "choices": [
+            "Lower costs and higher outcomes",
+            "Higher costs and better outcomes",
+            "Higher costs and worse outcomes",
+            "Comparable costs and outcomes"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The U.S. healthcare system spends approximately twice as much per capita as peer nations but has worse system-level outcomes such as higher infant mortality and lower life expectancy."
+    },
+    {
+        "question": "A hospital administrator wants to reduce waste in their healthcare system using Lean Six Sigma. Which area is most likely to benefit from this methodology?",
+        "choices": [
+            "Standardizing clinical guidelines",
+            "Improving documentation of patient symptoms",
+            "Optimizing supply chain and billing processes",
+            "Expanding physician-to-patient ratios"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Lean Six Sigma is effective in optimizing administrative processes like supply chain management, billing, and reducing inefficiencies."
+    },
+    {
+        "question": "Which of the following represents a paradigm shift in healthcare quality measurement?",
+        "choices": [
+            "Focusing solely on individual physician expertise",
+            "Evaluating system-wide patient-centered outcomes",
+            "Minimizing transparency to reduce errors",
+            "Measuring physician credentials as a quality metric"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The shift focuses on system performance and patient-centered outcomes rather than solely individual provider expertise."
+    },
+    {
+        "question": "Which of the following policy solutions could reduce administrative waste in the U.S. healthcare system?",
+        "choices": [
+            "Increasing pre-certification requirements",
+            "Adopting a standardized claims clearinghouse",
+            "Decentralizing administrative functions",
+            "Implementing unique billing codes for each payer"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Standardized claims processes across payers could significantly reduce redundancy and administrative waste."
+    },
+    {
+        "question": "A patient-centered healthcare system emphasizes which of the following as a critical measure of quality?",
+        "choices": [
+            "Correct diagnosis by the physician",
+            "High patient satisfaction and communication",
+            "Minimizing physician administrative workload",
+            "Implementing strict cost-cutting measures"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Patient-centered care emphasizes outcomes that matter to patients, such as safety, timeliness, and clear communication."
+    },
+    {
+        "question": "The diagnosis of falciparum malaria can be confirmed when the malaria smear shows which of the following?",
+        "choices": [
+            "Crescent-shaped gametocytes.",
+            "Rosette forms.",
+            "Schizonts.",
+            "Schuffner’s dots.",
+            "Sporozoites."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Crescent-shaped gametocytes are diagnostic for P. falciparum. Schizonts- rarely found because of the sticky knobs on the parasitized RBCs which get them hung up in the microcirculation. However, real malariologists—not fake ones like me—could recognize them when they see them. Schuffner’s dots. (P. vivax & P. ovale). Sporozoites. (These are the forms injected by the mosquito). Rosette forms. (P. malariae)."
+    },
+    {
+        "question": "Fever occurring every 72 hours and ring forms in senescent RBCs is characteristic of infection by which of the following?",
+        "choices": [
+            "P. falciparum",
+            "P. knowlesii",
+            "P. malariae. ()",
+            "P. ovale ",
+            "P. vivax "
+        ],
+        "correctAnswer": 2,
+        "explanation": "P. malariae is the only Plasmodium species with a quartan fever cycle of 72 hours, the only quartan malaria—fever on day #1; no fever on day #2; no fever on day #3; fever on day #4—only 72 hours have elapsed.. P. knowlesii is daily. P. ovale and P. vivax is every 48 hours. "
+    },
+    {
+        "question": "Malaria due to which of the following does not relapse after successful treatment?",
+        "choices": [
+            "P. vivax. ",
+            "P. falciparum.",
+            "P. malariae.",
+            "P. ovale."
+        ],
+        "correctAnswer": 1,
+        "explanation": "P. falciparum does not form hypnozoites, so it does not relapse after treatment. P. vivax and P. Ovale have Hypnozoites—dormant liver schizonts—will be left in the liver unless you give follow-up Rx with primaquine to kill the hypnozoites. If you don’t, P. vivax will relapse at some point. P. malariae may relapse as long as years later because of very low-grade parasitemia.  "
+    },
+    {
+        "question": "Which of the following would be rare or absent in the peripheral blood of a patient with falciparum malaria?",
+        "choices": [
+            "Gametocytes.",
+            "Merozoites. ",
+            "Ring trophozoites.",
+            "Schizonts",
+            "Sporozoites”
+        ],
+        "correctAnswer": 3,
+        "explanation": "Schizonts are rarely found in peripheral blood because they get sequestered in the microcirculation due to sticky knobs."
+    },
+    {
+        "question": "The most common type of malaria in sub-Saharan Africa is caused by which of the following?",
+        "choices": [
+            "P. falciparum.",
+            "P. knowlesii.",
+            "P. malariae",
+            "P. ovale",
+            "P. vivax"
+        ],
+        "correctAnswer": 0,
+        "explanation": "P. falciparum is the most common cause of malaria in sub-Saharan Africa, accounting for the majority of cases. P. knowlesii is mostly found in east Asia; esp Borneo. P. vivax is mostly found in Latin America and India. P. malariae and P. Ovale are found globally."
+    },
+    {
+        "question": "Sexual reproduction of malarial parasites takes place in which of the following locations?",
+        "choices": [
+            "Bone marrow.",
+            "Intestinal tract of the mosquito.",
+            "Liver.",
+            "Peripheral blood.",
+            "Spleen."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sexual reproduction of malarial parasites occurs in the intestinal tract of the mosquito."
+    },
+    {
+        "question": "Schuffner’s dots are found in RBCs infected with which of the following?",
+        "choices": [
+            "P. falciparum",
+            "P. knowlesii.",
+            "P. malariae.",
+            "P. ovale"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Schuffner’s dots are found in RBCs infected with P. ovale and P. vivax."
+    },
+    {
+        "question": "Senescent RBCs are the exclusive target of which of the following?",
+        "choices": [
+            "P. falciparum.",
+            "P. malariae.",
+            "P. ovale.",
+            "P. vivax."
+        ],
+        "correctAnswer": 1,
+        "explanation": "P. malariae exclusively targets senescent RBCs, resulting in low-grade parasitemia. P. falciparum hit any RBC. P. Ovale/Vivax only hit young RBCs (reticulocytes) with CD71."
+    },
+{
+    "question": "A child born to a 24-year-old mother with no prenatal care was stillborn and presented with hydrops fetalis. Later, it was found that the child had four α-globin gene deletions, resulting in production of γ-globin chain tetramers, known as hemoglobin Barts. Which of the following laboratory studies would you expect to be abnormal?",
+    "choices": [
+        "Direct antiglobulin test",
+        "Hemoglobin electrophoresis",
+        "Osmotic fragility test",
+        "White blood cell differential"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is hemoglobin electrophoresis (B). This child was born with α-thalassemia. α-Thalassemia due to four allele deletions is incompatible with life and often presents as hydrops fetalis due to circulating tetramers of γ-globulin (hemoglobin Barts). In this type of α-thalassemia, hemoglobin electrophoresis, which measures and identifies the different types of hemoglobin within the bloodstream, shows the presence of hemoglobin Barts. A direct antiglobulin test (DAT) (A) is positive in autoimmune hemolytic anemias but not in thalassemia. Osmotic fragility testing (C) measures the fragility of RBCs; it is often abnormal in hereditary spherocytosis but is normal in α-thalassemia. A white blood cell differential (D) can be useful when diagnosing inflammation and infections but does not give information that is helpful for diagnosing thalassemia."
 },
 {
-    "question": "A 26-year-old man comes to the clinic because of several years of back pain. He reports stiffness upon waking that improves with exercise. He also reports occasional hip pain. On physical examination, hip flexion, hip extension, and flexion of the lower back are limited. There is tenderness on palpation over the lumbar spine and sacroiliac joints. Which of the following is the most likely finding on diagnostic imaging?",
+    "question": "A 25-year-old woman presents to her primary care physician complaining of worsening symptoms of her chronic anemia. Her physician wants to take a further look at her reticulocytes. Which stain is most appropriate to visualize the ribosomal RNA inside the reticulocytes?",
     "choices": [
-        "Fusion of lumbar vertebrae",
-        "Lateral curvature of the spine",
-        "Lumbar disc herniation",
-        "Osteophytes in the intervertebral joints",
-        "Pannus formation",
-        "Vertebral compression fractures"
+        "Giemsa stain",
+        "Periodic acid-Schiff staining",
+        "Sudan black B staining",
+        "Supravital staining",
+        "Wright-Giemsa stain"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is supravital staining (D). Supravital staining is a process used to examine living cells that have been removed from an organism. The most common supravital stain is performed on reticulocytes, which are immature RBCs that are present in low numbers in normal blood. With new methylene blue or brilliant cresyl blue, the ribosomal RNA is visible inside the reticulocytes. Wright and Giemsa (A) stains are used together as a differential stain for blood; RNA is not directly visible on Wright-Giemsa staining (E), although reticulocytes do have a bluish tinge to the cytoplasm due to the extra RNA. Periodic acid-Schiff staining (B) is used to stain carbohydrates, and Sudan black B staining (C) uses Sudan dyes to stain lipids black."
+},
+{
+    "question": "A 34-year-old female presents with fatigue and lethargy. She appears pale on physical exam, and her heart rate is elevated. A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL
+MCV 73 fL
+RDW 16.5%
+RBC 2.8 × 10^12/mm³
+WBC 6000/mm³
+Platelets 500,000/mm³
+A blood smear shows increased anisocytosis. Which of the following is the most likely diagnosis?",
+    "choices": [
+        "G6PD deficiency",
+        "Iron-deficiency anemia",
+        "Megaloblastic anemia",
+        "Microangiopathic hemolytic anemia",
+        "Thalassemia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is iron-deficiency anemia (B). The patient is anemic (hemoglobin 8.5 g/dL) and microcytic (low mean corpuscular volume [MCV]). In a woman of childbearing age with a microcytic anemia, iron-deficiency anemia due to heavy menses is most likely and is supported by the anisocytosis on the blood smear, along with the increased RBC distribution width (RDW). G6PD deficiency (A) is a hemolytic anemia that would be normocytic. Megaloblastic anemia (C) is macrocytic. A microangiopathic hemolytic anemia (D) such as TTP or HUS would be normocytic and would likely show schistocytes on the blood smear, as well as low platelets. Thalassemia (E) is not likely, because the RDW is increased (it is normal or decreased in thalassemia) and the red blood cell (RBC) count is decreased (it is increased in thalassemia)."
+},
+{
+    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following:
+Hemoglobin 8.5 g/dL
+MCV 105 fL\nRDW 13.0%
+RBC 2.9 × 10^12/mm³
+WBC 5700/mm³
+Platelets 320,000/mm³
+A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
+    "choices": [
+        "Folate deficiency",
+        "Heavy alcohol use",
+        "Hereditary spherocytosis",
+        "Myelodysplastic syndrome",
+        "Thalassemia"
     ],
     "correctAnswer": 0,
-    "explanation": "The correct answer is fusion of lumbar vertebrae (A). The patient's chronic back pain, morning stiffness that improves with exercise, and limited range of motion are characteristic of ankylosing spondylitis. This condition often leads to fusion of the vertebrae, particularly in the lumbar and sacroiliac regions, which would be observed on imaging. Other options are less consistent with this presentation."
+    "explanation": "The correct answer is folate deficiency (A). The patient presents with signs and symptoms of anemia and is found to have a macrocytic (mean corpuscular volume [MCV] 105 fL) anemia on complete blood count (CBC). Hypersegmented neutrophils are present in the blood, which is diagnostic of megaloblastic anemia (usually B12 or folate deficiency). Heavy alcohol use (B) may cause a macrocytic anemia, but it would be nonmegaloblastic and lack hypersegmented neutrophils as seen here. Hereditary spherocytosis (C) is a hemolytic anemia that is normocytic, not macrocytic. Myelodysplastic syndrome (D) sometimes presents with a macrocytic anemia but does not show megaloblastic changes (such as hypersegmented neutrophils) in the blood; it may also show low white blood cells (WBCs) or platelets. Thalassemia (E) is a microcytic anemia, not a macrocytic anemia."
 },
 {
-    "question": "A 38-year-old man with type 2 diabetes mellitus presents to his physician for evaluation of swelling in his right middle finger, left hand, and right foot over the past 3 weeks. Physical examination reveals marked erythema and edema in the swollen joints. Both elbows have well-demarcated pink plaques with thick, silvery scale. Which of the following is most likely to also be seen in this patient?",
+    "question": "A 20-year-old male is involved in a motor vehicle accident. He sustains a laceration to his right lower extremity. Initially, blood can be seen dripping from the injury site. After a 10-minute interval, emergency personnel note spontaneous hemostasis of the injury. Which of the following is the first step involved in this process?",
     "choices": [
-        "Antigliadin antibodies",
-        "Nail pits",
-        "Negatively birefringent crystals in joint fluid",
-        "Positive rheumatoid factor",
-        "Weakly positively birefringent crystals in joint fluid"
+        "Activation of factor X",
+        "Fibrinolysis",
+        "Formation of fibrin",
+        "Platelet plug formation",
+        "Vascular constriction"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is vascular constriction (E). Blood vessels immediately constrict after an injury. The effects are two-fold: blood leakage is reduced, and blood flow is slowed down so that coagulation factors can exert their effect at the trauma site. Activation of factor X (A) occurs during secondary hemostasis. Fibrinolysis (B), the dissolution of clots, occurs after hemostasis—that is, once the hemorrhage stops and healing begins. The formation of fibrin (C), like the activation of factor X, occurs during secondary hemostasis, after platelet plug formation (D)."
+},
+{
+    "question": "Which of the following is the main goal of secondary hemostasis?",
+    "choices": [
+        "Activation of platelets",
+        "Creation of a platelet plug",
+        "Platelet degranulation",
+        "Platelet plug reinforcement",
+        "Thromboplastin formation"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is platelet plug reinforcement (D). The coagulation cascade is also known as secondary hemostasis. Its main function is to produce fibrin, the molecule in charge of reinforcing the soft platelet plug. Activation of platelets (A) occurs after subendothelial collagen is exposed during injury. Creation of a platelet plug (B) is alternatively known as primary hemostasis, and platelet degranulation (C) also occurs after subendothelial collagen is exposed during injury. Although thromboplastin is involved in the coagulation cascade, thromboplastin formation (E) is not the main objective."
+},
+{
+    "question": "Which of the following circulating molecules is responsible for dissolving an already-formed clot?",
+    "choices": [
+        "Antithrombin",
+        "Fibrinogen",
+        "Plasmin",
+        "Plasminogen",
+        "Thrombin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is plasmin (C). Plasmin is the main protein involved in thrombolysis, the process of dissolving clots or breaking up clots in blood vessels. Antithrombin (A) is an important regulatory molecule of the coagulation cascade; it stops the formation of fibrin but does not dissolve any fibrin that has already been formed. Fibrinogen (B) and plasminogen (D) are inactive molecules known as zymogens and can only be activated by enzymes (many coagulation factors are enzymes). Thrombin (E) is a key factor in the coagulation cascade because it activates many other coagulation factors."
+},
+{
+    "question": "At what event in the coagulation cascade do both intrinsic and extrinsic pathways combine to form the common pathway?",
+    "choices": [
+        "Conversion of factor VII to VIIa",
+        "Conversion of factor X to Xa",
+        "Conversion of factor XI to XIa",
+        "Conversion of fibrinogen to fibrin",
+        "Conversion of prothrombin to thrombin"
     ],
     "correctAnswer": 1,
-    "explanation": "The correct answer is nail pits (B). The presentation of pink plaques with silvery scale is suggestive of psoriasis. Psoriatic arthritis, which is associated with psoriasis, commonly presents with joint swelling and erythema. Nail pits are a classic finding in psoriatic arthritis. Antigliadin antibodies (A) are associated with celiac disease, negatively birefringent crystals (C) indicate gout, positive rheumatoid factor (D) is seen in rheumatoid arthritis, and weakly birefringent crystals (E) are indicative of calcium pyrophosphate deposition disease (CPPD)."
+    "explanation": "The correct answer is conversion of factor X to Xa (B). Conversion of factor X to Xa is the point at which both intrinsic and extrinsic pathways occur. Conversion of factor XI to XIa (C) happens at the start of the intrinsic pathway; conversion of factor VII to VIIa (A) occurs at the start of the extrinsic pathway. Conversion of prothrombin to thrombin (E) and conversion of fibrinogen to fibrin (D) happen after conversion of factor X to Xa; at this point both the pathways have already merged."
 },
- {
-        "question": "A patient develops acute osteomyelitis of the proximal tibia. If infection spreads to the knee joint, the patient’s age is most likely which of the following?",
-        "choices": [
-            "1 month",
-            "5 years",
-            "15 years",
-            "35 years"
-        ],
-        "correctAnswer": 0,
-        "explanation": "In infants, the joint capsule surrounds the epiphysis and metaphysis, allowing spread to adjacent joints in osteomyelitis. This pattern of spread is less common in older children and adults."
-    },
-    {
-        "question": "A 79-year-old man comes to the emergency department because of fever and progressive back pain for three weeks. He also has experienced some numbness and tingling in his right thigh, and is now weak and unable to bear weight on the leg. He has a history of recurrent urinary tract infections. On exam he is febrile (101oF) and in moderate pain. There is tenderness over the spinous processes of L3 and L4 and spine films show lucencies in both these vertebrae and disk space collapse. A needle aspirate of the affected area will likely yield which of the following in culture?",
-        "choices": [
-            "Coagulase-negative staphylococci",
-            "Escherichia coli",
-            "Mycobacterium tuberculosis",
-            "Nocardia asteroides",
-            "Staphylococcus aureus"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Escherichia coli is commonly associated with osteomyelitis in older adults with a history of recurrent UTIs, especially in cases involving the vertebrae."
-    },
-    {
-        "question": "A 26-year-old IVDU was hospitalized two weeks earlier for fever and chills and was found to have staphylococcal bacteremia. Two days into treatment, he signed out AMA. On exam, his temperature is 38.7o C. Point tenderness is present over the spinous process of T-10. Imaging of the spine will most likely show which of the following?",
-        "choices": [
-            "A central lesion in T-10",
-            "An erosion of T-10 and an adjacent vertebra",
-            "An erosion of T-10 with epidural abscess",
-            "No abnormality",
-            "T-10 changes consistent with osteoarthritis"
-        ],
-        "correctAnswer": 1,
-        "explanation": "In IV drug users with staphylococcal infections, contiguous spread often leads to vertebral osteomyelitis with involvement of adjacent vertebrae. Posterior spinal artery supplies 2 vertebrae."
-    },
-    {
-        "question": "A 41-year-old former NFL linebacker comes to an orthopaedic surgeon because of a draining wound in the region of his distal left tibia for a week. He suffered a career-ending fracture there three years ago which required surgery for re-alignment of the bone edges. He has had chronic pain and swelling in the region of the surgical incision, but no fever, chills, or sweats. On exam, the area is red swollen and draining purulent material through a fistulous tract. His CBC reveals a mild normochromic, normocytic anemia. An x-ray shows a bone fragment in a lucent defect in the tibia. The bone fragment is known as which of the following?",
-        "choices": [
-            "Arcanum",
-            "Involucrum",
-            "Pellucidum",
-            "Periculum",
-            "Sequestrum"
-        ],
-        "correctAnswer": 4,
-        "explanation": "A sequestrum is a fragment of necrotic bone that has separated from healthy tissue in chronic osteomyelitis."
-    },
-    {
-        "question": "A 27-year-old woman comes to a physician for progressive pain, tenderness, and swelling of the right, second metacarpophalangeal joint for six days. Two days prior to the onset of symptoms, she was bitten by her cat at the site. On exam, she has a fever of 100.8oF, but is not toxic-appearing. The involved joint is red, tender, and has obvious fluid. A Gram’s stain of joint aspirate will most likely show which of the following?",
-        "choices": [
-            "Gram-negative coccobacilli",
-            "Gram-negative intracellular diplococci",
-            "Gram-positive bacilli",
-            "Gram-positive cocci in chains",
-            "Gram-positive cocci in clusters"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Pasteurella multocida, a Gram-negative coccobacillus, is commonly associated with animal bites and can cause septic arthritis."
-    },
-    {
-        "question": "A 52-year-old woman comes to a rheumatologist because of mild arthralgias involving multiple small and large joints for six months. She has had no fever, chills, or constitutional symptoms. She pulled a tick from her dog about one week prior to the onset of symptoms. Her exam is normal except that her hands show early signs of osteoarthritis, but there are no other joint abnormalities. She requests a test for Lyme arthritis. What is the appropriate management strategy?",
-        "choices": [
-            "Obtain Lyme serology and empirically treat with amoxicillin",
-            "Obtain Lyme serology and empirically treat with ceftriaxone",
-            "Obtain MRI of both hands",
-            "Prescribe a tapering course of prednisone",
-            "Reassure the patient and treat for osteoarthritis"
-        ],
-        "correctAnswer": 4,
-        "explanation": "This patient's presentation does not strongly suggest Lyme disease, as early osteoarthritis is seen on exam and the exposure history is not temporally related. Reassurance is appropriate."
-    },
-    {
-        "question": "A 65-year-old man underwent a total left hip replacement three weeks ago. Post-operative pain resolved after the first week. He has noted a mild increase in hip pain during the past few days and the surgical wound has become slightly tender and draining a few drops of serosanguinous fluid. On exam, the wound is erythematous, mildly warm, and tender. Assuming the joint is infected, the most likely causative organism is which of the following?:",
-        "choices": [
-            "Candida albicans",
-            "Coagulase-negative staphylococcus",
-            "Escherichia coli",
-            "MRSA",
-            "Pseudomonas aeruginosa"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Coagulase-negative staphylococci are common culprits in prosthetic joint infections, often associated with mild symptoms and serous or serosanguinous drainage."
-    },
-    {
-        "question": "A 55-year-old male presents with chronic left hip pain worse with movement and stiffness relieved by rest. CRP is normal. What is the most likely diagnosis?",
-        "choices": [
-            "Ankylosing spondylitis",
-            "Gout",
-            "Osteoarthritis",
-            "Reactive arthritis",
-            "Septic arthritis"
-        ],
-        "correctAnswer": 2,
-        "explanation": "Osteoarthritis often presents with chronic joint pain and stiffness relieved by rest. The absence of systemic symptoms and normal CRP help exclude inflammatory conditions."
-    },
-    {
-        "question": "A 10-year-old male with sickle cell disease presents with fever and a painful, swollen knee joint. Joint x-ray is normal. What should be done next?",
-        "choices": [
-            "Biopsy the synovium",
-            "Drain the joint with needle aspiration",
-            "Give intra-articular antibiotics",
-            "Order an MRI of the joint",
-            "No additional management required"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Joint aspiration is indicated in suspected septic arthritis for diagnosis and relief. Septic arthritis is a complication of sickle cell disease."
-    },
-    {
-        "question": "A 56-year-old female with diabetes and knee pain presents with fever and decreased ROM. What is the best next step in diagnosis?",
-        "choices": [
-            "Blood cultures",
-            "Complete blood count",
-            "C-reactive protein",
-            "Joint aspiration of synovial fluid",
-            "X-rays of the knee"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Joint aspiration provides definitive diagnosis for septic arthritis, which is a medical emergency requiring timely intervention."
-    },
-    {
-        "question": "A 25-year-old post-car accident patient has pain and redness in the leg. Osteomyelitis is suspected but blood cultures are negative. What is the next step?",
-        "choices": [
-            "Blood cultures",
-            "Bone biopsy",
-            "Bone scan",
-            "Complete blood count",
-            "MRI of the bone"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Bone biopsy is necessary when cultures are negative, as it allows for precise organism identification and targeted treatment."
-    },
 {
-    "question": "A 39-year-old man is referred to an orthopedic surgeon because of a draining wound in the region of his distal right tibia for a week. A year ago, he sustained a fracture in a flag football game which required surgery for re-alignment of the bone edges. He has had chronic pain and redness in the region of the surgical incision, but no fever, chills, or sweats. On exam, the area is red and swollen and draining purulent material through a fistulous tract. A CBC reveals a mild anemia. An x-ray shows a lucent area in the bone and the suggestion of an involucrum.\n\nThe next appropriate step in management is which of the following?",
+    "question": "In the body, when a blood vessel is damaged, which of the following substances initiates the coagulation cascade?",
     "choices": [
-        "A. Debride the bone and fill defect with antibiotic beads",
-        "B. Debride the bone and perform smears and cultures of the bone and give long-term antibiotics based on results of microbiology studies",
-        "C. Draw blood cultures and begin empirical antibiotics; adjust after culture results are available",
-        "D. Give 4-6 weeks of antibiotics on the basis of Gram’s stain and culture of the drainage",
-        "E. Perform needle aspirate of involved bone and begin 4-6 weeks of antibiotics based on culture results"
+        "Factor V",
+        "Factor X",
+        "High-molecular-weight kininogen",
+        "Thrombin",
+        "Tissue factor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The correct answer is (B). In chronic osteomyelitis, especially in cases with evidence of an involucrum, it is essential to debride necrotic bone, perform cultures to guide antibiotic therapy, and provide long-term antibiotic treatment based on culture results. This approach ensures thorough removal of infected tissue and proper targeting of causative organisms, which is critical for managing chronic infections. In general, all dead bone must be removed to cure chronic osteomyelitis."
+    "correctAnswer": 4,
+    "explanation": "The correct answer is tissue factor (E). The first step in forming fibrin in vivo is the appearance of tissue factor, which initiates coagulation along the extrinsic pathway. Factors V (A) and X (B) are enzyme precursors that are part of the final common pathway. High-molecular-weight kininogen (C) can initiate coagulation along the intrinsic pathway (like in a test tube), but this is not the first step in the coagulation cascade in the body. Thrombin (D) can also initiate coagulation along the intrinsic pathway (and it does so after the extrinsic pathway is shut down!), but this is not the first step in the process."
 },
 {
-        "question": "A 45-year-old woman presents with a painful lump at the DIP joint of her index finger. She reports that it occasionally drains a clear, thick fluid. Physical examination reveals a mucous-filled cyst overlying the DIP joint. Which of the following is the most appropriate initial management?",
-        "choices": [
-            "Observation",
-            "Aspiration of the cyst",
-            "Surgical excision",
-            "Debridement of osteophytes"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Observation is appropriate for mucous cysts, as they may not cause significant issues other than cosmetic concerns. Aspiration or surgery can be considered if the cyst is painful or recurrent."
-    },
-    {
-        "question": "A 30-year-old carpenter complains of pain and triggering when trying to flex his right ring finger. Physical examination reveals tenderness at the A1 pulley. What is the best initial treatment?",
-        "choices": [
-            "NSAIDs and rest",
-            "Steroid injection",
-            "A1 pulley release surgery",
-            "Splinting"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Steroid injections are the first line of treatment for trigger finger, as they reduce inflammation and improve symptoms in most cases."
-    },
- {
-        "question": "A patient with septic arthritis in his right knee comes into the clinic. He has had the same partner for over 10 years. He has recently had blood in his stool as well. What would the culture of his knee show?",
-        "choices": [
-            "S. Aureus",
-            "Neisseria gonorrhoeae",
-            "S. Gallolyticus",
-            "E. Coli"
-        ],
-        "correctAnswer": 2,
-        "explanation": "S. Gallolyticus (S. Bovis) has an association with colon cancer."
-    },
- {
-        "question": "Aspirin is a drug commonly used for the primary prevention of cardiovascular disease in patients with elevated risk factors (e.g. advanced age, diabetes, smoking, high blood pressure, and/or coronary artery disease). While aspirin has been found to be effective in reducing cardiovascular risk in such patients, it has also been found that other drugs can significantly interfere with aspirin's beneficial effects if taken concomitantly. An example of the type of drug to be avoided in such patients is:",
-        "choices": [
-            "Ibuprofen",
-            "Prednisone",
-            "Methotrexate",
-            "Colchine"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Ibuprofen and other reversible NSAIDs compete for the same binding site on COX-1 & COX-2 that aspirin interacts with. These non-aspirin NSAIDS bind reversibly to COX, have relatively short half lives, and produce relatively weak antiplatelet effects. When both aspirin and ibuprofen (or naproxen) are taken together, the occupancy of the COX active site by ibuprofen (or naproxen) prevents aspirin from binding irreversibly before aspirin is eliminated. This reduces the impact of aspirin therapy on platelet aggregation. Hence the use of other over-the-counter (OTC) NSAIDs should be avoided in patients taking daily aspirin for cardioprotection."
-    },
+    "question": "How does the cascade work in the body?",
+    "choices": [
+        "The body uses either the intrinsic or extrinsic pathway, depending on what the clinical situation requires, to reach the final common pathway.",
+        "Tissue factor starts coagulation along the intrinsic pathway, and the extrinsic pathway contributes as needed.",
+        "Both the intrinsic and extrinsic arms are operated at the same time, converting X to Xa and making fibrin.",
+        "Tissue factor kicks off the extrinsic arm of the cascade, but this arm is soon shut off, and fibrin formation is completed using the intrinsic arm.",
+        "The intrinsic arm is the only arm that is used in the body; the extrinsic arm is just the pathway that is used in test tubes."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is tissue factor kicks off the extrinsic arm of the cascade, but this arm is soon shut off, and fibrin formation is completed using the intrinsic arm (D). Start with TF (and the extrinsic pathway), then the extrinsic pathway gets shut down, and thrombin kicks off the intrinsic pathway, which ends up doing all the work. The body can't just choose to use one or the other (intrinsic or extrinsic) (A); we need both pathways to operate. Tissue factor is part of the extrinsic pathway (B), not the intrinsic pathway."
+},
 {
-        "question": "Your ten year old son is running a fever of 101oF after developing a cold. To help him feel better you go to the local pharmacy to purchase a fever-lowering medication. However, as a good parent you recall that there are warnings about the risk of drug-induced Reye's syndrome in children given the wrong type of NSAID. Which NSAID is associated with this potentially serious condition?",
-        "choices": [
-            "Aspirin",
-            "Acetomenophin",
-            "Celecoxib",
-            "Montelukast"
-        ],
-        "correctAnswer": 0,
-        "explanation": "The initial classic features of Reye's syndrome include the development of a rash, vomiting, and signs of liver damage. It can eventually result in severe brain injury and death. The exact cause is unknown, but appears to involve mitochondrial damage (at least in the liver). It most commonly occurs in patients younger than 19 years old who take aspirin while suffering from a viral disease. It is extremely rare in adults. Other antipyretics such as acetaminophen or ibuprofen are recommended for fever reduction in children & adolescents.."
-    },
+    "question": "Which symptom is most typical of a patient with a coagulation factor deficiency?",
+    "choices": [
+        "Bleeding into joints",
+        "Easy bruising",
+        "Frequent nosebleeds",
+        "Menorrhagia",
+        "Petechiae"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The correct answer is bleeding into joints (A). Patients with coagulation factor deficiencies like hemophilia tend to have extensive, deep bleeding into joints and soft tissue. The other symptoms are all typical manifestations of platelet disorders: easy bruising (B), frequent nosebleeds (C), menorrhagia (D), and petechiae (E). Patients with platelet disorders tend to have spontaneous, superficial bleeding."
+},
 {
-        "question": "Highly selective COX-2 inhibitors are anti-inflammatory drugs with fewer GI side effects compared to traditional non-selective COX inhibitors, such as aspirin. What other effect do COX-2 inhibitors lack, in contrast to aspirin?",
-        "choices": [
-            "Anagelsic",
-            "Anti-inflammatory",
-            "Antipyretic",
-            "Antiplatelet"
-        ],
-        "correctAnswer": 3,
-        "explanation": "COX-2 selective drugs do not alter COX-1 mediated platelet biosynthesis of thromboxane, but suppress COX-2 mediated production of prostacyclin by the blood vessel wall. The change in balance of production of thromboxane (which promotes platelet aggregation & vasoconstriction) vs prostacyclin (which inhibits platelet aggregation & induces vasodilation) can increase the risk for vascular events such as stroke and myocardial infarction in patients taking COX-2 inhibitors."
-    },
+    "question": "A 23-year-old female presents to clinic with excessive menstrual bleeding and easy bruising. Which disorder is the most likely cause of her symptoms?",
+    "choices": [
+        "Bernard-Soulier syndrome",
+        "Disseminated intravascular coagulation",
+        "Hemophilia A",
+        "Hemophilia B",
+        "von Willebrand disease"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is von Willebrand disease (E). von Willebrand disease typically presents with easy bruising or mucosal bleeding. It is the most common hereditary bleeding disorder, so it is much more likely to be the cause of this patient’s bleeding than Bernard-Soulier syndrome (A). Patients with disseminated intravascular coagulation (B) typically have much more widespread and dangerous bleeding and clotting than this patient exhibits. Again, von Willebrand disease is more likely than hemophilia A (C) or hemophilia B (D)."
+},
 {
-        "question": "Highly selective COX-2 inhibitors are anti-inflammatory drugs with fewer GI side effects compared to traditional non-selective COX inhibitors, such as aspirin. What other effect do COX-2 inhibitors lack, in contrast to aspirin?",
-        "choices": [
-            "Anagelsic",
-            "Anti-inflammatory",
-            "Antipyretic",
-            "Antiplatelet"
-        ],
-        "correctAnswer": 3,
-        "explanation": "COX-2 selective drugs do not alter COX-1 mediated platelet biosynthesis of thromboxane, but suppress COX-2 mediated production of prostacyclin by the blood vessel wall. The change in balance of production of thromboxane (which promotes platelet aggregation & vasoconstriction) vs prostacyclin (which inhibits platelet aggregation & induces vasodilation) can increase the risk for vascular events such as stroke and myocardial infarction in patients taking COX-2 inhibitors."
-    }
+    "question": "Which disorder is much more common in males than in females?",
+    "choices": [
+        "Disseminated intravascular coagulation",
+        "Hemolytic-uremic syndrome",
+        "Hemophilia A",
+        "Immune thrombocytopenia",
+        "von Willebrand disease"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is hemophilia A (C). X-linked recessive disorders like hemophilia are much more common in males than females. Females may be carriers and have mild symptoms, but unless they inherit two mutated X chromosomes, they will not express severe symptoms of the disease. Disseminated intravascular coagulation (A), hemolytic-uremic syndrome (B), and immune thrombocytopenia (D) are acquired, not inherited, disorders. von Willebrand disease (E) is transmitted in an autosomal-dominant fashion, which does not favor either males or females."
+},
+{
+    "question": "Which of the following is the main indication for the use of argatroban?",
+    "choices": [
+        "Atrial fibrillation",
+        "Deep venous thrombosis (DVT)",
+        "Heparin-induced thrombocytopenia and thrombosis (HITT)",
+        "Ischemic stroke",
+        "Warfarin skin necrosis"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is heparin-induced thrombocytopenia and thrombosis (C). The outcome of HITT is thrombosis, so we want to make sure the patient is anticoagulated, and we do that with a direct thrombin inhibitor like argatroban. We use intravenous heparin to treat DVTs (B). We use warfarin or direct Xa inhibitors in atrial fibrillation (A) to prevent ischemic strokes (D) caused by emboli forming in the atria. Warfarin skin necrosis (E) is prevented by using a heparin bridge prior to the induction of warfarin therapy."
+},
+{
+    "question": "A patient receiving warfarin long-term is newly prescribed a known liver P450 enzyme inhibitor. Which of the following risks is increased in this patient?",
+    "choices": [
+        "Budd-Chiari syndrome",
+        "Deep venous thrombosis (DVT)",
+        "Hemorrhagic stroke",
+        "Pulmonary embolus",
+        "Thrombocytopenia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is hemorrhagic (i.e., bleeding) stroke (C). Warfarin is metabolized by liver enzymes, and if these liver enzymes are inhibited, warfarin's metabolism is decreased, ultimately increasing warfarin concentration in the blood and increasing the risk of a bleed. Budd-Chiari syndrome (A) is post-hepatic flow obstruction caused by thrombosis. DVTs (B) and pulmonary emboli (D) are also caused by thrombosis. All three of these cases are examples of clotting and would occur in the scenario of a liver P450 enzyme inducer rather than an inhibitor. Thrombocytopenia (E) is a potential side effect of heparin therapy (e.g., HITT)."
+}
 ]
