@@ -1537,11 +1537,11 @@
     {
         "question": "Which of the following would be rare or absent in the peripheral blood of a patient with falciparum malaria?",
         "choices": [
-            "Gametocytes.",
-            "Merozoites. ",
-            "Ring trophozoites.",
+            "Gametocytes",
+            "Merozoites",
+            "Ring trophozoites",
             "Schizonts",
-            "Sporozoites”
+            "Sporozoites"
         ],
         "correctAnswer": 3,
         "explanation": "Schizonts are rarely found in peripheral blood because they get sequestered in the microcirculation due to sticky knobs."
@@ -1616,13 +1616,7 @@
     "explanation": "The correct answer is supravital staining (D). Supravital staining is a process used to examine living cells that have been removed from an organism. The most common supravital stain is performed on reticulocytes, which are immature RBCs that are present in low numbers in normal blood. With new methylene blue or brilliant cresyl blue, the ribosomal RNA is visible inside the reticulocytes. Wright and Giemsa (A) stains are used together as a differential stain for blood; RNA is not directly visible on Wright-Giemsa staining (E), although reticulocytes do have a bluish tinge to the cytoplasm due to the extra RNA. Periodic acid-Schiff staining (B) is used to stain carbohydrates, and Sudan black B staining (C) uses Sudan dyes to stain lipids black."
 },
 {
-    "question": "A 34-year-old female presents with fatigue and lethargy. She appears pale on physical exam, and her heart rate is elevated. A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL
-MCV 73 fL
-RDW 16.5%
-RBC 2.8 × 10^12/mm³
-WBC 6000/mm³
-Platelets 500,000/mm³
-A blood smear shows increased anisocytosis. Which of the following is the most likely diagnosis?",
+    "question": "A 34-year-old female presents with fatigue and lethargy. She appears pale on physical exam, and her heart rate is elevated. A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL, MCV 73 fL, RDW 16.5%, RBC 2.8 × 10^12/mm³, WBC 6000/mm³, Platelets 500,000/mm³. A blood smear shows increased anisocytosis. Which of the following is the most likely diagnosis?",
     "choices": [
         "G6PD deficiency",
         "Iron-deficiency anemia",
@@ -1634,13 +1628,7 @@ A blood smear shows increased anisocytosis. Which of the following is the most l
     "explanation": "The correct answer is iron-deficiency anemia (B). The patient is anemic (hemoglobin 8.5 g/dL) and microcytic (low mean corpuscular volume [MCV]). In a woman of childbearing age with a microcytic anemia, iron-deficiency anemia due to heavy menses is most likely and is supported by the anisocytosis on the blood smear, along with the increased RBC distribution width (RDW). G6PD deficiency (A) is a hemolytic anemia that would be normocytic. Megaloblastic anemia (C) is macrocytic. A microangiopathic hemolytic anemia (D) such as TTP or HUS would be normocytic and would likely show schistocytes on the blood smear, as well as low platelets. Thalassemia (E) is not likely, because the RDW is increased (it is normal or decreased in thalassemia) and the red blood cell (RBC) count is decreased (it is increased in thalassemia)."
 },
 {
-    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following:
-Hemoglobin 8.5 g/dL
-MCV 105 fL\nRDW 13.0%
-RBC 2.9 × 10^12/mm³
-WBC 5700/mm³
-Platelets 320,000/mm³
-A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
+    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL, MCV 105 fL\nRDW 13.0%, RBC 2.9 × 10^12/mm³, WBC 5700/mm³, Platelets 320,000/mm³. A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
     "choices": [
         "Folate deficiency",
         "Heavy alcohol use",
