@@ -23,13 +23,13 @@ fetch('questions.json')
     .catch(error => console.error('Error loading quiz data:', error));
 
 // Function to shuffle the array
-//function shuffle(array) {
-//    for (let i = array.length - 1; i > 0; i--) {
-//        const j = Math.floor(Math.random() * (i + 1));
-//        [array[i], array[j]] = [array[j], array[i]];
-//    }
-//    return array;
-//}
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
 
 function loadQuestion() {
     resetState();
