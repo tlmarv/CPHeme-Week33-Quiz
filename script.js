@@ -16,7 +16,7 @@ fetch('questions.json')
     .then(data => {
         // Add an 'answered' property to each question to track whether it's been answered
         orderedData = data.map(q => ({ ...q, answered: false }));
-        //shuffle(orderedData);  // Shuffle the full question list
+        shuffle(orderedData);  // Shuffle the full question list
         quizData = orderedData.slice(0, orderedData.length);  
         loadQuestion();  // Load the first question after fetching and randomizing
     })
