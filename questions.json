@@ -208,7 +208,7 @@
     "correctAnswer": 1,
     "explanation": "Pernicious anemia is an autoimmune condition in which antibodies are directed against intrinsic factor or parietal cells, leading to impaired vitamin B12 absorption in the ileum. This results in macrocytic anemia, and a positive Schilling test helps confirm impaired B12 absorption."
 },
-     {
+      {
         "question": "A 45-year-old woman presents with fatigue and pallor. CBC shows hemoglobin of 9 g/dL, MCV of 72 fL, and an increased RDW. Peripheral blood smear reveals microcytic, hypochromic red blood cells. What is the most likely diagnosis?",
         "choices": [
             "Iron-deficiency anemia",
@@ -219,18 +219,7 @@
         "correctAnswer": 0,
         "explanation": "Microcytic, hypochromic anemia with increased RDW is most consistent with iron-deficiency anemia."
     },
-    {
-        "question": "A 10-year-old male is brought to the ER with a history of recurrent infections. CBC reveals a WBC count of 15,000/mm³ with 80% neutrophils. Peripheral smear shows toxic granulations and Döhle bodies in neutrophils. What is the most likely cause?",
-        "choices": [
-            "Acute bacterial infection",
-            "Viral infection",
-            "Allergic reaction",
-            "Chronic lymphocytic leukemia"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Toxic granulations and Döhle bodies are seen in neutrophils during acute bacterial infections."
-    },
-    {
+       {
         "question": "A patient’s CBC shows a WBC count of 4,000/mm³, 80% lymphocytes, and no immature forms. This finding is most consistent with which of the following?",
         "choices": [
             "Viral infection",
@@ -241,18 +230,7 @@
         "correctAnswer": 0,
         "explanation": "Lymphocytosis without immature forms is typically seen in viral infections."
     },
-    {
-        "question": "A 67-year-old man presents with splenomegaly and fatigue. CBC reveals hemoglobin of 10 g/dL, MCV of 90 fL, and WBC of 120,000/mm³ with 60% lymphocytes. Which diagnostic test would confirm chronic lymphocytic leukemia?",
-        "choices": [
-            "Flow cytometry for CD markers",
-            "Peripheral smear for schistocytes",
-            "Bone marrow biopsy for hyperplasia",
-            "Cytogenetic analysis for Philadelphia chromosome"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Flow cytometry identifying specific CD markers confirms the diagnosis of chronic lymphocytic leukemia."
-    },
-    {
+       {
         "question": "A peripheral smear shows sickle-shaped red blood cells. What molecular abnormality is associated with this finding?",
         "choices": [
             "Substitution of glutamic acid with valine in β-globin",
@@ -445,10 +423,10 @@
             "ALA Synthase",
             "ALA Dehydratase",
             "Porphobilinogen Deaminase",
-            "Ferrochelatase"
+            "PPG Oxidase"
         ],
         "correctAnswer": 1,
-        "explanation": "Lead inhibits ALA dehydratase, leading to accumulation of δ-ALA, a hallmark finding in lead poisoning."
+        "explanation": "Lead inhibits ALA dehydratase, leading to accumulation of δ-ALA, a hallmark finding in lead poisoning. It also inhibits Ferrochelastase."
     },
     {
         "question": "A 45-year-old man presents with fatigue and pallor. Laboratory tests reveal a hemoglobin level of 10 g/dL and MCV of 70 fL. Which of the following findings would most likely support a diagnosis of iron deficiency anemia?",
@@ -549,18 +527,7 @@
         "correctAnswer": 1,
         "explanation": "Interleukin-6 induces hepcidin production, which blocks iron release and contributes to anemia of chronic inflammation."
     },
-    {
-        "question": "A 28-year-old man with β-thalassemia minor is asymptomatic. Which of the following findings would most likely be present on his blood smear?",
-        "choices": [
-            "Target cells",
-            "Spherocytes",
-            "Basophilic stippling",
-            "Macroovalocytes"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Target cells are commonly seen in β-thalassemia minor due to decreased globin chain synthesis."
-    },
-    {
+       {
         "question": "A 65-year-old woman presents with fatigue and jaundice. Labs show hemoglobin 9 g/dL, MCV 90 fL, and elevated LDH. Peripheral smear reveals schistocytes. What is the most likely diagnosis?",
         "choices": [
             "Microangiopathic hemolytic anemia",
@@ -703,18 +670,7 @@
         "correctAnswer": 0,
         "explanation": "Pigmented gallstones are a hallmark of hereditary spherocytosis due to chronic hemolysis and bilirubin overproduction."
     },
-    {
-        "question": "A patient with splenomegaly and hemolytic anemia is found to have elliptocytes on peripheral smear. What is the most likely diagnosis?",
-        "choices": [
-            "Hereditary spherocytosis",
-            "Hereditary elliptocytosis",
-            "G6PD deficiency",
-            "Autoimmune hemolytic anemia"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Hereditary elliptocytosis is characterized by elliptocyte formation due to structural abnormalities in spectrin or membrane protein 4.1."
-    },
-    {
+     {
         "question": "A patient with G6PD deficiency presents with acute hemolysis after eating fava beans. Which test is best for diagnosis during an asymptomatic period?",
         "choices": [
             "Peripheral blood smear",
@@ -745,7 +701,7 @@
             "Microangiopathic hemolytic anemia"
         ],
         "correctAnswer": 1,
-        "explanation": "Warm autoimmune hemolytic anemia is commonly associated with autoimmune conditions like lupus."
+        "explanation": "Warm autoimmune hemolytic anemia is commonly associated with autoimmune conditions like lupus. Additionally, secondary AIHA can come from high dose IV B-lactam antibiotics."
     },
     {
         "question": "Which laboratory finding is most consistent with intravascular hemolysis?",
@@ -758,18 +714,7 @@
         "correctAnswer": 2,
         "explanation": "Intravascular hemolysis leads to hemoglobinuria due to free hemoglobin exceeding haptoglobin-binding capacity."
     },
-    {
-        "question": "A patient with warm autoimmune hemolytic anemia does not respond to corticosteroids. Which treatment is most appropriate as the next step?",
-        "choices": [
-            "Splenectomy",
-            "Plasmapheresis",
-            "Iron supplementation",
-            "Cold avoidance"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Splenectomy is often used for refractory cases of warm autoimmune hemolytic anemia when corticosteroids are insufficient."
-    },
-    {
+      {
         "question": "Which of the following is the primary function of von Willebrand factor (vWf)?",
         "choices": [
             "Binds platelets via GpIIb/IIIa",
@@ -778,7 +723,7 @@
             "Stimulates thrombopoietin production"
         ],
         "correctAnswer": 1,
-        "explanation": "vWf carries factor VIII in circulation and facilitates platelet adhesion to subendothelial tissue via GpIb."
+        "explanation": "vWf carries factor VIII in circulation (this is the bad boyfriend) and facilitates platelet adhesion to subendothelial tissue via GpIb. In case this is a question, vWf is lower in type O blood types, meaning they have less clots, which is why people with this blood type were less likely to be severly ill in COVID."
     },
     {
         "question": "A 5-year-old boy presents with recurrent epistaxis and easy bruising. Laboratory testing reveals normal platelet count and elevated bleeding time. Platelet aggregation studies show no aggregation with ristocetin. What is the most likely diagnosis?",
@@ -789,7 +734,7 @@
             "von Willebrand disease"
         ],
         "correctAnswer": 1,
-        "explanation": "Bernard-Soulier syndrome involves a defect in GpIb, impairing platelet aggregation with ristocetin."
+        "explanation": "Bernard-Soulier syndrome involves a defect in GpIb, impairing platelet aggregation with ristocetin. Glanzmann is a defect in GpIIb/IIIa and will only aggregate with ristocetin."
     },
     {
         "question": "Which coagulation test evaluates the extrinsic and common pathways?",
@@ -800,7 +745,7 @@
             "5M urea test"
         ],
         "correctAnswer": 2,
-        "explanation": "PT (prothrombin time) evaluates the extrinsic and common pathways, commonly used to monitor warfarin therapy."
+        "explanation": "PT (prothrombin time) evaluates the extrinsic and common pathways, commonly used to monitor warfarin therapy. aPTT is used to evaluate intrinsic and common pathways (good way to think about it is aPTT has a longer name and the intrinsic path has more proteins) and it is used to monitor heparin therapy."
     },
     {
         "question": "What laboratory finding is most characteristic of Disseminated Intravascular Coagulation (DIC)?",
@@ -811,7 +756,7 @@
             "Prolonged bleeding time"
         ],
         "correctAnswer": 1,
-        "explanation": "DIC presents with elevated d-dimer, thrombocytopenia, and prolonged PT/PTT due to widespread clotting and fibrinolysis."
+        "explanation": "DIC presents with elevated d-dimer, thrombocytopenia, and prolonged PT/PTT due to widespread clotting and fibrinolysis. D-dimer is most sensitive test for DIC but not specific (i.e. if its negative you do NOT have DIC)."
     },
     {
         "question": "Which treatment is most appropriate for Thrombotic Thrombocytopenic Purpura (TTP)?",
@@ -833,7 +778,7 @@
             "Initiation of the intrinsic pathway"
         ],
         "correctAnswer": 1,
-        "explanation": "Factor XIII crosslinks fibrin monomers, stabilizing the clot."
+        "explanation": "Factor XIII crosslinks fibrin monomers, stabilizing the clot. Remember this is the Arnold Schwarznegger factor since its very strong, elusive, and lives long."
     },
     {
         "question": "Which condition is most commonly associated with prolonged aPTT that does not correct with a mixing study?",
@@ -844,7 +789,7 @@
             "Vitamin K deficiency"
         ],
         "correctAnswer": 2,
-        "explanation": "Antiphospholipid antibodies inhibit the coagulation assay, causing a prolonged aPTT that does not correct with a mixing study."
+        "explanation": "Antiphospholipid antibodies inhibit the coagulation assay, causing a prolonged aPTT that does not correct with a mixing study. Even though it seems like they are bleeders they are actually clotters."
     },
     {
         "question": "A patient with Hemophilia A is treated with desmopressin (DDAVP). What is the mechanism of this drug?",
@@ -855,7 +800,7 @@
             "Binds directly to factor VIII receptors"
         ],
         "correctAnswer": 1,
-        "explanation": "Desmopressin induces the release of vWf and factor VIII, temporarily increasing their plasma levels."
+        "explanation": "Desmopressin induces the release of vWf and factor VIII, temporarily increasing their plasma levels. This is very important because hemophilia A is a factor VIII deficiency."
     },
     {
         "question": "What is the most common inherited thrombophilia in the United States?",
@@ -866,7 +811,7 @@
             "Prothrombin G20210A mutation"
         ],
         "correctAnswer": 2,
-        "explanation": "Factor V Leiden is the most common inherited thrombophilia, involving resistance to protein C inactivation."
+        "explanation": "Factor V Leiden is the most common inherited thrombophilia (50% of all unexplained thromboses), involving resistance to protein C inactivation, so fibrin continues to be made even though protein C wants it to stop."
     },
     {
         "question": "Which laboratory finding is specific for fibrinolysis in DIC?",
@@ -890,18 +835,7 @@
         "correctAnswer": 1,
         "explanation": "Glanzmann thrombasthenia is caused by a defect in GpIIb/IIIa, preventing platelet aggregation with all agonists except ristocetin."
     },
-    {
-        "question": "A 35-year-old man with antiphospholipid antibody syndrome is at risk for which of the following complications?",
-        "choices": [
-            "Hemarthrosis",
-            "Recurrent thrombosis",
-            "Petechial bleeding",
-            "Spontaneous intracranial hemorrhage"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Antiphospholipid antibody syndrome is associated with recurrent thrombosis, despite laboratory findings suggesting a bleeding tendency."
-    },
-    {
+       {
         "question": "Which test is used to confirm von Willebrand disease type 2B?",
         "choices": [
             "Factor VIII assay",
@@ -934,18 +868,7 @@
         "correctAnswer": 3,
         "explanation": "Supportive care, including hydration and management of renal failure, is the mainstay of therapy for HUS."
     },
-    {
-        "question": "Which laboratory finding differentiates Hemophilia A from von Willebrand disease?",
-        "choices": [
-            "Prolonged bleeding time",
-            "Decreased factor VIII activity",
-            "Prolonged aPTT",
-            "Normal platelet count"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Hemophilia A typically has a normal bleeding time, while von Willebrand disease may have prolonged bleeding time due to platelet dysfunction."
-    },
-    {
+      {
         "question": "Which protein inhibits activated factors IIa and Xa in the coagulation cascade?",
         "choices": [
             "Protein C",
@@ -987,7 +910,7 @@
             "Antiphospholipid Antibody Syndrome"
         ],
         "correctAnswer": 1,
-        "explanation": "The pentad of fever, thrombocytopenia, anemia, renal dysfunction, and neurologic symptoms is characteristic of Thrombotic Thrombocytopenic Purpura (TTP)."
+        "explanation": "The pentad of fever, thrombocytopenia, anemia (MAHA), renal dysfunction, and neurologic symptoms is characteristic of Thrombotic Thrombocytopenic Purpura (TTP)."
     },
 {
     "question": "A patient is found to have a hemoglobin of 9 g/dL (normal = 12-16 g/dL) and a mean corpuscular volume (MCV) of 106 fL (normal = 80-100 fL). Which of the following is the most likely diagnosis?",
@@ -1046,7 +969,7 @@
             "Hb Gower-1"
         ],
         "correctAnswer": 1,
-        "explanation": "Hb A (α2β2) constitutes 96-98% of hemoglobin in adults and is the main functional hemoglobin in postnatal life."
+        "explanation": "Hb A (α2β2) constitutes 96-98% of hemoglobin in adults and is the main functional hemoglobin in postnatal life. Hb A2 makes up around 2.5-3.5%, Hb F makes up < 1.0%, and Hb Gower-1 is an embryonic Hb."
     },
     {
         "question": "Which mutation is responsible for sickle cell anemia?",
@@ -1059,18 +982,7 @@
         "correctAnswer": 1,
         "explanation": "Sickle cell anemia is caused by a single nucleotide mutation resulting in the substitution of glutamic acid with valine at position 6 of the β-globin chain."
     },
-    {
-        "question": "What is the primary genetic cause of β-thalassemia major?",
-        "choices": [
-            "Deletion of both β-globin genes",
-            "Nonsense and frameshift mutations in β-globin genes",
-            "Deletion of the α-globin genes",
-            "Point mutation in δ-globin gene"
-        ],
-        "correctAnswer": 1,
-        "explanation": "β-thalassemia major is primarily caused by nonsense and frameshift mutations that prevent or significantly reduce β-globin production."
-    },
-    {
+      {
         "question": "Which of the following is a clinical feature of β-thalassemia major?",
         "choices": [
             "Normal growth and development",
@@ -1079,7 +991,7 @@
             "Asymptomatic presentation"
         ],
         "correctAnswer": 2,
-        "explanation": "β-thalassemia major presents with hepatosplenomegaly, growth retardation, delayed puberty, and skeletal deformities due to chronic anemia and extramedullary hematopoiesis."
+        "explanation": "β-thalassemia major presents with hepatosplenomegaly, growth retardation, delayed puberty, and skeletal deformities due to chronic anemia and extramedullary hematopoiesis. Also causes iron overload and has death within 2 decades from CHF/arrhythmias."
     },
     {
         "question": "Which hemoglobinopathy is associated with an increase in oxygen affinity, leading to erythrocytosis?",
@@ -1090,20 +1002,9 @@
             "Hb variants with α1β1 contact mutations"
         ],
         "correctAnswer": 2,
-        "explanation": "Hemoglobin variants with mutations affecting α1β2 contacts often lead to increased oxygen affinity, resulting in erythrocytosis."
+        "explanation": "Hemoglobin variants with mutations affecting α1β2 contacts often lead to increased oxygen affinity, resulting in erythrocytosis, but if its associated with low oxygen affinity it leads to anemia. A1b1 creates an unstable heme."
     },
-    {
-        "question": "In α-thalassemia, the presence of which hemoglobin correlates with the most severe form, hydrops fetalis?",
-        "choices": [
-            "Hb Bart’s (γ4)",
-            "Hb H (β4)",
-            "Hb A2 (α2δ2)",
-            "Hb F (α2γ2)"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Hb Bart’s (γ4) is associated with hydrops fetalis, the most severe form of α-thalassemia, caused by the deletion of all four α-globin genes."
-    },
-    {
+      {
         "question": "What is the mechanism of action of hydroxyurea in treating sickle cell disease?",
         "choices": [
             "Reduces microvascular occlusion by blocking P-selectin",
@@ -1144,8 +1045,8 @@
             "Acute chest syndrome",
             "Splenic sequestration"
         ],
-        "correctAnswer": 1,
-        "explanation": "Ischemic stroke occurs in approximately 11% of patients with SS sickle cell disease by age 20."
+        "correctAnswer": 0,
+        "explanation": "Avascular necrosis occurs in 50% of SS by age 35. Ischemic stroke occurs in approximately 11% of patients with SS sickle cell disease by age 20."
     },
     {
         "question": "What is the primary therapeutic benefit of high Hb F levels in patients with sickle cell disease?",
@@ -1156,7 +1057,7 @@
             "Reduces chronic inflammation"
         ],
         "correctAnswer": 1,
-        "explanation": "Hb F inhibits polymerization of deoxy-Hb S, reducing sickling and vaso-occlusive events in sickle cell disease."
+        "explanation": "Hb F inhibits polymerization of deoxy-Hb S, reducing sickling and vaso-occlusive events in sickle cell disease. In B-thalassemia it compensates for reduced/absent B globulins."
     },
     {
         "question": "Which gene-editing technique has been FDA-approved for the treatment of sickle cell disease?",
@@ -1167,7 +1068,7 @@
             "RNA interference"
         ],
         "correctAnswer": 1,
-        "explanation": "CRISPR-Cas9 has been FDA-approved for sickle cell disease, involving deletion of the BCL11A erythroid-specific enhancer to increase Hb F production."
+        "explanation": "CRISPR-Cas9 has been FDA-approved for sickle cell disease, involving deletion of the BCL11A erythroid-specific enhancer to increase Hb F production. AKA Casgevy"
     },
     {
         "question": "Which therapeutic approach offers a curative potential for both sickle cell disease and β-thalassemia?",
@@ -1190,17 +1091,6 @@
         ],
         "correctAnswer": 2,
         "explanation": "Hb SC disease is a compound heterozygous condition with both Hb S and Hb C, leading to moderate anemia and vaso-occlusive complications."
-    },
-    {
-        "question": "Which treatment option is most effective in reducing the risk of ischemic stroke in children with sickle cell disease and abnormal transcranial Doppler (TCD) velocities?",
-        "choices": [
-            "Hydroxyurea",
-            "Chronic transfusion therapy",
-            "Luspatercept",
-            "Gene therapy"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Chronic transfusion therapy is used to lower Hb S levels and reduce the risk of ischemic stroke in children with abnormal TCD velocities."
     },
     {
         "question": "A 65-year-old male presents with chest pain and is diagnosed with an ST-elevation myocardial infarction (STEMI). Which drug is most appropriate for dissolving the thrombus in this patient?",
@@ -1279,18 +1169,7 @@
         "correctAnswer": 2,
         "explanation": "Aspirin irreversibly inhibits cyclooxygenase (COX), reducing thromboxane A2 synthesis and preventing platelet aggregation."
     },
-    {
-        "question": "Which of the following is an advantage of low-molecular-weight heparins (LMWH) over unfractionated heparin?",
-        "choices": [
-            "Ability to cross the placenta",
-            "No need for laboratory monitoring in most patients",
-            "Higher risk of heparin-induced thrombocytopenia (HIT)",
-            "Shorter half-life"
-        ],
-        "correctAnswer": 1,
-        "explanation": "LMWH has a more predictable pharmacokinetic profile and does not require routine laboratory monitoring, unlike unfractionated heparin."
-    },
-    {
+      {
         "question": "A patient is undergoing coronary angioplasty. Which glycoprotein IIb/IIIa inhibitor is most appropriate to prevent platelet aggregation during the procedure?",
         "choices": [
             "Tirofiban",
@@ -1301,18 +1180,7 @@
         "correctAnswer": 0,
         "explanation": "Tirofiban, a glycoprotein IIb/IIIa inhibitor, blocks fibrinogen binding and platelet aggregation, making it effective for coronary interventions."
     },
-    {
-        "question": "Which of the following drugs is most effective at treating an acute arterial thromboembolism in the setting of peripheral arterial disease?",
-        "choices": [
-            "Clopidogrel",
-            "Streptokinase",
-            "Warfarin",
-            "Alteplase"
-        ],
-        "correctAnswer": 3,
-        "explanation": "Alteplase, a recombinant tissue plasminogen activator (t-PA), is effective at breaking down arterial thrombi by activating plasminogen."
-    },
-{
+ {
     "question": "A 43-year-old female is brought to the emergency department after a seizure. She has had daily intermittent fevers for several weeks and now has difficulty breathing. She appears pale. Examination of a blood smear reveals large numbers of ring forms within red blood cells, as well as a banana-shaped gametocyte. Which species of Plasmodium is most likely responsible for this patient’s symptoms?",
     "choices": [
         "P falciparum",
@@ -1367,18 +1235,7 @@
         "correctAnswer": 0,
         "explanation": "Blackwater fever is caused by hemoglobinuria due to massive hemolysis, a hallmark of severe P falciparum infection."
     },
-    {
-        "question": "Which diagnostic method is considered the most sensitive for detecting Plasmodium species in the laboratory?",
-        "choices": [
-            "Microscopy of a blood smear",
-            "Antigen detection of Plasmodium Ag",
-            "Polymerase chain reaction (PCR)",
-            "Clinical diagnosis based on symptoms"
-        ],
-        "correctAnswer": 2,
-        "explanation": "PCR is the most sensitive method for detecting Plasmodium species, though it is not practical for field testing."
-    },
-    {
+      {
         "question": "A patient with G6PD deficiency is treated for malaria. Which antimalarial should be avoided to prevent hemolysis?",
         "choices": [
             "Chloroquine",
@@ -1422,18 +1279,7 @@
         "correctAnswer": 1,
         "explanation": "Iron-deficiency anemia reduces the availability of iron, which is essential for the parasite's growth, providing partial protection against malaria."
     },
-    {
-        "question": "Which antimalarial drug combination is most effective for malaria prophylaxis in areas with multidrug-resistant P falciparum?",
-        "choices": [
-            "Chloroquine and primaquine",
-            "Atovaquone/proguanil",
-            "Artemether/lumefantrine",
-            "Doxycycline and chloroquine"
-        ],
-        "correctAnswer": 1,
-        "explanation": "Atovaquone/proguanil is effective for malaria prophylaxis in regions with multidrug-resistant P falciparum."
-    },
-    {
+       {
         "question": "What is the largest category of waste in the U.S. healthcare system, accounting for up to 25% of total healthcare expenditures?",
         "choices": [
             "Unnecessary services",
@@ -1506,7 +1352,7 @@
             "Rosette forms.",
             "Schizonts.",
             "Schuffner’s dots.",
-            "Sporozoites."
+            "Sporozoites.”
         ],
         "correctAnswer": 0,
         "explanation": "Crescent-shaped gametocytes are diagnostic for P. falciparum. Schizonts- rarely found because of the sticky knobs on the parasitized RBCs which get them hung up in the microcirculation. However, real malariologists—not fake ones like me—could recognize them when they see them. Schuffner’s dots. (P. vivax & P. ovale). Sporozoites. (These are the forms injected by the mosquito). Rosette forms. (P. malariae)."
@@ -1516,7 +1362,7 @@
         "choices": [
             "P. falciparum",
             "P. knowlesii",
-            "P. malariae. ()",
+            "P. malariae.",
             "P. ovale ",
             "P. vivax "
         ],
@@ -1537,11 +1383,11 @@
     {
         "question": "Which of the following would be rare or absent in the peripheral blood of a patient with falciparum malaria?",
         "choices": [
-            "Gametocytes",
-            "Merozoites",
-            "Ring trophozoites",
+            "Gametocytes.",
+            "Merozoites. ",
+            "Ring trophozoites.",
             "Schizonts",
-            "Sporozoites"
+            "Sporozoites”
         ],
         "correctAnswer": 3,
         "explanation": "Schizonts are rarely found in peripheral blood because they get sequestered in the microcirculation due to sticky knobs."
@@ -1604,18 +1450,6 @@
     "explanation": "The correct answer is hemoglobin electrophoresis (B). This child was born with α-thalassemia. α-Thalassemia due to four allele deletions is incompatible with life and often presents as hydrops fetalis due to circulating tetramers of γ-globulin (hemoglobin Barts). In this type of α-thalassemia, hemoglobin electrophoresis, which measures and identifies the different types of hemoglobin within the bloodstream, shows the presence of hemoglobin Barts. A direct antiglobulin test (DAT) (A) is positive in autoimmune hemolytic anemias but not in thalassemia. Osmotic fragility testing (C) measures the fragility of RBCs; it is often abnormal in hereditary spherocytosis but is normal in α-thalassemia. A white blood cell differential (D) can be useful when diagnosing inflammation and infections but does not give information that is helpful for diagnosing thalassemia."
 },
 {
-    "question": "A 25-year-old woman presents to her primary care physician complaining of worsening symptoms of her chronic anemia. Her physician wants to take a further look at her reticulocytes. Which stain is most appropriate to visualize the ribosomal RNA inside the reticulocytes?",
-    "choices": [
-        "Giemsa stain",
-        "Periodic acid-Schiff staining",
-        "Sudan black B staining",
-        "Supravital staining",
-        "Wright-Giemsa stain"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The correct answer is supravital staining (D). Supravital staining is a process used to examine living cells that have been removed from an organism. The most common supravital stain is performed on reticulocytes, which are immature RBCs that are present in low numbers in normal blood. With new methylene blue or brilliant cresyl blue, the ribosomal RNA is visible inside the reticulocytes. Wright and Giemsa (A) stains are used together as a differential stain for blood; RNA is not directly visible on Wright-Giemsa staining (E), although reticulocytes do have a bluish tinge to the cytoplasm due to the extra RNA. Periodic acid-Schiff staining (B) is used to stain carbohydrates, and Sudan black B staining (C) uses Sudan dyes to stain lipids black."
-},
-{
     "question": "A 34-year-old female presents with fatigue and lethargy. She appears pale on physical exam, and her heart rate is elevated. A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL, MCV 73 fL, RDW 16.5%, RBC 2.8 × 10^12/mm³, WBC 6000/mm³, Platelets 500,000/mm³. A blood smear shows increased anisocytosis. Which of the following is the most likely diagnosis?",
     "choices": [
         "G6PD deficiency",
@@ -1628,7 +1462,8 @@
     "explanation": "The correct answer is iron-deficiency anemia (B). The patient is anemic (hemoglobin 8.5 g/dL) and microcytic (low mean corpuscular volume [MCV]). In a woman of childbearing age with a microcytic anemia, iron-deficiency anemia due to heavy menses is most likely and is supported by the anisocytosis on the blood smear, along with the increased RBC distribution width (RDW). G6PD deficiency (A) is a hemolytic anemia that would be normocytic. Megaloblastic anemia (C) is macrocytic. A microangiopathic hemolytic anemia (D) such as TTP or HUS would be normocytic and would likely show schistocytes on the blood smear, as well as low platelets. Thalassemia (E) is not likely, because the RDW is increased (it is normal or decreased in thalassemia) and the red blood cell (RBC) count is decreased (it is increased in thalassemia)."
 },
 {
-    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL, MCV 105 fL\nRDW 13.0%, RBC 2.9 × 10^12/mm³, WBC 5700/mm³, Platelets 320,000/mm³. A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
+    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following:
+Hemoglobin 8.5 g/dL, MCV 105 fL\nRDW 13.0%, RBC 2.9 × 10^12/mm³, WBC 5700/mm³, Platelets 320,000/mm³. A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
     "choices": [
         "Folate deficiency",
         "Heavy alcohol use",
