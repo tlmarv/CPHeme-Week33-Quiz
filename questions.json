@@ -1352,7 +1352,7 @@
             "Rosette forms.",
             "Schizonts.",
             "Schuffner’s dots.",
-            "Sporozoites.”
+            "Sporozoites."
         ],
         "correctAnswer": 0,
         "explanation": "Crescent-shaped gametocytes are diagnostic for P. falciparum. Schizonts- rarely found because of the sticky knobs on the parasitized RBCs which get them hung up in the microcirculation. However, real malariologists—not fake ones like me—could recognize them when they see them. Schuffner’s dots. (P. vivax & P. ovale). Sporozoites. (These are the forms injected by the mosquito). Rosette forms. (P. malariae)."
@@ -1387,7 +1387,7 @@
             "Merozoites. ",
             "Ring trophozoites.",
             "Schizonts",
-            "Sporozoites”
+            "Sporozoites"
         ],
         "correctAnswer": 3,
         "explanation": "Schizonts are rarely found in peripheral blood because they get sequestered in the microcirculation due to sticky knobs."
@@ -1462,8 +1462,7 @@
     "explanation": "The correct answer is iron-deficiency anemia (B). The patient is anemic (hemoglobin 8.5 g/dL) and microcytic (low mean corpuscular volume [MCV]). In a woman of childbearing age with a microcytic anemia, iron-deficiency anemia due to heavy menses is most likely and is supported by the anisocytosis on the blood smear, along with the increased RBC distribution width (RDW). G6PD deficiency (A) is a hemolytic anemia that would be normocytic. Megaloblastic anemia (C) is macrocytic. A microangiopathic hemolytic anemia (D) such as TTP or HUS would be normocytic and would likely show schistocytes on the blood smear, as well as low platelets. Thalassemia (E) is not likely, because the RDW is increased (it is normal or decreased in thalassemia) and the red blood cell (RBC) count is decreased (it is increased in thalassemia)."
 },
 {
-    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following:
-Hemoglobin 8.5 g/dL, MCV 105 fL\nRDW 13.0%, RBC 2.9 × 10^12/mm³, WBC 5700/mm³, Platelets 320,000/mm³. A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
+    "question": "A 62-year-old male presents with fatigue and “a racing heart.” A complete blood count (CBC) shows the following: Hemoglobin 8.5 g/dL, MCV 105 fL\nRDW 13.0%, RBC 2.9 × 10^12/mm³, WBC 5700/mm³, Platelets 320,000/mm³. A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of his abnormal CBC?",
     "choices": [
         "Folate deficiency",
         "Heavy alcohol use",
