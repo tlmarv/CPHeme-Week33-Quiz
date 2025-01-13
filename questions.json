@@ -1208,10 +1208,10 @@
             "P malariae and P knowlesi",
             "P vivax and P ovale",
             "P falciparum and P malariae",
-            "P falciparum and P vivax"
+            "P knowlesi and P vivax"
         ],
         "correctAnswer": 1,
-        "explanation": "P vivax and P ovale complete their asexual RBC life cycle in 48 hours, leading to fevers every third day."
+        "explanation": "P. falciparum, P vivax and P ovale complete their asexual RBC life cycle in 48 hours, leading to fevers every third day."
     },
     {
         "question": "Which genetic factor provides the most protection against P falciparum infection?",
