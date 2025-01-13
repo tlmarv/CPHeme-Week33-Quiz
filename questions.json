@@ -346,10 +346,10 @@
             "Elevated δ-aminolevulinic acid in urine",
             "Increased uroporphyrinogen in urine",
             "Reddish-brown urine",
-            "Excess protoporphyrin in RBCs"
+            "Excess protoporphyrin in urine"
         ],
         "correctAnswer": 0,
-        "explanation": "Lead poisoning inhibits enzymes in the heme synthesis pathway, including ALA dehydratase, leading to elevated δ-ALA."
+        "explanation": "Lead poisoning inhibits enzymes in the heme synthesis pathway, including ALA dehydratase and ferrochelatase, leading to elevated δ-ALA in the urine and increased protoporphyrins in erythrocytes."
     },
     {
         "question": "Which porphyria is associated with hypertrichosis and photosensitivity in adults?",
