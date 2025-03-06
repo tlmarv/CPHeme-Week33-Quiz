@@ -1,3 +1,5 @@
+
+
 [
     {
         "question": "A 45-year-old man presents to the emergency department with a 3-day history of fever, non-productive cough, and myalgias. His vital signs are significant for a temperature of 38.5°C (101.3°F) and an oxygen saturation of 96% on room air. Chest X-ray shows diffuse interstitial infiltrates. A respiratory pathogen panel detects influenza A. Which of the following is the most likely overall cause of this patient’s pneumonia?",
@@ -1595,5 +1597,101 @@
         ],
         "correctAnswer": 2,
         "explanation": "For patients with a high pretest probability of malignancy (>60%), surgical resection or biopsy is indicated. PET scan is useful for moderate-risk patients but is not necessary when malignancy is strongly suspected."
+    },
+    {
+        "question": "A 62-year-old woman with stage IIB non-small cell lung cancer (NSCLC) undergoes surgical resection of a right upper lobe tumor. Molecular testing does not reveal any targetable mutations. According to standard guidelines, which of the following is the next best step in her management?",
+        "choices": [
+            "Observation with regular imaging follow-up",
+            "Adjuvant chemotherapy with cisplatin-based regimen",
+            "PD-L1 inhibitor monotherapy",
+            "Palliative radiation therapy",
+            "Immediate initiation of tyrosine kinase inhibitors"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Stage IIB NSCLC is primarily treated with surgical resection followed by adjuvant chemotherapy. Platinum-based regimens (e.g., cisplatin/vinorelbine) improve disease-free survival by reducing micrometastatic spread."
+    },
+    {
+        "question": "A 55-year-old man with metastatic NSCLC tests positive for a T790M mutation in the EGFR gene. He previously responded to first-generation EGFR tyrosine kinase inhibitors (TKIs) but now has progressive disease. Which of the following targeted therapies is most appropriate?",
+        "choices": [
+            "Erlotinib",
+            "Osimertinib",
+            "Pembrolizumab",
+            "Alectinib",
+            "Trastuzumab"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Osimertinib is a third-generation EGFR TKI that irreversibly binds to the mutated EGFR receptor and is effective against T790M-mediated resistance. It is the preferred treatment for patients with T790M-positive NSCLC."
+    },
+    {
+        "question": "A 58-year-old man with stage IIIA NSCLC is undergoing concurrent chemotherapy and radiation. His tumor is PD-L1 positive. Which of the following additional therapies has been shown to improve survival in patients with unresectable stage III disease?",
+        "choices": [
+            "Durvalumab",
+            "Bevacizumab",
+            "Osimertinib",
+            "Erlotinib",
+            "Alectinib"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Durvalumab, a PD-L1 inhibitor, is used as maintenance therapy in patients with unresectable stage III NSCLC following chemoradiation. It has been shown to significantly improve progression-free and overall survival."
+    },
+    {
+        "question": "A 65-year-old woman with advanced NSCLC has a high PD-L1 expression (≥50%) and no targetable mutations. She has no contraindications to immunotherapy. Which of the following is the most appropriate first-line treatment?",
+        "choices": [
+            "Pembrolizumab monotherapy",
+            "Cisplatin-based chemotherapy",
+            "Osimertinib",
+            "Alectinib",
+            "Bevacizumab"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Pembrolizumab, a PD-1 inhibitor, is indicated as first-line therapy for advanced NSCLC with high PD-L1 expression (≥50%) and no driver mutations. It enhances the immune response against cancer cells."
+    },
+    {
+        "question": "A 63-year-old man with limited-stage small cell lung cancer (SCLC) is undergoing chemotherapy with cisplatin and etoposide. Which of the following additional treatments is most appropriate for this patient?",
+        "choices": [
+            "Surgical resection",
+            "Durvalumab maintenance therapy",
+            "Concurrent thoracic radiation therapy",
+            "Osimertinib",
+            "Alectinib"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Limited-stage SCLC is treated with chemotherapy (cisplatin + etoposide) along with concurrent thoracic radiation. This approach improves survival by enhancing local tumor control."
+    },
+    {
+        "question": "A 52-year-old man with newly diagnosed metastatic non-small cell lung cancer (NSCLC) undergoes molecular testing, which reveals an EML4-ALK fusion gene. He has no contraindications to targeted therapy. Which of the following is the most appropriate first-line treatment for this patient?",
+        "choices": [
+            "Osimertinib",
+            "Pembrolizumab",
+            "Alectinib",F
+            "Cisplatin-based chemotherapy",
+            "Bevacizumab"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Alectinib is an ALK tyrosine kinase inhibitor (TKI) that selectively inhibits the ALK-EML4 fusion gene, preventing tumor growth and improving survival in ALK-positive NSCLC. It is the preferred first-line therapy for metastatic ALK-positive NSCLC."
+    },
+    {
+        "question": "A 60-year-old woman with metastatic NSCLC undergoes next-generation sequencing, which reveals a ROS1 gene rearrangement. She is started on a targeted therapy that functions as an ATP competitor and inhibits ROS1, ALK, and tropomyosin receptor kinases. Which of the following medications is she most likely receiving?",
+        "choices": [
+            "Erlotinib",
+            "Crizotinib",
+            "Osimertinib",
+            "Entrectinib",
+            "Durvalumab"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Entrectinib is a tyrosine kinase inhibitor that targets ROS1, ALK, and NTRK (neurotrophic receptor tyrosine kinases). It is used in ROS1-positive NSCLC and tumors with NTRK fusions."
+    },
+    {
+        "question": "A 57-year-old man with metastatic NSCLC is found to have a BRAF V600E mutation on molecular testing. He is started on a combination of two targeted therapies. One of the drugs directly inhibits BRAF, while the other inhibits downstream MEK1/2 signaling. Which of the following agents specifically targets BRAF?",
+        "choices": [
+            "Dabrafenib",
+            "Alectinib",
+            "Entrectinib",
+            "Osimertinib",
+            "Bevacizumab"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Dabrafenib is a selective BRAF inhibitor used in BRAF V600E-mutant NSCLC. It is often combined with trametinib, a MEK inhibitor, to prevent resistance and enhance therapeutic efficacy."
     }
 ]
