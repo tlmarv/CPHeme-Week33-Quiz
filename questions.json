@@ -480,7 +480,6 @@
         "correctAnswer": 1,
         "explanation": "At high altitude, hypoxia stimulates peripheral chemoreceptors, leading to hyperventilation, which reduces arterial CO₂ and causes respiratory alkalosis."
     },
-[
     {
         "question": "A 35-year-old mountain climber spends several weeks acclimating to a high-altitude environment. Over time, his arterial oxygen content increases despite persistent hypoxia. Which of the following physiological responses is most responsible for this adaptation?",
         "choices": [
@@ -1024,7 +1023,6 @@
         "correctAnswer": 1,
         "explanation": "The TNM staging system is used to determine the stage of lung cancer, where 'T' refers to tumor size and local invasion, 'N' refers to lymph node involvement, and 'M' refers to distant metastasis. The degree of differentiation is a histologic grading feature but does not affect staging."
     },
-[
     {
         "question": "A 65-year-old woman presents with a persistent cough and unintended weight loss over the past three months. She has never smoked. A CT scan reveals a 3 cm mass in the peripheral left upper lobe of the lung. A biopsy confirms adenocarcinoma, and molecular analysis reveals a mutation. Which of the following genetic mutations is most likely present?",
         "choices": [
